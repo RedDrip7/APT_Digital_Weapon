@@ -1,6 +1,6 @@
 Copyright © [@ReadDrip](https://twitter.com/RedDrip7?s=20) (ti.qianxin.com)
    
-<img src="logo.png" width = "100" height = "100">
+<img src="logo.png" width = "200" height = "200">
 
 Here are indicators of compromise (IOCs) collected from public resources and our own investigations. Details include sample hash, file type, malware family, as well as first seen and file name from [VirusTotal](https://www.virustotal.com/) in format below:
 
