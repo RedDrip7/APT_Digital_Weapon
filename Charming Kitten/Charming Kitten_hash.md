@@ -1,0 +1,42 @@
+|Hash|Type|Family|Frist_Seen|Name|
+|:--|:--|:--|:--|:--|
+|[9d0e761f3803889dc83c180901dc7b22](https://www.virustotal.com/gui/file/9d0e761f3803889dc83c180901dc7b22)|Win32 EXE||2017-10-12 16:03:43|flashplayer.exe|
+|[356439bfb9b2f49858897a22dd85df86](https://www.virustotal.com/gui/file/356439bfb9b2f49858897a22dd85df86)|LNK||2017-09-27 16:56:56|356439bfb9b2f49858897a22dd85df86|
+|[c96453247ee1ecbd4053da8bbb4cf572](https://www.virustotal.com/gui/file/c96453247ee1ecbd4053da8bbb4cf572)|Win32 EXE||2017-04-10 03:26:30|GetMS.exe|
+|[a43b7cc495741248f3647e647f776467](https://www.virustotal.com/gui/file/a43b7cc495741248f3647e647f776467)|Win32 EXE|rozena|2017-04-10 03:24:48|flash_player_20170409.exe|
+|[e7dd9b8fe7ae14faad304d139f71b629](https://www.virustotal.com/gui/file/e7dd9b8fe7ae14faad304d139f71b629)|Win32 EXE|rozena|2017-04-10 03:16:45|flash_player.exe|
+|[5e9a458dcdfc9d2ce996081ec87c30e0](https://www.virustotal.com/gui/file/5e9a458dcdfc9d2ce996081ec87c30e0)|Win32 EXE|Banload|2017-02-28 21:29:53|INCUBUS|
+|[3261d45051542ab3e54fa541f132f899](https://www.virustotal.com/gui/file/3261d45051542ab3e54fa541f132f899)|Win32 EXE|dynamer|2017-01-18 22:20:34|wuauclt.exe|
+|[be207941ce8a5e212be8dde83d05d38d](https://www.virustotal.com/gui/file/be207941ce8a5e212be8dde83d05d38d)|Win32 EXE|dynamer|2017-01-18 15:27:44|Wextract|
+|[5ec9f484603b89f80f351bb88279ebb1](https://www.virustotal.com/gui/file/5ec9f484603b89f80f351bb88279ebb1)|Win32 EXE|rozena|2017-01-06 22:21:11|PuTTY|
+|[e93992f26f224ea53d9bdd9564e8e1c0](https://www.virustotal.com/gui/file/e93992f26f224ea53d9bdd9564e8e1c0)|Android|Kasandra|2016-12-23 23:28:36| |
+|[20f2da7b0c482ab6a78e9bd65a1a3a92](https://www.virustotal.com/gui/file/20f2da7b0c482ab6a78e9bd65a1a3a92)|Win32 EXE|Zbot|2016-12-09 06:44:32|20f2da7b0c482ab6a78e9bd65a1a3a92.virus|
+|[d6ea39e1d4aaa8c977a835e72d0975e3](https://www.virustotal.com/gui/file/d6ea39e1d4aaa8c977a835e72d0975e3)|Win32 EXE|dynamer|2016-12-03 13:18:34|wuauclt.exe|
+|[3bb2f304a59255dddc5ef6bb0a32aec7](https://www.virustotal.com/gui/file/3bb2f304a59255dddc5ef6bb0a32aec7)|Win32 EXE||2016-12-01 07:52:35|ewe.exe|
+|[365482f10808ddd1d26f3dc19c41c993](https://www.virustotal.com/gui/file/365482f10808ddd1d26f3dc19c41c993)|Win32 EXE|bitrep|2016-11-29 09:41:53|wuauclt.exe|
+|[c7760dc8f7baf67f80ab549af27df9e9](https://www.virustotal.com/gui/file/c7760dc8f7baf67f80ab549af27df9e9)|Win32 EXE||2016-11-29 08:20:56|sddf.exe|
+|[7df3a83dfcce130c01aabede3cfe8140](https://www.virustotal.com/gui/file/7df3a83dfcce130c01aabede3cfe8140)|Win32 EXE||2016-11-29 08:08:01|gf.exe|
+|[a9117da1cb51adbc88a52a6e3b16a6c4](https://www.virustotal.com/gui/file/a9117da1cb51adbc88a52a6e3b16a6c4)|Win32 EXE||2016-11-29 08:06:10|Stealer.exe|
+|[f7f9806af42adb80d100e55f35cfa86c](https://www.virustotal.com/gui/file/f7f9806af42adb80d100e55f35cfa86c)|Win32 EXE||2016-11-29 08:01:28|er.exe|
+|[1db12ec1f335ee5995b29dea360514a2](https://www.virustotal.com/gui/file/1db12ec1f335ee5995b29dea360514a2)|Win32 EXE||2016-11-29 08:00:34|er.exe|
+|[da1f6a5f2a5564c2131b4a311c55f487](https://www.virustotal.com/gui/file/da1f6a5f2a5564c2131b4a311c55f487)|Win32 EXE||2016-11-29 07:58:45|eed.exe|
+|[f5763b8b796b1c5d04febcc65f853967](https://www.virustotal.com/gui/file/f5763b8b796b1c5d04febcc65f853967)|Win32 EXE||2016-11-29 07:56:21|sad.exe|
+|[253b4f5c6611a4bc9c7f5269b127c8e9](https://www.virustotal.com/gui/file/253b4f5c6611a4bc9c7f5269b127c8e9)|Win32 EXE|tiggre|2016-11-29 07:51:31|ss.exe|
+|[7e1cf48d84e503499c9718c50e7a1c52](https://www.virustotal.com/gui/file/7e1cf48d84e503499c9718c50e7a1c52)|Win32 EXE|tiggre|2016-11-29 07:46:01|khjk.exe|
+|[07fb3f925f8ef2c53451b37bdd070b55](https://www.virustotal.com/gui/file/07fb3f925f8ef2c53451b37bdd070b55)|Win32 EXE||2016-11-29 07:42:20|er.exe|
+|[fac158623b0e3ed3bea6e24b1795cb95](https://www.virustotal.com/gui/file/fac158623b0e3ed3bea6e24b1795cb95)|Win32 EXE||2016-11-29 07:38:12|te.exe|
+|[6bd505616e12e3dd7f2287f24f34609f](https://www.virustotal.com/gui/file/6bd505616e12e3dd7f2287f24f34609f)|Win32 EXE||2016-11-29 07:34:32|dfg.exe|
+|[3edec580845d7ab85fa893afb391fbfb](https://www.virustotal.com/gui/file/3edec580845d7ab85fa893afb391fbfb)|Win32 EXE|tiggre|2016-11-29 07:32:25|test.exe|
+|[0e3cb289f65ef5faf40fa830ac9b1bf6](https://www.virustotal.com/gui/file/0e3cb289f65ef5faf40fa830ac9b1bf6)|Win32 EXE|occamy|2016-11-29 07:18:25|Wextract|
+|[9c7ae44baf8df000bb614738370d1171](https://www.virustotal.com/gui/file/9c7ae44baf8df000bb614738370d1171)|Win32 EXE|tiggre|2016-11-29 06:57:07|sda.exe|
+|[af5c01a7a3858bc3712ab69bc673cec4](https://www.virustotal.com/gui/file/af5c01a7a3858bc3712ab69bc673cec4)|Win32 EXE|razy|2016-09-09 17:56:11|af5c01a7a3858bc3712ab69bc673cec4.virus|
+|[ccaf21e122ca9d2e2397a9e28eb4cc87](https://www.virustotal.com/gui/file/ccaf21e122ca9d2e2397a9e28eb4cc87)|Win32 EXE||2016-08-04 20:55:02|downloader.exe|
+|[1c00fd5e1ddd0226bd854775180fd361](https://www.virustotal.com/gui/file/1c00fd5e1ddd0226bd854775180fd361)|Win32 EXE||2016-07-26 06:16:07|1c00fd5e1ddd0226bd854775180fd361.virus|
+|[f9255e0d492eb20df1e78ccc970b121a](https://www.virustotal.com/gui/file/f9255e0d492eb20df1e78ccc970b121a)|Win32 EXE|rozena|2016-06-11 16:27:50|Wextract|
+|[0a3f454f94ef0f723ac6a4ad3f5bdf01](https://www.virustotal.com/gui/file/0a3f454f94ef0f723ac6a4ad3f5bdf01)|Win32 EXE|Stealer|2016-06-05 01:10:08|Dostealer.exe|
+|[6cfa579dd1d33c2fa42d85c2472f744c](https://www.virustotal.com/gui/file/6cfa579dd1d33c2fa42d85c2472f744c)|Win32 EXE|Stealer|2016-06-04 21:17:08|Wextract|
+|[bfd21f2847c1d7aa0f409ef52ed52e05](https://www.virustotal.com/gui/file/bfd21f2847c1d7aa0f409ef52ed52e05)|Android||2016-05-29 15:27:23| |
+|[edd4011696ddd349575278aed7031a47](https://www.virustotal.com/gui/file/edd4011696ddd349575278aed7031a47)|Win32 EXE||2016-04-25 20:52:57|Dostealer.exe|
+|[ae797446710e375f0fc9a33432d64256](https://www.virustotal.com/gui/file/ae797446710e375f0fc9a33432d64256)|Win32 EXE|Stealer|2016-04-25 06:19:41|Dostealer.exe|
+|[d6fa439f0278babb1edff32d8dc31c59](https://www.virustotal.com/gui/file/d6fa439f0278babb1edff32d8dc31c59)|Win32 EXE|msilperseus|2015-12-20 15:38:46|Wextract|
+|[bd0a6fe7a852fdd61c1da37cf99103d2](https://www.virustotal.com/gui/file/bd0a6fe7a852fdd61c1da37cf99103d2)|Win32 EXE||2015-09-01 22:46:15|Wextract|
