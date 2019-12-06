@@ -1,4 +1,4 @@
-Copyright © [@ReadDrip](https://twitter.com/RedDrip7?s=20) (ti.qianxin.com)
+Copyright © [@RedDrip](https://twitter.com/RedDrip7?s=20) (https://ti.qianxin.com/)
    
 <img src="logo.png" width = "200" height = "200">
 
