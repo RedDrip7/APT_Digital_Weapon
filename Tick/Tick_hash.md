@@ -58,3 +58,16 @@
 |[ef21e6c67b492c98850ea014e4f1db09](https://www.virustotal.com/gui/file/ef21e6c67b492c98850ea014e4f1db09)|Win32 EXE|Delf|2011-05-19 08:51:02|myfile.exe|
 |[753ac3700a31f8a68f8ed49385bf72d8](https://www.virustotal.com/gui/file/753ac3700a31f8a68f8ed49385bf72d8)|Win32 EXE|Delf|2011-05-18 06:06:51|15|
 |[893f4b3c99c3865db68e1e1c9e7980e0](https://www.virustotal.com/gui/file/893f4b3c99c3865db68e1e1c9e7980e0)|Win32 EXE|Delf|2011-03-23 10:50:40|virussign.com_893f4b3c99c3865db68e1e1c9e7980e0.vir|
+|[bd1787ee0ea326c43cdd51471075ea8c](https://www.virustotal.com/gui/file/bd1787ee0ea326c43cdd51471075ea8c)|Win32 EXE||2019-11-26 09:25:03|bd1787ee0ea326c43cdd51471075ea8c.virus|
+|[98cbb1a5ba5eb705b6473bea68d89fc0](https://www.virustotal.com/gui/file/98cbb1a5ba5eb705b6473bea68d89fc0)|Win64 EXE||2019-11-24 21:40:05|98cbb1a5ba5eb705b6473bea68d89fc0.virobj|
+|[285e25e31b498dd1c0827286e9b44cfe](https://www.virustotal.com/gui/file/285e25e31b498dd1c0827286e9b44cfe)|Win32 EXE||2019-11-16 14:21:32|285e25e31b498dd1c0827286e9b44cfe.virus|
+|[05ecca54875ff13fd0bde42cdb3ed760](https://www.virustotal.com/gui/file/05ecca54875ff13fd0bde42cdb3ed760)|Win32 EXE||2019-11-07 19:35:57|05ecca54875ff13fd0bde42cdb3ed760.virus|
+|[5a8c297d2f14793a67777e9a7758aac5](https://www.virustotal.com/gui/file/5a8c297d2f14793a67777e9a7758aac5)|Win64 EXE||2019-11-07 19:35:09|5a8c297d2f14793a67777e9a7758aac5.virus|
+|[7200ba9cea1691875b8e5925a2e64e33](https://www.virustotal.com/gui/file/7200ba9cea1691875b8e5925a2e64e33)|Win32 EXE||2019-11-07 19:15:15|7200ba9cea1691875b8e5925a2e64e33.virus|
+|[bb06378892bb3a441f46b831b3ad5d0a](https://www.virustotal.com/gui/file/bb06378892bb3a441f46b831b3ad5d0a)|Win32 EXE||2019-09-02 21:05:57|bb06378892bb3a441f46b831b3ad5d0a.virus|
+|[67d864d89480b9114953f990aeebce37](https://www.virustotal.com/gui/file/67d864d89480b9114953f990aeebce37)|Win32 DLL||2019-06-07 05:00:39| |
+|[507daf07c6f8f0080b5c4f818cfe77cb](https://www.virustotal.com/gui/file/507daf07c6f8f0080b5c4f818cfe77cb)|Win32 EXE||2019-05-16 05:34:38|%TEMP%\taskhast.exe|
+|[026dbdbb1e525ce4b86734fa08be513d](https://www.virustotal.com/gui/file/026dbdbb1e525ce4b86734fa08be513d)|Win32 DLL||2019-04-25 09:43:33|winhelp.wll.bin|
+|[b01417174a5c12a9872aa165397b43b2](https://www.virustotal.com/gui/file/b01417174a5c12a9872aa165397b43b2)|Win32 EXE||2019-02-08 22:24:25| |
+|[ed363efd32984ed21e67cf618758b635](https://www.virustotal.com/gui/file/ed363efd32984ed21e67cf618758b635)|Win32 EXE||2018-08-27 21:11:48| |
+|[af3a6f89f1486db6993ac875caaeede2](https://www.virustotal.com/gui/file/af3a6f89f1486db6993ac875caaeede2)|Win32 EXE||2012-05-28 07:50:25|cf035b3ddf1072ab414d82b6540ec8d06703d281a2f606d1e42c771d9391dfac.vir|

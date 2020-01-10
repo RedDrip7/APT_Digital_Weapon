@@ -252,3 +252,18 @@
 |[46670174f1ef34f2f619cfda603acb3b](https://www.virustotal.com/gui/file/46670174f1ef34f2f619cfda603acb3b)|Text|rozena|2017-08-20 13:22:15|ash.ps1|
 |[e2ed0be977ab9e50055337ec8eb0ddf4](https://www.virustotal.com/gui/file/e2ed0be977ab9e50055337ec8eb0ddf4)|Win32 EXE||2017-08-14 05:38:06|la.exe|
 |[50a538062f2027b6ff763f23bc3d1545](https://www.virustotal.com/gui/file/50a538062f2027b6ff763f23bc3d1545)|Text||2014-07-26 23:26:00|50a538062f2027b6ff763f23bc3d1545|
+|[3bdc5b98c56ed33e61ecb1f84f25cb05](https://www.virustotal.com/gui/file/3bdc5b98c56ed33e61ecb1f84f25cb05)|FPX||2019-11-26 13:24:26|vbaProject.bin|
+|[7ed6c5e8c3ec4f9499eb793d69a06758](https://www.virustotal.com/gui/file/7ed6c5e8c3ec4f9499eb793d69a06758)|XLS||2019-10-28 11:50:06|905e3f74e5dcca58cf6bb3afaec888a3d6cb7529b6e4974e417b2c8392929148.bin|
+|[b9ee416f2d9557be692abf448bf2f937](https://www.virustotal.com/gui/file/b9ee416f2d9557be692abf448bf2f937)|XLS||2019-10-17 05:29:38|7f31ab924bddc2f20697157f7cfa6ff25adfbbb50403052cccd05dc0e9faabc4.bin|
+|[a9706c01de9364eab210ea73296bfe71](https://www.virustotal.com/gui/file/a9706c01de9364eab210ea73296bfe71)|XLS||2019-10-14 10:47:18|32c5d06a518a17daf825374449a5096e1109a1eb99c010bb2524b9b0ed6e3114.bin|
+|[584479a1958a73720c4aebb52c59b21e](https://www.virustotal.com/gui/file/584479a1958a73720c4aebb52c59b21e)|XLS||2019-09-30 06:04:24|4a2db2c017b44834bfab8bd7ba107750d77cd1e62db0b4892ab3c053b2d64fae.bin|
+|[269afae11cc9837e732019a03fa02fab](https://www.virustotal.com/gui/file/269afae11cc9837e732019a03fa02fab)|XLS||2019-09-30 06:03:46|1d768c6a5165cadf39ac68e4cc294399f09b48dfefd7bfd6d78e75ad882cd3f1.bin|
+|[e18228bee6f1cf12eaf1bb4d5be587bf](https://www.virustotal.com/gui/file/e18228bee6f1cf12eaf1bb4d5be587bf)|XLS||2019-09-27 04:04:10|NeedDedicatedServer.xls|
+|[5ef459908d5be0672b02cdfe4f606989](https://www.virustotal.com/gui/file/5ef459908d5be0672b02cdfe4f606989)|XLS||2019-09-27 01:04:15|20ec56029ec2dc6a0f86d172f12914d078fc679a8d01257394864413d01d7eda.bin|
+|[32156247f900883d5106795ec103a624](https://www.virustotal.com/gui/file/32156247f900883d5106795ec103a624)|XLS||2019-09-27 01:02:10|eb1c21fcba6d04376a8cfd19fbd19203db68e13161049b70586ff509dc6e2175.bin|
+|[66c783e41480e65e287081ff853cc737](https://www.virustotal.com/gui/file/66c783e41480e65e287081ff853cc737)|XLS||2019-09-27 01:01:26|ba0a74f2227e32f4cee2e7358979547cf15fd19ea6c72144773f087621bdb4b4.bin|
+|[9d0bfb81f450de8364327a4aaa67d9b3](https://www.virustotal.com/gui/file/9d0bfb81f450de8364327a4aaa67d9b3)|XLS||2019-09-08 23:14:37|2f69f7df7a2ab7b1803bb50b23ac17f7047b4651513bdff98dae5adee492c98f.bin|
+|[1cd71f39ff9fb3bf269440b63c717195](https://www.virustotal.com/gui/file/1cd71f39ff9fb3bf269440b63c717195)|ZIP||2019-08-21 08:16:12|0db3e3fbc4fced262cb2602f4a6d94b5443c6ad1e2e59b6137ad3c1cc0520b75.bin|
+|[4022bbb9df5d86226bd9a89f361c94b9](https://www.virustotal.com/gui/file/4022bbb9df5d86226bd9a89f361c94b9)|XLS||2019-08-18 13:34:51|f9cde44e0b4e43775b28ce8689f747038f83ea0389d510b1da41e63392f3a269.bin|
+|[50ac74eb38d6fa07d9f5e788d61a92cd](https://www.virustotal.com/gui/file/50ac74eb38d6fa07d9f5e788d61a92cd)|XLS||2019-07-09 17:14:36|64001be2fc9ccec320d48c75d2de8ad7cd74092065cb44fe35b38624d4493df0.bin|
+|[b100c0cfbe59fa66cbb75de65c505ce2](https://www.virustotal.com/gui/file/b100c0cfbe59fa66cbb75de65c505ce2)|XLS||2019-06-17 18:04:37|b34893e23666ab3d1d1476a78eb8e921be41273f5a3b653f1d425801278be39b.bin|

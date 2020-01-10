@@ -686,3 +686,7 @@
 |[85c80d01661f88ec556579e772a5a3db](https://www.virustotal.com/gui/file/85c80d01661f88ec556579e772a5a3db)|Win32 DLL||2010-03-03 07:43:27|NetIds.dll|
 |[7f564a6a8910b513a851b2616af8d7ee](https://www.virustotal.com/gui/file/7f564a6a8910b513a851b2616af8d7ee)|Win32 EXE||2009-08-05 20:22:57|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/APT28,FancyBear/APT28,NATOPAPER,SOFACY2004.bin|
 |[f01a9a2d1e31332ed36c1a4d2839f412](https://www.virustotal.com/gui/file/f01a9a2d1e31332ed36c1a4d2839f412)|Win32 EXE||2009-02-12 22:19:48|nb.exe|
+|[f3ec38b8d5a6e29db299e2eadacbcebe](https://www.virustotal.com/gui/file/f3ec38b8d5a6e29db299e2eadacbcebe)|Win32 DLL||2019-10-29 12:15:23|help.php|
+|[e1509c589fde2272c0d20072dfe09722](https://www.virustotal.com/gui/file/e1509c589fde2272c0d20072dfe09722)|Win32 DLL||2019-07-04 11:42:50|info.php|
+|[46d2045598c6482ce7b58497018230a9](https://www.virustotal.com/gui/file/46d2045598c6482ce7b58497018230a9)|Win32 EXE||2019-05-16 16:22:47|50-112-234(1).exe|
+|[545ec86c5c70f63e1921c5e58c9b7050](https://www.virustotal.com/gui/file/545ec86c5c70f63e1921c5e58c9b7050)|Win32 EXE||2019-04-10 07:41:11|Note 15-745 Kartapur corridor on April16!.exe|

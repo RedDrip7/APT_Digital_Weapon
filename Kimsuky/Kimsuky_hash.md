@@ -160,3 +160,6 @@
 |[b02f3881321f0912b2ae3f27498c448f](https://www.virustotal.com/gui/file/b02f3881321f0912b2ae3f27498c448f)|Win32 EXE|Zbot|2014-03-25 01:00:32|wscript.exe|
 |[11fc4829c2fff9fb240acbd71c60fc67](https://www.virustotal.com/gui/file/11fc4829c2fff9fb240acbd71c60fc67)|Win32 EXE||2014-03-25 00:55:23|xpsp2.exe|
 |[ab73b1395938c48d62b7eeb5c9f3409d](https://www.virustotal.com/gui/file/ab73b1395938c48d62b7eeb5c9f3409d)|Win32 EXE||2013-09-11 08:44:11|Goldstager|
+|[e54b370d96ca0e2ecc083c2d42f05210](https://www.virustotal.com/gui/file/e54b370d96ca0e2ecc083c2d42f05210)|Win32 DLL||2019-12-03 05:13:03|C:\Users\<USER>\AppData\Roaming\Microsoft\NewACt.dat|
+|[35d60d2723c649c97b414b3cb701df1c](https://www.virustotal.com/gui/file/35d60d2723c649c97b414b3cb701df1c)|Win32 EXE||2019-12-03 05:12:41|C:\Users\<USER>\AppData\Local\Temp\35d60d2723c649c97b414b3cb701df1c.exe|
+|[10a120f573874c2af6b9172a26fdc597](https://www.virustotal.com/gui/file/10a120f573874c2af6b9172a26fdc597)|Win32 EXE||2019-03-13 00:45:58|111.scr|

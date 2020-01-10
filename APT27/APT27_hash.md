@@ -90,3 +90,5 @@
 |[0762764e298c369a2de8afaec5174ed9](https://www.virustotal.com/gui/file/0762764e298c369a2de8afaec5174ed9)|Win32 EXE|pswtool|2008-05-09 07:48:34|fgdump|
 |[5fd6b30d0e9d0bf6c388f8c8cbf9823e](https://www.virustotal.com/gui/file/5fd6b30d0e9d0bf6c388f8c8cbf9823e)|Win32 DLL|Pcclient|2008-02-16 18:15:42|/home/nfs/data/VirusShare_unzip/VirusShare_5fd6b30d0e9d0bf6c388f8c8cbf9823e|
 |[3a97d9b6f17754dcd38ca7fc89caab04](https://www.virustotal.com/gui/file/3a97d9b6f17754dcd38ca7fc89caab04)|Win32 EXE||2006-06-27 04:43:11|ScanLine|
+|[86c9e95dcf69f6eca2a176407dcb99ff](https://www.virustotal.com/gui/file/86c9e95dcf69f6eca2a176407dcb99ff)|Win32 EXE||2019-12-21 13:07:19|RahaSecIOC-x86.exe|
+|[70cff7c176c7df265a808aa52daf6f34](https://www.virustotal.com/gui/file/70cff7c176c7df265a808aa52daf6f34)|Win32 EXE||2019-09-16 20:17:49|odbcad32.exe|

@@ -56,3 +56,11 @@
 |[3c5575ce80e0847360cd2306c64b51a0](https://www.virustotal.com/gui/file/3c5575ce80e0847360cd2306c64b51a0)|Win64 EXE|Ryuk|2018-09-06 07:57:31|de708f2807f96938e5eb0295d5ebfee870b34dd0cb70708607d4e1adf767ce7b.bin|
 |[87858b384219cc6256f2bdb5eafaa646](https://www.virustotal.com/gui/file/87858b384219cc6256f2bdb5eafaa646)|Text|shelma|2018-08-27 13:54:20|ps.bat|
 |[67a53bd24ee8499fed79c8c368e05f7a](https://www.virustotal.com/gui/file/67a53bd24ee8499fed79c8c368e05f7a)|Win32 EXE||2017-11-25 00:21:05|Dll Launcher|
+|[ec885733d385c50954bdbb8b76e8b33d](https://www.virustotal.com/gui/file/ec885733d385c50954bdbb8b76e8b33d)|Win32 DLL||2019-10-23 20:36:55|sqlite3|
+|[14503cc985d8a9517fa530293865dae4](https://www.virustotal.com/gui/file/14503cc985d8a9517fa530293865dae4)|Win32 DLL||2019-09-17 19:58:43|CIAsmbly|
+|[fe2d6b4511ac81221684a5f6a0634a4b](https://www.virustotal.com/gui/file/fe2d6b4511ac81221684a5f6a0634a4b)|Win32 DLL||2019-09-07 12:50:04|libcef|
+|[302461e359118d3b8024dab1c75e7ff9](https://www.virustotal.com/gui/file/302461e359118d3b8024dab1c75e7ff9)|Win32 DLL||2019-07-12 16:49:08|CIAsmbly|
+|[70f299ab247519e2dda8e172ae346277](https://www.virustotal.com/gui/file/70f299ab247519e2dda8e172ae346277)|Win32 DLL||2019-03-04 14:25:16|dragext|
+|[89314a469de69addafff5b5d7a96071d](https://www.virustotal.com/gui/file/89314a469de69addafff5b5d7a96071d)|Win32 DLL||2019-03-01 17:15:31|intl.dll|
+|[c6899904284c57f9ccca1b5bd26a59d8](https://www.virustotal.com/gui/file/c6899904284c57f9ccca1b5bd26a59d8)|Win32 DLL||2019-02-26 22:26:49|dragext|
+|[39702286994d7023b3d002cf31e1a6ad](https://www.virustotal.com/gui/file/39702286994d7023b3d002cf31e1a6ad)|Win32 DLL||2018-04-17 03:50:11|tt|

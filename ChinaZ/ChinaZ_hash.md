@@ -17,3 +17,13 @@
 |[c01e1cdc39d7f323c22ad6e3d12e10b7](https://www.virustotal.com/gui/file/c01e1cdc39d7f323c22ad6e3d12e10b7)|Win32 EXE|FakeLPK|2018-06-17 07:16:06|Server|
 |[d623fe96c76ad49810ef05278d41b407](https://www.virustotal.com/gui/file/d623fe96c76ad49810ef05278d41b407)|Win32 EXE|Malex|2018-02-03 06:19:21|cxv?./ertw./re|
 |[6e5d360dd3685ae951d159344ddabf8a](https://www.virustotal.com/gui/file/6e5d360dd3685ae951d159344ddabf8a)|Win32 EXE|FakeLPK|2017-12-13 20:45:54|Server|
+|[5779ae6e3805eb1aeec6f31d650d932a](https://www.virustotal.com/gui/file/5779ae6e3805eb1aeec6f31d650d932a)|ELF executable||2019-12-10 16:06:53|777|
+|[25c5d70a0403a1477d03f23fb54dc894](https://www.virustotal.com/gui/file/25c5d70a0403a1477d03f23fb54dc894)|ELF executable||2019-12-06 03:49:31|1888|
+|[ce7e6794b97cd71e536cdc09de81955c](https://www.virustotal.com/gui/file/ce7e6794b97cd71e536cdc09de81955c)|ELF executable||2019-12-06 03:48:20|yk|
+|[b1fcab441a1221b33206924f12af64a0](https://www.virustotal.com/gui/file/b1fcab441a1221b33206924f12af64a0)|ELF executable||2019-12-06 03:45:29|ccyk|
+|[4bfc360791eda8959554af2239ee9d00](https://www.virustotal.com/gui/file/4bfc360791eda8959554af2239ee9d00)|Win32 EXE||2019-12-05 18:26:35|NewLinuxManager|
+|[5e004b2d3df9d17f540467b740be9122](https://www.virustotal.com/gui/file/5e004b2d3df9d17f540467b740be9122)|ELF executable||2019-02-15 12:41:27|yk|
+|[4e0a5d7eab2f18a2d73da9e4c4757248](https://www.virustotal.com/gui/file/4e0a5d7eab2f18a2d73da9e4c4757248)|Win32 EXE||2019-01-13 19:16:32|yk.exe|
+|[435b230c5632adf843ba572f8a56637f](https://www.virustotal.com/gui/file/435b230c5632adf843ba572f8a56637f)|ELF executable||2018-11-10 23:06:37|777|
+|[99829ccdcb48d3acca98e8cd51e1d74c](https://www.virustotal.com/gui/file/99829ccdcb48d3acca98e8cd51e1d74c)|ELF executable||2018-11-01 23:19:15|777|
+|[be4ae72855f18c3c464c42c227492fe6](https://www.virustotal.com/gui/file/be4ae72855f18c3c464c42c227492fe6)|ELF executable||2018-11-01 23:16:41|yk|

@@ -1456,3 +1456,27 @@
 |[1261323be950dcd97c9cf011f2407220](https://www.virustotal.com/gui/file/1261323be950dcd97c9cf011f2407220)|Win32 EXE||2009-03-27 10:48:47|testse.exe|
 |[c4103f122d27677c9db144cae1394a66](https://www.virustotal.com/gui/file/c4103f122d27677c9db144cae1394a66)|unknown||2007-01-03 13:21:59|ms|
 |[a1ad82988af5d5b2c4003c42a81dda17](https://www.virustotal.com/gui/file/a1ad82988af5d5b2c4003c42a81dda17)|Win32 EXE||2006-07-28 04:26:37|a1ad82988af5d5b2c4003c42a81dda17_psexec.exe|
+|[19a36d6f300a39a4fa4b02ec31e05405](https://www.virustotal.com/gui/file/19a36d6f300a39a4fa4b02ec31e05405)|Win32 EXE||2019-12-19 05:04:00| |
+|[9fd35bad075c2c70678c65c788b91bc3](https://www.virustotal.com/gui/file/9fd35bad075c2c70678c65c788b91bc3)|Win32 DLL||2019-11-22 10:30:45|MFC_DLL.dll|
+|[5c64d771b5e811cb810c591a1460c406](https://www.virustotal.com/gui/file/5c64d771b5e811cb810c591a1460c406)|XLS||2019-11-15 00:12:31|out|
+|[870e315b3bda54a13acd6cad5481e235](https://www.virustotal.com/gui/file/870e315b3bda54a13acd6cad5481e235)|XLS||2019-11-14 21:32:25|out|
+|[a99b7ef095f44cf35453465c64f0c70c](https://www.virustotal.com/gui/file/a99b7ef095f44cf35453465c64f0c70c)|TXT||2019-11-12 09:52:55|r.vm|
+|[7dd84d1e59e01f4409e5239bae78ae23](https://www.virustotal.com/gui/file/7dd84d1e59e01f4409e5239bae78ae23)|Win64 EXE||2019-11-05 13:24:35|c6d466600371ced9d962594474a4b8b0ccff19adc59dbd2027c10d930afbe282.bin|
+|[982bf527b9fe16205fea606d1beed7fa](https://www.virustotal.com/gui/file/982bf527b9fe16205fea606d1beed7fa)|ELF executable||2019-10-24 08:55:34|hdata.dat|
+|[80c0efb9e129f7f9b05a783df6959812](https://www.virustotal.com/gui/file/80c0efb9e129f7f9b05a783df6959812)|ELF executable||2019-10-24 08:55:33|mdata.dat|
+|[b21646d0e17312079f3e509d5e5a7830](https://www.virustotal.com/gui/file/b21646d0e17312079f3e509d5e5a7830)|Win64 EXE||2019-10-17 15:17:08|6b1759936993f02df80b330d11c1b12accd53a80b6207cd1defc555e6e4bf57c.bin|
+|[ad4e7904c241bb64955bd066806b25a8](https://www.virustotal.com/gui/file/ad4e7904c241bb64955bd066806b25a8)|Win64 EXE||2019-09-18 06:18:00|e49e6f0b194ff7c83ec02b3c2efc9e746a4b2ba74607a4aad8fbdcdc66baa8dc.bin|
+|[da17802bc8d3eca26b7752e93f33034b](https://www.virustotal.com/gui/file/da17802bc8d3eca26b7752e93f33034b)|Mach-O executable||2019-09-17 08:56:29|/Library/UnionCrypto/unioncryptoupdater|
+|[6588d262529dc372c400bef8478c2eec](https://www.virustotal.com/gui/file/6588d262529dc372c400bef8478c2eec)|Macintosh Disk Image||2019-09-17 08:54:38|UnionCryptoTrader.dmg|
+|[b9b5f5039c19f15ca610baa095642f8a](https://www.virustotal.com/gui/file/b9b5f5039c19f15ca610baa095642f8a)|Win32 EXE||2019-07-21 14:59:03|b288c3b3f5886b1cd7b6600df2b8046f2c0fd17360fb188ecfbcc8f6b7e552a5.bin|
+|[ae48b4d1d0da879512b495ec1f80cf67](https://www.virustotal.com/gui/file/ae48b4d1d0da879512b495ec1f80cf67)|Win32 EXE||2019-05-24 08:22:37|service.exe|
+|[bea49839390e4f1eb3cb38d0fcaf897e](https://www.virustotal.com/gui/file/bea49839390e4f1eb3cb38d0fcaf897e)|Win32 DLL||2019-05-22 22:06:01|rdata.dat|
+|[3045fb2685124532f28829e07d2d07fb](https://www.virustotal.com/gui/file/3045fb2685124532f28829e07d2d07fb)|Win64 EXE||2019-03-14 18:51:59|Process browser|
+|[737346c9511b32f1b6f878667785dc32](https://www.virustotal.com/gui/file/737346c9511b32f1b6f878667785dc32)|Win32 EXE||2019-02-10 02:57:19|Process browser|
+|[70bcafbb1939e45b841e68576a320603](https://www.virustotal.com/gui/file/70bcafbb1939e45b841e68576a320603)|Win32 EXE||2019-01-31 19:51:26|myfile.exe|
+|[8ae6cd70b4acf2b17b3b678eb741344e](https://www.virustotal.com/gui/file/8ae6cd70b4acf2b17b3b678eb741344e)|Win64 EXE||2018-08-15 00:50:27|Process browser|
+|[488ec17aff5f12732fc3a5c7503e26ba](https://www.virustotal.com/gui/file/488ec17aff5f12732fc3a5c7503e26ba)|Win64 EXE||2018-07-26 14:34:19|6500190bf8253c015700eb071416cbe33a1c8f3b84aeb28b7118a6abe96005e3.bin|
+|[9998b8cf8f204cadb9a855f42af0ddc5](https://www.virustotal.com/gui/file/9998b8cf8f204cadb9a855f42af0ddc5)|Win32 EXE||2018-07-17 08:03:36|Process browser|
+|[495c3b3714ccc5e09d501aa61465bbc4](https://www.virustotal.com/gui/file/495c3b3714ccc5e09d501aa61465bbc4)|Win32 EXE||2018-03-19 06:40:46|dstsvc.exe|
+|[69075474d9bd8298522eb09a13508d7c](https://www.virustotal.com/gui/file/69075474d9bd8298522eb09a13508d7c)|Win32 EXE||2018-01-16 16:33:35|bbsql_pe|
+|[e883bf5fd22eb6237eb84d80bbcf2ac9](https://www.virustotal.com/gui/file/e883bf5fd22eb6237eb84d80bbcf2ac9)|ELF executable||2014-10-30 06:54:08|sdata.dat|

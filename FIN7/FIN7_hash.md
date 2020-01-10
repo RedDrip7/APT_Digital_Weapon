@@ -531,3 +531,8 @@
 |[9d718e86cacffa39edafbf9c1ebc9754](https://www.virustotal.com/gui/file/9d718e86cacffa39edafbf9c1ebc9754)|Win32 EXE|tspy|2014-02-10 08:56:09|AFxGVlFS.exe|
 |[966d9e07d1a75fa6867bbf02748c4212](https://www.virustotal.com/gui/file/966d9e07d1a75fa6867bbf02748c4212)|Win32 DLL|rozena|2013-12-06 13:51:33|реквизиты.doc.cpl|
 |[0cf14d472410589c920fb55a97adaab1](https://www.virustotal.com/gui/file/0cf14d472410589c920fb55a97adaab1)|Win32 DLL||2013-09-17 19:04:41|исх.09_42.doc.cpl|
+|[4b32521cc8a8c050fbc55b3f9d05c84d](https://www.virustotal.com/gui/file/4b32521cc8a8c050fbc55b3f9d05c84d)|Win64 DLL||2019-12-26 15:48:06| |
+|[21e79ae1d7a5f020c171f412cbb92253](https://www.virustotal.com/gui/file/21e79ae1d7a5f020c171f412cbb92253)|Win64 DLL||2019-12-26 15:47:19| |
+|[27370ffd32942337596785ec737a4e46](https://www.virustotal.com/gui/file/27370ffd32942337596785ec737a4e46)|Win64 DLL||2019-12-26 15:46:22|WinBio.dll|
+|[a8ba59eebd4858b8b448f13a436edf60](https://www.virustotal.com/gui/file/a8ba59eebd4858b8b448f13a436edf60)|Win64 DLL||2019-12-26 15:45:17|a8ba59eebd4858b8b448f13a436edf60.virobj|
+|[d41532ae67394c2f158f943fcf9651b2](https://www.virustotal.com/gui/file/d41532ae67394c2f158f943fcf9651b2)|ZIP||2019-12-06 01:52:29|My documents for Chris.xlsb|

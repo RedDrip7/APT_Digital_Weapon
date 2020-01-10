@@ -359,3 +359,13 @@
 |[1b90ace1ab9c30382b9347d6131471a8](https://www.virustotal.com/gui/file/1b90ace1ab9c30382b9347d6131471a8)|Win32 EXE|TSCookie|2012-05-23 16:15:25|c303bab9e2655739ee85adf92cc9e9c9b1e4371dddeb9270cbbb81f34f4f96b9.vir|
 |[305d1985ba1996b4ca677229eaaf3ffd](https://www.virustotal.com/gui/file/305d1985ba1996b4ca677229eaaf3ffd)|Win32 EXE||2011-08-29 17:12:24|vti-rescan|
 |[be3f9dcaa387a26b096acf4ced39ea2f](https://www.virustotal.com/gui/file/be3f9dcaa387a26b096acf4ced39ea2f)|Win32 DLL|Zbot|2011-03-29 05:15:10|ADVPACK32|
+|[7823375b1a90865b8c5729ff65d76822](https://www.virustotal.com/gui/file/7823375b1a90865b8c5729ff65d76822)|Win64 DLL||2019-09-10 14:31:43|oci.dll|
+|[a3d0334721f3f0ec5cccecb6a18b416b](https://www.virustotal.com/gui/file/a3d0334721f3f0ec5cccecb6a18b416b)|Win32 DLL||2019-09-10 12:03:46|gSOAP_license|
+|[d864d3bf4371dc43bdb5b8c7e24ebd4b](https://www.virustotal.com/gui/file/d864d3bf4371dc43bdb5b8c7e24ebd4b)|Win32 EXE||2019-09-05 00:36:04|app|
+|[d30e6f1876351292b0b21ef3603367cd](https://www.virustotal.com/gui/file/d30e6f1876351292b0b21ef3603367cd)|Win32 DLL||2019-08-02 11:33:00|ucrtlib.dll|
+|[1a7fa25d84026513e3fb35af26bad443](https://www.virustotal.com/gui/file/1a7fa25d84026513e3fb35af26bad443)|Win32 DLL||2019-06-25 19:53:17|ADvantage sqlite|
+|[c0e18e364d8b3b01d9217180ee002769](https://www.virustotal.com/gui/file/c0e18e364d8b3b01d9217180ee002769)|unknown||2019-06-25 13:35:45|UsrClass.dat|
+|[03909af5cf762d31545f622f4f12dc5a](https://www.virustotal.com/gui/file/03909af5cf762d31545f622f4f12dc5a)|Win32 EXE||2019-05-20 05:17:56|Asus Webstorage Upate.exe|
+|[b6da67211f6f9cf62f6cac5d52edd4a4](https://www.virustotal.com/gui/file/b6da67211f6f9cf62f6cac5d52edd4a4)|PNG||2019-05-16 14:51:31|fav.ico|
+|[7e6a7e83bf84d081f4fd8a2c0cb1e32f](https://www.virustotal.com/gui/file/7e6a7e83bf84d081f4fd8a2c0cb1e32f)|Win32 EXE||2019-05-10 09:50:02|ASUSWebStorageSyncAgent2.3.0.595.exe.bin|
+|[29d3dc7cb55365bb84b1a34c18918fc0](https://www.virustotal.com/gui/file/29d3dc7cb55365bb84b1a34c18918fc0)|unknown||2019-04-09 07:35:35|Language.dat|

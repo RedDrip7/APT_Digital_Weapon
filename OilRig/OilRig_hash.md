@@ -64,3 +64,11 @@
 |[5432363a0f644e3988fe56eefe6a668c](https://www.virustotal.com/gui/file/5432363a0f644e3988fe56eefe6a668c)|XLS||2016-05-11 04:39:16|/home/virustotal/sample/5432363A0F644E3988FE56EEFE6A668C|
 |[ccfcd3c63abfb00db901308bbfe11bd1](https://www.virustotal.com/gui/file/ccfcd3c63abfb00db901308bbfe11bd1)|XLS||2016-05-09 06:33:54|/home/virustotal/sample/CCFCD3C63ABFB00DB901308BBFE11BD1|
 |[f01a9a2d1e31332ed36c1a4d2839f412](https://www.virustotal.com/gui/file/f01a9a2d1e31332ed36c1a4d2839f412)|Win32 EXE||2009-02-12 22:19:48|nb.exe|
+|[08dc0073537b588d40deda1f31893c52](https://www.virustotal.com/gui/file/08dc0073537b588d40deda1f31893c52)|TXT||2020-01-08 08:09:44| |
+|[993e9cb95301126debdea7dd66b9e121](https://www.virustotal.com/gui/file/993e9cb95301126debdea7dd66b9e121)|Win64 EXE||2019-09-26 15:15:23|elrawdsk.sys|
+|[33f98b613b331b49e272512274669844](https://www.virustotal.com/gui/file/33f98b613b331b49e272512274669844)|Win32 EXE||2019-07-15 07:03:15|%WINDIR%\temp\udd711b.tmp|
+|[4ea656d10be1d6eac05d69252d270592](https://www.virustotal.com/gui/file/4ea656d10be1d6eac05d69252d270592)|Win32 EXE||2017-09-25 04:20:23|exeruner_new.exe|
+|[87fb0c1e0de46177390de3ee18608b21](https://www.virustotal.com/gui/file/87fb0c1e0de46177390de3ee18608b21)|Win32 EXE||2017-07-27 15:27:02|exeruner_new.exe|
+|[69b0cec55e4df899e649fa00c2979661](https://www.virustotal.com/gui/file/69b0cec55e4df899e649fa00c2979661)|Win32 EXE||2013-07-25 19:32:13|elrawdsk.sys|
+|[b14299fd4d1cbfb4cc7486d978398214](https://www.virustotal.com/gui/file/b14299fd4d1cbfb4cc7486d978398214)|Win32 EXE||2012-08-15 13:21:36|Distributed Link Tracking Server|
+|[d214c717a357fe3a455610b197c390aa](https://www.virustotal.com/gui/file/d214c717a357fe3a455610b197c390aa)|Win32 EXE||2012-08-14 17:40:55|Distributed Link Tracking Server|

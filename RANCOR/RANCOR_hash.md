@@ -44,3 +44,6 @@
 |[77d13e9f04dec82e670a5afda0f2f14a](https://www.virustotal.com/gui/file/77d13e9f04dec82e670a5afda0f2f14a)|Win32 DLL||2017-04-05 12:48:44|77d13e9f04dec82e670a5afda0f2f14a.virus|
 |[5ca90fcaf73159d2355d1bbfdaf37237](https://www.virustotal.com/gui/file/5ca90fcaf73159d2355d1bbfdaf37237)|Win32 DLL|Farfli|2017-03-23 07:38:13|RunningDll|
 |[293b297852eed02726be916bc43c81f4](https://www.virustotal.com/gui/file/293b297852eed02726be916bc43c81f4)|Win32 DLL|Farfli|2017-03-11 20:55:45|RunningDll|
+|[6ebe1824559814f2ccd6d8719aae6a1b](https://www.virustotal.com/gui/file/6ebe1824559814f2ccd6d8719aae6a1b)|Win32 DLL||2019-10-21 22:11:22| |
+|[25d28218fd55f2540cd842b27831ac87](https://www.virustotal.com/gui/file/25d28218fd55f2540cd842b27831ac87)|Win32 DLL||2018-07-27 01:30:43|%WINDIR%\pla.dat|
+|[2b47bfff7fd89e8c5b2deea65530ffa9](https://www.virustotal.com/gui/file/2b47bfff7fd89e8c5b2deea65530ffa9)|Win32 DLL||2018-03-11 23:29:34|ac8dcd3a660c9290c557596ea819547c4635d8e1|

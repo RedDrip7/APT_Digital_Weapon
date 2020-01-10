@@ -16,3 +16,7 @@
 |[4fe276edc21ec5f2540c2babd81c8653](https://www.virustotal.com/gui/file/4fe276edc21ec5f2540c2babd81c8653)|LNK||2019-06-06 09:37:18|S_2019_50_E.lnk|
 |[9ff1d3af1f39a37c0dc4ceeb18cc37dc](https://www.virustotal.com/gui/file/9ff1d3af1f39a37c0dc4ceeb18cc37dc)|LNK||2019-06-05 18:28:25| |
 |[165f8683681a4b136be1f9d6ea7f00ce](https://www.virustotal.com/gui/file/165f8683681a4b136be1f9d6ea7f00ce)|LNK||2019-05-30 11:00:09|unknown_vietnamese_hta_lnk_polyglot_decoy_doc.lnk|
+|[5781a2b62de1f3301e38394607b03d79](https://www.virustotal.com/gui/file/5781a2b62de1f3301e38394607b03d79)|LNK||2019-12-16 05:03:26|CV_NTTra.pdf.lnk|
+|[0d3fbc842a430f5367d480dd1b74449b](https://www.virustotal.com/gui/file/0d3fbc842a430f5367d480dd1b74449b)|Win32 EXE||2019-08-15 12:39:14|NATIONAL SECURITY CONCEPT OF MONGOLIA.exe|
+|[e5a23e8a2c0f98850b1a43b595c08e63](https://www.virustotal.com/gui/file/e5a23e8a2c0f98850b1a43b595c08e63)|Win32 EXE||2019-06-13 05:08:12|DSR & CSR of Special Branch Sind.exe|
+|[0617cad9e5d559356c43d4037c86227f](https://www.virustotal.com/gui/file/0617cad9e5d559356c43d4037c86227f)|Win32 DLL||2017-07-25 07:06:46|goopdate.dll|
