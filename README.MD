@@ -20,42 +20,8 @@ We will keep updating this project and hope this could help the security communi
 
 If you find an error, please contact us at ti_support@qianxin.com and we’ll try to improve the IOCs.
 
-2020/01/09 Update_log:  
+2020/03/04 Update_log:  
 
 |Groupname|Total|Update|data|  
 |:--|:--|:--|:--|  
-|APT17|2994|1|2020/01/09|  
-|APT27|92|2|2020/01/09|  
-|APT28|690|4|2020/01/09|  
-|APT34|121|6|2020/01/09|  
-|APT40|23|2|2020/01/09|  
-|APT41|32|2|2020/01/09|  
-|BITTER|200|6|2020/01/09|  
-|BlackTech|369|10|2020/01/09|  
-|BRONZE PRESIDENT|3|3|2020/01/09|  
-|ChinaZ|27|10|2020/01/09|  
-|Cobalt Group|113|15|2020/01/09|  
-|Donot|329|12|2020/01/09|  
-|DustSquad|19|3|2020/01/09|  
-|El Machete|209|1|2020/01/09|  
-|FIN6|64|8|2020/01/09|  
-|FIN7|536|5|2020/01/09|  
-|FIN8|4|4|2020/01/09|  
-|GALLIUM|12|12|2020/01/09|  
-|Gamaredon Group|256|24|2020/01/09|  
-|Gorgon|1047|1|2020/01/09|  
-|Kimsuky|163|3|2020/01/09|  
-|KONNI|110|2|2020/01/09|  
-|Lazarus Group|1480|24|2020/01/09|  
-|Molerats|520|7|2020/01/09|  
-|MuddyWater|268|15|2020/01/09|  
-|Mustang Panda|20|4|2020/01/09|  
-|OceanLotus|973|8|2020/01/09|  
-|OilRig|72|8|2020/01/09|  
-|RANCOR|47|3|2020/01/09|  
-|RevengeHotels|2|2|2020/01/09|  
-|Sidewinder|75|8|2020/01/09|  
-|TA505|908|18|2020/01/09|  
-|Tick|71|13|2020/01/09|  
-|Turla|289|7|2020/01/09|  
-|xHunt|7|2|2020/01/09|  
+|Lamberts|51|2|2020-03-04|  

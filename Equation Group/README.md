@@ -2,7 +2,7 @@
 Equation Group  
   
 **Alias**  
-方程式, Tilded Team, Lamberts, Five Eyes, NSA,  GCHQ,  CSIS,  ASIS,  NZSIS, Equation Group  
+方程式, Tilded Team, Five Eyes, NSA,  GCHQ,  CSIS,  ASIS,  NZSIS, Equation Group  
 
 **Description**:   
 Equation Group is probably the most sophisticated computer attack group in the world. It is suspected of being tied to the Tailored Access Operations (TAO) unit of the United States National Security Agency (NSA). Most of their targets have been in Iran, Russia, Pakistan, Afghanistan, India, Syria, and Mali.
