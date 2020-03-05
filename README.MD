@@ -4,7 +4,7 @@ Copyright © [@RedDrip](https://twitter.com/RedDrip7?s=20) (https://ti.qianxin.c
 
 Here are indicators of compromise (IOCs) collected from public resources and our own investigations. Details include sample hash, file type, malware family, as well as first seen and file name from [VirusTotal](https://www.virustotal.com/) in format below:
 
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[8e2b5b95980cf52e99acfa95f5e1570b](https://www.virustotal.com/gui/file/8e2b5b95980cf52e99acfa95f5e1570b)|Win32 DLL||2019-11-11 15:22:00|C:\Users\<USER>\AppData\Local\Temp\~$doc-ad9b812a-88b2-454c-989f-7bb5fe98717e.ole|
 |[3c3b2cc9ff5d7030fb01496510ac75f2](https://www.virustotal.com/gui/file/3c3b2cc9ff5d7030fb01496510ac75f2)|DOC||2019-11-11 11:13:02|?-????2019?????????????????.doc|
