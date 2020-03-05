@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[cfac51f1a10d6a176617ffd3a3a261cb](https://www.virustotal.com/gui/file/cfac51f1a10d6a176617ffd3a3a261cb)|Win32 DLL||2019-05-24 13:23:19|Hancom Update|
 |[715051f5028dc793e06b20b4048f33a6](https://www.virustotal.com/gui/file/715051f5028dc793e06b20b4048f33a6)|DOC|o97m|2019-05-24 10:14:44|Huobi Research Weekly (Vol.62) 2019.05.13-2019.05.19.doc|

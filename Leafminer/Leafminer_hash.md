@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[e67687b4443f58d2b0a465e3af3caffe](https://www.virustotal.com/gui/file/e67687b4443f58d2b0a465e3af3caffe)|Win32 EXE||2019-03-19 19:44:34| |
 |[4275b2a562aa3225ea004c50519295c5](https://www.virustotal.com/gui/file/4275b2a562aa3225ea004c50519295c5)|Win32 EXE||2018-08-12 11:40:39|4275b2a562aa3225ea004c50519295c5.virus|

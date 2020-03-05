@@ -1,10 +1,20 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
+|[7823375b1a90865b8c5729ff65d76822](https://www.virustotal.com/gui/file/7823375b1a90865b8c5729ff65d76822)|Win64 DLL||2019-09-10 14:31:43|oci.dll|
+|[a3d0334721f3f0ec5cccecb6a18b416b](https://www.virustotal.com/gui/file/a3d0334721f3f0ec5cccecb6a18b416b)|Win32 DLL||2019-09-10 12:03:46|gSOAP_license|
+|[d864d3bf4371dc43bdb5b8c7e24ebd4b](https://www.virustotal.com/gui/file/d864d3bf4371dc43bdb5b8c7e24ebd4b)|Win32 EXE||2019-09-05 00:36:04|app|
 |[7c9abfbe13eaea24879d57394b84d7d9](https://www.virustotal.com/gui/file/7c9abfbe13eaea24879d57394b84d7d9)|Win32 DLL|TSCookie|2019-08-27 10:19:28|WINMM.dll|
+|[d30e6f1876351292b0b21ef3603367cd](https://www.virustotal.com/gui/file/d30e6f1876351292b0b21ef3603367cd)|Win32 DLL||2019-08-02 11:33:00|ucrtlib.dll|
+|[1a7fa25d84026513e3fb35af26bad443](https://www.virustotal.com/gui/file/1a7fa25d84026513e3fb35af26bad443)|Win32 DLL||2019-06-25 19:53:17|ADvantage sqlite|
+|[c0e18e364d8b3b01d9217180ee002769](https://www.virustotal.com/gui/file/c0e18e364d8b3b01d9217180ee002769)|unknown||2019-06-25 13:35:45|UsrClass.dat|
+|[03909af5cf762d31545f622f4f12dc5a](https://www.virustotal.com/gui/file/03909af5cf762d31545f622f4f12dc5a)|Win32 EXE||2019-05-20 05:17:56|Asus Webstorage Upate.exe|
+|[b6da67211f6f9cf62f6cac5d52edd4a4](https://www.virustotal.com/gui/file/b6da67211f6f9cf62f6cac5d52edd4a4)|PNG||2019-05-16 14:51:31|fav.ico|
 |[c78beff838f4c57be9044996c25eca7d](https://www.virustotal.com/gui/file/c78beff838f4c57be9044996c25eca7d)|Win32 EXE|TSCookie|2019-05-15 06:45:14| |
 |[862a28038951e1f4a7ffd77d3b47458d](https://www.virustotal.com/gui/file/862a28038951e1f4a7ffd77d3b47458d)|Win32 DLL|TSCookie|2019-05-14 01:04:35|ComDlgInDll|
 |[19153e7d43f1f5e3b937e91b5ccc601d](https://www.virustotal.com/gui/file/19153e7d43f1f5e3b937e91b5ccc601d)|Win32 EXE|TSCookie|2019-05-14 00:45:03|driver.exe|
+|[7e6a7e83bf84d081f4fd8a2c0cb1e32f](https://www.virustotal.com/gui/file/7e6a7e83bf84d081f4fd8a2c0cb1e32f)|Win32 EXE||2019-05-10 09:50:02|ASUSWebStorageSyncAgent2.3.0.595.exe.bin|
 |[caa9dfd4e618febac24fbe35c770eab3](https://www.virustotal.com/gui/file/caa9dfd4e618febac24fbe35c770eab3)|Win32 EXE|TSCookie|2019-05-07 08:35:13|ASUSWebStorageSyncAgent2.4.3.612.exe|
+|[29d3dc7cb55365bb84b1a34c18918fc0](https://www.virustotal.com/gui/file/29d3dc7cb55365bb84b1a34c18918fc0)|unknown||2019-04-09 07:35:35|Language.dat|
 |[66f79700fe4209e26cbb33a76c705492](https://www.virustotal.com/gui/file/66f79700fe4209e26cbb33a76c705492)|Win32 EXE|TSCookie|2018-12-12 00:49:44| |
 |[b56929ebde84c5e258e6e7820c4de19b](https://www.virustotal.com/gui/file/b56929ebde84c5e258e6e7820c4de19b)|Win32 EXE|TSCookie|2018-12-11 00:01:17| |
 |[520f7ad06eaef69babdb048cb5aa67a1](https://www.virustotal.com/gui/file/520f7ad06eaef69babdb048cb5aa67a1)|Win32 EXE||2018-11-15 07:21:22|iTunesHelper.exe|
@@ -263,17 +273,17 @@
 |[f196ba5da72feb9de9454bb1a6862a66](https://www.virustotal.com/gui/file/f196ba5da72feb9de9454bb1a6862a66)|Win32 EXE|Kivars|2014-04-11 16:21:05|isheriff_f196ba5da72feb9de9454bb1a6862a66.bin|
 |[5bb14699b14e48608d43f51c56b88a04](https://www.virustotal.com/gui/file/5bb14699b14e48608d43f51c56b88a04)|Win32 EXE||2014-03-29 05:13:55|vt-upload-bMGry|
 |[2a233c4f6571a2fc3342d6edf3c1e98d](https://www.virustotal.com/gui/file/2a233c4f6571a2fc3342d6edf3c1e98d)|Win32 EXE||2014-03-28 13:47:02|2.tmp|
-|[f7675431685701edb506ffebc182f6ef](https://www.virustotal.com/gui/file/f7675431685701edb506ffebc182f6ef)|Win32 EXE|graftor|2014-03-28 05:33:50|20140120014253_46730j9ewj9wefjw9qef8qw9ef8jqw9ef8w9ejf0q2wdoiewjiu2h3e82dhqdhqwduid? gpj.exe|
-|[f0c1cc799d56d58f528f41039895f8f8](https://www.virustotal.com/gui/file/f0c1cc799d56d58f528f41039895f8f8)|Win32 EXE|graftor|2014-03-28 05:33:50|20140120014304_6164223324123412341252283091283943ewqerqwrwerqsafadsfaeefwew?gpj.exe|
-|[391974cd1e5338938faf7f9a22ee3bf5](https://www.virustotal.com/gui/file/391974cd1e5338938faf7f9a22ee3bf5)|Win32 EXE||2014-03-28 05:33:50|20140120014535_852283091283943185228309128394318522830912839431qwerqfasdfasexxxaazde?gpj.exe|
-|[64ec5419edd9ff050d839845a0a5bea3](https://www.virustotal.com/gui/file/64ec5419edd9ff050d839845a0a5bea3)|Win32 EXE||2014-03-28 05:33:50|20140120014300_936185228309128394318522830912839431852283091283943185228309128394317eqwq?gpj.exe|
-|[2a94c32c20dd4632e0a5084b134e6344](https://www.virustotal.com/gui/file/2a94c32c20dd4632e0a5084b134e6344)|Win32 EXE||2014-03-28 05:33:50|20140120014236_36516jewqjf0297h23wd6yg6syg26h7eugh36t26t51af7re73t56rt16w7y8712yw?gpj.exe|
 |[73993f9f448449f0c5c6977664cfd8fa](https://www.virustotal.com/gui/file/73993f9f448449f0c5c6977664cfd8fa)|Win32 EXE||2014-03-28 05:33:50|20140120014233_46245sadfjkqwpoe[fqjweifj[qweiojkqds[pfakodsopakfw0ek[2930921-023jjd02ew?gpj.exe|
+|[f7675431685701edb506ffebc182f6ef](https://www.virustotal.com/gui/file/f7675431685701edb506ffebc182f6ef)|Win32 EXE|graftor|2014-03-28 05:33:50|20140120014253_46730j9ewj9wefjw9qef8qw9ef8jqw9ef8w9ejf0q2wdoiewjiu2h3e82dhqdhqwduid? gpj.exe|
+|[64ec5419edd9ff050d839845a0a5bea3](https://www.virustotal.com/gui/file/64ec5419edd9ff050d839845a0a5bea3)|Win32 EXE||2014-03-28 05:33:50|20140120014300_936185228309128394318522830912839431852283091283943185228309128394317eqwq?gpj.exe|
+|[391974cd1e5338938faf7f9a22ee3bf5](https://www.virustotal.com/gui/file/391974cd1e5338938faf7f9a22ee3bf5)|Win32 EXE||2014-03-28 05:33:50|20140120014535_852283091283943185228309128394318522830912839431qwerqfasdfasexxxaazde?gpj.exe|
+|[2a94c32c20dd4632e0a5084b134e6344](https://www.virustotal.com/gui/file/2a94c32c20dd4632e0a5084b134e6344)|Win32 EXE||2014-03-28 05:33:50|20140120014236_36516jewqjf0297h23wd6yg6syg26h7eugh36t26t51af7re73t56rt16w7y8712yw?gpj.exe|
+|[f0c1cc799d56d58f528f41039895f8f8](https://www.virustotal.com/gui/file/f0c1cc799d56d58f528f41039895f8f8)|Win32 EXE|graftor|2014-03-28 05:33:50|20140120014304_6164223324123412341252283091283943ewqerqwrwerqsafadsfaeefwew?gpj.exe|
 |[7ca58dd5daa70dd5dc278070512eb394](https://www.virustotal.com/gui/file/7ca58dd5daa70dd5dc278070512eb394)|Win32 EXE|injector|2014-03-28 05:31:09|??????????????? 2_Mapl?cod.exe|
-|[410ceb4d5008887a66587130d57adeee](https://www.virustotal.com/gui/file/410ceb4d5008887a66587130d57adeee)|Win32 EXE|graftor|2014-03-28 05:31:08|???????????????_Mapl?cod.exe|
 |[b7bf246b1481b24ff262cd03c53caf15](https://www.virustotal.com/gui/file/b7bf246b1481b24ff262cd03c53caf15)|Win32 EXE|injector|2014-03-28 05:31:08|???????????????_Light sea?cod.exe|
-|[cf128ba5945102e1b1a089032f2e4bc1](https://www.virustotal.com/gui/file/cf128ba5945102e1b1a089032f2e4bc1)|Win32 EXE|dynamer|2014-03-28 05:31:08|??????????????? 1_Lak?cod.exe|
+|[410ceb4d5008887a66587130d57adeee](https://www.virustotal.com/gui/file/410ceb4d5008887a66587130d57adeee)|Win32 EXE|graftor|2014-03-28 05:31:08|???????????????_Mapl?cod.exe|
 |[1c460850b55125a7d1f554ee0203fa25](https://www.virustotal.com/gui/file/1c460850b55125a7d1f554ee0203fa25)|Win32 EXE|graftor|2014-03-28 05:31:08|????????????????_Listening to the sea?cod.exe|
+|[cf128ba5945102e1b1a089032f2e4bc1](https://www.virustotal.com/gui/file/cf128ba5945102e1b1a089032f2e4bc1)|Win32 EXE|dynamer|2014-03-28 05:31:08|??????????????? 1_Lak?cod.exe|
 |[402627c57c6127187c7ee1ba9b4e11ad](https://www.virustotal.com/gui/file/402627c57c6127187c7ee1ba9b4e11ad)|RAR|graftor|2014-03-28 05:25:11|=?utf-8?B?5rKZ5a2Q6KKr5pS+5aSnMzAw5YCNLnJhcg==?=|
 |[413a34cb61e954c4e82a63875cce9a67](https://www.virustotal.com/gui/file/413a34cb61e954c4e82a63875cce9a67)|RAR|injector|2014-03-28 05:24:59|=?big5?B?xenF56V4xleh0K72uqmxoatRpKeuyC5yYXI=?=|
 |[8a81e6a62d3bdcffe074807d7173840f](https://www.virustotal.com/gui/file/8a81e6a62d3bdcffe074807d7173840f)|Win32 EXE||2014-03-28 05:15:47|vt-upload-Nchgq|
@@ -359,13 +369,3 @@
 |[1b90ace1ab9c30382b9347d6131471a8](https://www.virustotal.com/gui/file/1b90ace1ab9c30382b9347d6131471a8)|Win32 EXE|TSCookie|2012-05-23 16:15:25|c303bab9e2655739ee85adf92cc9e9c9b1e4371dddeb9270cbbb81f34f4f96b9.vir|
 |[305d1985ba1996b4ca677229eaaf3ffd](https://www.virustotal.com/gui/file/305d1985ba1996b4ca677229eaaf3ffd)|Win32 EXE||2011-08-29 17:12:24|vti-rescan|
 |[be3f9dcaa387a26b096acf4ced39ea2f](https://www.virustotal.com/gui/file/be3f9dcaa387a26b096acf4ced39ea2f)|Win32 DLL|Zbot|2011-03-29 05:15:10|ADVPACK32|
-|[7823375b1a90865b8c5729ff65d76822](https://www.virustotal.com/gui/file/7823375b1a90865b8c5729ff65d76822)|Win64 DLL||2019-09-10 14:31:43|oci.dll|
-|[a3d0334721f3f0ec5cccecb6a18b416b](https://www.virustotal.com/gui/file/a3d0334721f3f0ec5cccecb6a18b416b)|Win32 DLL||2019-09-10 12:03:46|gSOAP_license|
-|[d864d3bf4371dc43bdb5b8c7e24ebd4b](https://www.virustotal.com/gui/file/d864d3bf4371dc43bdb5b8c7e24ebd4b)|Win32 EXE||2019-09-05 00:36:04|app|
-|[d30e6f1876351292b0b21ef3603367cd](https://www.virustotal.com/gui/file/d30e6f1876351292b0b21ef3603367cd)|Win32 DLL||2019-08-02 11:33:00|ucrtlib.dll|
-|[1a7fa25d84026513e3fb35af26bad443](https://www.virustotal.com/gui/file/1a7fa25d84026513e3fb35af26bad443)|Win32 DLL||2019-06-25 19:53:17|ADvantage sqlite|
-|[c0e18e364d8b3b01d9217180ee002769](https://www.virustotal.com/gui/file/c0e18e364d8b3b01d9217180ee002769)|unknown||2019-06-25 13:35:45|UsrClass.dat|
-|[03909af5cf762d31545f622f4f12dc5a](https://www.virustotal.com/gui/file/03909af5cf762d31545f622f4f12dc5a)|Win32 EXE||2019-05-20 05:17:56|Asus Webstorage Upate.exe|
-|[b6da67211f6f9cf62f6cac5d52edd4a4](https://www.virustotal.com/gui/file/b6da67211f6f9cf62f6cac5d52edd4a4)|PNG||2019-05-16 14:51:31|fav.ico|
-|[7e6a7e83bf84d081f4fd8a2c0cb1e32f](https://www.virustotal.com/gui/file/7e6a7e83bf84d081f4fd8a2c0cb1e32f)|Win32 EXE||2019-05-10 09:50:02|ASUSWebStorageSyncAgent2.3.0.595.exe.bin|
-|[29d3dc7cb55365bb84b1a34c18918fc0](https://www.virustotal.com/gui/file/29d3dc7cb55365bb84b1a34c18918fc0)|unknown||2019-04-09 07:35:35|Language.dat|

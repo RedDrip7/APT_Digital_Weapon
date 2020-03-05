@@ -1,5 +1,17 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
+|[fce9fcd5fa337d020bd6758008221b81](https://www.virustotal.com/gui/file/fce9fcd5fa337d020bd6758008221b81)|unknown||2019-12-20 07:52:00|attachment20191222-2070-1nnm3ql.vhd|
+|[6ec0edd1889897ff9b4673600f40f92f](https://www.virustotal.com/gui/file/6ec0edd1889897ff9b4673600f40f92f)|Win32 EXE||2019-12-20 07:29:38|Statement.scr|
+|[600154fcb03e775f007ef7b1547b169c](https://www.virustotal.com/gui/file/600154fcb03e775f007ef7b1547b169c)|Win32 EXE||2019-12-20 07:24:54|Documents.scr|
+|[72497130c829430d247a3c7a8143df92](https://www.virustotal.com/gui/file/72497130c829430d247a3c7a8143df92)|PDF||2019-12-06 22:23:28|onedrive.pdf|
+|[f8c29e77db2b1ed69d7eb04552291058](https://www.virustotal.com/gui/file/f8c29e77db2b1ed69d7eb04552291058)|Win32 EXE||2019-12-06 16:48:58|notepad.exe|
+|[6d55252fad0207756c671de8d5f97e7f](https://www.virustotal.com/gui/file/6d55252fad0207756c671de8d5f97e7f)|RTF||2019-12-06 07:31:56|Documents.rtf|
+|[8510cf9a962d813e368f79c28cb4be9d](https://www.virustotal.com/gui/file/8510cf9a962d813e368f79c28cb4be9d)|Win32 EXE||2019-12-05 01:30:16|winlogon.exe|
+|[44edea7af0276d3b7426ad6bb9ec0c12](https://www.virustotal.com/gui/file/44edea7af0276d3b7426ad6bb9ec0c12)|DOCX||2019-11-22 03:31:24|output.docx|
+|[9a723a58130313a40d764a4f7787cc71](https://www.virustotal.com/gui/file/9a723a58130313a40d764a4f7787cc71)|DOC||2019-11-22 02:37:10|SWIFT MT101.doc|
+|[f64e5fb92d4e57a091ec78665db34d43](https://www.virustotal.com/gui/file/f64e5fb92d4e57a091ec78665db34d43)|Win32 EXE||2019-11-22 00:00:35|9f3e650e5e69afcfeff0f776f721ce992100a2227ad968599e0b5b289146a12d.sample|
+|[553280fa1bb530bf1e6311f6c24a7266](https://www.virustotal.com/gui/file/553280fa1bb530bf1e6311f6c24a7266)|FPX||2019-11-21 11:57:57|Запрос по акционерам.docx|
+|[f13ee2d1408a4b0566a8eb0186aa51d2](https://www.virustotal.com/gui/file/f13ee2d1408a4b0566a8eb0186aa51d2)|Win32 EXE||2019-11-21 10:12:22|Screenshoot_21_11_19.scr|
 |[7d339ee10e6561f1fb9de3ab05dd4fb8](https://www.virustotal.com/gui/file/7d339ee10e6561f1fb9de3ab05dd4fb8)|Win32 EXE||2019-11-11 08:24:50|admin32.exe|
 |[b372fd09864d839112b79b7f0675f7df](https://www.virustotal.com/gui/file/b372fd09864d839112b79b7f0675f7df)|Win32 EXE||2019-11-01 20:04:21|putty.exe|
 |[85df6688b4b533781075350ba193eb76](https://www.virustotal.com/gui/file/85df6688b4b533781075350ba193eb76)|RTF||2019-10-22 11:17:25|решение.rtf|
@@ -11,6 +23,9 @@
 |[75d8cb1292c25e10fa189f1af69b4413](https://www.virustotal.com/gui/file/75d8cb1292c25e10fa189f1af69b4413)|Win32 EXE||2019-10-04 13:24:30|avatar.hlpv|
 |[32955a8252db8eb1c1e9cb155e67d375](https://www.virustotal.com/gui/file/32955a8252db8eb1c1e9cb155e67d375)|Win32 EXE||2019-10-02 17:31:33|avatar.hlpv|
 |[406451a97cc4f963ecfe25aa9f813d43](https://www.virustotal.com/gui/file/406451a97cc4f963ecfe25aa9f813d43)|Win32 EXE||2019-09-27 00:30:23|dwm.exe|
+|[8204a65766523bb0fd42585dc0cdc24f](https://www.virustotal.com/gui/file/8204a65766523bb0fd42585dc0cdc24f)|TXT||2019-08-23 14:53:08|1.ps1|
+|[111d0a38dcdb3f7df6f528cfcf3b726b](https://www.virustotal.com/gui/file/111d0a38dcdb3f7df6f528cfcf3b726b)|LNK||2019-08-23 14:36:41|mySWIFT.txt.lnk|
+|[da54fd035f0edb62c45cf1f58cebbeed](https://www.virustotal.com/gui/file/da54fd035f0edb62c45cf1f58cebbeed)|unknown||2019-08-23 13:33:17|Login_Details.img|
 |[a26722fc7e5882b5a273239cddfe755f](https://www.virustotal.com/gui/file/a26722fc7e5882b5a273239cddfe755f)|Win32 EXE|Kryptik|2019-05-28 11:41:32|payload_1.exe|
 |[7f0f3689b728d12a00ca258c688bf034](https://www.virustotal.com/gui/file/7f0f3689b728d12a00ca258c688bf034)|DOCM|o97m|2019-05-28 09:22:46|T47188445.doc|
 |[09a2d195d39df6231b1b41458fead2ab](https://www.virustotal.com/gui/file/09a2d195d39df6231b1b41458fead2ab)|RTF|CVE-2017-8570|2018-10-30 12:02:06|/data/cfs/malshare/09a2d195d39df6231b1b41458fead2ab|
@@ -98,18 +113,3 @@
 |[5616ee6b38f151086cc2b1f59c6cba9a](https://www.virustotal.com/gui/file/5616ee6b38f151086cc2b1f59c6cba9a)|RTF|CVE-2017-8570|2018-04-16 15:01:02|97f13bdaa952a897b55c8c29711c0b5ec4477059|
 |[2e0cc6890fbf7a469d6c0ae70b5859e7](https://www.virustotal.com/gui/file/2e0cc6890fbf7a469d6c0ae70b5859e7)|RTF|CVE-2017-11882|2018-01-16 10:29:10|8a57464c93d4f6d85e51e07748d4ffcc0b9e6b5a64642aec859040d1606fd0f8 (1)|
 |[10d044bc5b8ae607501304e61b2efecb](https://www.virustotal.com/gui/file/10d044bc5b8ae607501304e61b2efecb)|Win32 DLL|Ursu|2017-12-27 19:59:32|8135a9a23b0a206d289b262ed56fcb5aa7bff257b589ca3d4a79d4658da91fc1.bin|
-|[fce9fcd5fa337d020bd6758008221b81](https://www.virustotal.com/gui/file/fce9fcd5fa337d020bd6758008221b81)|unknown||2019-12-20 07:52:00|attachment20191222-2070-1nnm3ql.vhd|
-|[6ec0edd1889897ff9b4673600f40f92f](https://www.virustotal.com/gui/file/6ec0edd1889897ff9b4673600f40f92f)|Win32 EXE||2019-12-20 07:29:38|Statement.scr|
-|[600154fcb03e775f007ef7b1547b169c](https://www.virustotal.com/gui/file/600154fcb03e775f007ef7b1547b169c)|Win32 EXE||2019-12-20 07:24:54|Documents.scr|
-|[72497130c829430d247a3c7a8143df92](https://www.virustotal.com/gui/file/72497130c829430d247a3c7a8143df92)|PDF||2019-12-06 22:23:28|onedrive.pdf|
-|[f8c29e77db2b1ed69d7eb04552291058](https://www.virustotal.com/gui/file/f8c29e77db2b1ed69d7eb04552291058)|Win32 EXE||2019-12-06 16:48:58|notepad.exe|
-|[6d55252fad0207756c671de8d5f97e7f](https://www.virustotal.com/gui/file/6d55252fad0207756c671de8d5f97e7f)|RTF||2019-12-06 07:31:56|Documents.rtf|
-|[8510cf9a962d813e368f79c28cb4be9d](https://www.virustotal.com/gui/file/8510cf9a962d813e368f79c28cb4be9d)|Win32 EXE||2019-12-05 01:30:16|winlogon.exe|
-|[44edea7af0276d3b7426ad6bb9ec0c12](https://www.virustotal.com/gui/file/44edea7af0276d3b7426ad6bb9ec0c12)|DOCX||2019-11-22 03:31:24|output.docx|
-|[9a723a58130313a40d764a4f7787cc71](https://www.virustotal.com/gui/file/9a723a58130313a40d764a4f7787cc71)|DOC||2019-11-22 02:37:10|SWIFT MT101.doc|
-|[f64e5fb92d4e57a091ec78665db34d43](https://www.virustotal.com/gui/file/f64e5fb92d4e57a091ec78665db34d43)|Win32 EXE||2019-11-22 00:00:35|9f3e650e5e69afcfeff0f776f721ce992100a2227ad968599e0b5b289146a12d.sample|
-|[553280fa1bb530bf1e6311f6c24a7266](https://www.virustotal.com/gui/file/553280fa1bb530bf1e6311f6c24a7266)|FPX||2019-11-21 11:57:57|Запрос по акционерам.docx|
-|[f13ee2d1408a4b0566a8eb0186aa51d2](https://www.virustotal.com/gui/file/f13ee2d1408a4b0566a8eb0186aa51d2)|Win32 EXE||2019-11-21 10:12:22|Screenshoot_21_11_19.scr|
-|[8204a65766523bb0fd42585dc0cdc24f](https://www.virustotal.com/gui/file/8204a65766523bb0fd42585dc0cdc24f)|TXT||2019-08-23 14:53:08|1.ps1|
-|[111d0a38dcdb3f7df6f528cfcf3b726b](https://www.virustotal.com/gui/file/111d0a38dcdb3f7df6f528cfcf3b726b)|LNK||2019-08-23 14:36:41|mySWIFT.txt.lnk|
-|[da54fd035f0edb62c45cf1f58cebbeed](https://www.virustotal.com/gui/file/da54fd035f0edb62c45cf1f58cebbeed)|unknown||2019-08-23 13:33:17|Login_Details.img|

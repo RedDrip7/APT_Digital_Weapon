@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[9b925250786571058dae5a7cbea71d28](https://www.virustotal.com/gui/file/9b925250786571058dae5a7cbea71d28)|Win32 EXE||2018-05-15 11:40:14|Https|
 |[30866adc2976704bca0f051b5474a1ee](https://www.virustotal.com/gui/file/30866adc2976704bca0f051b5474a1ee)|Win32 EXE||2018-05-15 11:12:15|/home/virustotal/sample/30866ADC2976704BCA0F051B5474A1EE|

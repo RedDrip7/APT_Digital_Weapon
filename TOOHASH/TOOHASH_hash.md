@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[ecc8245568b5dc1d74d0be6073eafa2d](https://www.virustotal.com/gui/file/ecc8245568b5dc1d74d0be6073eafa2d)|Win32 EXE|creprote|2019-03-16 23:04:44|dttcodexgigas.b822521633475c9ca6181689275bea3cc96b4d9a|
 |[d4e2aadbc0ac414ac5a778da67251c02](https://www.virustotal.com/gui/file/d4e2aadbc0ac414ac5a778da67251c02)|Win32 EXE||2019-03-16 15:07:08|Microsoft MFC Program|

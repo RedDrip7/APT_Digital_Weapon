@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[aade920e20a448f464aef752282a6267](https://www.virustotal.com/gui/file/aade920e20a448f464aef752282a6267)|Win32 EXE||2019-10-12 20:00:29|SIW|
 |[9bd9a775ef26d8f4983a431b6eb3fcd7](https://www.virustotal.com/gui/file/9bd9a775ef26d8f4983a431b6eb3fcd7)|Text||2019-07-27 15:33:23|payload_1.exe|

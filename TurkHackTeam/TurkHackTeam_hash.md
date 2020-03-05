@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[9d23cad207b2b5f9120f405bb70c295d](https://www.virustotal.com/gui/file/9d23cad207b2b5f9120f405bb70c295d)|Win32 EXE|graftor|2018-03-18 06:58:17|9dfc7e78892a9f18d2d15adbfa52cda379ddd963.exe|
 |[20c8ebfd075669d5eeb6d9fbe2590860](https://www.virustotal.com/gui/file/20c8ebfd075669d5eeb6d9fbe2590860)|Win32 EXE||2018-03-18 06:57:05| |

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[85e397114c401b0671ff74e7177cc361](https://www.virustotal.com/gui/file/85e397114c401b0671ff74e7177cc361)|Android||2019-07-15 21:32:51|85e397114c401b0671ff74e7177cc361.virus|
 |[ea79617ba045e118ca26a0e39683700d](https://www.virustotal.com/gui/file/ea79617ba045e118ca26a0e39683700d)|Text||2017-12-08 05:40:15|ea79617ba045e118ca26a0e39683700d.virus|

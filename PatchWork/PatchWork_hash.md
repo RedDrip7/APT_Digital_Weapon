@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[a5eac92951ad81123e17d24ed1404a26](https://www.virustotal.com/gui/file/a5eac92951ad81123e17d24ed1404a26)|Win32 EXE||2019-10-16 06:32:03|MSBuild.exe.bin|
 |[6494f8cf8532cd11b2510066ecd84c41](https://www.virustotal.com/gui/file/6494f8cf8532cd11b2510066ecd84c41)|Win32 DLL||2019-10-16 06:19:26|5f5a1af57872610aa692ee3d0fba4a0171c2ec1a8cc3cf45f21f52caa2ab9041.bin|

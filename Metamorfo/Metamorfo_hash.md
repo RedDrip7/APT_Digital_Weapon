@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[d726b53461a4ec858925ed31cef15f1e](https://www.virustotal.com/gui/file/d726b53461a4ec858925ed31cef15f1e)|Win32 DLL||2018-03-12 18:49:31|d726b53461a4ec858925ed31cef15f1e.virus|
 |[d3f845c84a2bd8e3589a6fbf395fea06](https://www.virustotal.com/gui/file/d3f845c84a2bd8e3589a6fbf395fea06)|Win32 DLL||2018-03-10 00:12:09|d3f845c84a2bd8e3589a6fbf395fea06.virus|

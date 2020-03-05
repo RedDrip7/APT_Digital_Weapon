@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[6217385cf7358f31456e313afef98634](https://www.virustotal.com/gui/file/6217385cf7358f31456e313afef98634)|ELF executable||2019-03-06 17:31:16|ead58a9988f08989db26fd481abd4e1c|
 |[be77ab896227224cb24664e3bdede493](https://www.virustotal.com/gui/file/be77ab896227224cb24664e3bdede493)|ELF shared library||2019-03-03 15:20:51|lmmml.unpacked|

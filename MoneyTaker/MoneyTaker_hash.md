@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[5103b12ebf2ca605a97fa43c3b5f8a5c](https://www.virustotal.com/gui/file/5103b12ebf2ca605a97fa43c3b5f8a5c)|Win64 EXE||2017-08-30 12:03:48|C:\Users\Valilon\Downloads\Telegram Desktop\lpe\lpe\cve.exe|
 |[7d56c9886ac2ba8c2532c4bed687563c](https://www.virustotal.com/gui/file/7d56c9886ac2ba8c2532c4bed687563c)|Win32 EXE|injector|2017-02-06 16:36:35|184-315240.exe|

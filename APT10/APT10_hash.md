@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[f16b1d3e010fdb1040f29638b85fd027](https://www.virustotal.com/gui/file/f16b1d3e010fdb1040f29638b85fd027)|unknown||2019-07-03 10:52:14|svchost.bin|
 |[788a85781a1969d5cdea81109971f75e](https://www.virustotal.com/gui/file/788a85781a1969d5cdea81109971f75e)|Win32 EXE||2019-07-03 10:44:15|qtinfo.bin|

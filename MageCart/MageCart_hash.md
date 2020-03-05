@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[852b3467f3a79e805b91d0cac01bd328](https://www.virustotal.com/gui/file/852b3467f3a79e805b91d0cac01bd328)|Win32 EXE||2019-08-29 10:29:21|panefivakuluxaso.exe|
 |[8c47745c1a0cb6b2f7278b807ce46648](https://www.virustotal.com/gui/file/8c47745c1a0cb6b2f7278b807ce46648)|Text||2019-08-28 16:12:13|payload.js|

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[66b239615333c3eefb8d4bfb9999291e](https://www.virustotal.com/gui/file/66b239615333c3eefb8d4bfb9999291e)|Win32 EXE|Quasar|2018-10-12 10:25:39|GEqy87.exe|
 |[fdc10df508d4747a6bffbfa5e72bbb42](https://www.virustotal.com/gui/file/fdc10df508d4747a6bffbfa5e72bbb42)|Win32 EXE|LokiBot|2018-10-09 15:19:05|GEqy87.exe|

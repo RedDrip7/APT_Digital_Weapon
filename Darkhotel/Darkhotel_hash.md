@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[c5398516578328a835d9717421c5617b](https://www.virustotal.com/gui/file/c5398516578328a835d9717421c5617b)|Win32 EXE||2019-10-07 17:01:50|pcalua.exeHLegalCopyright|
 |[fccaaab898715da863f24ba4a15656e8](https://www.virustotal.com/gui/file/fccaaab898715da863f24ba4a15656e8)|Win64 EXE||2019-10-06 18:11:47|sshkeypairgen.exe|

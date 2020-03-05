@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[453c829c2b7f504e28b554927f4bc1f2](https://www.virustotal.com/gui/file/453c829c2b7f504e28b554927f4bc1f2)|Android||2019-03-21 23:21:51|nms-swiftclinic.apk|
 |[28c3759bccb1578b9e094920a32813ef](https://www.virustotal.com/gui/file/28c3759bccb1578b9e094920a32813ef)|Android||2017-11-25 22:40:33|28c3759bccb1578b9e094920a32813ef.virus|

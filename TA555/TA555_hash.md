@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[4423c37da26868ec578baa5514b8308a](https://www.virustotal.com/gui/file/4423c37da26868ec578baa5514b8308a)|Email||2019-07-30 10:41:53|__________ _________ ____________.eml|
 |[c5661d589ee98e8b370acaceb7f5445e](https://www.virustotal.com/gui/file/c5661d589ee98e8b370acaceb7f5445e)|DOC||2019-07-29 10:16:45|=?UTF-8?B?0L/QvtGB0YLQsNC90L7QstCwXzI5XzA3XzIwMTkgKDcpLmRvYw==?=|

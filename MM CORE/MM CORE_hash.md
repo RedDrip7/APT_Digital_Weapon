@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[060d13afdb2212a717666b251feda1d3](https://www.virustotal.com/gui/file/060d13afdb2212a717666b251feda1d3)|Win32 DLL|PlugX|2017-01-03 11:34:29| |
 |[bffc9f409be33207849207f62622db50](https://www.virustotal.com/gui/file/bffc9f409be33207849207f62622db50)|Win32 DLL||2016-11-20 13:21:48| |

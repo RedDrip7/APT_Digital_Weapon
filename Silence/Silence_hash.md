@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[513db7c60cca97c0b4618d0954955dba](https://www.virustotal.com/gui/file/513db7c60cca97c0b4618d0954955dba)|DOC||2019-06-20 06:43:42|=?utf-8?B?0JLRi9C/0LjRgdC60LguZG9j?=|
 |[7441cca252b7a2da481ddf2c70eed727](https://www.virustotal.com/gui/file/7441cca252b7a2da481ddf2c70eed727)|Win32 EXE||2019-06-20 06:11:28|Pipkun Pong Browser|

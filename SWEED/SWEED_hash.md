@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[d9630ae3dfceb77bd3999ff9b48fa422](https://www.virustotal.com/gui/file/d9630ae3dfceb77bd3999ff9b48fa422)|Win32 EXE||2019-10-26 08:51:56|cardsharper.exe|
 |[a686576e71821c3a9fcbe608cc055e07](https://www.virustotal.com/gui/file/a686576e71821c3a9fcbe608cc055e07)|XLSX||2019-10-26 08:27:39|request for quotation.xlsx|

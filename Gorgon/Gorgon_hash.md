@@ -1,5 +1,6 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
+|[85e12cab0cf1f599007e693e66f42de8](https://www.virustotal.com/gui/file/85e12cab0cf1f599007e693e66f42de8)|DOCX||2019-12-16 19:41:25|Cronograma Executivo - Reservas (1).docx|
 |[9d36efcf181e150e9d299289f1030b37](https://www.virustotal.com/gui/file/9d36efcf181e150e9d299289f1030b37)|XLS||2019-09-23 14:18:00|babba7eacbe951e20c5c1069b1e62fa2b8bd1b608b4ff0339f784cdba823c067.bin|
 |[aead371347463538086ba079fa7bb4cf](https://www.virustotal.com/gui/file/aead371347463538086ba079fa7bb4cf)|XLS|o97m|2019-09-23 03:52:32| |
 |[6c4855868e19d94ff28bba8fd0386ae0](https://www.virustotal.com/gui/file/6c4855868e19d94ff28bba8fd0386ae0)|XLS||2019-09-20 05:54:32|105ad1ef2802e9bebffc3f508726f70fbfe4a665151c12cd71c526b3ba3b8fe8.bin|
@@ -102,8 +103,8 @@
 |[7c1ff03d7f14a5eabd43873bb4971b5f](https://www.virustotal.com/gui/file/7c1ff03d7f14a5eabd43873bb4971b5f)|Win32 EXE||2018-07-23 22:51:10|NanoCoreFUD_01.exe|
 |[b772360c894f6f9a74e2f608d6b1e1a9](https://www.virustotal.com/gui/file/b772360c894f6f9a74e2f608d6b1e1a9)|RTF||2018-07-23 15:53:57|.|
 |[4020403d9c172c650173c4a982172dea](https://www.virustotal.com/gui/file/4020403d9c172c650173c4a982172dea)|Win32 EXE|Fareit|2018-07-23 12:41:04|Autmatically|
-|[5d89a28d952611f9789b69061b53a297](https://www.virustotal.com/gui/file/5d89a28d952611f9789b69061b53a297)|Win32 EXE||2018-07-23 12:40:14|Woolley3|
 |[fe5e6312d0d002d8d9c65f59b9a890fc](https://www.virustotal.com/gui/file/fe5e6312d0d002d8d9c65f59b9a890fc)|Win32 EXE|Fareit|2018-07-23 12:40:14|Unattempered|
+|[5d89a28d952611f9789b69061b53a297](https://www.virustotal.com/gui/file/5d89a28d952611f9789b69061b53a297)|Win32 EXE||2018-07-23 12:40:14|Woolley3|
 |[d4addc71771aab03588807824cfff681](https://www.virustotal.com/gui/file/d4addc71771aab03588807824cfff681)|Win32 EXE|tspy|2018-07-23 12:40:06|myfile.exe|
 |[45871ed002cf2573df1905dba2b276fe](https://www.virustotal.com/gui/file/45871ed002cf2573df1905dba2b276fe)|Win32 EXE|Kryptik|2018-07-23 12:39:22|myfile.exe|
 |[6675f4f4e11a193eb3898a156355b675](https://www.virustotal.com/gui/file/6675f4f4e11a193eb3898a156355b675)|DOCM||2018-07-23 10:05:36|DHL RECEIPT.doc|
@@ -583,11 +584,11 @@
 |[9ee8f249c8013264550fbc16fba90408](https://www.virustotal.com/gui/file/9ee8f249c8013264550fbc16fba90408)|RTF||2018-04-27 06:22:35|myfile.exe|
 |[7883835d2113076d06ee9ed31c8fbe36](https://www.virustotal.com/gui/file/7883835d2113076d06ee9ed31c8fbe36)|RTF||2018-04-27 06:21:16|myfile.exe|
 |[907f7790256f4b5dc9f798b5c32aae14](https://www.virustotal.com/gui/file/907f7790256f4b5dc9f798b5c32aae14)|XLS|o97m|2018-04-27 06:08:52|Purchase Sales Contract..xls|
+|[fc0879a2676746c69bbbeea19e53bb2b](https://www.virustotal.com/gui/file/fc0879a2676746c69bbbeea19e53bb2b)|Win32 EXE||2018-04-27 06:01:03|myfile.exe|
 |[233f9fd4175c6f3428956ba2599075e7](https://www.virustotal.com/gui/file/233f9fd4175c6f3428956ba2599075e7)|Win32 EXE|Delf|2018-04-27 06:01:03|myfile.exe|
 |[e032007d5e7f0a3336d1741cdb90b4cc](https://www.virustotal.com/gui/file/e032007d5e7f0a3336d1741cdb90b4cc)|DOCM||2018-04-27 06:01:03|myfile.exe|
-|[fc0879a2676746c69bbbeea19e53bb2b](https://www.virustotal.com/gui/file/fc0879a2676746c69bbbeea19e53bb2b)|Win32 EXE||2018-04-27 06:01:03|myfile.exe|
-|[bdac00dce7585f971f13f8d96b5e921b](https://www.virustotal.com/gui/file/bdac00dce7585f971f13f8d96b5e921b)|DOCM||2018-04-27 06:01:02|myfile.exe|
 |[058bf1e8af9fc7cd82505d497fe65ebd](https://www.virustotal.com/gui/file/058bf1e8af9fc7cd82505d497fe65ebd)|Win32 EXE|LokiBot|2018-04-27 06:01:02|myfile.exe|
+|[bdac00dce7585f971f13f8d96b5e921b](https://www.virustotal.com/gui/file/bdac00dce7585f971f13f8d96b5e921b)|DOCM||2018-04-27 06:01:02|myfile.exe|
 |[5362d9be25e90cd06ba2b5be83b952f2](https://www.virustotal.com/gui/file/5362d9be25e90cd06ba2b5be83b952f2)|DOCM||2018-04-27 05:36:20|myfile.exe|
 |[6da8891fb800ab69248ab7fb447e8636](https://www.virustotal.com/gui/file/6da8891fb800ab69248ab7fb447e8636)|Win32 EXE||2018-04-27 05:08:11|Phenate1|
 |[152934da09055470e558e8919833659e](https://www.virustotal.com/gui/file/152934da09055470e558e8919833659e)|RTF||2018-04-27 03:27:19|myfile.exe|
@@ -725,8 +726,8 @@
 |[a9298d47c5621b9be12878e2a22f7622](https://www.virustotal.com/gui/file/a9298d47c5621b9be12878e2a22f7622)|RTF|emodldr|2018-04-05 11:07:43|7.doc|
 |[862a4f0a49f5694ab1faf8c1de3a9fa6](https://www.virustotal.com/gui/file/862a4f0a49f5694ab1faf8c1de3a9fa6)|RTF|emodldr|2018-04-05 11:07:43|/var/www/clean-mx/virusesevidence/output.113082134.txt|
 |[75183c351679255fd2a0f1239b6f4a1e](https://www.virustotal.com/gui/file/75183c351679255fd2a0f1239b6f4a1e)|RTF|emodldr|2018-04-05 11:07:42|/var/www/clean-mx/virusesevidence/output.113176786.txt|
-|[cadf03649a459b5f8fef51ab05ed43f5](https://www.virustotal.com/gui/file/cadf03649a459b5f8fef51ab05ed43f5)|RTF|emodldr|2018-04-05 11:07:39|/var/www/clean-mx/virusesevidence/output.113082111.txt|
 |[cfa76c4452423b8bebcf10b9692fab18](https://www.virustotal.com/gui/file/cfa76c4452423b8bebcf10b9692fab18)|RTF|emodldr|2018-04-05 11:07:39|/var/www/clean-mx/virusesevidence/output.113082125.txt|
+|[cadf03649a459b5f8fef51ab05ed43f5](https://www.virustotal.com/gui/file/cadf03649a459b5f8fef51ab05ed43f5)|RTF|emodldr|2018-04-05 11:07:39|/var/www/clean-mx/virusesevidence/output.113082111.txt|
 |[835b6d5d8e3195308479a927dea3e1bd](https://www.virustotal.com/gui/file/835b6d5d8e3195308479a927dea3e1bd)|RTF|emodldr|2018-04-05 11:07:36|10.doc|
 |[96828ba6c1491266e5329a2b4ce64b06](https://www.virustotal.com/gui/file/96828ba6c1491266e5329a2b4ce64b06)|RTF|emodldr|2018-04-05 11:07:33|3.doc|
 |[cdb0fb687c9b75340d6d4e93f4cb7680](https://www.virustotal.com/gui/file/cdb0fb687c9b75340d6d4e93f4cb7680)|RTF|emodldr|2018-04-05 11:07:30|/var/www/clean-mx/virusesevidence/output.113082122.txt|
@@ -1046,4 +1047,3 @@
 |[5698549ab5177a527ad69eb235f445df](https://www.virustotal.com/gui/file/5698549ab5177a527ad69eb235f445df)|Win32 EXE|autoit|2016-11-25 04:38:54|putty(1).exe|
 |[5ad186d503a5ce6db2c8ef5e13723154](https://www.virustotal.com/gui/file/5ad186d503a5ce6db2c8ef5e13723154)|DOC||2016-11-25 04:23:05| |
 |[4471b941c72f3ea1188e814bc569b66d](https://www.virustotal.com/gui/file/4471b941c72f3ea1188e814bc569b66d)|Win32 EXE||2013-11-16 07:22:03|myfile.exe|
-|[85e12cab0cf1f599007e693e66f42de8](https://www.virustotal.com/gui/file/85e12cab0cf1f599007e693e66f42de8)|DOCX||2019-12-16 19:41:25|Cronograma Executivo - Reservas (1).docx|

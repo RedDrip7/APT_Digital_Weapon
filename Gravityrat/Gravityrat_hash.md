@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[ec629f648434fc3d17e9561532d038c8](https://www.virustotal.com/gui/file/ec629f648434fc3d17e9561532d038c8)|Win32 EXE||2018-04-05 06:35:12|LSASS.exe|
 |[d7115f8ddbc431c7968aebbc842d65d7](https://www.virustotal.com/gui/file/d7115f8ddbc431c7968aebbc842d65d7)|DOCM|GravityRAT|2018-04-04 07:34:19|documentx.doc|

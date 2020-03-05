@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[dbc79b43edf56d75092b91589ad1d594](https://www.virustotal.com/gui/file/dbc79b43edf56d75092b91589ad1d594)|Win32 EXE||2019-09-25 09:05:49|HMH.exe|
 |[83858d72745976b3e53d9bb4268ba283](https://www.virustotal.com/gui/file/83858d72745976b3e53d9bb4268ba283)|Win32 EXE||2019-09-25 09:05:38|HMH.exe|

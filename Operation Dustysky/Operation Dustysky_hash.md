@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[c9a0e0c04b27276fcce552cf175b2c82](https://www.virustotal.com/gui/file/c9a0e0c04b27276fcce552cf175b2c82)|Win32 EXE|Kryptik|2017-11-12 17:56:38|c9a0e0c04b27276fcce552cf175b2c82.virus|
 |[9416cc6841ad0b373b81af87586ec0e4](https://www.virustotal.com/gui/file/9416cc6841ad0b373b81af87586ec0e4)|Win32 EXE|Kryptik|2017-10-29 17:35:39|Application v1.6.exe|

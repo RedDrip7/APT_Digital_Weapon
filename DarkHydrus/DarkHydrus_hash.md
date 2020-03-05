@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[a0ef3ec023a8c1d6a104ebcb9efe2fbe](https://www.virustotal.com/gui/file/a0ef3ec023a8c1d6a104ebcb9efe2fbe)|Win32 EXE||2019-08-30 10:09:41|win7.exe|
 |[17666d1c19811c30ba1692642cd1733b](https://www.virustotal.com/gui/file/17666d1c19811c30ba1692642cd1733b)|Win32 EXE||2019-08-30 09:10:51|C:\users\public\documents\alyacservice\alyacservice.exe|

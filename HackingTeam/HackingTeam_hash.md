@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[8a64017953d0840323318bc224bab9c7](https://www.virustotal.com/gui/file/8a64017953d0840323318bc224bab9c7)|SWF|CVE-2018-15982|2018-12-25 12:17:25|swf_exploit|
 |[1cbc626abbe10a4fae6abf0f405c35e2](https://www.virustotal.com/gui/file/1cbc626abbe10a4fae6abf0f405c35e2)|Win32 EXE||2018-11-30 06:24:45|backup.exe|

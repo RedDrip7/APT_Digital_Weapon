@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[497de9d388d23bf8ae7230d80652af69](https://www.virustotal.com/gui/file/497de9d388d23bf8ae7230d80652af69)|Win32 EXE||2016-12-20 21:05:22|497de9d388d23bf8ae7230d80652af69_FjsXKLZIiPfhL.EXe|
 |[f67b65b9346ee75a26f491b70bf6091b](https://www.virustotal.com/gui/file/f67b65b9346ee75a26f491b70bf6091b)|Win32 EXE||2016-12-20 09:21:17|myfile.exe|

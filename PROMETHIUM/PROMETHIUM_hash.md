@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[cc428ca32394bfd147ec615fe608ebcd](https://www.virustotal.com/gui/file/cc428ca32394bfd147ec615fe608ebcd)|GZIP|filecoder|2019-07-10 09:06:45| |
 |[263fd208754ff500b72d6fa2d76f096c](https://www.virustotal.com/gui/file/263fd208754ff500b72d6fa2d76f096c)|Win32 EXE|filecoder|2019-07-03 05:08:54|wvsvcs32.exe|

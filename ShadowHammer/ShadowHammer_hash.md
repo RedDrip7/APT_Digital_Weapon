@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[c778fc8e816061420c537db2617e0297](https://www.virustotal.com/gui/file/c778fc8e816061420c537db2617e0297)|Win32 EXE|shadowhammer|2019-08-21 02:38:22| |
 |[95b6adbcef914a4df092f4294473252f](https://www.virustotal.com/gui/file/95b6adbcef914a4df092f4294473252f)|Win32 EXE|hackedapp|2019-07-23 20:27:04| |

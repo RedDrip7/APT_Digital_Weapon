@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[cc71620de7216b186da2c9ba06703613](https://www.virustotal.com/gui/file/cc71620de7216b186da2c9ba06703613)|Win32 DLL||2018-05-02 22:00:44|cc71620de7216b186da2c9ba06703613.virus|
 |[71ced11505965c104377e934fcb1e30b](https://www.virustotal.com/gui/file/71ced11505965c104377e934fcb1e30b)|Win32 EXE|Kryptik|2018-04-27 15:02:18|71ced11505965c104377e934fcb1e30b.virus|

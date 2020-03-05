@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[bcae706c00e07936fc41ac47d671fc40](https://www.virustotal.com/gui/file/bcae706c00e07936fc41ac47d671fc40)|Win32 EXE|bitrep|2017-07-25 09:55:09|ZPP.exe|
 |[a60a32f21ac1a2ec33135a650aa8dc71](https://www.virustotal.com/gui/file/a60a32f21ac1a2ec33135a650aa8dc71)|Win32 DLL|bodegun|2017-07-25 09:54:56|vminst.tmp|

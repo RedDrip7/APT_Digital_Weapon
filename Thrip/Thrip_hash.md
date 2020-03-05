@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[4d2ee532a6d5abf2a9a8125f8d05d16b](https://www.virustotal.com/gui/file/4d2ee532a6d5abf2a9a8125f8d05d16b)|Win32 DLL|graftor|2019-05-07 02:19:29| |
 |[579b88cfd43c4628855920abc120bcde](https://www.virustotal.com/gui/file/579b88cfd43c4628855920abc120bcde)|Win64 DLL|Kryptik|2019-04-30 20:41:20|579b88cfd43c4628855920abc120bcde.virus|

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[78efe80384fa759964c9ea8bada3ac8d](https://www.virustotal.com/gui/file/78efe80384fa759964c9ea8bada3ac8d)|Win32 EXE|Gandcrab|2019-02-19 08:07:38|myfile.exe|
 |[78d93945883911ff5e64057cf3c70e2e](https://www.virustotal.com/gui/file/78d93945883911ff5e64057cf3c70e2e)|Win32 EXE|Gandcrab|2019-02-19 08:04:07| |

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[3b5baecd61190e12a526c51d5ecccbbe](https://www.virustotal.com/gui/file/3b5baecd61190e12a526c51d5ecccbbe)|HTML||2018-09-17 14:51:55|3b5baecd61190e12a526c51d5ecccbbe.virus|
 |[3a3ae909caee915af927c29a6025d16c](https://www.virustotal.com/gui/file/3a3ae909caee915af927c29a6025d16c)|Win32 EXE|razy|2018-09-17 14:20:28|Visual Studio setup bootstrapper|

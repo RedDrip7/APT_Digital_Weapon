@@ -1,7 +1,29 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
+|[3774879dc6653a9c9649fa10e39d7230](https://www.virustotal.com/gui/file/3774879dc6653a9c9649fa10e39d7230)|DOC||2019-12-28 04:56:42|pos.dot|
+|[f54c06edae339a973fed6c2f5fb60ca2](https://www.virustotal.com/gui/file/f54c06edae339a973fed6c2f5fb60ca2)|DOCX||2019-12-27 16:36:31|71001791.docx|
+|[9ee8bd0d8ba5f281fa92ff22f79b751d](https://www.virustotal.com/gui/file/9ee8bd0d8ba5f281fa92ff22f79b751d)|DOC||2019-12-06 11:05:46|nato.dot|
+|[4affa059d3e5f3bb7983d9a05c4b111b](https://www.virustotal.com/gui/file/4affa059d3e5f3bb7983d9a05c4b111b)|DOCX||2019-12-06 08:00:04|contact.docx|
+|[0b87e68ce08f4043a9407707c419c4a3](https://www.virustotal.com/gui/file/0b87e68ce08f4043a9407707c419c4a3)|DOCX||2019-12-03 14:21:10|D:\Download\0f431af2019932d4a2956911583dcb5aacdaf3810ca43a31d40f701ada6693fb.bin|
+|[212d71fe48597a4f8c567422d60eafbb](https://www.virustotal.com/gui/file/212d71fe48597a4f8c567422d60eafbb)|DOCX||2019-11-29 07:33:12|Запит_СБУ.docx|
+|[bc4fde585ccb356cde8ac2f543fa27b4](https://www.virustotal.com/gui/file/bc4fde585ccb356cde8ac2f543fa27b4)|DOCX||2019-11-28 10:35:58|1f185b6d28c8e87142d8fb0f8172caf56924ab1812c3dca218b7da5e01d23b54.bin|
+|[6313ba6679b19b5a8b9ca829edcae2a0](https://www.virustotal.com/gui/file/6313ba6679b19b5a8b9ca829edcae2a0)|DOCX||2019-11-26 15:33:06|ba962aeef2ae951306da0196301b2fe8fa1ac668400b1ea5f44a4aefb3ee5dc2.bin|
+|[33f67d594049e04822e207ee5b442df7](https://www.virustotal.com/gui/file/33f67d594049e04822e207ee5b442df7)|DOCX||2019-11-26 15:29:39|f8c110022c7c8d03f60d5a53cbafbe9ea2b54cdc596e31b3f8e3ff203c2733bd.bin|
+|[ba9b05847e50e508ee2decd9dde42032](https://www.virustotal.com/gui/file/ba9b05847e50e508ee2decd9dde42032)|DOC||2019-11-26 07:26:21|yota.dot|
+|[ba0cf841188e1e81d07475f93296270d](https://www.virustotal.com/gui/file/ba0cf841188e1e81d07475f93296270d)|DOCX||2019-11-25 14:39:20|Запит_СЗР.docx|
+|[af965a38a900a248222ab45d329bd328](https://www.virustotal.com/gui/file/af965a38a900a248222ab45d329bd328)|DOCX||2019-11-25 14:34:59|730074e62545c3075aace0eb0d4fbb31717f0845651e990224c0ace3618e5a1b.bin|
+|[64bc5a0ee79b1cc88e8858b858fc6782](https://www.virustotal.com/gui/file/64bc5a0ee79b1cc88e8858b858fc6782)|DOCX||2019-11-25 14:31:21|Запит_СЗР.docx|
+|[6e359f1c1d36c6a8a5f19bfb5bbafbf2](https://www.virustotal.com/gui/file/6e359f1c1d36c6a8a5f19bfb5bbafbf2)|DOC||2019-11-25 13:43:25|yota.dot|
+|[57f315e2e991ae79b476b0ede9053f9a](https://www.virustotal.com/gui/file/57f315e2e991ae79b476b0ede9053f9a)|ZIP||2019-11-25 12:37:10|запит.docx|
+|[bcdcc72117c2db1b0eb9eb228d150bac](https://www.virustotal.com/gui/file/bcdcc72117c2db1b0eb9eb228d150bac)|ZIP||2019-11-25 12:35:04|zapit.docx|
+|[4778869cf2564b14b6bbf4baf361469a](https://www.virustotal.com/gui/file/4778869cf2564b14b6bbf4baf361469a)|DOCX||2019-11-25 12:24:29|47723574d99719733f87e1859e80cfbd88c5c482428344593d2d025bf2108368.bin|
+|[10a52e38cfde59cb604f9022ef62c1fd](https://www.virustotal.com/gui/file/10a52e38cfde59cb604f9022ef62c1fd)|DOCX||2019-11-21 20:03:33|343_9130.docx|
+|[85d07e3a3120e6756632f62c03923a1e](https://www.virustotal.com/gui/file/85d07e3a3120e6756632f62c03923a1e)|DOCX||2019-11-21 14:46:46|647dfdf939de6a8d9f7572c389910c8fe4b469676162e6f02e23ef79e3be4868.bin|
+|[6540a2b273cfb57af53b619da4c8ecd8](https://www.virustotal.com/gui/file/6540a2b273cfb57af53b619da4c8ecd8)|DOCX||2019-11-19 08:57:23|Матеріали.docx|
+|[d3057705590e38b9b06e6147b2f57011](https://www.virustotal.com/gui/file/d3057705590e38b9b06e6147b2f57011)|DOCX||2019-11-18 10:26:49|провадження.docx|
 |[6bf9d9d41243568dc917df768de68529](https://www.virustotal.com/gui/file/6bf9d9d41243568dc917df768de68529)|TXT||2019-11-13 21:57:42|VirusShare_6bf9d9d41243568dc917df768de68529|
 |[75ad80c780417092a27fa7af45638810](https://www.virustotal.com/gui/file/75ad80c780417092a27fa7af45638810)|DOCX||2019-11-11 10:47:13|64c6a60f51761b22b94914a6974e8478aad05b7f91ba87ddd8c1d1fb079e4249.bin|
+|[989cd417ec7cffa3ec1f7ca022f20a51](https://www.virustotal.com/gui/file/989cd417ec7cffa3ec1f7ca022f20a51)|DOCX||2019-11-11 10:24:25|bcbc916f37d20f9dfe2c747095d901791e1e4fde7b49585d77c1e1f0288aa193.bin|
 |[82b1e8b44adbbbf67e6bc4535eb02849](https://www.virustotal.com/gui/file/82b1e8b44adbbbf67e6bc4535eb02849)|DOCX||2019-11-08 16:15:21|Запит.docx|
 |[b221647d110bd2be2c6e9c5d727ca8db](https://www.virustotal.com/gui/file/b221647d110bd2be2c6e9c5d727ca8db)|DOCX||2019-11-07 17:26:43|da1291742f5bcbe2d5c44aaae4fccd86b539fa68e679f0994bb681b391c8f3ce.bin|
 |[dbf4f92852cdae17aa3f2b1234f0140e](https://www.virustotal.com/gui/file/dbf4f92852cdae17aa3f2b1234f0140e)|DOCX||2019-11-07 13:16:52|b3b06267814370d32ea0ab8bd802bcaef127ad98ee41d9c805555efbd1a8b187.bin|
@@ -14,6 +36,8 @@
 |[a910ff1e23f1c3f31298b974c3ab472d](https://www.virustotal.com/gui/file/a910ff1e23f1c3f31298b974c3ab472d)|Win32 EXE||2019-09-13 08:04:35|WinWord|
 |[6fa30bb816deb9733b9982b5f7ad84ae](https://www.virustotal.com/gui/file/6fa30bb816deb9733b9982b5f7ad84ae)|DOCX||2019-09-10 10:42:52|PARP.docx|
 |[8811849f9eee5a7c90e484ce64567b67](https://www.virustotal.com/gui/file/8811849f9eee5a7c90e484ce64567b67)|DOCX||2019-09-10 10:41:24|Planning.docx|
+|[99764e3edf488b60d18123ef768d20f0](https://www.virustotal.com/gui/file/99764e3edf488b60d18123ef768d20f0)|DOCX||2019-09-10 08:09:44|e68001e37577a909804009dcbdfd9d25a40e0f750475922195d2649f3d207821.bin|
+|[e3ea809b92b17225eb8ffc5ab3b68541](https://www.virustotal.com/gui/file/e3ea809b92b17225eb8ffc5ab3b68541)|DOCX||2019-09-09 13:01:01|f071e1338464c6d05913cbef422956c8fd6863c66199e4b48cc5ca598f346a9f.bin|
 |[bdc577cc1302b7b89552ce843af1ceae](https://www.virustotal.com/gui/file/bdc577cc1302b7b89552ce843af1ceae)|DOC|o97m|2019-09-06 12:15:01|internet.dot|
 |[727de5973be8e005eea75916d39f4577](https://www.virustotal.com/gui/file/727de5973be8e005eea75916d39f4577)|DOCX||2019-09-05 13:20:02|=?UTF-8?B?0L/RgNC+0YLQvtC60L7Quy5kb2N4?=|
 |[b7d85299085f6988074a3ccbeb765866](https://www.virustotal.com/gui/file/b7d85299085f6988074a3ccbeb765866)|Win32 EXE||2019-09-05 12:46:45|Email LibreOffice|
@@ -175,9 +199,9 @@
 |[aec091aa478a9e2a419cba10fdc8c04b](https://www.virustotal.com/gui/file/aec091aa478a9e2a419cba10fdc8c04b)|unknown||2018-10-13 21:21:16| |
 |[9ef80aade8845222a8966e1db1219390](https://www.virustotal.com/gui/file/9ef80aade8845222a8966e1db1219390)|Win32 EXE||2018-10-13 21:06:57|/var/vb100/rep_file_pool///000219/7891/9ef80aade8845222a8966e1db1219390|
 |[ac07567f2735a26d3d973b605d38ec92](https://www.virustotal.com/gui/file/ac07567f2735a26d3d973b605d38ec92)|unknown||2018-10-13 19:45:59| |
-|[e0dfc17c215b7b767370dabcb39abff8](https://www.virustotal.com/gui/file/e0dfc17c215b7b767370dabcb39abff8)|unknown||2018-10-12 15:26:58|%TEMP%\7zipsfx.000\cookies.cmd|
 |[8ae5f3d79c4da3741bf9388543fe7479](https://www.virustotal.com/gui/file/8ae5f3d79c4da3741bf9388543fe7479)|Text||2018-10-12 15:26:58|f715505bce521c2d826f1e8237b582a2831082b5e2632600ad07c95072829a62.sample|
 |[f53abf8ec98d18088ae1e65c53a38320](https://www.virustotal.com/gui/file/f53abf8ec98d18088ae1e65c53a38320)|unknown||2018-10-12 15:26:58|8d46246696fc2bed3531aadc9e1bae4086bd32a39ed9d0cfb51e804a44337c38.sample|
+|[e0dfc17c215b7b767370dabcb39abff8](https://www.virustotal.com/gui/file/e0dfc17c215b7b767370dabcb39abff8)|unknown||2018-10-12 15:26:58|%TEMP%\7zipsfx.000\cookies.cmd|
 |[649e69583e86412115ecaf926b5d2b20](https://www.virustotal.com/gui/file/649e69583e86412115ecaf926b5d2b20)|LNK||2018-10-12 15:24:00|%TEMP%\7zipsfx.000\cookieserr.lnk|
 |[3d34f5cf65db1edd81b511c5e2dbe4e3](https://www.virustotal.com/gui/file/3d34f5cf65db1edd81b511c5e2dbe4e3)|Win32 DLL|razy|2018-10-12 01:57:50|3d34f5cf65db1edd81b511c5e2dbe4e3.virus|
 |[07451ce00b2bf8b4722f72442e4e1c80](https://www.virustotal.com/gui/file/07451ce00b2bf8b4722f72442e4e1c80)|unknown||2018-10-12 00:34:38| |
@@ -232,27 +256,3 @@
 |[834c709455bfefb9b0e8976bad13a8f4](https://www.virustotal.com/gui/file/834c709455bfefb9b0e8976bad13a8f4)|Win32 EXE||2012-06-21 21:20:32|myfile.exe|
 |[2d041b4a4e8870464542aad3435dfafd](https://www.virustotal.com/gui/file/2d041b4a4e8870464542aad3435dfafd)|Win32 EXE||2009-05-08 16:30:01|C:\Новая папка\win.exe|
 |[bd126a7b59d5d1f97ba89a3e71425731](https://www.virustotal.com/gui/file/bd126a7b59d5d1f97ba89a3e71425731)|Win32 EXE||2009-04-25 23:42:23|%TEMP%\6349.tmp\wget.exe|
-|[3774879dc6653a9c9649fa10e39d7230](https://www.virustotal.com/gui/file/3774879dc6653a9c9649fa10e39d7230)|DOC||2019-12-28 04:56:42|pos.dot|
-|[f54c06edae339a973fed6c2f5fb60ca2](https://www.virustotal.com/gui/file/f54c06edae339a973fed6c2f5fb60ca2)|DOCX||2019-12-27 16:36:31|71001791.docx|
-|[9ee8bd0d8ba5f281fa92ff22f79b751d](https://www.virustotal.com/gui/file/9ee8bd0d8ba5f281fa92ff22f79b751d)|DOC||2019-12-06 11:05:46|nato.dot|
-|[4affa059d3e5f3bb7983d9a05c4b111b](https://www.virustotal.com/gui/file/4affa059d3e5f3bb7983d9a05c4b111b)|DOCX||2019-12-06 08:00:04|contact.docx|
-|[0b87e68ce08f4043a9407707c419c4a3](https://www.virustotal.com/gui/file/0b87e68ce08f4043a9407707c419c4a3)|DOCX||2019-12-03 14:21:10|D:\Download\0f431af2019932d4a2956911583dcb5aacdaf3810ca43a31d40f701ada6693fb.bin|
-|[212d71fe48597a4f8c567422d60eafbb](https://www.virustotal.com/gui/file/212d71fe48597a4f8c567422d60eafbb)|DOCX||2019-11-29 07:33:12|Запит_СБУ.docx|
-|[bc4fde585ccb356cde8ac2f543fa27b4](https://www.virustotal.com/gui/file/bc4fde585ccb356cde8ac2f543fa27b4)|DOCX||2019-11-28 10:35:58|1f185b6d28c8e87142d8fb0f8172caf56924ab1812c3dca218b7da5e01d23b54.bin|
-|[6313ba6679b19b5a8b9ca829edcae2a0](https://www.virustotal.com/gui/file/6313ba6679b19b5a8b9ca829edcae2a0)|DOCX||2019-11-26 15:33:06|ba962aeef2ae951306da0196301b2fe8fa1ac668400b1ea5f44a4aefb3ee5dc2.bin|
-|[33f67d594049e04822e207ee5b442df7](https://www.virustotal.com/gui/file/33f67d594049e04822e207ee5b442df7)|DOCX||2019-11-26 15:29:39|f8c110022c7c8d03f60d5a53cbafbe9ea2b54cdc596e31b3f8e3ff203c2733bd.bin|
-|[ba9b05847e50e508ee2decd9dde42032](https://www.virustotal.com/gui/file/ba9b05847e50e508ee2decd9dde42032)|DOC||2019-11-26 07:26:21|yota.dot|
-|[ba0cf841188e1e81d07475f93296270d](https://www.virustotal.com/gui/file/ba0cf841188e1e81d07475f93296270d)|DOCX||2019-11-25 14:39:20|Запит_СЗР.docx|
-|[af965a38a900a248222ab45d329bd328](https://www.virustotal.com/gui/file/af965a38a900a248222ab45d329bd328)|DOCX||2019-11-25 14:34:59|730074e62545c3075aace0eb0d4fbb31717f0845651e990224c0ace3618e5a1b.bin|
-|[64bc5a0ee79b1cc88e8858b858fc6782](https://www.virustotal.com/gui/file/64bc5a0ee79b1cc88e8858b858fc6782)|DOCX||2019-11-25 14:31:21|Запит_СЗР.docx|
-|[6e359f1c1d36c6a8a5f19bfb5bbafbf2](https://www.virustotal.com/gui/file/6e359f1c1d36c6a8a5f19bfb5bbafbf2)|DOC||2019-11-25 13:43:25|yota.dot|
-|[57f315e2e991ae79b476b0ede9053f9a](https://www.virustotal.com/gui/file/57f315e2e991ae79b476b0ede9053f9a)|ZIP||2019-11-25 12:37:10|запит.docx|
-|[bcdcc72117c2db1b0eb9eb228d150bac](https://www.virustotal.com/gui/file/bcdcc72117c2db1b0eb9eb228d150bac)|ZIP||2019-11-25 12:35:04|zapit.docx|
-|[4778869cf2564b14b6bbf4baf361469a](https://www.virustotal.com/gui/file/4778869cf2564b14b6bbf4baf361469a)|DOCX||2019-11-25 12:24:29|47723574d99719733f87e1859e80cfbd88c5c482428344593d2d025bf2108368.bin|
-|[10a52e38cfde59cb604f9022ef62c1fd](https://www.virustotal.com/gui/file/10a52e38cfde59cb604f9022ef62c1fd)|DOCX||2019-11-21 20:03:33|343_9130.docx|
-|[85d07e3a3120e6756632f62c03923a1e](https://www.virustotal.com/gui/file/85d07e3a3120e6756632f62c03923a1e)|DOCX||2019-11-21 14:46:46|647dfdf939de6a8d9f7572c389910c8fe4b469676162e6f02e23ef79e3be4868.bin|
-|[6540a2b273cfb57af53b619da4c8ecd8](https://www.virustotal.com/gui/file/6540a2b273cfb57af53b619da4c8ecd8)|DOCX||2019-11-19 08:57:23|Матеріали.docx|
-|[d3057705590e38b9b06e6147b2f57011](https://www.virustotal.com/gui/file/d3057705590e38b9b06e6147b2f57011)|DOCX||2019-11-18 10:26:49|провадження.docx|
-|[989cd417ec7cffa3ec1f7ca022f20a51](https://www.virustotal.com/gui/file/989cd417ec7cffa3ec1f7ca022f20a51)|DOCX||2019-11-11 10:24:25|bcbc916f37d20f9dfe2c747095d901791e1e4fde7b49585d77c1e1f0288aa193.bin|
-|[99764e3edf488b60d18123ef768d20f0](https://www.virustotal.com/gui/file/99764e3edf488b60d18123ef768d20f0)|DOCX||2019-09-10 08:09:44|e68001e37577a909804009dcbdfd9d25a40e0f750475922195d2649f3d207821.bin|
-|[e3ea809b92b17225eb8ffc5ab3b68541](https://www.virustotal.com/gui/file/e3ea809b92b17225eb8ffc5ab3b68541)|DOCX||2019-09-09 13:01:01|f071e1338464c6d05913cbef422956c8fd6863c66199e4b48cc5ca598f346a9f.bin|

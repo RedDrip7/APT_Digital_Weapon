@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[2e9164174d266a20e4fba498ef81e420](https://www.virustotal.com/gui/file/2e9164174d266a20e4fba498ef81e420)|Win32 EXE|johnnie|2018-11-22 12:12:42|2e9164174d266a20e4fba498ef81e420.virobj|
 |[cd74dd88322431441fb1088ac7dd6715](https://www.virustotal.com/gui/file/cd74dd88322431441fb1088ac7dd6715)|RTF||2018-06-09 06:09:17|77bb403d09f2da4ebb22cadbb7606c76659977f4|

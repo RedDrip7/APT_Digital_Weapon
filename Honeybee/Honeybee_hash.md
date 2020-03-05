@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[cec4001f640f8993895a7cda682479a4](https://www.virustotal.com/gui/file/cec4001f640f8993895a7cda682479a4)|Win32 DLL|Konni|2018-08-30 11:40:28|codexgigas_be99b95e8051471f3eb7439ded9cc82801997eb7|
 |[81aa0527c789098f90c38967b276e331](https://www.virustotal.com/gui/file/81aa0527c789098f90c38967b276e331)|Win32 DLL||2018-02-09 04:29:50|81aa0527c789098f90c38967b276e331.virus|

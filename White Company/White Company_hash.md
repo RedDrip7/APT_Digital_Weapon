@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[c6bcd55b2a8822fe8294c149a3e35f00](https://www.virustotal.com/gui/file/c6bcd55b2a8822fe8294c149a3e35f00)|RTF|CVE-2015-1641|2019-06-03 06:23:11|z:\data_manual\rtf\c6bcd55b2a8822fe8294c149a3e35f00|
 |[8f8ff36a977468d615d51a5bac07242f](https://www.virustotal.com/gui/file/8f8ff36a977468d615d51a5bac07242f)|Win32 EXE||2018-11-14 00:30:19|done.exe|

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[1c2d4c95c1b4e9d5193423719a7bb075](https://www.virustotal.com/gui/file/1c2d4c95c1b4e9d5193423719a7bb075)|Win32 DLL|Zbot|2019-09-20 13:24:23| |
 |[1ad16f26272b2148f2969538f40b0b5a](https://www.virustotal.com/gui/file/1ad16f26272b2148f2969538f40b0b5a)|Win32 DLL|Ursu|2019-05-26 10:03:17|lkajdslfjalkjdsfklasdfkajfdl.dll|

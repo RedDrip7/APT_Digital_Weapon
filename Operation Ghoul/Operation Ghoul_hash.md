@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[f9ef50c53a10db09fc78c123a95e8eec](https://www.virustotal.com/gui/file/f9ef50c53a10db09fc78c123a95e8eec)|7ZIP|Zbot|2016-06-27 13:09:45|emiratesNBD_Advice.7z|
 |[55358155f96b67879938fe1a14a00dd6](https://www.virustotal.com/gui/file/55358155f96b67879938fe1a14a00dd6)|Win32 EXE|Zbot|2016-06-27 12:55:02|TeamConnect.exe|

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[aa62e73c5be24dbce7c07179faa0da63](https://www.virustotal.com/gui/file/aa62e73c5be24dbce7c07179faa0da63)|Win32 EXE|Dridex|2018-05-24 13:33:46|write|
 |[b4142bf602459ebb2eafe3727bcf802d](https://www.virustotal.com/gui/file/b4142bf602459ebb2eafe3727bcf802d)|Win32 EXE||2018-04-07 09:21:55|MONSTERCLOUD_CYBERSECURITY_CLEAN_KEY.EXE|

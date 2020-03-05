@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[0b4ad1bd093e0a2eb8968e308e900180](https://www.virustotal.com/gui/file/0b4ad1bd093e0a2eb8968e308e900180)|Win32 EXE||2019-09-26 06:29:42| |
 |[9df45e8d8619e234d0449daf2f617ba3](https://www.virustotal.com/gui/file/9df45e8d8619e234d0449daf2f617ba3)|Win32 EXE|PlugX|2018-05-02 14:03:46|bombs.exe|

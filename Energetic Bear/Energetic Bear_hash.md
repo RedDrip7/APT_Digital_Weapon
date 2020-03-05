@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[122543722bbbeb4cec9ee977157a59da](https://www.virustotal.com/gui/file/122543722bbbeb4cec9ee977157a59da)|Win32 EXE||2018-11-11 12:59:08|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/EnergeticBear/Temp.IsotopeImplant.bin|
 |[67b1d64f669eabd6f843a163edeb88a2](https://www.virustotal.com/gui/file/67b1d64f669eabd6f843a163edeb88a2)|Win32 EXE||2018-10-29 14:20:53|wsmprovav.exe|

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[86b0baee334a03c6e28130f340cc7a7b](https://www.virustotal.com/gui/file/86b0baee334a03c6e28130f340cc7a7b)|Win32 EXE||2019-06-22 22:51:16|tmp.exe|
 |[a886cbf8f8840b21eb2f662b64deb730](https://www.virustotal.com/gui/file/a886cbf8f8840b21eb2f662b64deb730)|Android||2015-09-15 02:34:28|jenetke tutaxkan yol.apk|

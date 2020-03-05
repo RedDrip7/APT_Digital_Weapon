@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[5711ac3dd15b019f558ec29e68d13ca9](https://www.virustotal.com/gui/file/5711ac3dd15b019f558ec29e68d13ca9)|Win64 EXE||2018-12-23 16:19:02|Baidu PC Faster|
 |[d0c3852e376423247ae45c24592880b6](https://www.virustotal.com/gui/file/d0c3852e376423247ae45c24592880b6)|Win64 EXE||2018-12-23 16:18:54|PC-Doctor|

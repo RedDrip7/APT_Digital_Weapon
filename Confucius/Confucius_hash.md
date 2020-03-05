@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[1517f59002b6cc98e3f74f97fb4caa70](https://www.virustotal.com/gui/file/1517f59002b6cc98e3f74f97fb4caa70)|DOCX||2019-09-12 04:15:17|Modis Hindutava Policy.docx|
 |[f27e6a256b85b80a48069c193fc244b0](https://www.virustotal.com/gui/file/f27e6a256b85b80a48069c193fc244b0)|ZIP||2019-08-03 10:47:29|AppsSLoader.ipa|

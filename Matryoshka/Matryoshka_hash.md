@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[51bf77d9ed6715ff3263a7e21e01554d](https://www.virustotal.com/gui/file/51bf77d9ed6715ff3263a7e21e01554d)|Win32 EXE|razy|2018-03-31 17:36:44|/var/www/clean-mx/virusesevidence/output.113049832.txt|
 |[4e7a323af0a135a0824c19d0ffd2a6ea](https://www.virustotal.com/gui/file/4e7a323af0a135a0824c19d0ffd2a6ea)|Win32 EXE|Kryptik|2018-03-31 09:30:22|myfile.exe|

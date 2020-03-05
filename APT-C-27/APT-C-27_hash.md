@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[314e8105f28530eb0bf54891b9b3ff69](https://www.virustotal.com/gui/file/314e8105f28530eb0bf54891b9b3ff69)|ACE|CVE-2018-20250|2019-03-17 20:06:20| |
 |[ec69819462f2c844255248bb90cae801](https://www.virustotal.com/gui/file/ec69819462f2c844255248bb90cae801)|Win32 EXE||2019-03-12 18:23:23|WriteString.exe|

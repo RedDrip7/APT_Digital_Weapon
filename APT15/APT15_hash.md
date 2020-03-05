@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[7c91d69ee49394ab960d8695a1866ec5](https://www.virustotal.com/gui/file/7c91d69ee49394ab960d8695a1866ec5)|Win32 EXE||2019-09-11 12:32:55|SquidSrv.exe|
 |[03a2f5ea0cea83e77770a4018c4469ab](https://www.virustotal.com/gui/file/03a2f5ea0cea83e77770a4018c4469ab)|Win32 EXE||2019-05-10 11:58:15|MIndexSvr.exe|

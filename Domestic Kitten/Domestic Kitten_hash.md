@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[470de3ae73f0cc51036c1b929a29d687](https://www.virustotal.com/gui/file/470de3ae73f0cc51036c1b929a29d687)|DEX||2019-09-01 10:59:05| |
 |[219a0f97ff2e6b13ef289772cc495113](https://www.virustotal.com/gui/file/219a0f97ff2e6b13ef289772cc495113)|DEX||2019-09-01 10:58:34| |

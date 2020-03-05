@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[1e19266fc9dff1480f126bd211936aac](https://www.virustotal.com/gui/file/1e19266fc9dff1480f126bd211936aac)|Win32 EXE||2019-04-05 09:30:26|919f65801a6065b533554254df39353ab4ef572a864afdfd26bb349717a49a80.bin|
 |[262d9c6c0dc9d54726738d264802ccad](https://www.virustotal.com/gui/file/262d9c6c0dc9d54726738d264802ccad)|DOC|sload|2019-03-26 22:26:14|Jose Trujillo.doc|

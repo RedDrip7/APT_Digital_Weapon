@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[f65e5bb6e35a3e28c2c878824293d939](https://www.virustotal.com/gui/file/f65e5bb6e35a3e28c2c878824293d939)|Win32 EXE|Delf|2019-07-14 21:04:25|music-14072019-2-473575936542-34728623-mp3.exe|
 |[ddf69fdd195deaca359d223f3ba90153](https://www.virustotal.com/gui/file/ddf69fdd195deaca359d223f3ba90153)|RAR|Delf|2019-07-14 16:15:11|music love.xz|

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[63ada2e84d1426c582fc48a7006b4202](https://www.virustotal.com/gui/file/63ada2e84d1426c582fc48a7006b4202)|DOC|o97m|2018-10-17 15:15:26|Doc102018.doc|
 |[92d66a5f165c57fe24e23dfe526da0bf](https://www.virustotal.com/gui/file/92d66a5f165c57fe24e23dfe526da0bf)|DOC||2018-10-16 07:54:51|/data/cfs/malshare/92d66a5f165c57fe24e23dfe526da0bf|

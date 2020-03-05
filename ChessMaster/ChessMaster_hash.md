@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[d68272ad1a13dd2ad5e0bcd29cdef637](https://www.virustotal.com/gui/file/d68272ad1a13dd2ad5e0bcd29cdef637)|Win32 DLL||2018-07-02 02:53:58|d68272ad1a13dd2ad5e0bcd29cdef637.vir|
 |[868bae53ff5ba6f909bb32ae54377b2f](https://www.virustotal.com/gui/file/868bae53ff5ba6f909bb32ae54377b2f)|unknown||2018-01-30 05:47:25|myvtfile.exe|

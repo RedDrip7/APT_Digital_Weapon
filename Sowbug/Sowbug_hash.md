@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[e4e1c98feac9356dbfcac1d8c362ab22](https://www.virustotal.com/gui/file/e4e1c98feac9356dbfcac1d8c362ab22)|Win32 EXE||2017-08-04 20:05:29|fontlib|
 |[967d60c417d70a02030938a2ee8a0b74](https://www.virustotal.com/gui/file/967d60c417d70a02030938a2ee8a0b74)|Win32 DLL||2017-05-12 08:58:26|967d60c417d70a02030938a2ee8a0b74.virus|

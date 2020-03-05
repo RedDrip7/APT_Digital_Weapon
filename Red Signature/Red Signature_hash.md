@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[bc5b0c6a5fc6559379fcb581f015938e](https://www.virustotal.com/gui/file/bc5b0c6a5fc6559379fcb581f015938e)|Win32 EXE||2018-09-06 12:48:12|SSMSPwd40.exe|
 |[dd442d6e61891d7936ab90562fcb8053](https://www.virustotal.com/gui/file/dd442d6e61891d7936ab90562fcb8053)|Win32 EXE|Zbot|2018-08-26 07:16:26|katz.exe|

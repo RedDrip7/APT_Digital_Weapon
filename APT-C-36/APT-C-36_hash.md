@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[9fb15f35f6c2ba4727cba53fb95c1179](https://www.virustotal.com/gui/file/9fb15f35f6c2ba4727cba53fb95c1179)|unknown|o97m|2019-03-20 19:04:26|Denuncia Virtual en su contra.doc|
 |[b5887fc368cc6c6f490b4a8a4d8cc469](https://www.virustotal.com/gui/file/b5887fc368cc6c6f490b4a8a4d8cc469)|Win32 EXE|injector|2019-02-17 17:21:59|ba.exe|

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[f010b0b7681ede24f96c88670784fc89](https://www.virustotal.com/gui/file/f010b0b7681ede24f96c88670784fc89)|Win32 DLL||2018-12-18 10:37:20|vc_runtime|
 |[8f41f09a0b6869ac697e40ceecf47315](https://www.virustotal.com/gui/file/8f41f09a0b6869ac697e40ceecf47315)|Win64 DLL||2016-10-25 20:23:31|mzuad|

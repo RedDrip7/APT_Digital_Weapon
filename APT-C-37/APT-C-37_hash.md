@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[9094df33aa0d6b1dd4efaf34e91a05c4](https://www.virustotal.com/gui/file/9094df33aa0d6b1dd4efaf34e91a05c4)|TXT||2019-11-10 04:57:31|1c3f370c2dc9ff3c68fb11e33b991883c7aedc97d03b88b00870c1b2d5758c3b.bin|
 |[390f975c877c2c9e10c3e564fcb1d963](https://www.virustotal.com/gui/file/390f975c877c2c9e10c3e564fcb1d963)|TXT||2019-11-08 07:45:00|dv.zip|

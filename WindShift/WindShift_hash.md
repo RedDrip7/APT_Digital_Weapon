@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[5f7e94912a1134aa7b2ffc83d4fb45b8](https://www.virustotal.com/gui/file/5f7e94912a1134aa7b2ffc83d4fb45b8)|Mach-O executable||2017-06-22 10:10:24|usrnode|
 |[6aa546f5a0831cf49ec6509c5002a1c6](https://www.virustotal.com/gui/file/6aa546f5a0831cf49ec6509c5002a1c6)|ZIP||2017-06-22 09:51:47|NPC_Agenda_230617.zip|

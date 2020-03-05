@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[a9220b25961f5151b9df0eb1cceab94b](https://www.virustotal.com/gui/file/a9220b25961f5151b9df0eb1cceab94b)|unknown||2018-11-06 15:05:27|payload_unmodified.dat|
 |[a9220ec80024b1900f3234a9c5823896](https://www.virustotal.com/gui/file/a9220ec80024b1900f3234a9c5823896)|DOCX|o97m|2018-10-25 11:14:39|609422-1571147514.docx|

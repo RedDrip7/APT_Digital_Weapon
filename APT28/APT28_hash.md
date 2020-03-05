@@ -1,6 +1,7 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[4e61e0d8bb0f674c536afde9296dd736](https://www.virustotal.com/gui/file/4e61e0d8bb0f674c536afde9296dd736)|ELF executable||2019-11-11 10:17:42|Fysbis|
+|[f3ec38b8d5a6e29db299e2eadacbcebe](https://www.virustotal.com/gui/file/f3ec38b8d5a6e29db299e2eadacbcebe)|Win32 DLL||2019-10-29 12:15:23|help.php|
 |[b54e2b724b148fa03ae9f981506587d5](https://www.virustotal.com/gui/file/b54e2b724b148fa03ae9f981506587d5)|Win32 EXE||2019-10-08 03:47:46| |
 |[6b7026e3a5ce0e2cc4bb8be955aecded](https://www.virustotal.com/gui/file/6b7026e3a5ce0e2cc4bb8be955aecded)|Win32 EXE||2019-10-07 03:10:10| |
 |[ccac33be2e9b95d5f1a44a6a7f64ed08](https://www.virustotal.com/gui/file/ccac33be2e9b95d5f1a44a6a7f64ed08)|Win32 DLL||2019-10-04 14:53:40| |
@@ -18,6 +19,7 @@
 |[e26fe7f009adb74033be0a18b2847fcc](https://www.virustotal.com/gui/file/e26fe7f009adb74033be0a18b2847fcc)|DOCM||2019-08-20 15:10:50|dttcodexgigas.b8ac400e1deb6e90fa4e2adb150c511c98bafc6e|
 |[d7f174cd44686c3afc4a9a5ac646f0db](https://www.virustotal.com/gui/file/d7f174cd44686c3afc4a9a5ac646f0db)|DOCX||2019-08-20 09:17:12|612243236.docx|
 |[ff03e53ccdf82e9310f15ec4796819e3](https://www.virustotal.com/gui/file/ff03e53ccdf82e9310f15ec4796819e3)|Win32 EXE||2019-07-31 13:28:53| |
+|[e1509c589fde2272c0d20072dfe09722](https://www.virustotal.com/gui/file/e1509c589fde2272c0d20072dfe09722)|Win32 DLL||2019-07-04 11:42:50|info.php|
 |[27e9247d28598207794424eeb5ea4b1b](https://www.virustotal.com/gui/file/27e9247d28598207794424eeb5ea4b1b)|Win32 EXE|Stealer|2019-06-06 09:19:43|dttcodexgigas.daf5bccc18e31ce72879b6c88b4a0751514051ce|
 |[57c2b46c7f2ad9aba80e4b6248f9367a](https://www.virustotal.com/gui/file/57c2b46c7f2ad9aba80e4b6248f9367a)|DOC||2019-06-06 09:19:31|dttcodexgigas.f14104ae2264d1eadfe9a1315190b4602830a814|
 |[a863c2944581bc734619bf8d6ab1aef8](https://www.virustotal.com/gui/file/a863c2944581bc734619bf8d6ab1aef8)|DOC|Stealer|2019-06-06 07:06:26|gorodpavlodar.doc|
@@ -26,6 +28,7 @@
 |[2093eff4ad465b615327e2f629ee4d38](https://www.virustotal.com/gui/file/2093eff4ad465b615327e2f629ee4d38)|Win32 DLL||2019-05-22 10:48:18|340130ef9b7faf101e0d901d8eb9181a8165ba1b0a346376a59067286b7d2dll|
 |[9158b1d2bdf03b3d316f7e6fa3afb5a6](https://www.virustotal.com/gui/file/9158b1d2bdf03b3d316f7e6fa3afb5a6)|Win32 EXE||2019-05-22 10:38:41|340130ef9b7faf101e0d901d8eb9181a8165ba1b0a346376a59067286b7d26af.sample|
 |[d51d485f98810ab1278df4e41b692761](https://www.virustotal.com/gui/file/d51d485f98810ab1278df4e41b692761)|Win64 DLL||2019-05-17 19:13:41|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/USCYBERCOM/npmproxy.dll|
+|[46d2045598c6482ce7b58497018230a9](https://www.virustotal.com/gui/file/46d2045598c6482ce7b58497018230a9)|Win32 EXE||2019-05-16 16:22:47|50-112-234(1).exe|
 |[5cd27284f1bb445fd0ae7b2518e63a5e](https://www.virustotal.com/gui/file/5cd27284f1bb445fd0ae7b2518e63a5e)|Win32 EXE||2019-05-15 11:28:31|RPCNETP.EXE|
 |[e6662d25dfbcfae46fcd9d4f7b62762b](https://www.virustotal.com/gui/file/e6662d25dfbcfae46fcd9d4f7b62762b)|Win32 EXE||2019-05-13 19:56:26|wg.exe|
 |[10d8b000a8c0d31e2055db44ce304c57](https://www.virustotal.com/gui/file/10d8b000a8c0d31e2055db44ce304c57)|Win32 EXE||2019-05-10 17:26:27|mimikatz|
@@ -34,6 +37,7 @@
 |[4b22a6f74e6c12bc4810fbee1879273d](https://www.virustotal.com/gui/file/4b22a6f74e6c12bc4810fbee1879273d)|unknown|lojax|2019-04-16 13:05:08|rpcnetp.bin|
 |[1ee5a8a123ab7b5a03f130d5336d0bc8](https://www.virustotal.com/gui/file/1ee5a8a123ab7b5a03f130d5336d0bc8)|FPX|sednit|2019-04-11 10:44:37| |
 |[fd0691b47e636741e94be095657c7831](https://www.virustotal.com/gui/file/fd0691b47e636741e94be095657c7831)|DOCM|Banload|2019-04-11 07:13:49|b40cbf38284e6a1b9157002ad564e40fad2d85ba36437cf95c3b6326ad142520.doc|
+|[545ec86c5c70f63e1921c5e58c9b7050](https://www.virustotal.com/gui/file/545ec86c5c70f63e1921c5e58c9b7050)|Win32 EXE||2019-04-10 07:41:11|Note 15-745 Kartapur corridor on April16!.exe|
 |[84adc82e6c7dba8c0b9b46cc8c00f3f1](https://www.virustotal.com/gui/file/84adc82e6c7dba8c0b9b46cc8c00f3f1)|LNK||2019-03-31 15:56:14|e259df89e065c4162b273ebb18b75ea153f9bafe30a8c6610204ccf5e3f4ebcd.bin|
 |[b236b36e8df40013bcf08dd3701264be](https://www.virustotal.com/gui/file/b236b36e8df40013bcf08dd3701264be)|Win32 EXE||2019-03-18 19:07:29|executable.3996.exe|
 |[dd59a77c0a0a6e5162bd15db1ab84c64](https://www.virustotal.com/gui/file/dd59a77c0a0a6e5162bd15db1ab84c64)|Mach-O executable|sednit|2019-03-16 23:34:38|OSX_Sofacy_Komplex|
@@ -120,8 +124,8 @@
 |[40d820a6bd7cdaac703581e5dd80ecfe](https://www.virustotal.com/gui/file/40d820a6bd7cdaac703581e5dd80ecfe)|ELF executable|VPNFilter|2018-09-26 15:00:53| |
 |[9114767e8a5fc46d5f494b401fcf743b](https://www.virustotal.com/gui/file/9114767e8a5fc46d5f494b401fcf743b)|ELF executable||2018-09-26 15:00:50| |
 |[5b4f28331b6e144e0235a6290dffe2e0](https://www.virustotal.com/gui/file/5b4f28331b6e144e0235a6290dffe2e0)|ELF executable|VPNFilter|2018-09-26 15:00:49| |
-|[ed465acf4e2227c79137f5730dc3bb47](https://www.virustotal.com/gui/file/ed465acf4e2227c79137f5730dc3bb47)|ELF executable|VPNFilter|2018-09-26 15:00:48| |
 |[0306959585cb9553329bec04164cb82d](https://www.virustotal.com/gui/file/0306959585cb9553329bec04164cb82d)|ELF executable|VPNFilter|2018-09-26 15:00:48| |
+|[ed465acf4e2227c79137f5730dc3bb47](https://www.virustotal.com/gui/file/ed465acf4e2227c79137f5730dc3bb47)|ELF executable|VPNFilter|2018-09-26 15:00:48| |
 |[ecb03c3497ef08ba07f44c5b30b2ae2d](https://www.virustotal.com/gui/file/ecb03c3497ef08ba07f44c5b30b2ae2d)|ELF executable|VPNFilter|2018-09-26 15:00:46| |
 |[d24755065b92e2e0cc7a2262bb8b3c3f](https://www.virustotal.com/gui/file/d24755065b92e2e0cc7a2262bb8b3c3f)|ELF executable|VPNFilter|2018-09-26 15:00:45| |
 |[3b073bf92551cbecde70c91f93de77aa](https://www.virustotal.com/gui/file/3b073bf92551cbecde70c91f93de77aa)|ELF executable|VPNFilter|2018-09-26 15:00:44| |
@@ -133,8 +137,8 @@
 |[a6f9d210221ab95b10178f74523c9993](https://www.virustotal.com/gui/file/a6f9d210221ab95b10178f74523c9993)|ELF executable|VPNFilter|2018-09-26 15:00:36| |
 |[8ad5c5be9f9b84fab625369f32db4a89](https://www.virustotal.com/gui/file/8ad5c5be9f9b84fab625369f32db4a89)|ELF executable|VPNFilter|2018-09-26 15:00:34| |
 |[8dfa0ff693e1f191dc943869e182f2ae](https://www.virustotal.com/gui/file/8dfa0ff693e1f191dc943869e182f2ae)|ELF executable|VPNFilter|2018-09-26 15:00:33| |
-|[fa15f3e8f775c1753976955ee1ddd24d](https://www.virustotal.com/gui/file/fa15f3e8f775c1753976955ee1ddd24d)|ELF executable|VPNFilter|2018-09-26 15:00:32| |
 |[9f5b151949e1fc24ff086f64f0862702](https://www.virustotal.com/gui/file/9f5b151949e1fc24ff086f64f0862702)|ELF executable|VPNFilter|2018-09-26 15:00:32| |
+|[fa15f3e8f775c1753976955ee1ddd24d](https://www.virustotal.com/gui/file/fa15f3e8f775c1753976955ee1ddd24d)|ELF executable|VPNFilter|2018-09-26 15:00:32| |
 |[8f81535f9c2766c1b4df9a59c863050b](https://www.virustotal.com/gui/file/8f81535f9c2766c1b4df9a59c863050b)|ELF executable|VPNFilter|2018-09-26 15:00:31| |
 |[b3598aeceb35dc79d098d751b0a6068e](https://www.virustotal.com/gui/file/b3598aeceb35dc79d098d751b0a6068e)|ELF executable|VPNFilter|2018-09-26 15:00:30| |
 |[c2d2b1412dafd6ab7ef5b4eb8f27b243](https://www.virustotal.com/gui/file/c2d2b1412dafd6ab7ef5b4eb8f27b243)|ELF executable|VPNFilter|2018-09-26 15:00:29| |
@@ -234,8 +238,8 @@
 |[0f53a8c840b533333a68e2436a2da48a](https://www.virustotal.com/gui/file/0f53a8c840b533333a68e2436a2da48a)|unknown||2018-06-06 13:04:50| |
 |[f1433d5c93fd448e3e0c3a4ca65bfe5b](https://www.virustotal.com/gui/file/f1433d5c93fd448e3e0c3a4ca65bfe5b)|ELF executable|VPNFilter|2018-06-06 13:04:48|f1433d5c93fd448e3e0c3a4ca65bfe5b.virus|
 |[1c4cebcff557c22bc821ce7e65757e94](https://www.virustotal.com/gui/file/1c4cebcff557c22bc821ce7e65757e94)|ELF executable|VPNFilter|2018-06-06 13:04:47|1c4cebcff557c22bc821ce7e65757e94.virus|
-|[d4c4e79a2a81bc9f0811beb612238b1b](https://www.virustotal.com/gui/file/d4c4e79a2a81bc9f0811beb612238b1b)|ELF executable|VPNFilter|2018-06-06 13:04:46|d4c4e79a2a81bc9f0811beb612238b1b.virus|
 |[62ff322cf8d45857f9559f8b66ea39b2](https://www.virustotal.com/gui/file/62ff322cf8d45857f9559f8b66ea39b2)|ELF executable|VPNFilter|2018-06-06 13:04:46|62ff322cf8d45857f9559f8b66ea39b2.virus|
+|[d4c4e79a2a81bc9f0811beb612238b1b](https://www.virustotal.com/gui/file/d4c4e79a2a81bc9f0811beb612238b1b)|ELF executable|VPNFilter|2018-06-06 13:04:46|d4c4e79a2a81bc9f0811beb612238b1b.virus|
 |[0773b186876da7656dc0bb937d75d364](https://www.virustotal.com/gui/file/0773b186876da7656dc0bb937d75d364)|ELF executable|VPNFilter|2018-06-06 13:04:44|0773b186876da7656dc0bb937d75d364.virus|
 |[557addcbdf83dbe8bd6f9c47ce20cc63](https://www.virustotal.com/gui/file/557addcbdf83dbe8bd6f9c47ce20cc63)|ELF executable|VPNFilter|2018-06-06 13:04:43|557addcbdf83dbe8bd6f9c47ce20cc63.virus|
 |[7c4ca045efa81cd3be46f2f7699a05b0](https://www.virustotal.com/gui/file/7c4ca045efa81cd3be46f2f7699a05b0)|ELF executable|VPNFilter|2018-06-06 13:04:41|7c4ca045efa81cd3be46f2f7699a05b0.virus|
@@ -686,7 +690,3 @@
 |[85c80d01661f88ec556579e772a5a3db](https://www.virustotal.com/gui/file/85c80d01661f88ec556579e772a5a3db)|Win32 DLL||2010-03-03 07:43:27|NetIds.dll|
 |[7f564a6a8910b513a851b2616af8d7ee](https://www.virustotal.com/gui/file/7f564a6a8910b513a851b2616af8d7ee)|Win32 EXE||2009-08-05 20:22:57|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/APT28,FancyBear/APT28,NATOPAPER,SOFACY2004.bin|
 |[f01a9a2d1e31332ed36c1a4d2839f412](https://www.virustotal.com/gui/file/f01a9a2d1e31332ed36c1a4d2839f412)|Win32 EXE||2009-02-12 22:19:48|nb.exe|
-|[f3ec38b8d5a6e29db299e2eadacbcebe](https://www.virustotal.com/gui/file/f3ec38b8d5a6e29db299e2eadacbcebe)|Win32 DLL||2019-10-29 12:15:23|help.php|
-|[e1509c589fde2272c0d20072dfe09722](https://www.virustotal.com/gui/file/e1509c589fde2272c0d20072dfe09722)|Win32 DLL||2019-07-04 11:42:50|info.php|
-|[46d2045598c6482ce7b58497018230a9](https://www.virustotal.com/gui/file/46d2045598c6482ce7b58497018230a9)|Win32 EXE||2019-05-16 16:22:47|50-112-234(1).exe|
-|[545ec86c5c70f63e1921c5e58c9b7050](https://www.virustotal.com/gui/file/545ec86c5c70f63e1921c5e58c9b7050)|Win32 EXE||2019-04-10 07:41:11|Note 15-745 Kartapur corridor on April16!.exe|

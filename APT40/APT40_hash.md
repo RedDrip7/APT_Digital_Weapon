@@ -1,5 +1,7 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
+|[2e8d758b9bce51d25ea500d7b4ce4774](https://www.virustotal.com/gui/file/2e8d758b9bce51d25ea500d7b4ce4774)|Win32 DLL||2019-12-11 21:22:26|dttcodexgigas.2ff25745be760769157950d61e5cea308cc0a7ae|
+|[8a133a382499e08811dceadcbe07357e](https://www.virustotal.com/gui/file/8a133a382499e08811dceadcbe07357e)|Win32 DLL||2019-11-21 10:16:09|fc7af68ce038b59bcdcee88e46c630036d98aeb6514580ebba0392c37114e57b.sample|
 |[5af6c9c49012dabd1468dcfa3f3e49a1](https://www.virustotal.com/gui/file/5af6c9c49012dabd1468dcfa3f3e49a1)|RTF|CVE-2017-11882|2018-12-09 10:46:48|Academic_32.doc|
 |[f8858db5b412deb29800458201912b37](https://www.virustotal.com/gui/file/f8858db5b412deb29800458201912b37)|RTF|o97m|2018-07-11 16:07:21|attachment|
 |[3c51c89078139337c2c92e084bb0904c](https://www.virustotal.com/gui/file/3c51c89078139337c2c92e084bb0904c)|C||2018-06-04 06:46:02|TOP_NEWS_Japan_to_Support_the_Election.js|
@@ -21,5 +23,3 @@
 |[e1f88bc02e9bd15cecc7ae97a009e0d2](https://www.virustotal.com/gui/file/e1f88bc02e9bd15cecc7ae97a009e0d2)|XLS|emodldr|2015-05-27 01:20:00|/home/virustotal/sample/E1F88BC02E9BD15CECC7AE97A009E0D2|
 |[d1de5bf033ee31da7babc6fa270f55bb](https://www.virustotal.com/gui/file/d1de5bf033ee31da7babc6fa270f55bb)|XLS||2015-04-07 00:25:51|/home/virustotal/sample/D1DE5BF033EE31DA7BABC6FA270F55BB|
 |[c0326d13c9619ebf6ee302cebda6cbfe](https://www.virustotal.com/gui/file/c0326d13c9619ebf6ee302cebda6cbfe)|XLS|o97m|2015-01-18 05:07:39|/home/virustotal/sample/C0326D13C9619EBF6EE302CEBDA6CBFE|
-|[2e8d758b9bce51d25ea500d7b4ce4774](https://www.virustotal.com/gui/file/2e8d758b9bce51d25ea500d7b4ce4774)|Win32 DLL||2019-12-11 21:22:26|dttcodexgigas.2ff25745be760769157950d61e5cea308cc0a7ae|
-|[8a133a382499e08811dceadcbe07357e](https://www.virustotal.com/gui/file/8a133a382499e08811dceadcbe07357e)|Win32 DLL||2019-11-21 10:16:09|fc7af68ce038b59bcdcee88e46c630036d98aeb6514580ebba0392c37114e57b.sample|

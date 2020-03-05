@@ -1,5 +1,11 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
+|[362e677b331813d8a947992e86ef4e6d](https://www.virustotal.com/gui/file/362e677b331813d8a947992e86ef4e6d)|Win32 EXE||2019-12-17 10:22:24|document.docx.scr|
+|[31bcb31b2125297c08ddebaadd3479c3](https://www.virustotal.com/gui/file/31bcb31b2125297c08ddebaadd3479c3)|JPEG||2019-11-29 09:22:20|kipr.jpg|
+|[06ae12974694b6bbbade3097ee25afff](https://www.virustotal.com/gui/file/06ae12974694b6bbbade3097ee25afff)|Win32 DLL||2019-11-28 15:15:18|skydriveshell64.bin|
+|[707b75d6c9eb5eae30b10f6353ecab4d](https://www.virustotal.com/gui/file/707b75d6c9eb5eae30b10f6353ecab4d)|Win32 EXE||2019-11-28 15:15:10|X098765432198.bin|
+|[78441abdff82636f9527d22ac0109be7](https://www.virustotal.com/gui/file/78441abdff82636f9527d22ac0109be7)|RTF||2019-11-28 10:54:36|update|
+|[a0dcbd63716b264f868cd38d7c4b494d](https://www.virustotal.com/gui/file/a0dcbd63716b264f868cd38d7c4b494d)|DOCX||2019-11-28 08:45:44|LIST_OF_ALL__COMMERCIAL_COUNSELLORS_AT_MISSIONS_ABROAD.docx|
 |[3c25a6f5e2b047214afb4c907f10cd47](https://www.virustotal.com/gui/file/3c25a6f5e2b047214afb4c907f10cd47)|Win32 EXE||2019-11-07 06:20:04|g.txt|
 |[02dd4a91651b0ddade7f32d040a27ed0](https://www.virustotal.com/gui/file/02dd4a91651b0ddade7f32d040a27ed0)|DOCX||2019-11-07 05:48:48|E-passport record.docx|
 |[e421808b24c1ebd4cf0a078c6e66ded8](https://www.virustotal.com/gui/file/e421808b24c1ebd4cf0a078c6e66ded8)|Win32 EXE||2019-10-28 20:21:39|servicce.exe|
@@ -194,9 +200,3 @@
 |[f2047c7a66bd4dd95af12dde01c0e31b](https://www.virustotal.com/gui/file/f2047c7a66bd4dd95af12dde01c0e31b)|Win32 EXE||2014-12-02 18:07:05|svchsrv.exe|
 |[0b2c62981d374fa9a291283b9743f123](https://www.virustotal.com/gui/file/0b2c62981d374fa9a291283b9743f123)|Win32 EXE|graftor|2014-10-01 00:46:26|svchsrv.exe|
 |[a9d71a4587a8a24a09deb7c0431e3b43](https://www.virustotal.com/gui/file/a9d71a4587a8a24a09deb7c0431e3b43)|Win32 EXE||2014-05-02 08:48:24|cryss|
-|[362e677b331813d8a947992e86ef4e6d](https://www.virustotal.com/gui/file/362e677b331813d8a947992e86ef4e6d)|Win32 EXE||2019-12-17 10:22:24|document.docx.scr|
-|[31bcb31b2125297c08ddebaadd3479c3](https://www.virustotal.com/gui/file/31bcb31b2125297c08ddebaadd3479c3)|JPEG||2019-11-29 09:22:20|kipr.jpg|
-|[06ae12974694b6bbbade3097ee25afff](https://www.virustotal.com/gui/file/06ae12974694b6bbbade3097ee25afff)|Win32 DLL||2019-11-28 15:15:18|skydriveshell64.bin|
-|[707b75d6c9eb5eae30b10f6353ecab4d](https://www.virustotal.com/gui/file/707b75d6c9eb5eae30b10f6353ecab4d)|Win32 EXE||2019-11-28 15:15:10|X098765432198.bin|
-|[78441abdff82636f9527d22ac0109be7](https://www.virustotal.com/gui/file/78441abdff82636f9527d22ac0109be7)|RTF||2019-11-28 10:54:36|update|
-|[a0dcbd63716b264f868cd38d7c4b494d](https://www.virustotal.com/gui/file/a0dcbd63716b264f868cd38d7c4b494d)|DOCX||2019-11-28 08:45:44|LIST_OF_ALL__COMMERCIAL_COUNSELLORS_AT_MISSIONS_ABROAD.docx|

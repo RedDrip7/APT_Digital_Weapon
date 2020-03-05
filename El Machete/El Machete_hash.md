@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[a23d27688c57fb8d1b4979c4643c7dbc](https://www.virustotal.com/gui/file/a23d27688c57fb8d1b4979c4643c7dbc)|Win32 EXE||2019-07-07 13:51:53|Down.exe|
 |[9eb9af0f63644fee49d083c1c330226b](https://www.virustotal.com/gui/file/9eb9af0f63644fee49d083c1c330226b)|Win32 EXE||2019-07-04 17:24:27|RAD OFL0120_jpg.scr|
@@ -69,8 +69,8 @@
 |[d7440cdb40bdc9fe3cca33ade82bdb96](https://www.virustotal.com/gui/file/d7440cdb40bdc9fe3cca33ade82bdb96)|Win32 EXE||2017-08-15 16:37:59|3fa4defac48a14e983a5d224bffbc81206561a559f4e393bcd6c232b0450fd23.bin|
 |[9610ac79191c356bb3e69eb046c46e11](https://www.virustotal.com/gui/file/9610ac79191c356bb3e69eb046c46e11)|Win32 EXE||2017-07-12 17:57:07|9610ac79191c356bb3e69eb046c46e11.virus|
 |[a1abc63b6659caa09207e94e24ca8773](https://www.virustotal.com/gui/file/a1abc63b6659caa09207e94e24ca8773)|PDF||2017-07-02 17:15:37|RAD-0677-CEOFANB.pdf|
-|[46b71e9f7e19d26218bd2e8df7503a71](https://www.virustotal.com/gui/file/46b71e9f7e19d26218bd2e8df7503a71)|Win32 EXE||2017-06-22 01:19:04|Java2.exe|
 |[ebe65434ed2aa8dd3c2dd862b61d7f50](https://www.virustotal.com/gui/file/ebe65434ed2aa8dd3c2dd862b61d7f50)|PDF||2017-06-22 01:19:04|NOTA_020_NY_Coordinadores_Nacionales.pdf|
+|[46b71e9f7e19d26218bd2e8df7503a71](https://www.virustotal.com/gui/file/46b71e9f7e19d26218bd2e8df7503a71)|Win32 EXE||2017-06-22 01:19:04|Java2.exe|
 |[cb0bcf05e74a16a15dbf4a944ac68bff](https://www.virustotal.com/gui/file/cb0bcf05e74a16a15dbf4a944ac68bff)|Win32 EXE||2017-06-16 21:04:44|RAVBg.scr|
 |[0a79c31c4d9c3d4f27cbe9d6e237de7b](https://www.virustotal.com/gui/file/0a79c31c4d9c3d4f27cbe9d6e237de7b)|Win32 EXE||2017-06-13 03:28:26|RAVBg.scr|
 |[a107eb5a10a86b334a211a60385877ad](https://www.virustotal.com/gui/file/a107eb5a10a86b334a211a60385877ad)|DOCX||2017-05-27 08:05:38|74a3ff07154e48bcf040105a786e1a59dc74f3e81eea729c3aff2ee356df8d7e.bin|
@@ -85,8 +85,8 @@
 |[3f72c6c806a3976386a726fc520c8348](https://www.virustotal.com/gui/file/3f72c6c806a3976386a726fc520c8348)|Win32 EXE||2017-03-23 13:14:04|RAVBg.scr|
 |[412fddf75fbd5f423da0bfd431fe7faf](https://www.virustotal.com/gui/file/412fddf75fbd5f423da0bfd431fe7faf)|Win32 EXE|dynamer|2017-03-22 19:48:49|RAVBg.scr|
 |[4287c5eed6680e0ebf48f0e4ca1b68e9](https://www.virustotal.com/gui/file/4287c5eed6680e0ebf48f0e4ca1b68e9)|PDF||2017-03-22 19:42:56|Semanario_En_Marcha_1756_11.pdf|
-|[4b68b68d1c8a23008401a4e30a3de70f](https://www.virustotal.com/gui/file/4b68b68d1c8a23008401a4e30a3de70f)|Win32 EXE||2017-03-16 16:09:57|RAVBg.exe|
 |[a76e815c94c7a876792810db0e84d437](https://www.virustotal.com/gui/file/a76e815c94c7a876792810db0e84d437)|PDF||2017-03-16 16:09:57|Citacion_Judicial_expediente_10388.pdf|
+|[4b68b68d1c8a23008401a4e30a3de70f](https://www.virustotal.com/gui/file/4b68b68d1c8a23008401a4e30a3de70f)|Win32 EXE||2017-03-16 16:09:57|RAVBg.exe|
 |[742a8c60a6942b8aa5416aad69719d55](https://www.virustotal.com/gui/file/742a8c60a6942b8aa5416aad69719d55)|Win32 EXE||2017-03-16 15:16:28|Adobe Reader|
 |[6e73e3f50e99d99f4d45bb88bb0f2bc7](https://www.virustotal.com/gui/file/6e73e3f50e99d99f4d45bb88bb0f2bc7)|Win32 EXE||2017-03-10 17:49:16|RAVBg.exe|
 |[81f0b7e18e746ddd486eb4912bdda3b4](https://www.virustotal.com/gui/file/81f0b7e18e746ddd486eb4912bdda3b4)|DOCX||2017-03-10 17:49:02|Articulo_sobre_funcionarias_de_Nicaragua.docx|
@@ -178,8 +178,8 @@
 |[2db0e8ce5164cccc75340d9b61fad91c](https://www.virustotal.com/gui/file/2db0e8ce5164cccc75340d9b61fad91c)|DOCX||2015-10-23 15:00:36|Nicaragua_denuncia_ante_la_CIJ_las.docx|
 |[d7accc228fcb5e7975415d9d3d5de44c](https://www.virustotal.com/gui/file/d7accc228fcb5e7975415d9d3d5de44c)|Win32 EXE||2015-10-23 07:00:36|jsx.scr|
 |[c3fbc02c15d361f9f4cb19881c270e5c](https://www.virustotal.com/gui/file/c3fbc02c15d361f9f4cb19881c270e5c)|Win32 EXE||2015-10-23 03:43:36|Microsoft Windows|
-|[9ccde140fb692094a9d35c87dda7d502](https://www.virustotal.com/gui/file/9ccde140fb692094a9d35c87dda7d502)|PDF||2015-10-22 17:05:19|209-707-1-PB.pdf|
 |[93b119301f15bc628d1a7726bca088d3](https://www.virustotal.com/gui/file/93b119301f15bc628d1a7726bca088d3)|Win32 EXE||2015-10-22 17:05:19|Oct.exe|
+|[9ccde140fb692094a9d35c87dda7d502](https://www.virustotal.com/gui/file/9ccde140fb692094a9d35c87dda7d502)|PDF||2015-10-22 17:05:19|209-707-1-PB.pdf|
 |[7c0e352f4e69373f7bcfe197aeb51043](https://www.virustotal.com/gui/file/7c0e352f4e69373f7bcfe197aeb51043)|Win32 EXE||2015-10-08 00:35:10|Instalar2.exe|
 |[83868405167349e6c21bf02632944a7e](https://www.virustotal.com/gui/file/83868405167349e6c21bf02632944a7e)|DOC||2015-10-02 02:32:54|PARTE_ESPECIAL_COMANDANCIA_GENERAL_DE_LA_AVIACIN_20SEP15.doc|
 |[bbeec6725e6b4a9580d4d6b641dcbbbb](https://www.virustotal.com/gui/file/bbeec6725e6b4a9580d4d6b641dcbbbb)|Win32 EXE||2015-10-01 18:32:55|jsx.scr|
@@ -190,6 +190,7 @@
 |[f083d5a693697ca7cd7b59265fb57bba](https://www.virustotal.com/gui/file/f083d5a693697ca7cd7b59265fb57bba)|DOC||2014-11-30 17:27:01|Notificacion_Judicial_No_8030923_2014.doc|
 |[7ee0ea2ca86ab0f7440fa9dac5860c1e](https://www.virustotal.com/gui/file/7ee0ea2ca86ab0f7440fa9dac5860c1e)|Windows Installer||2014-09-04 21:48:40|HotBrazilianX.pps|
 |[67593be1586fa629d9ecae84b66c6a0c](https://www.virustotal.com/gui/file/67593be1586fa629d9ecae84b66c6a0c)|Windows Installer||2014-09-01 17:19:59|Hermosa_XXX.pps|
+|[e486eddffd13bed33e68d6d8d4052270](https://www.virustotal.com/gui/file/e486eddffd13bed33e68d6d8d4052270)|Win32 EXE||2014-09-01 09:16:26|Microsoft Office Power Point|
 |[ae1614194512e79314f41a94e0fb4701](https://www.virustotal.com/gui/file/ae1614194512e79314f41a94e0fb4701)|Win32 EXE||2013-10-30 15:09:27|JavaAlq.exe|
 |[0c16147dafcea8ba09c027f92d1d154c](https://www.virustotal.com/gui/file/0c16147dafcea8ba09c027f92d1d154c)|Win32 EXE||2013-09-03 16:57:36|283dd9336093dfe8f4587879a5506058b98fa171|
 |[70c1055255e991926fad58ab93190738](https://www.virustotal.com/gui/file/70c1055255e991926fad58ab93190738)|Win32 EXE||2013-08-23 20:04:57|328a709fd919c1a1517438956f4797f84c82dbac|
@@ -208,4 +209,3 @@
 |[6800f317a97fdb16756ef5acdf85e595](https://www.virustotal.com/gui/file/6800f317a97fdb16756ef5acdf85e595)|Win32 EXE||2011-03-16 17:33:54|FinalEX.exe|
 |[9aa69ffd242bc707423307f5d62f272b](https://www.virustotal.com/gui/file/9aa69ffd242bc707423307f5d62f272b)|Win32 EXE||2011-03-10 16:02:31|final1.exe|
 |[212ab5b43f815832b0ba35752e4b7439](https://www.virustotal.com/gui/file/212ab5b43f815832b0ba35752e4b7439)|PPS||2009-05-11 20:13:05|ProfeciadeMariaenFatima.pps|
-|[e486eddffd13bed33e68d6d8d4052270](https://www.virustotal.com/gui/file/e486eddffd13bed33e68d6d8d4052270)|Win32 EXE||2014-09-01 09:16:26|Microsoft Office Power Point|

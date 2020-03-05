@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[d40f54a5fd1fb1ab2eeed9ddfedb0958](https://www.virustotal.com/gui/file/d40f54a5fd1fb1ab2eeed9ddfedb0958)|Win32 DLL||2019-10-10 20:16:45|C:\Windows\System32\oledboz.dll|
 |[436bd45652b44078d6775ee9851f2129](https://www.virustotal.com/gui/file/436bd45652b44078d6775ee9851f2129)|Win32 DLL||2016-09-11 19:11:22|nmkvm.dll|

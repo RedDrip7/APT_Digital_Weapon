@@ -1,6 +1,7 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[b8c0eb946de83fe8440fefbacf7de4a2](https://www.virustotal.com/gui/file/b8c0eb946de83fe8440fefbacf7de4a2)|Win32 DLL||2019-11-18 20:12:15|b8c0eb946de83fe8440fefbacf7de4a2.exe|
+|[f3a9e9a174772a0f6e597d4cde47c24b](https://www.virustotal.com/gui/file/f3a9e9a174772a0f6e597d4cde47c24b)|Text||2019-07-22 20:12:08|VirusShare_f3a9e9a174772a0f6e597d4cde47c24b|
 |[98dea1bce37bf7087360e1958400589b](https://www.virustotal.com/gui/file/98dea1bce37bf7087360e1958400589b)|Win32 EXE|equationdrug|2015-03-20 00:12:56|msrtvd.sys|
 |[2b444ac5209a8b4140dd6b747a996653](https://www.virustotal.com/gui/file/2b444ac5209a8b4140dd6b747a996653)|Win32 EXE|equationdrug|2015-02-17 07:40:16|hdd_driver.bin|
 |[ba39212c5b58b97bfc9f5bc431170827](https://www.virustotal.com/gui/file/ba39212c5b58b97bfc9f5bc431170827)|Win32 DLL||2015-02-16 18:34:39|/home/virustotal/sample/BA39212C5B58B97BFC9F5BC431170827|

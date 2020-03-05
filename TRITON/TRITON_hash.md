@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[e3af42af879cd82fd65b30373f805f6b](https://www.virustotal.com/gui/file/e3af42af879cd82fd65b30373f805f6b)|unknown||2019-08-17 00:48:30|repr.pyc|
 |[1904cad4927541e47d453becbd934bf0](https://www.virustotal.com/gui/file/1904cad4927541e47d453becbd934bf0)|Win32 EXE||2018-12-20 12:59:31|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/Triton/XenotimeTritonNetExecImplant.bin|

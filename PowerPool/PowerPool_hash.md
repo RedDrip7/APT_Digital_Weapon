@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[99670267cbece5f5cc3ce92efd5bb04b](https://www.virustotal.com/gui/file/99670267cbece5f5cc3ce92efd5bb04b)|Win64 DLL|agentwdcr|2018-09-04 22:14:26|99670267cbece5f5cc3ce92efd5bb04b.virus|
 |[e2bd4044fab4214c4aa7dd65d65fca21](https://www.virustotal.com/gui/file/e2bd4044fab4214c4aa7dd65d65fca21)|Win32 EXE||2018-06-04 08:04:56|1|

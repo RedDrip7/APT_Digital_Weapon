@@ -1,5 +1,13 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
+|[1144f0054db6a88c0a008ea3cdefe469](https://www.virustotal.com/gui/file/1144f0054db6a88c0a008ea3cdefe469)|RTF||2019-12-24 08:46:05|2659-1144f0054db6a88c0a008ea3cdefe469|
+|[7061ebfda7a0e11bb23c60d31eec5233](https://www.virustotal.com/gui/file/7061ebfda7a0e11bb23c60d31eec5233)|DOCX||2019-12-23 09:42:50|Visit Plan.docx|
+|[50b27138ba3957abcf9a389362bcf4ec](https://www.virustotal.com/gui/file/50b27138ba3957abcf9a389362bcf4ec)|DOCX||2019-12-23 09:38:17|19-12-19.docx|
+|[a74f38167596a674faccf734cd6832b3](https://www.virustotal.com/gui/file/a74f38167596a674faccf734cd6832b3)|TXT||2019-12-16 15:26:53|12D.rtf|
+|[54e848cea6241983eae720d79aef5e64](https://www.virustotal.com/gui/file/54e848cea6241983eae720d79aef5e64)|Win32 DLL||2019-12-16 15:25:27|Snven.dll|
+|[436ea4edf99a29257fd68604c11dddca](https://www.virustotal.com/gui/file/436ea4edf99a29257fd68604c11dddca)|Win32 DLL||2019-12-11 17:49:24|.|
+|[a0dcbd63716b264f868cd38d7c4b494d](https://www.virustotal.com/gui/file/a0dcbd63716b264f868cd38d7c4b494d)|DOCX||2019-11-28 08:45:44|LIST_OF_ALL__COMMERCIAL_COUNSELLORS_AT_MISSIONS_ABROAD.docx|
+|[1789d4590fded21dd9483e2797622ba8](https://www.virustotal.com/gui/file/1789d4590fded21dd9483e2797622ba8)|Win32 EXE||2019-11-15 05:48:41|pinfile.bin|
 |[fc652df43fdcab6e67d2f7d2c052ed06](https://www.virustotal.com/gui/file/fc652df43fdcab6e67d2f7d2c052ed06)|TXT||2019-11-14 18:52:37|.|
 |[f410a9817ac87e8fc857e1e12563bddc](https://www.virustotal.com/gui/file/f410a9817ac87e8fc857e1e12563bddc)|TXT||2019-11-14 18:03:19|.|
 |[dd0b956b68a55d1aa36f0b9d9eec8ffe](https://www.virustotal.com/gui/file/dd0b956b68a55d1aa36f0b9d9eec8ffe)|Android||2019-11-04 03:33:44|1104.apk|
@@ -9,10 +17,14 @@
 |[caaa9648138c32b8f224d8bda8503d81](https://www.virustotal.com/gui/file/caaa9648138c32b8f224d8bda8503d81)|TXT||2019-10-24 20:08:52|.|
 |[124da36fd483eb3d585f54fc525de678](https://www.virustotal.com/gui/file/124da36fd483eb3d585f54fc525de678)|RAR||2019-10-04 11:28:22|Circular_2019.rar|
 |[ea474a02275970e2601a83afd096f5d7](https://www.virustotal.com/gui/file/ea474a02275970e2601a83afd096f5d7)|Win32 EXE||2019-10-02 07:42:14| |
+|[d2fc4ab810e54f3de5c049c4d9978bdb](https://www.virustotal.com/gui/file/d2fc4ab810e54f3de5c049c4d9978bdb)|Android||2019-10-01 22:55:08|d2fc4ab810e54f3de5c049c4d9978bdb.virus|
+|[22e7ef7c3c7911b4c08ce82fde76ec72](https://www.virustotal.com/gui/file/22e7ef7c3c7911b4c08ce82fde76ec72)|Win64 DLL||2019-09-26 17:33:56|Akagi|
 |[b1efc1bfee3ff23dd92c8dc1cef6a3bd](https://www.virustotal.com/gui/file/b1efc1bfee3ff23dd92c8dc1cef6a3bd)|TXT||2019-09-26 11:03:10|DOCS|
 |[b9c8495cc573622eddb799a67ee7cb33](https://www.virustotal.com/gui/file/b9c8495cc573622eddb799a67ee7cb33)|DOCX||2019-09-26 07:07:17|pk_17e3a134ee4bcb50a9f608409853628ac619fd24cffd8d15868cf96ce63bb775 (1).docx|
 |[092357ef5e6383cd42ae679c7c1cfa86](https://www.virustotal.com/gui/file/092357ef5e6383cd42ae679c7c1cfa86)|DOCX||2019-09-26 07:02:22|pk_17e3a134ee4bcb50a9f608409853628ac619fd24cffd8d15868cf96ce63bb775.docx|
 |[21b7fc61448af8938c09007871486f58](https://www.virustotal.com/gui/file/21b7fc61448af8938c09007871486f58)|TXT||2019-09-23 23:54:15|DOCSDOC|
+|[71ab0946b6a72622aef6cdd7907479ec](https://www.virustotal.com/gui/file/71ab0946b6a72622aef6cdd7907479ec)|Win32 EXE||2019-09-23 23:20:39|Serviceflow.exe|
+|[330a4678fae2662975e850200081a1b1](https://www.virustotal.com/gui/file/330a4678fae2662975e850200081a1b1)|Win32 DLL||2019-09-21 23:10:50|Akagi|
 |[22f41b6238290913fc4d196b8423724d](https://www.virustotal.com/gui/file/22f41b6238290913fc4d196b8423724d)|Win32 EXE||2019-09-21 22:31:46|sinter.exe|
 |[fbdc1f8157274ed0b2901c24d55c1bf5](https://www.virustotal.com/gui/file/fbdc1f8157274ed0b2901c24d55c1bf5)|DOCX||2019-09-16 16:33:21| |
 |[a3318c388c82d60c5f16c40e8feec1a2](https://www.virustotal.com/gui/file/a3318c388c82d60c5f16c40e8feec1a2)|Android|program|2019-09-07 05:20:35|Rapid_Chat_v7.18.apk|
@@ -192,9 +204,9 @@
 |[c2be017b2fb3ad6f0f1c05ef10573b90](https://www.virustotal.com/gui/file/c2be017b2fb3ad6f0f1c05ef10573b90)|Win32 EXE|Ehdoor|2017-05-01 19:26:53|c2be017b2fb3ad6f0f1c05ef10573b90.virus|
 |[c4912e801677d8aa489772490fe5388a](https://www.virustotal.com/gui/file/c4912e801677d8aa489772490fe5388a)|Win32 DLL||2017-04-24 15:15:04|c4912e801677d8aa489772490fe5388a.virus|
 |[0d16496069ee7c998f2975d8e8475781](https://www.virustotal.com/gui/file/0d16496069ee7c998f2975d8e8475781)|Win32 DLL|Zbot|2017-04-24 11:56:13|0d16496069ee7c998f2975d8e8475781.virus|
-|[06e077a9d3777df42e97fafb01c8beae](https://www.virustotal.com/gui/file/06e077a9d3777df42e97fafb01c8beae)|Win32 EXE|Ehdoor|2017-04-24 11:56:13|06e077a9d3777df42e97fafb01c8beae.virus|
-|[1dfc98d3054c968e885a32c044192ddd](https://www.virustotal.com/gui/file/1dfc98d3054c968e885a32c044192ddd)|Win32 EXE||2017-04-24 11:56:13|E:/vt/malware/20170906/1dfc98d3054c968e885a32c044192ddd.vir|
 |[6b33c6c8149a469d924d7f3466a9a2ef](https://www.virustotal.com/gui/file/6b33c6c8149a469d924d7f3466a9a2ef)|Win32 EXE|Ehdoor|2017-04-24 11:56:13|6b33c6c8149a469d924d7f3466a9a2ef.virus|
+|[1dfc98d3054c968e885a32c044192ddd](https://www.virustotal.com/gui/file/1dfc98d3054c968e885a32c044192ddd)|Win32 EXE||2017-04-24 11:56:13|E:/vt/malware/20170906/1dfc98d3054c968e885a32c044192ddd.vir|
+|[06e077a9d3777df42e97fafb01c8beae](https://www.virustotal.com/gui/file/06e077a9d3777df42e97fafb01c8beae)|Win32 EXE|Ehdoor|2017-04-24 11:56:13|06e077a9d3777df42e97fafb01c8beae.virus|
 |[ba7658e80591021a7881ac7573226dbc](https://www.virustotal.com/gui/file/ba7658e80591021a7881ac7573226dbc)|Win32 EXE|johnnie|2017-04-24 09:33:42|ba7658e80591021a7881ac7573226dbc.virus|
 |[3c02d149a36bbe214e8f78a0dab58fa5](https://www.virustotal.com/gui/file/3c02d149a36bbe214e8f78a0dab58fa5)|Win32 EXE|Ehdoor|2017-04-24 09:33:26|3c02d149a36bbe214e8f78a0dab58fa5.virus|
 |[af19938fd664df46c9f85efad6833ce1](https://www.virustotal.com/gui/file/af19938fd664df46c9f85efad6833ce1)|Win32 EXE|Ehdoor|2017-04-24 09:33:15|E:/vt/malware/20170906/af19938fd664df46c9f85efad6833ce1.vir|
@@ -317,15 +329,3 @@
 |[643b54562b7a4ad0a32dc2dfe4522182](https://www.virustotal.com/gui/file/643b54562b7a4ad0a32dc2dfe4522182)|Win32 EXE|Reconyc|2014-04-29 15:10:34|26102177|
 |[a955e081f2d9e9a4f1455a53ab989428](https://www.virustotal.com/gui/file/a955e081f2d9e9a4f1455a53ab989428)|Win32 EXE||2014-04-11 03:53:20|lltDsvc32.exe|
 |[6ec82e9eccb9bee050c9f7f2750d0c7c](https://www.virustotal.com/gui/file/6ec82e9eccb9bee050c9f7f2750d0c7c)|Win32 EXE||2014-01-31 07:20:11|/var/www/clean-mx/virusesevidence/output.20077340.txt|
-|[1144f0054db6a88c0a008ea3cdefe469](https://www.virustotal.com/gui/file/1144f0054db6a88c0a008ea3cdefe469)|RTF||2019-12-24 08:46:05|2659-1144f0054db6a88c0a008ea3cdefe469|
-|[7061ebfda7a0e11bb23c60d31eec5233](https://www.virustotal.com/gui/file/7061ebfda7a0e11bb23c60d31eec5233)|DOCX||2019-12-23 09:42:50|Visit Plan.docx|
-|[50b27138ba3957abcf9a389362bcf4ec](https://www.virustotal.com/gui/file/50b27138ba3957abcf9a389362bcf4ec)|DOCX||2019-12-23 09:38:17|19-12-19.docx|
-|[a74f38167596a674faccf734cd6832b3](https://www.virustotal.com/gui/file/a74f38167596a674faccf734cd6832b3)|TXT||2019-12-16 15:26:53|12D.rtf|
-|[54e848cea6241983eae720d79aef5e64](https://www.virustotal.com/gui/file/54e848cea6241983eae720d79aef5e64)|Win32 DLL||2019-12-16 15:25:27|Snven.dll|
-|[436ea4edf99a29257fd68604c11dddca](https://www.virustotal.com/gui/file/436ea4edf99a29257fd68604c11dddca)|Win32 DLL||2019-12-11 17:49:24|.|
-|[a0dcbd63716b264f868cd38d7c4b494d](https://www.virustotal.com/gui/file/a0dcbd63716b264f868cd38d7c4b494d)|DOCX||2019-11-28 08:45:44|LIST_OF_ALL__COMMERCIAL_COUNSELLORS_AT_MISSIONS_ABROAD.docx|
-|[1789d4590fded21dd9483e2797622ba8](https://www.virustotal.com/gui/file/1789d4590fded21dd9483e2797622ba8)|Win32 EXE||2019-11-15 05:48:41|pinfile.bin|
-|[d2fc4ab810e54f3de5c049c4d9978bdb](https://www.virustotal.com/gui/file/d2fc4ab810e54f3de5c049c4d9978bdb)|Android||2019-10-01 22:55:08|d2fc4ab810e54f3de5c049c4d9978bdb.virus|
-|[22e7ef7c3c7911b4c08ce82fde76ec72](https://www.virustotal.com/gui/file/22e7ef7c3c7911b4c08ce82fde76ec72)|Win64 DLL||2019-09-26 17:33:56|Akagi|
-|[71ab0946b6a72622aef6cdd7907479ec](https://www.virustotal.com/gui/file/71ab0946b6a72622aef6cdd7907479ec)|Win32 EXE||2019-09-23 23:20:39|Serviceflow.exe|
-|[330a4678fae2662975e850200081a1b1](https://www.virustotal.com/gui/file/330a4678fae2662975e850200081a1b1)|Win32 DLL||2019-09-21 23:10:50|Akagi|

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[2a1294ac176e9949362f088fa45df777](https://www.virustotal.com/gui/file/2a1294ac176e9949362f088fa45df777)|Win32 EXE||2018-01-09 04:49:26|SWSOC.EXE|
 |[70c447c9e71c8e6bd336670119e8df1b](https://www.virustotal.com/gui/file/70c447c9e71c8e6bd336670119e8df1b)|Win32 EXE||2017-03-20 04:50:43|70c447c9e71c8e6bd336670119e8df1b.virus|

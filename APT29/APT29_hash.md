@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[5dc4fced3eb731fffb88d0d2b17b1c83](https://www.virustotal.com/gui/file/5dc4fced3eb731fffb88d0d2b17b1c83)|Win32 DLL||2019-09-24 17:57:02|dttcodexgigas.81affba765aa87a0d0b12b5a213f09fd51e1e9a1|
 |[d36351af2453640663bba20d365e5383](https://www.virustotal.com/gui/file/d36351af2453640663bba20d365e5383)|Win64 DLL||2019-09-24 17:57:00|dttcodexgigas.4975293c49ca223013088e51b8378e935322fe93|

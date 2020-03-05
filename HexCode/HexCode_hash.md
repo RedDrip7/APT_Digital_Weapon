@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[471d7a42b9c87074e8dab4d679469fb7](https://www.virustotal.com/gui/file/471d7a42b9c87074e8dab4d679469fb7)|Win32 EXE|Athena|2019-08-30 11:33:54|Завершена дипломатическая миссия Посла Казахстана в Кыргызстане (29082019).exe|
 |[52a4368870c22f9dec361f9508e93ef5](https://www.virustotal.com/gui/file/52a4368870c22f9dec361f9508e93ef5)|Win32 EXE||2019-03-27 05:42:55|dttcodexgigas.4264e92de9b775fd34df05a6fd0cf49d2ca64dce|

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[abab23b21c7ce03871bf80b5da21c4b8](https://www.virustotal.com/gui/file/abab23b21c7ce03871bf80b5da21c4b8)|Rich Text Format||2016-01-22 11:08:59|Questionnaire.doc|
 |[48d2b0a87178cf80ea679245552aaf46](https://www.virustotal.com/gui/file/48d2b0a87178cf80ea679245552aaf46)|Rich Text Format||2015-12-30 04:29:00| |

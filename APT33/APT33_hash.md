@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[7c295c528fea9385a2e3165b683d1a46](https://www.virustotal.com/gui/file/7c295c528fea9385a2e3165b683d1a46)|unknown||2019-11-13 10:42:25|JobDescription.vbe|
 |[6faf4a5a4ddb86fa2416bbcc73d8928b](https://www.virustotal.com/gui/file/6faf4a5a4ddb86fa2416bbcc73d8928b)|Text||2019-10-12 20:06:08|Launcher.hta|

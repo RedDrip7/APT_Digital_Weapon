@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[ca2a53ad706fe27bdb37f23a6cbd0d73](https://www.virustotal.com/gui/file/ca2a53ad706fe27bdb37f23a6cbd0d73)|Win32 EXE|Emotet|2019-01-21 15:54:26|c:\windows\winexesvc.exe|
 |[8080acc8e13079998851e60217544397](https://www.virustotal.com/gui/file/8080acc8e13079998851e60217544397)|Win32 DLL||2019-01-07 20:25:27|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/GreyEnergyAPT/module.1620.3e25bb98.58d10000.dll.bin|

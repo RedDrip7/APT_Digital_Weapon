@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[66cf7f0285e3e0aedcac1a0be566e216](https://www.virustotal.com/gui/file/66cf7f0285e3e0aedcac1a0be566e216)|Win32 EXE||2019-09-18 09:37:51|azorult_zlab.exe|
 |[7641fef8abc7cb24b66655d11ef3daf2](https://www.virustotal.com/gui/file/7641fef8abc7cb24b66655d11ef3daf2)|XLS|o97m|2019-09-06 05:26:07|Order  # 679873892.xls|

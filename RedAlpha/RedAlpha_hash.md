@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[d08de00e7168a441052672219e717957](https://www.virustotal.com/gui/file/d08de00e7168a441052672219e717957)|ELF executable||2018-07-27 07:30:48|/media/ahmed/0f0b5179-b625-471d-a08b-8cc99742b63c/IoTmalware/Malware/IoTFiltered/d08de00e7168a441052672219e717957|
 |[c94a39d58450b81087b4f1f5fd304add](https://www.virustotal.com/gui/file/c94a39d58450b81087b4f1f5fd304add)|Win32 EXE||2018-03-08 17:22:44|c94a39d58450b81087b4f1f5fd304add.virus|

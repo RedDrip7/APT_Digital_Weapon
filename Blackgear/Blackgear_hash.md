@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[9fc57334e4d950a8c4d0f450a85683ee](https://www.virustotal.com/gui/file/9fc57334e4d950a8c4d0f450a85683ee)|Win32 DLL||2018-11-29 13:18:17|wuausrv.dll|
 |[44b2898b918b79320b13033c53bcdd3d](https://www.virustotal.com/gui/file/44b2898b918b79320b13033c53bcdd3d)|Win32 DLL||2018-07-20 18:45:04|44b2898b918b79320b13033c53bcdd3d.virus|

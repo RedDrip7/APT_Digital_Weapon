@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[f6ca38d0912c2f2d753b6810dffd02d1](https://www.virustotal.com/gui/file/f6ca38d0912c2f2d753b6810dffd02d1)|DOCX||2018-04-10 10:15:08|Navy.ro members list.docx|
 |[19f1dfd6f46c9ab4c30702f7fe388920](https://www.virustotal.com/gui/file/19f1dfd6f46c9ab4c30702f7fe388920)|DOC||2018-04-03 08:38:50|GDPRCertification.doc|

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[2125be782bb1130050b482f0e2dbfefe](https://www.virustotal.com/gui/file/2125be782bb1130050b482f0e2dbfefe)|Win32 DLL||2019-10-30 21:02:56|apisetstub|
 |[36a5b24340f0ab46dcb63625ae3efeb8](https://www.virustotal.com/gui/file/36a5b24340f0ab46dcb63625ae3efeb8)|Win32 DLL||2019-10-30 21:01:31|36a5b24340f0ab46dcb63625ae3efeb8.virus|

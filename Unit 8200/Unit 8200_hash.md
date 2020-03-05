@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[dbc26d553af41e2ec076b4bc29bc531e](https://www.virustotal.com/gui/file/dbc26d553af41e2ec076b4bc29bc531e)|HTML||2019-03-12 19:23:41| |
 |[ac4859ab0e5c18c94749b1913cb2fd5e](https://www.virustotal.com/gui/file/ac4859ab0e5c18c94749b1913cb2fd5e)|HTML||2018-10-30 23:22:20|VirusShare_ac4859ab0e5c18c94749b1913cb2fd5e|

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[366defa5b85a044aac3dcc96ca4b7fbe](https://www.virustotal.com/gui/file/366defa5b85a044aac3dcc96ca4b7fbe)|unknown||2019-02-11 20:23:39|1910f5ddb0fc0438a3e2a553c97559557898e6310bf7e37b13cf3013fd66ea75.vbs.bin|
 |[539d00b4f198967d32e3289d5f7a1bf4](https://www.virustotal.com/gui/file/539d00b4f198967d32e3289d5f7a1bf4)|unknown|Nemucod|2018-11-06 07:59:21|%APPDATA%\roaming\microsoft\protect\update.vbs|

@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[c08edc46d28d62379aed5b71620f86f2](https://www.virustotal.com/gui/file/c08edc46d28d62379aed5b71620f86f2)|Android||2018-01-31 20:31:50|c08edc46d28d62379aed5b71620f86f2.virus|
 |[85b794e080d83a91e904b97769e1e770](https://www.virustotal.com/gui/file/85b794e080d83a91e904b97769e1e770)|ZIP|CrossRAT|2018-01-23 02:39:52|CrossRAT.jar|

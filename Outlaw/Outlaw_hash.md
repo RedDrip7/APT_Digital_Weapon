@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[ef5c3dd155350342acb9f30bd1927884](https://www.virustotal.com/gui/file/ef5c3dd155350342acb9f30bd1927884)|bash script|shell|2019-01-29 16:47:06|zbetcheckin_tracker_minloc.sh|
 |[434c110a3d46855c21b27b2ffcb76372](https://www.virustotal.com/gui/file/434c110a3d46855c21b27b2ffcb76372)|GZIP||2019-01-29 16:23:18|ml.tar.gz|

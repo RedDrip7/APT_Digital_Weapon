@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[290d8e8524e57783e8cc1b9a3445dfe9](https://www.virustotal.com/gui/file/290d8e8524e57783e8cc1b9a3445dfe9)|Win32 DLL|Bedep|2017-01-17 02:00:42|290d8e8524e57783e8cc1b9a3445dfe9_kxKdrZffTwXnip.dLl|
 |[7e5f76c7b5bf606b0fdc17f4ba75de03](https://www.virustotal.com/gui/file/7e5f76c7b5bf606b0fdc17f4ba75de03)|Win32 EXE|zapchast|2016-11-16 21:28:41|7e5f76c7b5bf606b0fdc17f4ba75de03_gJULrVNcVHbRXwj.ExE|

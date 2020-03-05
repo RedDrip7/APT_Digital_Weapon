@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[86f83586c96943ce96309e3017a3500c](https://www.virustotal.com/gui/file/86f83586c96943ce96309e3017a3500c)|RIFF||2019-11-18 07:19:12|86f83586c96943ce96309e3017a3500c.ex_|
 |[1594679f51bdebe4701d062f3c8f0dc3](https://www.virustotal.com/gui/file/1594679f51bdebe4701d062f3c8f0dc3)|Android||2019-11-12 00:14:51|com.doumi.chatapp.apk|

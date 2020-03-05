@@ -1,4 +1,4 @@
-|Hash|Type|Family|Frist_Seen|Name|
+|Hash|Type|Family|First_Seen|Name|
 |:--|:--|:--|:--|:--|
 |[3cdb88dc2d950cc7c1ee9b127cadc788](https://www.virustotal.com/gui/file/3cdb88dc2d950cc7c1ee9b127cadc788)|Win32 EXE|URLZone|2018-10-24 07:29:35|mksettting|
 |[f5b5b73f15ef0be666d5013820bfab78](https://www.virustotal.com/gui/file/f5b5b73f15ef0be666d5013820bfab78)|PNG||2018-10-24 07:17:17|/data/cfs/malshare/f5b5b73f15ef0be666d5013820bfab78|
