@@ -369,3 +369,5 @@
 |[440bb797002b2cae03987f7395405795](https://www.virustotal.com/gui/file/440bb797002b2cae03987f7395405795)|Win32 EXE|kasperagent|2015-08-09 09:21:08|jsx.exe|
 |[8a574181ed2efe4c2b02efd9a4ac0ece](https://www.virustotal.com/gui/file/8a574181ed2efe4c2b02efd9a4ac0ece)|Win32 EXE|kasperagent|2015-08-06 15:49:37|N.exe|
 |[34ffb9375de5fb2e5d976316000e561d](https://www.virustotal.com/gui/file/34ffb9375de5fb2e5d976316000e561d)|Android|androidos|2010-08-16 07:49:58|E:\whiteset_benny\brut.googlemaps_f61b10e24cf228f1dc6fae34db749beb901d6c86|
+|[0b6775113343412fcd75d8b35d2c1520](https://www.virustotal.com/gui/file/0b6775113343412fcd75d8b35d2c1520)|Android||2020-03-04 11:41:19|New_Mygram_IM.apk|
+|[0b6775113343412fcd75d8b35d2c1520](https://www.virustotal.com/gui/file/0b6775113343412fcd75d8b35d2c1520)|Android||2020-03-04 11:41:19|New_Mygram_IM.apk|

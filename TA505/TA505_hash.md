@@ -908,3 +908,7 @@
 |[121cc363933928040be73ece203d670a](https://www.virustotal.com/gui/file/121cc363933928040be73ece203d670a)|FPX||2017-05-01 07:58:43|%WINDIR%\installer\16beb5.msi|
 |[04e2f44f18a165f1fa1752d06227ff85](https://www.virustotal.com/gui/file/04e2f44f18a165f1fa1752d06227ff85)|Win32 EXE||2017-05-01 07:49:35|Remote Utilities|
 |[fa940d7408f403d6837b2b3660cc430d](https://www.virustotal.com/gui/file/fa940d7408f403d6837b2b3660cc430d)|Win32 EXE||2017-03-29 02:03:35|56372f8b5b80c8d632e10bcd9fcfe3fb938a793ffdd0db62232e484e9650fb04.bin|
+|[d4c214ef71f28bd59f3b3a59f4a918ed](https://www.virustotal.com/gui/file/d4c214ef71f28bd59f3b3a59f4a918ed)|PDF||2020-03-13 03:23:25|2e4261fc36e7aff58f43d1d7d035a0efdcb0ebe8.pdf|
+|[ccdc3f83d847daf09e6c10be46b63b2e](https://www.virustotal.com/gui/file/ccdc3f83d847daf09e6c10be46b63b2e)|Win32 EXE||2019-12-06 07:25:03|ccdc3f83d847daf09e6c10be46b63b2e.virus|
+|[4b2eb480398c2e40628ad79d5086b2dd](https://www.virustotal.com/gui/file/4b2eb480398c2e40628ad79d5086b2dd)|Win32 EXE||2019-12-05 12:44:52| |
+|[41e87a529b62e9ae5641f46d8b2bf65c](https://www.virustotal.com/gui/file/41e87a529b62e9ae5641f46d8b2bf65c)|Win32 EXE|Swizzor|2019-06-28 12:08:31| |

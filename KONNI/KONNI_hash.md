@@ -110,3 +110,6 @@
 |[1b8e28fc2cada4020014c7df2318da8f](https://www.virustotal.com/gui/file/1b8e28fc2cada4020014c7df2318da8f)|Win32 EXE|Konni|2014-09-24 01:37:36|svchost|
 |[28eb0818b12467190aff3c8888130154](https://www.virustotal.com/gui/file/28eb0818b12467190aff3c8888130154)|Win32 EXE|Zbot|2014-09-24 01:37:34|f091d210fd214c6f_svchost.exe|
 |[48f88cdd7d1d3a2d5854be4fe04ec54b](https://www.virustotal.com/gui/file/48f88cdd7d1d3a2d5854be4fe04ec54b)|Win32 EXE||2014-09-24 01:37:06|G10|
+|[2cb1b4c07f13200a7d9ba569a3093873](https://www.virustotal.com/gui/file/2cb1b4c07f13200a7d9ba569a3093873)|Win32 DLL|Konni|2020-03-16 19:53:19|afc48f7b732b21ca5918e135f9ec7bb4e1b7644379c4cc0ede4407353ed864ac.sample|
+|[a84cafd52cf7905aa8cf9b9856877b7c](https://www.virustotal.com/gui/file/a84cafd52cf7905aa8cf9b9856877b7c)|Win64 DLL|Konni|2020-03-16 19:53:18|da0848bdf180599212a47f0a2d0428bb6859a9837a1f0b77afec6b5f20836470.sample|
+|[dff10f4f6909e7ff24e7154d94cfc10d](https://www.virustotal.com/gui/file/dff10f4f6909e7ff24e7154d94cfc10d)|DEX|Konni|2020-03-08 20:59:19|classes.dex|

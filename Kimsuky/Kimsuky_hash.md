@@ -163,3 +163,9 @@
 |[b02f3881321f0912b2ae3f27498c448f](https://www.virustotal.com/gui/file/b02f3881321f0912b2ae3f27498c448f)|Win32 EXE|Zbot|2014-03-25 01:00:32|wscript.exe|
 |[11fc4829c2fff9fb240acbd71c60fc67](https://www.virustotal.com/gui/file/11fc4829c2fff9fb240acbd71c60fc67)|Win32 EXE||2014-03-25 00:55:23|xpsp2.exe|
 |[ab73b1395938c48d62b7eeb5c9f3409d](https://www.virustotal.com/gui/file/ab73b1395938c48d62b7eeb5c9f3409d)|Win32 EXE||2013-09-11 08:44:11|Goldstager|
+|[cc5afacbbdd11959c0a527e3513d21a1](https://www.virustotal.com/gui/file/cc5afacbbdd11959c0a527e3513d21a1)|DOCX|o97m|2020-04-08 09:59:26|21대 국회의원 선거 관련.docx|
+|[71bbfbe21518c8a314a9137c05256a3a](https://www.virustotal.com/gui/file/71bbfbe21518c8a314a9137c05256a3a)|FPX||2020-03-30 09:37:56|71bbfbe21518c8a314a9137c05256a3a.hwp|
+|[07d0be79be38ecb8c7b1c80ab0bd8344](https://www.virustotal.com/gui/file/07d0be79be38ecb8c7b1c80ab0bd8344)|DOCM|o97m|2020-03-18 01:47:59|1fcd9892532813a27537f4e1a1c21ec0c110d6b3929602750ed77bbba7caa426.bin|
+|[01e64c99ee3c4256529df63f08c8ca4c](https://www.virustotal.com/gui/file/01e64c99ee3c4256529df63f08c8ca4c)|DOCM|o97m|2020-03-03 04:29:36|비건 미국무부 부장관 서신 20200302.doc|
+|[5f2d3ed67a577526fcbd9a154f522cce](https://www.virustotal.com/gui/file/5f2d3ed67a577526fcbd9a154f522cce)|DOCM|o97m|2020-03-03 04:20:21|7c0f8d6cf4f908cce8b7f65f2b5ee06a311d28ee6d8f1b32e90af4d08c2ab327.bin|
+|[6711f4b4f0c7e022feff0e2d5afaac59](https://www.virustotal.com/gui/file/6711f4b4f0c7e022feff0e2d5afaac59)|DOC||2019-12-19 07:01:02|out|

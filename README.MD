@@ -20,8 +20,15 @@ We will keep updating this project and hope this could help the security communi
 
 If you find an error, please contact us at ti_support@qianxin.com and we’ll try to improve the IOCs.
 
-2020/03/04 Update_log:  
-
 |Groupname|Total|Update|data|  
 |:--|:--|:--|:--|  
-|Lamberts|51|2|2020-03-04|  
+|APT-C-23|370|1|2020-04-13|  
+|Gamaredon Group|263|7|2020-04-13|  
+|HexCode|8|1|2020-04-13|  
+|Kimsuky|169|6|2020-04-13|  
+|KONNI|113|3|2020-04-13|  
+|Lazarus Group|1485|5|2020-04-13|  
+|OceanLotus|974|1|2020-04-13|  
+|Sidewinder|83|8|2020-04-13|  
+|TA505|912|4|2020-04-13|  
+|ZooPark|44|1|2020-04-13|  

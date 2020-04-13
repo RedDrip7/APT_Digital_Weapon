@@ -256,3 +256,10 @@
 |[834c709455bfefb9b0e8976bad13a8f4](https://www.virustotal.com/gui/file/834c709455bfefb9b0e8976bad13a8f4)|Win32 EXE||2012-06-21 21:20:32|myfile.exe|
 |[2d041b4a4e8870464542aad3435dfafd](https://www.virustotal.com/gui/file/2d041b4a4e8870464542aad3435dfafd)|Win32 EXE||2009-05-08 16:30:01|C:\Новая папка\win.exe|
 |[bd126a7b59d5d1f97ba89a3e71425731](https://www.virustotal.com/gui/file/bd126a7b59d5d1f97ba89a3e71425731)|Win32 EXE||2009-04-25 23:42:23|%TEMP%\6349.tmp\wget.exe|
+|[8aeba52be05a59306e54ef9baa917658](https://www.virustotal.com/gui/file/8aeba52be05a59306e54ef9baa917658)|DOCX||2020-03-30 17:52:57|Запит на iнформацiю.docx|
+|[b6e30ea779ab250032fb7f3c2c493778](https://www.virustotal.com/gui/file/b6e30ea779ab250032fb7f3c2c493778)|DOCX|o97m|2020-03-25 12:10:26|Вiтання СБУ.docx|
+|[c047dd99d3658e5df1d0f14f0beb7917](https://www.virustotal.com/gui/file/c047dd99d3658e5df1d0f14f0beb7917)|DOCX|o97m|2020-03-25 10:32:20|Р’iС‚Р°РЅРЅСЏ РЎР‘РЈ.docx|
+|[5521933bb7979270c678f2649feca7ee](https://www.virustotal.com/gui/file/5521933bb7979270c678f2649feca7ee)|DOCX|o97m|2020-03-25 10:28:20|Інструкція COVID-19.docx|
+|[2147f94942593ef3473ea00c83c2267d](https://www.virustotal.com/gui/file/2147f94942593ef3473ea00c83c2267d)|DOCX|o97m|2020-03-25 06:49:42|Запит на iнформацiю.docx|
+|[b99dceea34d883db0ba4db7d626b11c2](https://www.virustotal.com/gui/file/b99dceea34d883db0ba4db7d626b11c2)|DOCX|o97m|2020-03-13 11:50:55|BILATERAL COOPERATION PLAN.DOCX|
+|[ffa2fc9b24b87b6eead448641eb1eee8](https://www.virustotal.com/gui/file/ffa2fc9b24b87b6eead448641eb1eee8)|DOCX||2020-03-05 12:04:15|b6a94f565d482906be7da4d801153eb4dab46d92f43be3e1d59ddd2c7f328109.bin|

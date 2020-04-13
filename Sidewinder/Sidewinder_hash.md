@@ -75,3 +75,11 @@
 |[2cb633375a5965f86360e761363d9f2f](https://www.virustotal.com/gui/file/2cb633375a5965f86360e761363d9f2f)|Win32 DLL|Zbot|2017-11-29 11:15:20|1002-5de6e37cb7bc18b1be0dbf5b5908fec1eda3c047|
 |[dbb45a0839719312f248351e3fb9a0ae](https://www.virustotal.com/gui/file/dbb45a0839719312f248351e3fb9a0ae)|Win32 EXE||2010-02-13 02:24:38|7092f1ddb58d11d7_cmdl32.exe|
 |[5343a19c618bc515ceb1695586c6c137](https://www.virustotal.com/gui/file/5343a19c618bc515ceb1695586c6c137)|Win32 DLL||2009-12-13 09:13:12|(Image2629)_Windows_System32_msvbvm60.dll|
+|[73bdde7e0f9ea29fdad03eeb7312b4d3](https://www.virustotal.com/gui/file/73bdde7e0f9ea29fdad03eeb7312b4d3)|ZIP||2020-04-10 04:39:04|Pak_Army_Deployed_in_Country_in_Fight_Against_Coronavirus (10).zip|
+|[120e3733e167fcabdfd8194b3c49560b](https://www.virustotal.com/gui/file/120e3733e167fcabdfd8194b3c49560b)|LNK||2020-04-06 20:21:05|Additional_CSD_Rebate.pdf.lnk|
+|[3c9f64763a24278a6f941e8807725369](https://www.virustotal.com/gui/file/3c9f64763a24278a6f941e8807725369)|LNK||2020-04-06 11:04:17|Pak_Army_Deployed_in_Country_in_Fight_Against_Coronavirus.pdf.lnk|
+|[fef12d62a3b2fbf1d3be1f0c71ae393e](https://www.virustotal.com/gui/file/fef12d62a3b2fbf1d3be1f0c71ae393e)|RTF|CVE-2017-11882|2020-03-28 17:38:23|.|
+|[58363311f04f03c6e9ccd17b780d03b2](https://www.virustotal.com/gui/file/58363311f04f03c6e9ccd17b780d03b2)|RTF|CVE-2017-11882|2020-03-24 04:00:07|/var/www/clean-mx/virusesevidence/output.153111507.txt|
+|[26a7c3273e8e398ab13519793ff44626](https://www.virustotal.com/gui/file/26a7c3273e8e398ab13519793ff44626)|TXT||2020-02-25 13:16:15|/var/www/clean-mx/virusesevidence/output.149965783.txt|
+|[cbf120f20fc4fc67e1b0c4a3694f0e58](https://www.virustotal.com/gui/file/cbf120f20fc4fc67e1b0c4a3694f0e58)|Win32 DLL|Starter|2019-12-25 17:27:38|DUSER.dll|
+|[7442b3efecb909cfff4aea4ecaae98d8](https://www.virustotal.com/gui/file/7442b3efecb909cfff4aea4ecaae98d8)|LNK|Banload|2019-04-26 13:28:06|daraz-coupon.pdf.lnk|
