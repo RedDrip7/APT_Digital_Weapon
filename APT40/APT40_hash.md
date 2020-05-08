@@ -12,7 +12,7 @@
 |[f223e4175649fa2e34271db8c968db12](https://www.virustotal.com/gui/file/f223e4175649fa2e34271db8c968db12)|RTF|o97m|2018-01-31 02:34:04|9d0c4ec62abe79e754eaa2fd7696f98441bc783781d8656065cddfae3dbf503e.bin|
 |[bd9e4c82bf12c4e7a58221fc52fed705](https://www.virustotal.com/gui/file/bd9e4c82bf12c4e7a58221fc52fed705)|Win32 EXE||2017-12-24 14:28:34|VirusShare_bd9e4c82bf12c4e7a58221fc52fed705|
 |[392f48d32de4cac9949ab7ecab393ba8](https://www.virustotal.com/gui/file/392f48d32de4cac9949ab7ecab393ba8)|RTF|CVE-2017-11882|2017-12-22 07:59:25|Question about story.doc|
-|[aca7037286b64b0da05c9708d647c013](https://www.virustotal.com/gui/file/aca7037286b64b0da05c9708d647c013)|RTF|o97m|2017-12-06 18:13:06|Questions about the story.rtf|
+|[aca7037286b64b0da05c9708d647c013](https://www.virustotal.com/gui/file/aca7037286b64b0da05c9708d647c013)|RTF|o97m|2017-12-06 18:13:06|Questions about the story.rtf|
 |[89e36574ece95178c511705a999a4e6e](https://www.virustotal.com/gui/file/89e36574ece95178c511705a999a4e6e)|RTF|CVE-2017-11882|2017-11-19 16:35:25|c63ccc5c08c3863d7eb330b69f96c1bcf1e031201721754132a4c4d0baff36f8.rtf|
 |[6e843ef4856336fe3ef4ed27a4c792b1](https://www.virustotal.com/gui/file/6e843ef4856336fe3ef4ed27a4c792b1)|Win32 DLL|CobaltStrike|2017-08-16 15:30:56|myfile.exe|
 |[3eb6f85ac046a96204096ab65bbd3e7e](https://www.virustotal.com/gui/file/3eb6f85ac046a96204096ab65bbd3e7e)|Win32 DLL||2017-08-04 16:18:02|green.ddd|

@@ -113,7 +113,7 @@
 |[05d07279ed123b3a9170fa2c540d2919](https://www.virustotal.com/gui/file/05d07279ed123b3a9170fa2c540d2919)|Text|Nemucod|2017-01-28 17:09:28|myvtfile.exe|
 |[7ddee9311d7ab2d548e9b252383863ef](https://www.virustotal.com/gui/file/7ddee9311d7ab2d548e9b252383863ef)|Win32 DLL|turla|2017-01-17 15:09:50|SERVICE.DLL|
 |[e664b6f5f50d1a7991e254e5e81a683f](https://www.virustotal.com/gui/file/e664b6f5f50d1a7991e254e5e81a683f)|Win32 DLL||2017-01-17 14:31:53|MSIMGHLP.DLL|
-|[6e7991f93c53a58ba63a602b277e07f7](https://www.virustotal.com/gui/file/6e7991f93c53a58ba63a602b277e07f7)|DOC|turla|2016-11-28 10:55:17|d6e6eab05af60a496060d266f144e43f6d5d6ec1_N ational Day Reception (Dina Mersine Bosio  Ambassador’s Secretary).do|
+|[6e7991f93c53a58ba63a602b277e07f7](https://www.virustotal.com/gui/file/6e7991f93c53a58ba63a602b277e07f7)|DOC|turla|2016-11-28 10:55:17|d6e6eab05af60a496060d266f144e43f6d5d6ec1_National Day Reception|
 |[f51ba5883a65a0f7cf6783a6490320d3](https://www.virustotal.com/gui/file/f51ba5883a65a0f7cf6783a6490320d3)|Win32 EXE||2016-08-05 15:12:43|upzcfl.exe|
 |[9ff452a1f33d74a8eb38e00b577547f2](https://www.virustotal.com/gui/file/9ff452a1f33d74a8eb38e00b577547f2)|Win32 DLL||2016-07-24 05:41:41|9ff452a1f33d74a8eb38e00b577547f2.virus|
 |[b6b671d6371ee30bfa208e01b12adc64](https://www.virustotal.com/gui/file/b6b671d6371ee30bfa208e01b12adc64)|Win32 DLL|dynamer|2016-06-14 15:23:18|2fde6ec829874d28_msvck.dll|

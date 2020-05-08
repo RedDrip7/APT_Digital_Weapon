@@ -3,7 +3,7 @@
 |[51bf77d9ed6715ff3263a7e21e01554d](https://www.virustotal.com/gui/file/51bf77d9ed6715ff3263a7e21e01554d)|Win32 EXE|razy|2018-03-31 17:36:44|/var/www/clean-mx/virusesevidence/output.113049832.txt|
 |[4e7a323af0a135a0824c19d0ffd2a6ea](https://www.virustotal.com/gui/file/4e7a323af0a135a0824c19d0ffd2a6ea)|Win32 EXE|Kryptik|2018-03-31 09:30:22|myfile.exe|
 |[e2ad0e78a83563cd6fa2e233f3a7ec70](https://www.virustotal.com/gui/file/e2ad0e78a83563cd6fa2e233f3a7ec70)|Win32 EXE|Disfa|2018-03-31 09:11:07|c:\users\USER\appdata\local\temp\thfdfdnewa-.txt|
-|[286f4504d9373c5f8523e7daa9337cba](https://www.virustotal.com/gui/file/286f4504d9373c5f8523e7daa9337cba)|XLSX|CVE-2017-11882|2018-03-31 01:07:47|Samsung ASC engineer code creation request form.xlsx|
+|[286f4504d9373c5f8523e7daa9337cba](https://www.virustotal.com/gui/file/286f4504d9373c5f8523e7daa9337cba)|XLSX|CVE-2017-11882|2018-03-31 01:07:47|Samsung ASC engineer code creation request form.xlsx|
 |[eb811625308df525a531897b516c4971](https://www.virustotal.com/gui/file/eb811625308df525a531897b516c4971)|Win32 EXE|Disfa|2018-03-30 10:00:18|service.exe|
 |[7c7f0c04fb6e469ae97375894fefc934](https://www.virustotal.com/gui/file/7c7f0c04fb6e469ae97375894fefc934)|XLSX|CVE-2017-11882|2018-03-30 06:50:33|29-03-2018 Yazılım Listesi.xlsx|
 |[6be98892addb486306a2dc2517c4cc80](https://www.virustotal.com/gui/file/6be98892addb486306a2dc2517c4cc80)|Win32 EXE|razy|2018-03-29 14:24:31|6be98892addb486306a2dc2517c4cc80.virobj|

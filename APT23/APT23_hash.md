@@ -8,7 +8,7 @@
 |[8d8e2e876acf09601e4bb7b83bbd5773](https://www.virustotal.com/gui/file/8d8e2e876acf09601e4bb7b83bbd5773)|Win32 DLL|ursu|2018-09-04 13:33:42|rasauto.dll|
 |[a056a864d238a2d1355eed95b8e2bef6](https://www.virustotal.com/gui/file/a056a864d238a2d1355eed95b8e2bef6)|Win32 DLL|johnnie|2018-06-27 12:46:28|fdb85d3f08eb70f0d2171d8bd348574139f63f31a788d2ff1b2a28aca6066345.sample|
 |[2171f4552858d6648c5b466a7b36dced](https://www.virustotal.com/gui/file/2171f4552858d6648c5b466a7b36dced)|PPSX|CVE-2017-8570|2018-06-27 11:07:44|TR_Rusvet_ve_Yolsuzlukla_Mcd_Egtm|
-|[c50f9575695b5363c22989ba14ba7823](https://www.virustotal.com/gui/file/c50f9575695b5363c22989ba14ba7823)|PPSX|CVE-2017-8570|2018-05-31 06:00:12|/Interviewer's Information and Points of Interview.ppsx|
+|[c50f9575695b5363c22989ba14ba7823](https://www.virustotal.com/gui/file/c50f9575695b5363c22989ba14ba7823)|PPSX|CVE-2017-8570|2018-05-31 06:00:12|Interviewer's Information and Points of Interview.ppsx|
 |[f43f60b62002d0700ccbcbd9334520b6](https://www.virustotal.com/gui/file/f43f60b62002d0700ccbcbd9334520b6)|Email|CVE-2017-8570|2018-05-31 05:54:07|1.eml|
 |[cca8b5e5855698c72b41e6b8ef2e090f](https://www.virustotal.com/gui/file/cca8b5e5855698c72b41e6b8ef2e090f)|PPSX|CVE-2017-8570|2018-05-24 08:39:34|-Passport Message.ppsx|
 |[8ecdf40683cb2d1e971b9b62054dfc1e](https://www.virustotal.com/gui/file/8ecdf40683cb2d1e971b9b62054dfc1e)|HTML||2018-05-04 22:04:39|office.sct|

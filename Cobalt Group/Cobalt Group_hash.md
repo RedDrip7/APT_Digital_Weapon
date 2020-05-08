@@ -63,8 +63,8 @@
 |[ec9d45b695f98bfbf3b7cdc1dc02f83d](https://www.virustotal.com/gui/file/ec9d45b695f98bfbf3b7cdc1dc02f83d)|Win32 DLL||2018-09-10 18:17:33|myfile.exe|
 |[a983d2ae308fc03f4548f4cab7d608b1](https://www.virustotal.com/gui/file/a983d2ae308fc03f4548f4cab7d608b1)|HTML|CVE-2018-8174|2018-09-04 14:24:08|a983d2ae308fc03f4548f4cab7d608b1_VdVSrGqPzuDyqxmKqTEJSa.hTMl|
 |[2f98a491258b6606b7d9ad2a662a5513](https://www.virustotal.com/gui/file/2f98a491258b6606b7d9ad2a662a5513)|XML|CVE-2017-0199|2018-09-04 11:50:39|2f98a491258b6606b7d9ad2a662a5513_VaQxiXLMORdj.xML|
-|[87725b247eef1a96e31b56cf86ba600e](https://www.virustotal.com/gui/file/87725b247eef1a96e31b56cf86ba600e)|PDF||2018-08-29 07:33:37|Bank Ref_Cancellation_Incorrect AC.pdf|
-|[499b720ee80159804679f0009465916b](https://www.virustotal.com/gui/file/499b720ee80159804679f0009465916b)|PDF|Banload|2018-08-20 08:08:58|Bank Ref_Cancellation_Incorrect AC.pdf|
+|[87725b247eef1a96e31b56cf86ba600e](https://www.virustotal.com/gui/file/87725b247eef1a96e31b56cf86ba600e)|PDF||2018-08-29 07:33:37|Bank Ref_Cancellation_Incorrect AC.pdf|
+|[499b720ee80159804679f0009465916b](https://www.virustotal.com/gui/file/499b720ee80159804679f0009465916b)|PDF|Banload|2018-08-20 08:08:58|Bank Ref_Cancellation_Incorrect AC.pdf|
 |[bf97e09016e5e6a65968933f94d10a1d](https://www.virustotal.com/gui/file/bf97e09016e5e6a65968933f94d10a1d)|Win32 EXE|Zbot|2018-08-16 11:22:00|ServicesPainter|
 |[9e60c89cc58b3e47d93864433622ae32](https://www.virustotal.com/gui/file/9e60c89cc58b3e47d93864433622ae32)|RTF|CVE-2017-0199|2018-08-16 10:09:10|9e60c89cc58b3e47d93864433622ae32_DuYrAuDBGZcXa.Rtf|
 |[1999a718fb9bcf3c5b3e41bf88be9067](https://www.virustotal.com/gui/file/1999a718fb9bcf3c5b3e41bf88be9067)|Win32 EXE||2018-08-15 13:54:33|Flatbed923027|

@@ -295,7 +295,7 @@
 |[d037b436932f955f6cf55e8d79f7ffb9](https://www.virustotal.com/gui/file/d037b436932f955f6cf55e8d79f7ffb9)|DOCM||2018-06-12 03:27:19|PO-GL20180612.doc|
 |[c604f27c785ffbab49202bd4815a5856](https://www.virustotal.com/gui/file/c604f27c785ffbab49202bd4815a5856)|Win32 EXE||2018-06-11 21:05:41|UUUUUIUSWQAZJ.exe|
 |[3d35bceafb5cab4a90a4ba4eafefd56f](https://www.virustotal.com/gui/file/3d35bceafb5cab4a90a4ba4eafefd56f)|Win32 EXE|Disfa|2018-06-11 21:04:06|/home/ubuntu/pastes/qEMebwPS.exe|
-|[54f4a94233384e1711921e74e5d2fe4b](https://www.virustotal.com/gui/file/54f4a94233384e1711921e74e5d2fe4b)|DOCM|w2km|2018-06-11 13:19:55|IndianOil(2018_REFHQ_74006_1) Tender.doc|
+|[54f4a94233384e1711921e74e5d2fe4b](https://www.virustotal.com/gui/file/54f4a94233384e1711921e74e5d2fe4b)|DOCM|w2km|2018-06-11 13:19:55|IndianOil(2018_REFHQ_74006_1) Tender.doc|
 |[a8823e0d9b245ddc78fcf4782efb3194](https://www.virustotal.com/gui/file/a8823e0d9b245ddc78fcf4782efb3194)|DOCM||2018-06-11 03:01:43|BILL_OF_LADING.doc|
 |[c1b0182d5bd23ad53c683d45ca42c1d9](https://www.virustotal.com/gui/file/c1b0182d5bd23ad53c683d45ca42c1d9)|DOCM|Banload|2018-06-11 01:37:25|COSIC#ENQAV0620186030.doc|
 |[4dce5b84c18684f38cd13a52d675b1f6](https://www.virustotal.com/gui/file/4dce5b84c18684f38cd13a52d675b1f6)|Win32 EXE|MSILPerseus|2018-06-10 14:45:16|vsoijhfgos.exe|
