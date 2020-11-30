@@ -113,3 +113,23 @@
 |[2cb1b4c07f13200a7d9ba569a3093873](https://www.virustotal.com/gui/file/2cb1b4c07f13200a7d9ba569a3093873)|Win32 DLL|Konni|2020-03-16 19:53:19|afc48f7b732b21ca5918e135f9ec7bb4e1b7644379c4cc0ede4407353ed864ac.sample|
 |[a84cafd52cf7905aa8cf9b9856877b7c](https://www.virustotal.com/gui/file/a84cafd52cf7905aa8cf9b9856877b7c)|Win64 DLL|Konni|2020-03-16 19:53:18|da0848bdf180599212a47f0a2d0428bb6859a9837a1f0b77afec6b5f20836470.sample|
 |[dff10f4f6909e7ff24e7154d94cfc10d](https://www.virustotal.com/gui/file/dff10f4f6909e7ff24e7154d94cfc10d)|DEX|Konni|2020-03-08 20:59:19|classes.dex|
+|[a49b2a238ec3da5a89c0faba16d55988](https://www.virustotal.com/gui/file/a49b2a238ec3da5a89c0faba16d55988)|DOC|w2km|2020-06-12 18:17:30|vtfiles/deciphered_a07251485a34dd128d80860737b86edd3eb851f57797f2f8fb6891a3cb7a81b3|
+|[da6e5db29ec181d66bdb39dac3f7b7d9](https://www.virustotal.com/gui/file/da6e5db29ec181d66bdb39dac3f7b7d9)|DOCM|EmoDldr|2020-06-12 10:44:57|nth_room_event1.doc|
+|[f88720ed70cc3f8482814ff3e3187427](https://www.virustotal.com/gui/file/f88720ed70cc3f8482814ff3e3187427)|DOCM|EmoDldr|2020-06-12 10:44:54|1.doc|
+|[e9812302ce7e9ca5d42cfd4406a34494](https://www.virustotal.com/gui/file/e9812302ce7e9ca5d42cfd4406a34494)|FPX|o97m|2020-06-11 02:46:52|e9812302ce7e9ca5d42cfd4406a34494.ex_|
+|[cfa6d0d59624b961edadc04f5dae5777](https://www.virustotal.com/gui/file/cfa6d0d59624b961edadc04f5dae5777)|DOC|Valyria|2020-05-28 06:07:34|О влиянии санкций на ситуацию в КНДР.doc|
+|[6973fa7aed812980f0539302d64e618f](https://www.virustotal.com/gui/file/6973fa7aed812980f0539302d64e618f)|DOC|Valyria|2020-05-27 07:20:05|North Korea-South Korea Relations.doc|
+|[37e713cf3dfe846aa9cbcc5cd09b92bd](https://www.virustotal.com/gui/file/37e713cf3dfe846aa9cbcc5cd09b92bd)|DOC|Valyria|2020-05-27 06:10:15|\xce\xf6\xe5\xed\xea\xe0%20\xf0\xe0\xe7\xe2\xe8\xf2\xe8\xff%20\xf0\xe0\xea\xe5\xf2\xed\xee-\xff\xe4\xe5\xf0\xed\xee\xe9%20\xef\xf0\xee\xe3\xf0\xe0\xec\xec\xfb%20\xca\xcd\xc4\xd0.doc|
+|[f05495a825e932c841f4d7f4e438ce0b](https://www.virustotal.com/gui/file/f05495a825e932c841f4d7f4e438ce0b)|FPX||2020-05-27 05:14:00|선정평가 문의내용.hwp|
+|[d41b09aa32633d77a8856dae33b3d7b9](https://www.virustotal.com/gui/file/d41b09aa32633d77a8856dae33b3d7b9)|DOC|Valyria|2020-05-25 10:49:51|CISAC Discussions on Cyber and Nuclear Issues_May 13 2020_v4_ENG.doc|
+|[16b19998f8bdbaecf07b2556fcbd8d68](https://www.virustotal.com/gui/file/16b19998f8bdbaecf07b2556fcbd8d68)|FPX|hwpexp|2020-05-17 13:43:36|8030097ffdf5ef4df95fdc2976d92154386bf899b7dd35aeb3474cbccdb1c491.bin|
+|[77f46253fd4ce7176df5db8f71585368](https://www.virustotal.com/gui/file/77f46253fd4ce7176df5db8f71585368)|Win32 DLL|Razy|2020-04-21 06:24:54|dttcodexgigas.5f72a3af344a619a36d155a4c80816cff7f2126a|
+|[677e200c602b44dc0a6cc5f685f78413](https://www.virustotal.com/gui/file/677e200c602b44dc0a6cc5f685f78413)|DOC|Konni|2020-04-21 02:19:27|C:\\programs\\topthreat\\uploads\\20200518\\8f8e3c71a66e1ce08cdd47beb225753a|
+|[a83ca91c55e7af71ac4f712610646fca](https://www.virustotal.com/gui/file/a83ca91c55e7af71ac4f712610646fca)|Win32 EXE||2020-03-24 08:13:07|/home/wwwroot/topthreat/topthreat/uploads/20200515/0217c2f31ad7bde860e4173f8f56c689.|
+|[faf6492129eeca2633a68c9b8c2b8156](https://www.virustotal.com/gui/file/faf6492129eeca2633a68c9b8c2b8156)|DOC|o97m|2020-01-16 04:17:56|Kinzler Foundation for 2020 Tokyo Paralympic games.doc|
+|[40e7a1f37950277b115d5944b53eaf3c](https://www.virustotal.com/gui/file/40e7a1f37950277b115d5944b53eaf3c)|DOC|o97m|2020-01-15 08:03:34|/home/wwwroot/topthreat/topthreat/uploads/20200518/4d4870c2723b9cc25f06d1c402075170.|
+|[711925d6a68eafac3fc63495996e708b](https://www.virustotal.com/gui/file/711925d6a68eafac3fc63495996e708b)|Win32 EXE||2019-12-26 12:25:40|C:\Users\FD1HVy\Downloads\update.txt|
+|[723ba37d91240a46c14b4b6be71b21d0](https://www.virustotal.com/gui/file/723ba37d91240a46c14b4b6be71b21d0)|Win32 EXE||2019-11-12 04:39:41|plug-in.exe|
+|[9decfca230031a04a7bb472d0ef16cc7](https://www.virustotal.com/gui/file/9decfca230031a04a7bb472d0ef16cc7)|Win32 DLL||2019-09-23 07:49:20|7f6984fa9d0bbc1bd6ab531f0a8c2f4beb15de30f2b20054d3980395d77665af.sample|
+|[6ab9d7a9f78f0b26864d07f91ed66ade](https://www.virustotal.com/gui/file/6ab9d7a9f78f0b26864d07f91ed66ade)|Win64 DLL||2019-08-17 05:17:37|ceb8093507911939a17c6c7b39475f5d4db70a9ed3b85ef34ff5e6372b20a73e.sample|
+|[9e212aff6394f7f4eb70df08ac774e4f](https://www.virustotal.com/gui/file/9e212aff6394f7f4eb70df08ac774e4f)|Win32 DLL||2019-08-16 13:09:32|dttcodexgigas.9012313316bc62186a935158fd9604cf0a595b0f|

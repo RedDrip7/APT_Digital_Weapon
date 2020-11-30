@@ -536,3 +536,8 @@
 |[9d718e86cacffa39edafbf9c1ebc9754](https://www.virustotal.com/gui/file/9d718e86cacffa39edafbf9c1ebc9754)|Win32 EXE|tspy|2014-02-10 08:56:09|AFxGVlFS.exe|
 |[966d9e07d1a75fa6867bbf02748c4212](https://www.virustotal.com/gui/file/966d9e07d1a75fa6867bbf02748c4212)|Win32 DLL|rozena|2013-12-06 13:51:33|реквизиты.doc.cpl|
 |[0cf14d472410589c920fb55a97adaab1](https://www.virustotal.com/gui/file/0cf14d472410589c920fb55a97adaab1)|Win32 DLL||2013-09-17 19:04:41|исх.09_42.doc.cpl|
+|[bece1545132af25c68777fade707046c](https://www.virustotal.com/gui/file/bece1545132af25c68777fade707046c)|TXT||2020-09-09 05:04:05|runit.bin|
+|[1fff28af9e4061f8e3fdaf7ffe53b74a](https://www.virustotal.com/gui/file/1fff28af9e4061f8e3fdaf7ffe53b74a)|TXT||2020-03-30 19:17:41|colorpickerdesk__ex.ini|
+|[4204019f999aa1360694a541514f89dc](https://www.virustotal.com/gui/file/4204019f999aa1360694a541514f89dc)|TXT||2020-03-30 19:16:20|colorpickerdesk__co.ini|
+|[84d77a3b76ac690ce7a60199c88ceeb5](https://www.virustotal.com/gui/file/84d77a3b76ac690ce7a60199c88ceeb5)|TXT|Nemucod|2020-03-02 19:44:07|prada.txt|
+|[718bc1dd6e993208bdaf3d2062e29871](https://www.virustotal.com/gui/file/718bc1dd6e993208bdaf3d2062e29871)|Win64 DLL||2018-06-11 02:07:15|f59e443dcaa2d92277d403ffe57a639cadf46932e61f33297a68be025ec5a137.bin|

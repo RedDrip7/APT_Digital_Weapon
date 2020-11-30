@@ -121,3 +121,4 @@
 |[56cc03c421ab4d639fa3bfc2a3058ad4](https://www.virustotal.com/gui/file/56cc03c421ab4d639fa3bfc2a3058ad4)|Win32 EXE||2014-03-05 16:46:06|winsys-restore.exe|
 |[27790c50a6ddc9b4835973f33d1d5371](https://www.virustotal.com/gui/file/27790c50a6ddc9b4835973f33d1d5371)|Win32 EXE||2014-02-17 17:36:38|Adobe PDF|
 |[47f72949407838e0d3bfb15a275b6ef7](https://www.virustotal.com/gui/file/47f72949407838e0d3bfb15a275b6ef7)|Win32 EXE||2014-02-07 12:16:26|6a46ec0f3a3ad4f73bb5557651278588eaf62e72|
+|[cab163e740e10b9572a6424e69cce1d5](https://www.virustotal.com/gui/file/cab163e740e10b9572a6424e69cce1d5)|Win32 EXE|Ursu|2020-01-06 05:45:23|Policy_update.exe|

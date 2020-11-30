@@ -72,3 +72,7 @@
 |[3a72d5ad95a1ae94a0d4b51615b0c570](https://www.virustotal.com/gui/file/3a72d5ad95a1ae94a0d4b51615b0c570)|Win32 EXE|razy|2018-09-12 12:16:01|RevengeRAT.exe|
 |[7b083777c75b0d737e372dd416e24d9e](https://www.virustotal.com/gui/file/7b083777c75b0d737e372dd416e24d9e)|Win32 EXE|Delf|2018-09-12 00:20:41|PAYMENT COPY_doc####000.ace.exe|
 |[2c173186905fc222de751c16e80b9f1f](https://www.virustotal.com/gui/file/2c173186905fc222de751c16e80b9f1f)|Win32 EXE|injector|2018-09-05 05:06:54|myfile.exe|
+|[1c0d1af30fc12cb964335c0a20ffeedd](https://www.virustotal.com/gui/file/1c0d1af30fc12cb964335c0a20ffeedd)|Win32 EXE|Zbot|2020-01-21 11:03:43|ll.exe|
+|[89ddfbb9ac3039654002e21643d1a1f9](https://www.virustotal.com/gui/file/89ddfbb9ac3039654002e21643d1a1f9)|PPT|Tiggre|2020-01-15 04:10:09|Sample.ppt|
+|[efba4b3475e8b70cd15512fdcd3bf57e](https://www.virustotal.com/gui/file/efba4b3475e8b70cd15512fdcd3bf57e)|Win32 DLL|MSILPerseus|2020-01-07 12:41:57|office.dll|
+|[df2e755b113efebe222ba6913fa9f9db](https://www.virustotal.com/gui/file/df2e755b113efebe222ba6913fa9f9db)|TXT||2019-11-24 09:10:19|vDP4T|

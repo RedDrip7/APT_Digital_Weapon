@@ -289,3 +289,133 @@
 |[db7a4925013b457d7c309ec10cfe257e](https://www.virustotal.com/gui/file/db7a4925013b457d7c309ec10cfe257e)|unknown||2008-06-04 17:50:16| |
 |[c98a0d1909d8fad4110c8f35ee6f8391](https://www.virustotal.com/gui/file/c98a0d1909d8fad4110c8f35ee6f8391)|Win32 EXE||2008-05-07 00:01:47|0f5ec3b9535d4f95_~df81c3.tmp|
 |[0328dedfce54e185ad395ac44aa4223c](https://www.virustotal.com/gui/file/0328dedfce54e185ad395ac44aa4223c)|Win32 EXE|turla|2007-12-19 19:06:59|Turla.bin|
+|[150d0addf65b6524eb92b9762db6f074](https://www.virustotal.com/gui/file/150d0addf65b6524eb92b9762db6f074)|Win32 EXE|Razy|2020-10-06 08:28:49|Agent.exe|
+|[122907a62a6ade198e94b87eed4b4810](https://www.virustotal.com/gui/file/122907a62a6ade198e94b87eed4b4810)|Win32 EXE|Turla|2020-09-14 10:21:45|Agent.exe|
+|[869c9b1209009a6887f31ffb7c43fa04](https://www.virustotal.com/gui/file/869c9b1209009a6887f31ffb7c43fa04)|Win32 EXE|Turla|2020-09-11 07:50:01|%WINDIR%\adschemeintegrity.exe|
+|[71f821c443d618cf40411b9a79e95d5c](https://www.virustotal.com/gui/file/71f821c443d618cf40411b9a79e95d5c)|Win32 EXE|Turla|2020-09-04 06:58:04|./KISA_dataset_2020_train/6ca0b4efe077fe05b2ae871bf50133c706c7090a54d2c3536a6c86ff454caa9a.vir|
+|[277f2d8e682f7ffc071560f44af4ab41](https://www.virustotal.com/gui/file/277f2d8e682f7ffc071560f44af4ab41)|Win32 EXE|Razy|2020-07-28 06:16:45|DebugView.exe|
+|[50c98af90563bae4f89219d50feba38f](https://www.virustotal.com/gui/file/50c98af90563bae4f89219d50feba38f)|Win64 DLL||2020-06-24 08:07:51|722fa0c893b39fef787b7bc277c979d29adc1525d77dd952f0cc61cd4d0597cc.bin|
+|[e6d114379914a51c09949e37e1790f62](https://www.virustotal.com/gui/file/e6d114379914a51c09949e37e1790f62)|TXT||2020-06-18 13:04:43|97187123b80b1618f0d8afc2a5f84e9a17ac8e53a6e4ce8b0aa39fe06cec1f36.bin|
+|[a6efd027b121347201a3de769389e6dd](https://www.virustotal.com/gui/file/a6efd027b121347201a3de769389e6dd)|Win64 EXE|Turla|2020-06-13 20:22:17|493e5fae191950b901764868b065ddddffa4f4c9b497022ee2f998b4a94f0fc2.bin|
+|[03b236b23b1ec37c663527c1f53af3fe](https://www.virustotal.com/gui/file/03b236b23b1ec37c663527c1f53af3fe)|Win64 DLL||2020-06-05 19:18:00|lib3DXquery.dll|
+|[1a78c735481095dad7576afae3b2fc4b](https://www.virustotal.com/gui/file/1a78c735481095dad7576afae3b2fc4b)|Win64 DLL||2020-06-04 14:07:58|WindowsHolographicService.dll|
+|[2d3115ac3d96b29d9ba20e310a8e7457](https://www.virustotal.com/gui/file/2d3115ac3d96b29d9ba20e310a8e7457)|Win64 DLL||2020-06-03 10:15:52|QShvHost.bin|
+|[c9c819991d4e6476e8f0307beed080b7](https://www.virustotal.com/gui/file/c9c819991d4e6476e8f0307beed080b7)|Win64 DLL||2020-05-29 11:28:24|WICACCESS.DLL|
+|[e5a90e7e63ededbdd5ee13219bc93fce](https://www.virustotal.com/gui/file/e5a90e7e63ededbdd5ee13219bc93fce)|Win32 DLL||2020-05-29 11:27:54|WICACCESS.DLL|
+|[3b10f20729d79ca3a92510674ff037c2](https://www.virustotal.com/gui/file/3b10f20729d79ca3a92510674ff037c2)|Win64 DLL||2020-05-29 11:27:13|MSCAPGPL.DLL|
+|[2b35c299c96d17a1d4b09092b09bf692](https://www.virustotal.com/gui/file/2b35c299c96d17a1d4b09092b09bf692)|Win32 EXE|Turla|2020-04-06 02:33:16|WindowsFormsApplication2.exe|
+|[e67ab185c7663939e78db5e77facb749](https://www.virustotal.com/gui/file/e67ab185c7663939e78db5e77facb749)|Win32 EXE|Turla|2020-04-06 00:25:13|Stub.exe|
+|[2262bb56584a0e58193404e5fb3a8eed](https://www.virustotal.com/gui/file/2262bb56584a0e58193404e5fb3a8eed)|Win32 DLL||2020-02-27 15:39:01|MSJAVAVM|
+|[07bf024a43c324dd2a4b8a8cf6e63480](https://www.virustotal.com/gui/file/07bf024a43c324dd2a4b8a8cf6e63480)|Win64 DLL|Razy|2020-02-12 11:58:21|C:\Users\jack\Desktop\dll_07BF024A43C324DD2A4B8A8CF6E63480.fil|
+|[710da05065780eac2203b60e692b79e7](https://www.virustotal.com/gui/file/710da05065780eac2203b60e692b79e7)|Win32 DLL||2020-02-10 00:32:47|MSJAVAVM|
+|[252ec60966a4e249d1fecbea52519438](https://www.virustotal.com/gui/file/252ec60966a4e249d1fecbea52519438)|Win32 DLL|occamy|2020-02-06 18:15:32|096FBD61.bin|
+|[d1018c9860ab45185816f8c3aa2fa6cd](https://www.virustotal.com/gui/file/d1018c9860ab45185816f8c3aa2fa6cd)|Win32 DLL||2020-02-01 10:22:11|MSJAVAVM|
+|[2c091aead3f99908a77597ad224295a6](https://www.virustotal.com/gui/file/2c091aead3f99908a77597ad224295a6)|Win64 DLL|Razy|2020-01-29 17:52:03|.|
+|[899e28b6ec1f9c5ad2de5ab93d20e38d](https://www.virustotal.com/gui/file/899e28b6ec1f9c5ad2de5ab93d20e38d)|Win32 DLL||2020-01-24 21:11:44|MSJAVAVM|
+|[79db9a7ca5c2f1ff0919b9b582734159](https://www.virustotal.com/gui/file/79db9a7ca5c2f1ff0919b9b582734159)|Win32 EXE|Turla|2020-01-23 08:08:27|Agent.Original.exe|
+|[4181de1b2e03b20d6b7ad42efe6ec514](https://www.virustotal.com/gui/file/4181de1b2e03b20d6b7ad42efe6ec514)|Win32 DLL||2020-01-21 02:01:33|MSJAVAVM|
+|[bc7bd81607aacb5a5198b988946cc29f](https://www.virustotal.com/gui/file/bc7bd81607aacb5a5198b988946cc29f)|Win32 DLL||2020-01-20 08:01:55|209326.dll|
+|[0d1a72a9d89d8c08245e951ccdee7f0d](https://www.virustotal.com/gui/file/0d1a72a9d89d8c08245e951ccdee7f0d)|Win64 DLL|Razy|2020-01-03 07:08:26|CD6F5173.dll|
+|[e36cbb7bdde4eb104d101b8d092b5c43](https://www.virustotal.com/gui/file/e36cbb7bdde4eb104d101b8d092b5c43)|Win32 EXE|Turla|2020-01-01 13:56:44|ETPhoneHome.exe|
+|[10772c88a8053b3c73544feca1d040c3](https://www.virustotal.com/gui/file/10772c88a8053b3c73544feca1d040c3)|unknown||2019-12-21 04:00:32|.data|
+|[ef49780995d9bab25bcb4b70bd206df4](https://www.virustotal.com/gui/file/ef49780995d9bab25bcb4b70bd206df4)|Win32 DLL|Turla|2019-12-19 05:40:03|ef49780995d9bab25bcb4b70bd206df4.virus|
+|[fb3b84d2d28a599281afa3c32b2946f9](https://www.virustotal.com/gui/file/fb3b84d2d28a599281afa3c32b2946f9)|Win64 DLL||2019-12-11 14:14:08|018833609|
+|[9cd8a8c58b076a355188038b34424bb2](https://www.virustotal.com/gui/file/9cd8a8c58b076a355188038b34424bb2)|Win64 DLL|Turla|2019-12-11 14:12:22|018833609|
+|[55ba9886ff2ab87a1e088c2deb72bdbe](https://www.virustotal.com/gui/file/55ba9886ff2ab87a1e088c2deb72bdbe)|Win64 DLL|Turla|2019-12-11 14:10:45|018833609|
+|[1619fee6d8b9f99abcdae1cd78b16e60](https://www.virustotal.com/gui/file/1619fee6d8b9f99abcdae1cd78b16e60)|Win64 DLL|Turla|2019-12-11 14:03:28|018833609|
+|[78f8144c138332937e78833146bb34b9](https://www.virustotal.com/gui/file/78f8144c138332937e78833146bb34b9)|Win64 DLL|Turla|2019-12-11 14:00:45|018833609|
+|[fd99b6a8a95e3126005813bafcbba70f](https://www.virustotal.com/gui/file/fd99b6a8a95e3126005813bafcbba70f)|Win32 DLL||2019-12-06 19:26:42|MSJAVAVM|
+|[c713cf68acd195e0c6e05fd6d9c3cdcd](https://www.virustotal.com/gui/file/c713cf68acd195e0c6e05fd6d9c3cdcd)|Win32 EXE||2019-11-19 20:14:16|with and kaztxt.exe|
+|[f3bf767fb3f1f53ef5f9527168f98e46](https://www.virustotal.com/gui/file/f3bf767fb3f1f53ef5f9527168f98e46)|Win32 DLL||2019-11-19 19:50:56|many warning.exe|
+|[88b76be1f1ffb9afa3fd8a1dca0fe92a](https://www.virustotal.com/gui/file/88b76be1f1ffb9afa3fd8a1dca0fe92a)|Win32 EXE||2019-11-19 19:49:11|many warning.exe|
+|[4dccffe134ac6f21083d70c917a8dfe5](https://www.virustotal.com/gui/file/4dccffe134ac6f21083d70c917a8dfe5)|Win32 EXE||2019-11-19 19:05:09|adl+kuz.exe|
+|[599c6a452973c04ffd285c69ac62a260](https://www.virustotal.com/gui/file/599c6a452973c04ffd285c69ac62a260)|Win64 DLL|Turla|2019-11-05 14:25:50|Microsoft.SmartScreen.DomainRep.dat.1|
+|[96be1e1f997a3bad8a179af72e9e45e2](https://www.virustotal.com/gui/file/96be1e1f997a3bad8a179af72e9e45e2)|Win32 DLL||2019-11-02 15:36:08|MSJAVAVM|
+|[5926ed4e825635589f2fb9220e1e8dc1](https://www.virustotal.com/gui/file/5926ed4e825635589f2fb9220e1e8dc1)|TXT||2019-10-30 21:13:12|jquery.easing.1.3.js.txt|
+|[3e93f8b7c46a32236c225926d9f063f2](https://www.virustotal.com/gui/file/3e93f8b7c46a32236c225926d9f063f2)|Win32 DLL|Turla|2019-10-08 03:50:04| |
+|[4c0a84a2ebe157fbab2c42f8e92ab330](https://www.virustotal.com/gui/file/4c0a84a2ebe157fbab2c42f8e92ab330)|Win32 DLL|Ursu|2019-10-07 04:04:30| |
+|[44fb1516e3c290237b4bed7d59496442](https://www.virustotal.com/gui/file/44fb1516e3c290237b4bed7d59496442)|Win32 DLL|Ursu|2019-10-07 03:33:56| |
+|[65e6025462d5b47e07d5fd724a549c92](https://www.virustotal.com/gui/file/65e6025462d5b47e07d5fd724a549c92)|Win32 DLL|Ursu|2019-10-07 03:01:27| |
+|[1f8a62d84c8d521aa333a9bcd7f630d3](https://www.virustotal.com/gui/file/1f8a62d84c8d521aa333a9bcd7f630d3)|Win64 DLL||2019-10-07 00:05:18|739aa8eb0a2a6e77_1f3975ea6a12e99f7f0579c84710d1dd.dll|
+|[f19f0170ede809218b35b705478dc1a9](https://www.virustotal.com/gui/file/f19f0170ede809218b35b705478dc1a9)|Win32 DLL|Ursu|2019-10-06 22:23:32| |
+|[f4273f979565c66fe00fdcc0619793b1](https://www.virustotal.com/gui/file/f4273f979565c66fe00fdcc0619793b1)|Win32 DLL|Turla|2019-10-06 10:39:31| |
+|[11dc55d38e4d29acf32fe40c2bbfb461](https://www.virustotal.com/gui/file/11dc55d38e4d29acf32fe40c2bbfb461)|Win32 DLL|Ursu|2019-10-06 06:00:44| |
+|[4a9eb485e7324499da77e00eb222d553](https://www.virustotal.com/gui/file/4a9eb485e7324499da77e00eb222d553)|Win32 DLL|Graftor|2019-10-05 16:28:12| |
+|[2df3d9ad6759556d11764e7423b37b94](https://www.virustotal.com/gui/file/2df3d9ad6759556d11764e7423b37b94)|Win32 DLL|Turla|2019-10-05 16:19:42| |
+|[ab3e7524f8e75bee47cfa1a838782f1d](https://www.virustotal.com/gui/file/ab3e7524f8e75bee47cfa1a838782f1d)|Win32 EXE||2019-10-05 16:16:55| |
+|[597425ea47067eaee6f2ace7376614bb](https://www.virustotal.com/gui/file/597425ea47067eaee6f2ace7376614bb)|Win32 DLL||2019-09-10 09:55:16|MSJAVAVM|
+|[a2a5c24530c2aa8efaadcf78f8dc54bd](https://www.virustotal.com/gui/file/a2a5c24530c2aa8efaadcf78f8dc54bd)|Win32 DLL||2019-08-30 22:49:28|MSJAVAVM|
+|[45e611c1bede7d1ff0a9a169590c0c28](https://www.virustotal.com/gui/file/45e611c1bede7d1ff0a9a169590c0c28)|Win32 DLL||2019-07-03 04:23:03|MSJAVAVM|
+|[2540ddea844c96e61460392a8ee573ae](https://www.virustotal.com/gui/file/2540ddea844c96e61460392a8ee573ae)|Win32 DLL||2019-06-01 04:30:12|MSJAVAVM|
+|[87ad17f943692fa749259190a52c81e3](https://www.virustotal.com/gui/file/87ad17f943692fa749259190a52c81e3)|Win32 EXE||2019-05-31 12:56:26|dttcodexgigas.d63c2d55af499ead7f7fefe7951f6f1b1296774e|
+|[e0abec19095864c3f67dd9cb50c1144d](https://www.virustotal.com/gui/file/e0abec19095864c3f67dd9cb50c1144d)|Win32 DLL||2019-05-31 10:54:13|MSJAVAVM|
+|[41705c15ca2e5b707ec2fcd25e69a025](https://www.virustotal.com/gui/file/41705c15ca2e5b707ec2fcd25e69a025)|Win32 EXE|Wacatac|2019-05-21 18:17:37|shellcode.bin|
+|[347c626ebd441790fc73c103af192893](https://www.virustotal.com/gui/file/347c626ebd441790fc73c103af192893)|Win32 DLL||2019-05-12 10:00:35|MSJAVAVM|
+|[64b2e54e905373d09bc4458ea34c7bd0](https://www.virustotal.com/gui/file/64b2e54e905373d09bc4458ea34c7bd0)|Win32 EXE|occamy|2019-05-10 17:36:57|WOWManager|
+|[26a7f2fe450f9033c8496baa404f1ef9](https://www.virustotal.com/gui/file/26a7f2fe450f9033c8496baa404f1ef9)|Win32 DLL||2019-05-10 05:31:11|MSJAVAVM|
+|[1ab6d09801640cb3a508942e4da3c9a1](https://www.virustotal.com/gui/file/1ab6d09801640cb3a508942e4da3c9a1)|Win32 EXE|Turla|2019-05-09 18:56:45|.|
+|[0952b0efe7c2099100904dc787825061](https://www.virustotal.com/gui/file/0952b0efe7c2099100904dc787825061)|Win32 DLL|Turla|2019-05-09 18:13:27|./KISA_dataset_2020_train/49d57452f11e15b81336c985a42a2887ea53e747297587580105166561d8401d.vir|
+|[53e823cad0837fffe540d3daa3335e55](https://www.virustotal.com/gui/file/53e823cad0837fffe540d3daa3335e55)|Win32 DLL|Skeeyah|2019-05-09 18:08:20|.|
+|[d532e06adb3000bcda9d94079ce0ca1b](https://www.virustotal.com/gui/file/d532e06adb3000bcda9d94079ce0ca1b)|Win32 DLL||2019-05-07 05:50:29|MSJAVAVM|
+|[7c834d71a108c4da3c0a8b7af05507ad](https://www.virustotal.com/gui/file/7c834d71a108c4da3c0a8b7af05507ad)|Win32 DLL||2019-05-05 11:25:56|MSJAVAVM|
+|[d91153dc28274eb12e2e1233ab0552f1](https://www.virustotal.com/gui/file/d91153dc28274eb12e2e1233ab0552f1)|Win32 DLL||2019-05-01 07:10:20|MSJAVAVM|
+|[4deb0196b26ced848d300158eca103f0](https://www.virustotal.com/gui/file/4deb0196b26ced848d300158eca103f0)|Win32 DLL||2019-04-27 03:27:13|MSJAVAVM|
+|[81468559724652d91df6b26833cc34bf](https://www.virustotal.com/gui/file/81468559724652d91df6b26833cc34bf)|Win32 DLL||2019-04-26 19:51:27|MSJAVAVM|
+|[6f8f369641401b3440c9faaf63773cd8](https://www.virustotal.com/gui/file/6f8f369641401b3440c9faaf63773cd8)|Win32 DLL||2019-04-26 12:12:42|MSJAVAVM|
+|[8bdad50d7f2b2f30f1c8d5323475f35c](https://www.virustotal.com/gui/file/8bdad50d7f2b2f30f1c8d5323475f35c)|Win32 DLL||2019-04-26 12:11:22|MSJAVAVM|
+|[c6798d524de5dae9a34aa665175b2677](https://www.virustotal.com/gui/file/c6798d524de5dae9a34aa665175b2677)|Win32 DLL||2019-04-26 12:07:56|MSJAVAVM|
+|[6f29e6cae443412ff6086322eeffb56f](https://www.virustotal.com/gui/file/6f29e6cae443412ff6086322eeffb56f)|Win32 DLL||2019-04-19 15:36:09|MSJAVAVM|
+|[f643205cda53f8f7f157cf2b6a0a443d](https://www.virustotal.com/gui/file/f643205cda53f8f7f157cf2b6a0a443d)|Win32 DLL||2019-04-19 08:19:38|MSJAVAVM|
+|[be58f7bc35fb5f215a39470ae43ea2ac](https://www.virustotal.com/gui/file/be58f7bc35fb5f215a39470ae43ea2ac)|Win32 DLL||2019-04-18 16:20:55|MSJAVAVM|
+|[b759f62ae689f6004f86f92c3f77b3ad](https://www.virustotal.com/gui/file/b759f62ae689f6004f86f92c3f77b3ad)|Win64 DLL|turla|2019-04-12 10:52:09|fa921b247e478b6f8570b4817ec740a62ad95cf7fcf14c265a6571cfd77abf87.sample|
+|[5036314c2f8f594cc2d597307c814176](https://www.virustotal.com/gui/file/5036314c2f8f594cc2d597307c814176)|Win32 DLL||2019-04-09 15:07:15|MSJAVAVM|
+|[7200e355f0573f054d80472f41976519](https://www.virustotal.com/gui/file/7200e355f0573f054d80472f41976519)|Win32 DLL|Turla|2019-04-09 12:25:48|myfile.exe|
+|[fe82adcdca51ef8038b2c9cbf7671e7a](https://www.virustotal.com/gui/file/fe82adcdca51ef8038b2c9cbf7671e7a)|Win32 DLL|Turla|2019-03-28 12:23:48|fe82adcdca51ef8038b2c9cbf7671e7a.virus|
+|[97bc5d5b77ce385e9820cd4477892dd1](https://www.virustotal.com/gui/file/97bc5d5b77ce385e9820cd4477892dd1)|Virtual Device Driver||2019-03-27 01:19:34| |
+|[a45cac94e6e7dfd66b28d3b01fa8c8aa](https://www.virustotal.com/gui/file/a45cac94e6e7dfd66b28d3b01fa8c8aa)|Win32 DLL|Skeeyah|2019-03-12 14:34:52|MSJAVAVM|
+|[01e2e224a63886a9640334ba449f8a3a](https://www.virustotal.com/gui/file/01e2e224a63886a9640334ba449f8a3a)|Win32 DLL||2019-03-12 14:25:22|MSJAVAVM|
+|[d5de9bd2ea9045bc2dcb6fccf24f4b62](https://www.virustotal.com/gui/file/d5de9bd2ea9045bc2dcb6fccf24f4b62)|Win32 DLL||2019-03-12 14:16:08|MSJAVAVM|
+|[8d2e0400c2c16fbdeafe4e8737542203](https://www.virustotal.com/gui/file/8d2e0400c2c16fbdeafe4e8737542203)|Win32 DLL|Turla|2019-03-12 14:13:12|MSJAVAVM|
+|[a48227bdd058e0d507dad9d570b9d71d](https://www.virustotal.com/gui/file/a48227bdd058e0d507dad9d570b9d71d)|Win32 DLL|occamy|2019-03-12 14:09:54|MSJAVAVM|
+|[ad27c99559a742a9949560d42c25a5b2](https://www.virustotal.com/gui/file/ad27c99559a742a9949560d42c25a5b2)|Win32 DLL|Turla|2019-03-12 14:04:17|730b196431d4953cd5e3c4468637429a05b350f7d508c3ec0a982bec4c60d5ab_dump7_0x002d0000_reconstructed|
+|[e8ab99fcd9bd876ca79e0ea7ab32e6ed](https://www.virustotal.com/gui/file/e8ab99fcd9bd876ca79e0ea7ab32e6ed)|Win32 DLL|Turla|2019-03-12 14:03:23|05dc66031e4276bc20010743d8cd0ee36e4064cf087b6b4617fefb86a4702873_dump7_0x002d0000_reconstructed|
+|[47c17d62cd1962e4bd282bbc40647940](https://www.virustotal.com/gui/file/47c17d62cd1962e4bd282bbc40647940)|Win32 DLL||2019-03-12 14:02:25|MSJAVAVM|
+|[0a3ea5ecd7e29cd66da02a17ff6e86a4](https://www.virustotal.com/gui/file/0a3ea5ecd7e29cd66da02a17ff6e86a4)|Win32 DLL||2019-03-12 14:01:43|MSJAVAVM|
+|[f993d53e05a3b87262219802a8e3ae38](https://www.virustotal.com/gui/file/f993d53e05a3b87262219802a8e3ae38)|Win32 DLL||2019-03-12 14:00:09|MSJAVAVM|
+|[bdfb9ad55e908799d6b78c41cb340710](https://www.virustotal.com/gui/file/bdfb9ad55e908799d6b78c41cb340710)|Win32 DLL|Turla|2019-03-12 13:56:49|df5cc17e0efb2e4c2a85494a1f60672f3191820ef2caea81bcb031970c3f412e_dump7_0x002d0000_reconstructed|
+|[83dbdf9cfcf65a97e5addc7e824a6842](https://www.virustotal.com/gui/file/83dbdf9cfcf65a97e5addc7e824a6842)|Win32 DLL|Graftor|2019-03-12 13:50:47|MSJAVAVM|
+|[de457bdf41b07faaa728e9122adfd064](https://www.virustotal.com/gui/file/de457bdf41b07faaa728e9122adfd064)|Win32 EXE|Kazy|2019-03-12 13:42:11|btwcb.exe|
+|[9443437c07299dd30089437430900b25](https://www.virustotal.com/gui/file/9443437c07299dd30089437430900b25)|Win32 DLL|Graftor|2019-03-12 13:41:15|MSJAVAVM|
+|[1e295a6c8ca911746165812c61527730](https://www.virustotal.com/gui/file/1e295a6c8ca911746165812c61527730)|Win32 DLL|Tiggre|2019-03-12 13:40:33|MSJAVAVM|
+|[efa53c81f9b6d0b245609fdcdd652826](https://www.virustotal.com/gui/file/efa53c81f9b6d0b245609fdcdd652826)|Win64 DLL||2019-03-08 15:56:21|Microsoft.Exchange.Data.Mime.dll|
+|[481af8ec3f2e3f96d984693df8602e2f](https://www.virustotal.com/gui/file/481af8ec3f2e3f96d984693df8602e2f)|Win64 DLL|Agentwdcr|2019-02-11 06:39:30|myfile.exe|
+|[19db0b290b19b66041eec48a51804124](https://www.virustotal.com/gui/file/19db0b290b19b66041eec48a51804124)|Win64 DLL|Turla|2019-01-28 16:21:22|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/Turla/KazuarRAT2019/TurlaKazuarRat|
+|[0c8be90f4c6f3299a727b1db7406b87e](https://www.virustotal.com/gui/file/0c8be90f4c6f3299a727b1db7406b87e)|Win32 DLL|Turla|2019-01-28 16:20:40|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/Turla/KazuarRAT2019/TurlaKazRat.bin|
+|[163451f0f8ac882d7218422e594d7c38](https://www.virustotal.com/gui/file/163451f0f8ac882d7218422e594d7c38)|Win64 DLL|Turla|2019-01-28 16:19:26|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/Turla/KazuarRAT2019/TurlaKazImplant|
+|[988df2967a7239a4b916cc9fcedaff68](https://www.virustotal.com/gui/file/988df2967a7239a4b916cc9fcedaff68)|Win32 EXE|Razy|2019-01-27 22:32:13|Agent.exe|
+|[e88029a87ca6e3f7b271e5d35471b240](https://www.virustotal.com/gui/file/e88029a87ca6e3f7b271e5d35471b240)|Win32 DLL|Turla|2019-01-27 22:23:55|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/Turla/KazuarRAT2019/TurlaKazImplantVarient|
+|[f58e5a860a4d846ebe86596f9691e2e8](https://www.virustotal.com/gui/file/f58e5a860a4d846ebe86596f9691e2e8)|Win32 EXE|Turla|2018-07-25 05:15:30|./KISA_dataset_2020_train/20691ff3c9474cfd7bf6fa3f8720eb7326e6f87f64a1f190861589c1e7397fa5.vir|
+|[25433e78c32d3d074ac68260957f5659](https://www.virustotal.com/gui/file/25433e78c32d3d074ac68260957f5659)|JPEG||2018-01-18 12:26:51|attachment.bin|
+|[a5e8e5633bb06f12a511011d6adb3a83](https://www.virustotal.com/gui/file/a5e8e5633bb06f12a511011d6adb3a83)|Win32 DLL|Ursu|2018-01-09 16:04:28|b820b42479b87058bcbb9a63856cc8510af4632b51126113e52e222e04b6bc97.sample|
+|[f7bb82b0e665b494bcebefc7351f46c5](https://www.virustotal.com/gui/file/f7bb82b0e665b494bcebefc7351f46c5)|Win64 DLL|Turla|2017-09-26 11:54:10|1678-pefile.dll|
+|[bfa7e07441929be3c6d5002e3be467ea](https://www.virustotal.com/gui/file/bfa7e07441929be3c6d5002e3be467ea)|Win32 EXE||2016-10-14 12:43:10|Agent.exe|
+|[a029007534b95c2bd8e29e80f97f292d](https://www.virustotal.com/gui/file/a029007534b95c2bd8e29e80f97f292d)|Win32 EXE|Zbot|2016-10-14 12:15:52|Agent.exe|
+|[cafe3f10dc01ad158b14932b6562616f](https://www.virustotal.com/gui/file/cafe3f10dc01ad158b14932b6562616f)|Win32 EXE|Zbot|2016-10-10 11:08:52|Agent.exe|
+|[7a778e076e48ff269e91f17a15ea97d5](https://www.virustotal.com/gui/file/7a778e076e48ff269e91f17a15ea97d5)|Win32 EXE|Zbot|2016-10-04 09:40:50|Agent.exe|
+|[448524fd62dec1151c75b55b86587784](https://www.virustotal.com/gui/file/448524fd62dec1151c75b55b86587784)|Win32 DLL||2014-02-20 19:33:36|MSJAVAVM|
+|[ca8d5f41c074dfb2f8fbb66a352aef06](https://www.virustotal.com/gui/file/ca8d5f41c074dfb2f8fbb66a352aef06)|Win32 EXE|Tspy|2013-08-30 07:32:54|Wextract|
+|[eb928bca5675722c7e9e2b09eec1158a](https://www.virustotal.com/gui/file/eb928bca5675722c7e9e2b09eec1158a)|Win32 DLL||2013-07-30 05:23:14|MSJAVAVM|
+|[890c13f99a35dcd780ca151dcf1c7aa2](https://www.virustotal.com/gui/file/890c13f99a35dcd780ca151dcf1c7aa2)|Win32 EXE||2013-04-06 15:24:19|myfile.exe|
+|[78d3f074b70788897ae7e20e5137bf47](https://www.virustotal.com/gui/file/78d3f074b70788897ae7e20e5137bf47)|Win32 DLL||2012-12-15 07:36:15|MSJAVAVM|
+|[28024234c30880ecf146526ca430f9ca](https://www.virustotal.com/gui/file/28024234c30880ecf146526ca430f9ca)|Win32 DLL|Turla|2012-05-25 19:18:10|MSJAVAVM|
+|[80fc5df5022be7b91de43017f586f1d7](https://www.virustotal.com/gui/file/80fc5df5022be7b91de43017f586f1d7)|Win32 DLL||2012-05-02 03:27:27|80fc5df5022be7b91de43017f586f1d7|
+|[8940b9b7e6d0d669c7a9d3082016354e](https://www.virustotal.com/gui/file/8940b9b7e6d0d669c7a9d3082016354e)|Win32 DLL||2012-04-30 03:44:09|8940b9b7e6d0d669c7a9d3082016354e|
+|[5bc96f6c393f73f78ebc4bd28167f57d](https://www.virustotal.com/gui/file/5bc96f6c393f73f78ebc4bd28167f57d)|Win32 DLL|Turla|2012-03-31 18:33:58|MSJAVAVM|
+|[e028c0d5842313dc746c14342622549e](https://www.virustotal.com/gui/file/e028c0d5842313dc746c14342622549e)|Win32 DLL|Turla|2012-03-27 13:47:50|MSJAVAVM|
+|[daaa03e1c73d613dd0b221abbd6998ea](https://www.virustotal.com/gui/file/daaa03e1c73d613dd0b221abbd6998ea)|Win32 EXE|Turla|2010-07-19 00:23:21|atmarpd.sys|
+|[6889eff32b36c63a25172144516bebbd](https://www.virustotal.com/gui/file/6889eff32b36c63a25172144516bebbd)|Win32 DLL|Turla|2010-01-30 20:34:08|MSJAVAVM|
+|[9e8d05e70588e4d3b2feb1a5e895960a](https://www.virustotal.com/gui/file/9e8d05e70588e4d3b2feb1a5e895960a)|Win32 EXE||2009-07-16 10:58:26|Wextract|
+|[db1156b072d58acdac1aeab9af2160a2](https://www.virustotal.com/gui/file/db1156b072d58acdac1aeab9af2160a2)|Win32 DLL|Zbot|2008-11-14 18:45:48|MSJAVAVM|
+|[986f263ca2c529d5d28bce3c62f858ea](https://www.virustotal.com/gui/file/986f263ca2c529d5d28bce3c62f858ea)|Win32 DLL||2008-09-08 11:04:34|MSJAVAVM|
+|[f93ce76f6580d68a95260198b2d6feaa](https://www.virustotal.com/gui/file/f93ce76f6580d68a95260198b2d6feaa)|Win32 DLL||2008-02-14 12:39:45|MSJAVAVM|
+|[b41fbdd02e4d54b4bc28eda99a8c1502](https://www.virustotal.com/gui/file/b41fbdd02e4d54b4bc28eda99a8c1502)|Win32 DLL||2007-08-14 11:04:04|desktop.dll|

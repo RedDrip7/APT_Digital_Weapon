@@ -169,3 +169,40 @@
 |[01e64c99ee3c4256529df63f08c8ca4c](https://www.virustotal.com/gui/file/01e64c99ee3c4256529df63f08c8ca4c)|DOCM|o97m|2020-03-03 04:29:36|비건 미국무부 부장관 서신 20200302.doc|
 |[5f2d3ed67a577526fcbd9a154f522cce](https://www.virustotal.com/gui/file/5f2d3ed67a577526fcbd9a154f522cce)|DOCM|o97m|2020-03-03 04:20:21|7c0f8d6cf4f908cce8b7f65f2b5ee06a311d28ee6d8f1b32e90af4d08c2ab327.bin|
 |[6711f4b4f0c7e022feff0e2d5afaac59](https://www.virustotal.com/gui/file/6711f4b4f0c7e022feff0e2d5afaac59)|DOC||2019-12-19 07:01:02|out|
+|[3fb0cfe3cc84fc9bb54c894e05ebbb92](https://www.virustotal.com/gui/file/3fb0cfe3cc84fc9bb54c894e05ebbb92)|FPX||2020-11-03 08:58:20|미국 대선 예측 - 미주중앙일보.hwp|
+|[537b319927c0a7fbfaa0d411283069e3](https://www.virustotal.com/gui/file/537b319927c0a7fbfaa0d411283069e3)|Win64 DLL||2020-10-16 07:56:01|%ALLUSERSPROFILE%\software\estsoft\common\estcommon.dll|
+|[3d235aa8f66ddeec5dc4268806c22229](https://www.virustotal.com/gui/file/3d235aa8f66ddeec5dc4268806c22229)|Win32 DLL|Nukesped|2020-10-16 07:52:21|%ALLUSERSPROFILE%\software\microsoft\windows\defender\autoupdate.dll|
+|[4ba6baf75625bddc5e1bc3fd40d04b1e](https://www.virustotal.com/gui/file/4ba6baf75625bddc5e1bc3fd40d04b1e)|Android||2020-10-13 05:07:37| |
+|[b30a72d5fb9c8f3358580169c60cba42](https://www.virustotal.com/gui/file/b30a72d5fb9c8f3358580169c60cba42)|Win32 EXE||2020-09-17 10:08:36|nw_exe|
+|[ce8e463fefaa6634f535f5b63313d381](https://www.virustotal.com/gui/file/ce8e463fefaa6634f535f5b63313d381)|Win32 EXE||2020-08-31 23:13:32|/data/modqi/samples/sum/7fa4d0985ab3815937955768756e954d33a26c2c230399bbf0a547495764f11e|
+|[ae7e565d8c3c54be4342ce63a6838796](https://www.virustotal.com/gui/file/ae7e565d8c3c54be4342ce63a6838796)|Win64 DLL|Nukesped|2020-05-19 02:10:18|ESTCommon.dll|
+|[c39509c0f4ad502cdcab98f1287ba3ea](https://www.virustotal.com/gui/file/c39509c0f4ad502cdcab98f1287ba3ea)|Win32 EXE|occamy|2020-04-15 02:20:24|C:\Users\<USER>\AppData\Local\Temp\c39509c0f4ad502cdcab98f1287ba3ea.exe|
+|[30f821a3738dd520f3bc879915eb72dd](https://www.virustotal.com/gui/file/30f821a3738dd520f3bc879915eb72dd)|ZIP|o97m|2020-04-08 06:40:48|21대 국회의원 선거 관련.zip|
+|[027cece935454a2d535fea22baf71b57](https://www.virustotal.com/gui/file/027cece935454a2d535fea22baf71b57)|DOCX|o97m|2020-04-01 06:10:15|C:\Users\ttzaf\Google Drive\M.Sc\Jupiter_N_Projects\Research\Paper_02\2nd_paper_Data\DOCX\Malicious\Malicious_DOCX_14916_Merged_on_18_06_2020\Malicious_Raw_Attachments\1\02ee67cc545bc6355c4a907e18330d95b990c6a606b95fe608b7e36e672216ae|
+|[163911824defe23439237b6d460e8dad](https://www.virustotal.com/gui/file/163911824defe23439237b6d460e8dad)|HTML||2020-03-20 01:55:21|f58f748f6ed27e7e50b2bb030793404dedf1f2626d1d381d0ecbf26541b30785.bin|
+|[1b6d8837c21093e4b1c92d5d98a40ed4](https://www.virustotal.com/gui/file/1b6d8837c21093e4b1c92d5d98a40ed4)|DOTM|o97m|2020-03-19 12:15:18|C:\Users\ttzaf\Google Drive\M.Sc\Jupiter_N_Projects\Research\Paper_02\2nd_paper_Data\DOCX\Malicious\Malicious_DOCX_14916_Merged_on_18_06_2020\Malicious_Raw_Attachments\1\144242e42335b015145100dbaebf902df3403244921cf81402f67778959c642e|
+|[a4388c4d0588cd3d8a607594347663e0](https://www.virustotal.com/gui/file/a4388c4d0588cd3d8a607594347663e0)|DOCX|o97m|2020-03-19 11:04:09|C:\Users\ttzaf\Google Drive\M.Sc\Jupiter_N_Projects\Research\Paper_02\2nd_paper_Data\DOCX\Malicious\Malicious_DOCX_14916_Merged_on_18_06_2020\Malicious_Raw_Attachments\1\7d2b9f391588cc07d9ba78d652819d32d3d79e5a74086b527c32126ad88b5015|
+|[9f85509f94c4c28bb2d3fd4e205de857](https://www.virustotal.com/gui/file/9f85509f94c4c28bb2d3fd4e205de857)|HTML||2020-03-03 06:39:11|85a14d9cda70bc79e5b796cc2d685c9db712f3b0f9e1c4cf83e807ce68c91290.bin|
+|[ac7bb8137e14921f38fab63ab564e85a](https://www.virustotal.com/gui/file/ac7bb8137e14921f38fab63ab564e85a)|Win32 DLL||2020-02-27 19:42:18|%APPDATA%\microsoft\windows\defender\autoupdate.dll|
+|[7348d1f1f1ca3b7ff25b362231365904](https://www.virustotal.com/gui/file/7348d1f1f1ca3b7ff25b362231365904)|Win64 DLL|Nukesped|2020-02-27 19:18:41|C:\Users\Administrator\AppData\Local\Temp\FBF4.tmp.db|
+|[47c95f19ebd745d588bb208ff89c90ba](https://www.virustotal.com/gui/file/47c95f19ebd745d588bb208ff89c90ba)|Win32 EXE|Andromeda|2020-02-27 19:16:41|C:\Users\Administrator\AppData\Local\Temp\47c95f19ebd745d588bb208ff89c90ba.exe|
+|[a9dac36efd7c99dc5ef8e1bf24c2d747](https://www.virustotal.com/gui/file/a9dac36efd7c99dc5ef8e1bf24c2d747)|DOCM|o97m|2020-02-27 08:52:50|C:\Users\ttzaf\Google Drive\M.Sc\Jupiter_N_Projects\Research\Paper_02\2nd_paper_Data\DOCX\Malicious\Malicious_DOCX_14916_Merged_on_18_06_2020\Malicious_Raw_Attachments\1\2cd5f1852ac6d3ed481394ea0abc49f16789c12fb81bcdf9988762730fb0aa8f|
+|[8ad471517e7457eb6eea5e3039a3334f](https://www.virustotal.com/gui/file/8ad471517e7457eb6eea5e3039a3334f)|FPX|o97m|2020-02-19 08:20:16|(첨부2)20-0206_법인_운영상황_평가표_서식(법인작성용).hwp|
+|[1305506bc1777f82315412c9faf71b63](https://www.virustotal.com/gui/file/1305506bc1777f82315412c9faf71b63)|Win64 DLL|Ursu|2020-02-12 14:43:28|'IEMonitor0164'|
+|[8bac633f24d21e9f88425e0d3fbaf5c5](https://www.virustotal.com/gui/file/8bac633f24d21e9f88425e0d3fbaf5c5)|Win32 DLL|Ursu|2020-02-12 14:43:28|%APPDATA%\microsoft\msofficeupdate.sd|
+|[cf87475a87cb2172e73ee6afa7eb6384](https://www.virustotal.com/gui/file/cf87475a87cb2172e73ee6afa7eb6384)|Win32 EXE|occamy|2020-02-12 14:39:34|out|
+|[20add5eb5fbe527a8b6090a08e7636a6](https://www.virustotal.com/gui/file/20add5eb5fbe527a8b6090a08e7636a6)|Win32 EXE|Scar|2020-02-06 08:34:48|C:\Users\<USER>\AppData\Local\Temp\20add5eb5fbe527a8b6090a08e7636a6.exe|
+|[de6c38eb3859bc4d5369e5454281f875](https://www.virustotal.com/gui/file/de6c38eb3859bc4d5369e5454281f875)|TXT|sLoad|2020-01-27 16:38:35|071d5c44d21c365c13133d46b93a94bc.js|
+|[dfcf6054daaf730cd70e377023537cb9](https://www.virustotal.com/gui/file/dfcf6054daaf730cd70e377023537cb9)|TXT|sLoad|2020-01-27 16:36:46|071d5c44d21c365c13133d46b93a94bc.js|
+|[b409ab27db450341cf8ba586d4069f17](https://www.virustotal.com/gui/file/b409ab27db450341cf8ba586d4069f17)|TXT|sLoad|2020-01-27 06:44:13| |
+|[5cbd1da5414186b538a0258fda6688d9](https://www.virustotal.com/gui/file/5cbd1da5414186b538a0258fda6688d9)|TXT|sLoad|2020-01-27 06:42:14| |
+|[2ddcdf689e49d27bc18fdc9645d967bc](https://www.virustotal.com/gui/file/2ddcdf689e49d27bc18fdc9645d967bc)|TXT|sLoad|2020-01-23 00:49:28|071d5c44d21c365c13133d46b93a94bc.js|
+|[033d513a6bd5f9ffad3a9a60fd8a295b](https://www.virustotal.com/gui/file/033d513a6bd5f9ffad3a9a60fd8a295b)|TXT|sLoad|2020-01-23 00:27:08|071d5c44d21c365c13133d46b93a94bc.js|
+|[e3baa1677777921eaeff6821b75afb15](https://www.virustotal.com/gui/file/e3baa1677777921eaeff6821b75afb15)|TXT|sLoad|2020-01-22 19:08:54|071d5c44d21c365c13133d46b93a94bc.js|
+|[9a29edd98bb9cbea56f1ac9e1a7a1599](https://www.virustotal.com/gui/file/9a29edd98bb9cbea56f1ac9e1a7a1599)|Win32 EXE||2020-01-22 12:37:49|dttcodexgigas.0f127ed88cd82db863dc08b3c55b14cd001a7297|
+|[e8effd3ad2069ff8ff6344b85fc12dd6](https://www.virustotal.com/gui/file/e8effd3ad2069ff8ff6344b85fc12dd6)|Win32 EXE||2020-01-22 12:29:16|80fb33854bf54ceac731aed91c677d8fb933d1593eb95447b06bd9b80f562ed2.sample|
+|[c315de8ac15b51163a3bc075063a58aa](https://www.virustotal.com/gui/file/c315de8ac15b51163a3bc075063a58aa)|Win64 DLL|Scar|2020-01-19 05:37:52|%PROGRAMDATA%\hero.dll|
+|[da799d16aed24cf4f8ec62d5048afd1a](https://www.virustotal.com/gui/file/da799d16aed24cf4f8ec62d5048afd1a)|Win32 EXE|Scar|2020-01-19 05:36:23|C:\Users\<USER>\AppData\Local\Temp\da799d16aed24cf4f8ec62d5048afd1a.exe|
+|[50416931926754d867c9e5f418a4d08a](https://www.virustotal.com/gui/file/50416931926754d867c9e5f418a4d08a)|DOCM|sLoad|2020-01-13 06:00:53|문정인 대통령 통일외교안보특보 미국 국익센터 세미나.doc|
+|[b654f7f7d59b093baab3eec9e1636643](https://www.virustotal.com/gui/file/b654f7f7d59b093baab3eec9e1636643)|FPX||2020-01-06 04:49:58|중국 지식인들의 북한 관을 살펴보면서.hwp|
+|[0a269b0053ff178e0881fde3685b65b4](https://www.virustotal.com/gui/file/0a269b0053ff178e0881fde3685b65b4)|Win32 DLL|Bublik|2019-11-17 10:00:21|0a269b0053ff178e0881fde3685b65b4.virus|

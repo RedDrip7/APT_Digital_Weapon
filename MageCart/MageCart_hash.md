@@ -51,3 +51,4 @@
 |[976561b2eb98ea05385e2f31e3e75bc9](https://www.virustotal.com/gui/file/976561b2eb98ea05385e2f31e3e75bc9)|TXT||2017-04-21 06:33:52|390b778497f71989058c95dc12628f969e995d2f261f128e8c14aa2c262737d7.bin|
 |[98ceaced3fa4c06ad48c8eb52352d528](https://www.virustotal.com/gui/file/98ceaced3fa4c06ad48c8eb52352d528)|unknown||2017-02-02 00:12:37|jquery.min.js|
 |[b91726b451b026311c7399bd4646f121](https://www.virustotal.com/gui/file/b91726b451b026311c7399bd4646f121)|TXT||2012-04-06 10:58:48|advnads20.js|
+|[2d7a20bd3b76701b2d0de524f7862239](https://www.virustotal.com/gui/file/2d7a20bd3b76701b2d0de524f7862239)|PNG||2020-03-22 22:05:56|faq_icon.png|

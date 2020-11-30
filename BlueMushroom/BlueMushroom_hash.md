@@ -27,3 +27,10 @@
 |[bcc118fd28a85353cecc16e712069e5e](https://www.virustotal.com/gui/file/bcc118fd28a85353cecc16e712069e5e)|Win32 EXE||2013-01-16 09:48:22|/home/virustotal/sample/BCC118FD28A85353CECC16E712069E5E|
 |[f5c69274d07ab6e25b70be6dd7b81a09](https://www.virustotal.com/gui/file/f5c69274d07ab6e25b70be6dd7b81a09)|Win32 EXE||2013-01-16 08:49:54|/home/virustotal/sample/F5C69274D07AB6E25B70BE6DD7B81A09|
 |[e19fe974447cf9a2b2b16c81c9df0e05](https://www.virustotal.com/gui/file/e19fe974447cf9a2b2b16c81c9df0e05)|Win32 EXE||2012-06-12 11:19:45|df52012924031256cd265a7a7092dae5a05fda2956c4bb2dd772fc600a44ccd4.vir|
+|[2a02d56342b71ba51d067cb4dca043bb](https://www.virustotal.com/gui/file/2a02d56342b71ba51d067cb4dca043bb)|PDF||2020-02-21 09:45:55|¸½¼þ1-2018Ç°º£ºÏ×÷ÂÛÌ³·½°¸.pdf|
+|[95e708b4edce4aae2f9a0b9c8b95f24a](https://www.virustotal.com/gui/file/95e708b4edce4aae2f9a0b9c8b95f24a)|Win32 DLL|Zbot|2020-02-19 09:29:17|nvapisetlib32|
+|[1978332e1e3c240d42989584a0f63665](https://www.virustotal.com/gui/file/1978332e1e3c240d42989584a0f63665)|LNK||2020-02-12 08:23:43|ea6e7c9b9110c7c21062908be51dd3f881490b40b9b77a534fdc7812ab5cd2af.bin|
+|[d8118faa53708c0d6628f9db1d569b14](https://www.virustotal.com/gui/file/d8118faa53708c0d6628f9db1d569b14)|LNK||2020-02-12 08:23:36|b0d7118d75c0f2a99fa5b319148b89148800e5db06ee403d6a31c451a8a54f2b.bin|
+|[2196bb153d1e6380e827727b28e6825b](https://www.virustotal.com/gui/file/2196bb153d1e6380e827727b28e6825b)|LNK||2020-02-12 08:23:33|6ccad83fb9f7a50ac95e3e865a27be0288279e76fcd3b5af495c6fcf6d58fa36.bin|
+|[6138f0a27043b15c98b21222375c5549](https://www.virustotal.com/gui/file/6138f0a27043b15c98b21222375c5549)|LNK||2020-02-12 08:22:33|20ad6fa72982a6ba0f9499361b2aa3a3f5cca73fd397c2969d08a4c5f2866814.bin|
+|[444ed1831d55e1b4cab6c9f9ae19cc7c](https://www.virustotal.com/gui/file/444ed1831d55e1b4cab6c9f9ae19cc7c)|LNK||2019-10-29 12:43:22|444ED1831D55E1B4CAB6C9F9AE19CC7C.bin|

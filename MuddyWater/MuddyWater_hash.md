@@ -268,3 +268,19 @@
 |[46670174f1ef34f2f619cfda603acb3b](https://www.virustotal.com/gui/file/46670174f1ef34f2f619cfda603acb3b)|Text|rozena|2017-08-20 13:22:15|ash.ps1|
 |[e2ed0be977ab9e50055337ec8eb0ddf4](https://www.virustotal.com/gui/file/e2ed0be977ab9e50055337ec8eb0ddf4)|Win32 EXE||2017-08-14 05:38:06|la.exe|
 |[50a538062f2027b6ff763f23bc3d1545](https://www.virustotal.com/gui/file/50a538062f2027b6ff763f23bc3d1545)|Text||2014-07-26 23:26:00|50a538062f2027b6ff763f23bc3d1545|
+|[e3a8839230acb9c253dd9673ae0b4103](https://www.virustotal.com/gui/file/e3a8839230acb9c253dd9673ae0b4103)|ZIP||2020-07-15 17:11:23|C:\Users\AhmadFathy\Documents\Shj Municipility\Malware\7166882e-5e97-4915-881e-65bc910a124b|
+|[7c12a63096a6b157564dc912e62b2773](https://www.virustotal.com/gui/file/7c12a63096a6b157564dc912e62b2773)|Win32 DLL||2020-07-15 17:11:14|C:\Users\AhmadFathy\Documents\Shj Municipility\Malware\43c4e63e-9377-440d-8b86-6d6e95fead91|
+|[8ee07f579a0e5cf4c3ec2a3b68602963](https://www.virustotal.com/gui/file/8ee07f579a0e5cf4c3ec2a3b68602963)|Win64 EXE||2020-05-25 06:53:36|chisel.exe|
+|[e23b59dbaac4dfd72b7c6353b35c301a](https://www.virustotal.com/gui/file/e23b59dbaac4dfd72b7c6353b35c301a)|LNK||2020-04-14 11:51:41| |
+|[a3ce175ac1ca36b8c23c79cb657f3680](https://www.virustotal.com/gui/file/a3ce175ac1ca36b8c23c79cb657f3680)|LNK||2020-04-14 10:00:51| |
+|[911c78fb9c916c487889178d2e51fd91](https://www.virustotal.com/gui/file/911c78fb9c916c487889178d2e51fd91)|TXT||2020-04-14 09:28:54| |
+|[46f911014f1202e17936f627f34e6165](https://www.virustotal.com/gui/file/46f911014f1202e17936f627f34e6165)|XLS|o97m|2019-09-06 09:21:46|148839e013fee10ee5007f80de2e169778739e84d1bbb093f69b56060ceef73f.bin|
+|[34f759180146dcce3990e2c61677d949](https://www.virustotal.com/gui/file/34f759180146dcce3990e2c61677d949)|TXT||2019-06-27 13:04:59|p.txt|
+|[1f738218a4da659f3d58ff4abaa4edd7](https://www.virustotal.com/gui/file/1f738218a4da659f3d58ff4abaa4edd7)|DOC|sLoad|2019-06-27 08:53:08|letter.doc|
+|[3d25c5d2678c2b65fe7335bc73a5f4f2](https://www.virustotal.com/gui/file/3d25c5d2678c2b65fe7335bc73a5f4f2)|TXT||2019-06-26 01:52:06|New Text Document.bat|
+|[06d4ad9f46c34bc455c526d10777a946](https://www.virustotal.com/gui/file/06d4ad9f46c34bc455c526d10777a946)|TXT||2019-04-17 01:19:41|dttcodexgigas.2a1acc4482e14a17cc7a34840ac7c6278b1b6899|
+|[fc210d63b612f6e7ecce1cdb588bcb97](https://www.virustotal.com/gui/file/fc210d63b612f6e7ecce1cdb588bcb97)|Text||2018-06-17 19:12:17|ameer3.bat|
+|[2e40b75c20b2d40dc820f90de437022c](https://www.virustotal.com/gui/file/2e40b75c20b2d40dc820f90de437022c)|Win64 EXE||2018-02-08 09:05:27|c4599f05a8d44bd315da646064adcf2c90886a705a071f0650ee6d17b739d5c8.exe|
+|[0b37c62da0464c830a68598b865f45eb](https://www.virustotal.com/gui/file/0b37c62da0464c830a68598b865f45eb)|TXT||2016-04-26 10:32:49|Invoke-Mimikatz.ps1|
+|[6983f7001de10f4d19fc2d794c3eb534](https://www.virustotal.com/gui/file/6983f7001de10f4d19fc2d794c3eb534)|Win32 EXE||2012-12-18 21:06:50|c:\windows\rkxcukva.exe|
+|[d1ab72db2bedd2f255d35da3da0d4b16](https://www.virustotal.com/gui/file/d1ab72db2bedd2f255d35da3da0d4b16)|Win32 EXE||2009-11-20 15:32:57|wscript.exe|

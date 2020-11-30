@@ -113,3 +113,29 @@
 |[5616ee6b38f151086cc2b1f59c6cba9a](https://www.virustotal.com/gui/file/5616ee6b38f151086cc2b1f59c6cba9a)|RTF|CVE-2017-8570|2018-04-16 15:01:02|97f13bdaa952a897b55c8c29711c0b5ec4477059|
 |[2e0cc6890fbf7a469d6c0ae70b5859e7](https://www.virustotal.com/gui/file/2e0cc6890fbf7a469d6c0ae70b5859e7)|RTF|CVE-2017-11882|2018-01-16 10:29:10|8a57464c93d4f6d85e51e07748d4ffcc0b9e6b5a64642aec859040d1606fd0f8 (1)|
 |[10d044bc5b8ae607501304e61b2efecb](https://www.virustotal.com/gui/file/10d044bc5b8ae607501304e61b2efecb)|Win32 DLL|Ursu|2017-12-27 19:59:32|8135a9a23b0a206d289b262ed56fcb5aa7bff257b589ca3d4a79d4658da91fc1.bin|
+|[ab13a8fa6d5e4a5fd917d1695bf594fa](https://www.virustotal.com/gui/file/ab13a8fa6d5e4a5fd917d1695bf594fa)|Win32 DLL|occamy|2020-02-03 16:40:37|decoded.dll|
+|[6b10b2b307d88b74c07d68cbf76152eb](https://www.virustotal.com/gui/file/6b10b2b307d88b74c07d68cbf76152eb)|Win32 EXE||2020-02-03 05:08:23|lsm.e_e|
+|[43c1e0cce9500e8b16f655dba120c112](https://www.virustotal.com/gui/file/43c1e0cce9500e8b16f655dba120c112)|Win32 DLL||2019-12-20 15:09:35|decoded.dll|
+|[8811328f990e79ebb840c44954b322e0](https://www.virustotal.com/gui/file/8811328f990e79ebb840c44954b322e0)|Win32 EXE|occamy|2019-12-09 15:36:51|%APPDATA%\putty.exe|
+|[3fae007e6fcded0b60b30cd7e18ef55f](https://www.virustotal.com/gui/file/3fae007e6fcded0b60b30cd7e18ef55f)|Win32 DLL||2019-12-06 22:19:41|decoded.dll|
+|[82fc2a2b268a43b842cf5c0666633642](https://www.virustotal.com/gui/file/82fc2a2b268a43b842cf5c0666633642)|Win32 DLL|Tiggre|2019-11-27 18:05:44|cdd87d3cc8807c18d7fb2f67768f4db76506deaabfc57a47ff2f5f5c798e9951.bin|
+|[93f4356cb0e96cb9e4f3caae8af70a11](https://www.virustotal.com/gui/file/93f4356cb0e96cb9e4f3caae8af70a11)|Win32 DLL||2019-11-27 17:48:11|6908941580bfa5759ff93c0f2807ebec8cf110e7630dea9c5267b835e52083de.bin|
+|[7901f9317baa81dc6cef72809d003929](https://www.virustotal.com/gui/file/7901f9317baa81dc6cef72809d003929)|Win32 EXE||2019-11-27 15:34:01|List of transactions.scr|
+|[72db8baf32cd1101ad9c427e5f46c744](https://www.virustotal.com/gui/file/72db8baf32cd1101ad9c427e5f46c744)|Win32 DLL||2019-11-01 21:34:18|decoded.dll|
+|[88921c119f409b6db12e7559b0a64066](https://www.virustotal.com/gui/file/88921c119f409b6db12e7559b0a64066)|Win32 EXE|occamy|2019-10-24 11:57:29|Statement.scr|
+|[28bfbdec4c9631d4fbef39a460fef5ad](https://www.virustotal.com/gui/file/28bfbdec4c9631d4fbef39a460fef5ad)|Win32 DLL|occamy|2019-10-23 18:56:15|65a5c5fa49c8709924f14486843de8bdee764340c7892492c3a03f610ecf3823.bin|
+|[fd6e378ee8e518113893e4f157efe74e](https://www.virustotal.com/gui/file/fd6e378ee8e518113893e4f157efe74e)|Win32 EXE||2019-10-23 16:18:48|Statement.xls                                                                                                            .scr|
+|[feb0fc8429f843d79fa1f4da1eea5a1c](https://www.virustotal.com/gui/file/feb0fc8429f843d79fa1f4da1eea5a1c)|Win32 EXE|occamy|2019-10-23 08:21:44|VirusShare_feb0fc8429f843d79fa1f4da1eea5a1c|
+|[418ab6be4016d851eff94b086e22bc9e](https://www.virustotal.com/gui/file/418ab6be4016d851eff94b086e22bc9e)|Win32 EXE||2019-10-22 14:37:30|________.scr|
+|[08692f325be00d7c2b7f898d40092001](https://www.virustotal.com/gui/file/08692f325be00d7c2b7f898d40092001)|Win32 DLL|Graftor|2019-10-21 00:05:58| |
+|[1c549aaaa02e1061fbeeacb1641b231a](https://www.virustotal.com/gui/file/1c549aaaa02e1061fbeeacb1641b231a)|Win32 DLL||2019-10-17 19:36:12|decoded.dll|
+|[616911e4312343c46da94d0eb6950742](https://www.virustotal.com/gui/file/616911e4312343c46da94d0eb6950742)|Win32 DLL|occamy|2019-10-17 13:54:46|decoded.dll|
+|[746d2860097db33796d3aee500abb245](https://www.virustotal.com/gui/file/746d2860097db33796d3aee500abb245)|Win32 DLL|occamy|2019-10-16 19:31:29|decoded.dll|
+|[349473f33c43a27a260b39cb68ae2412](https://www.virustotal.com/gui/file/349473f33c43a27a260b39cb68ae2412)|Win32 EXE||2019-10-16 12:13:53|report%20cyber%20security.scr|
+|[fe703d6b2694209fd9958aed5b6eee38](https://www.virustotal.com/gui/file/fe703d6b2694209fd9958aed5b6eee38)|Win32 DLL||2019-10-15 12:55:44|decoded.dll|
+|[025c3faf48a4b66cba9257ed68bbd834](https://www.virustotal.com/gui/file/025c3faf48a4b66cba9257ed68bbd834)|Win32 EXE||2019-10-11 12:13:25|avatar.hlpv|
+|[eb28c065b956f3d5c8919714f5d110f9](https://www.virustotal.com/gui/file/eb28c065b956f3d5c8919714f5d110f9)|Win32 DLL||2019-10-09 13:28:20|decoded.dll|
+|[ab2c0d36529119e91fa84562a03307f7](https://www.virustotal.com/gui/file/ab2c0d36529119e91fa84562a03307f7)|Win32 EXE||2019-10-09 12:53:38|avatar.hlpv|
+|[ce760d0eb1738cc2de55876eef808647](https://www.virustotal.com/gui/file/ce760d0eb1738cc2de55876eef808647)|Win32 DLL|occamy|2019-10-04 13:40:16|decoded.dll|
+|[88ac6f94f0351f34c5237a7b9298879a](https://www.virustotal.com/gui/file/88ac6f94f0351f34c5237a7b9298879a)|Win32 DLL||2019-10-03 13:08:26|decoded.dll|
+|[f2d2562f1ef3e36c0ebd090fe913c25e](https://www.virustotal.com/gui/file/f2d2562f1ef3e36c0ebd090fe913c25e)|Win32 DLL||2019-07-10 21:38:41|decoded.dll|

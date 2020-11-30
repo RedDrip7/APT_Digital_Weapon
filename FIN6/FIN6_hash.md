@@ -64,3 +64,5 @@
 |[87858b384219cc6256f2bdb5eafaa646](https://www.virustotal.com/gui/file/87858b384219cc6256f2bdb5eafaa646)|Text|shelma|2018-08-27 13:54:20|ps.bat|
 |[39702286994d7023b3d002cf31e1a6ad](https://www.virustotal.com/gui/file/39702286994d7023b3d002cf31e1a6ad)|Win32 DLL||2018-04-17 03:50:11|tt|
 |[67a53bd24ee8499fed79c8c368e05f7a](https://www.virustotal.com/gui/file/67a53bd24ee8499fed79c8c368e05f7a)|Win32 EXE||2017-11-25 00:21:05|Dll Launcher|
+|[413df8eb260b183003a5a1e009734f52](https://www.virustotal.com/gui/file/413df8eb260b183003a5a1e009734f52)|Win32 DLL|Ursu|2020-01-09 18:54:42|intl.dll|
+|[9b3ec7553b079f413565a7f61c8efd3c](https://www.virustotal.com/gui/file/9b3ec7553b079f413565a7f61c8efd3c)|Win32 DLL|occamy|2019-03-08 09:44:16|intl.dll|

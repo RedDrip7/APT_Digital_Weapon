@@ -690,3 +690,25 @@
 |[85c80d01661f88ec556579e772a5a3db](https://www.virustotal.com/gui/file/85c80d01661f88ec556579e772a5a3db)|Win32 DLL||2010-03-03 07:43:27|NetIds.dll|
 |[7f564a6a8910b513a851b2616af8d7ee](https://www.virustotal.com/gui/file/7f564a6a8910b513a851b2616af8d7ee)|Win32 EXE||2009-08-05 20:22:57|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/APT28,FancyBear/APT28,NATOPAPER,SOFACY2004.bin|
 |[f01a9a2d1e31332ed36c1a4d2839f412](https://www.virustotal.com/gui/file/f01a9a2d1e31332ed36c1a4d2839f412)|Win32 EXE||2009-02-12 22:19:48|nb.exe|
+|[2760c647d03b5d26d3a331428733c809](https://www.virustotal.com/gui/file/2760c647d03b5d26d3a331428733c809)|PDF||2020-10-23 09:58:24|k30-1868 20.10.2020.pdf|
+|[72552ef22b484f8868dab10b0f605779](https://www.virustotal.com/gui/file/72552ef22b484f8868dab10b0f605779)|Win32 EXE||2020-10-22 10:44:05|30-1868 20.10.2020.exe|
+|[855005fee45e71c36a466527c7fad62f](https://www.virustotal.com/gui/file/855005fee45e71c36a466527c7fad62f)|unknown||2020-10-22 07:08:04|30-1868.vhd|
+|[a14c1fd7b59b34515e6a8a286114c48f](https://www.virustotal.com/gui/file/a14c1fd7b59b34515e6a8a286114c48f)|Win32 EXE|sednit|2020-08-07 20:15:59|./KISA_dataset_2020_train/fae335a465bb9faac24c58304a199f3bf9bb1b0bd07b05b18e2be6b9e90d72e6.vir|
+|[d21a025e6ba0db784abb1d086b67d3df](https://www.virustotal.com/gui/file/d21a025e6ba0db784abb1d086b67d3df)|DOCX||2020-08-07 11:30:09|letter.docx|
+|[98e304e28a51acd92a363346c2b02b2f](https://www.virustotal.com/gui/file/98e304e28a51acd92a363346c2b02b2f)|Win64 EXE||2020-08-07 11:30:08|./KISA_dataset_2020_train/7f698295230f59c7ca8193322eb48d71cd203f3675139f2da99e326589bfdad3.vir|
+|[009f073f66b24677cf7ad66818fe4509](https://www.virustotal.com/gui/file/009f073f66b24677cf7ad66818fe4509)|Win32 EXE|sednit|2020-08-07 10:07:08|sqlservice.exe|
+|[8103bffc16f8fb3e55028a62e1a004f8](https://www.virustotal.com/gui/file/8103bffc16f8fb3e55028a62e1a004f8)|Win32 EXE|sednit|2020-08-07 08:40:51|sqlservice.exe|
+|[c74aa42b41ec44571a3f4e167b01c53c](https://www.virustotal.com/gui/file/c74aa42b41ec44571a3f4e167b01c53c)|ARJ||2020-08-07 07:06:43|Documentation AVT-355.arj|
+|[d5e45a9db7f739979105e000d042f1fe](https://www.virustotal.com/gui/file/d5e45a9db7f739979105e000d042f1fe)|Win32 EXE|sednit|2020-08-05 16:33:39|./KISA_dataset_2020_train/aac3b1221366cf7e4421bdd555d0bc33d4b92d6f65fa58c1bb4d8474db883fec.vir|
+|[b66c2aa25d1f9056f09d0a158d20faef](https://www.virustotal.com/gui/file/b66c2aa25d1f9056f09d0a158d20faef)|JPEG||2020-08-05 12:28:27|C:\Users\shukuran.quluyev\Desktop\Course 5 - 16 October 2020.zipx|
+|[fafd702197d758ce2687706336750660](https://www.virustotal.com/gui/file/fafd702197d758ce2687706336750660)|Win64 EXE||2020-08-05 08:48:54|explorer|
+|[93150535f9dcd9f7e169e255264c787a](https://www.virustotal.com/gui/file/93150535f9dcd9f7e169e255264c787a)|Win64 EXE|Wacatac|2020-08-05 08:43:45|explorer|
+|[c4a0448925980eacbd22c2dd4869a1c7](https://www.virustotal.com/gui/file/c4a0448925980eacbd22c2dd4869a1c7)|Win64 EXE|EmoDldr|2020-07-30 18:32:06|client.exe|
+|[3792380fd7512cc2ec9b28a686edb0e9](https://www.virustotal.com/gui/file/3792380fd7512cc2ec9b28a686edb0e9)|Win64 EXE|EmoDldr|2020-07-30 18:13:27|client_original.exe|
+|[019555014b716f3eaac3d81d122beba0](https://www.virustotal.com/gui/file/019555014b716f3eaac3d81d122beba0)|Win32 EXE|sednit|2020-06-17 15:05:07|samclient.exe|
+|[88ce694a89cc1d381818a61d9494ba58](https://www.virustotal.com/gui/file/88ce694a89cc1d381818a61d9494ba58)|ARJ||2020-05-21 05:27:13|DN-098-2020_MFA.rar|
+|[ed63c42a51b711b81e9aca9a4a150bbd](https://www.virustotal.com/gui/file/ed63c42a51b711b81e9aca9a4a150bbd)|DOCX||2020-05-19 13:24:05|ucx.No.-744_14-05-2020.docx|
+|[a31e3b8d2f5e0369be8f3dbb7e23120b](https://www.virustotal.com/gui/file/a31e3b8d2f5e0369be8f3dbb7e23120b)|Win32 EXE||2020-05-19 12:35:51|ucx.No.-745_14-05-2020(1).exe|
+|[d9e48eacfe2147293ac233626dc77125](https://www.virustotal.com/gui/file/d9e48eacfe2147293ac233626dc77125)|Win32 EXE|Delf|2020-03-12 03:21:10|C:\Users\<USER>\AppData\Local\Temp\\app.exe|
+|[7c487d8462567a826da95c799591f5fb](https://www.virustotal.com/gui/file/7c487d8462567a826da95c799591f5fb)|DOCX|Sagent|2020-01-14 09:25:04|mofa.docx|
+|[2fa37cef3c93daf2fad84903af065ad4](https://www.virustotal.com/gui/file/2fa37cef3c93daf2fad84903af065ad4)|Win32 EXE|occamy|2019-07-24 08:19:11|Spisok.docx.exe|

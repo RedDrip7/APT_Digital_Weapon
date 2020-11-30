@@ -73,3 +73,11 @@
 |[b182fce35c27dd32e7f7433e4de583cc](https://www.virustotal.com/gui/file/b182fce35c27dd32e7f7433e4de583cc)|Win32 DLL|Ursu|2017-12-19 18:47:20|b182fce35c27dd32e7f7433e4de583cc_eFrwoUuKchZJM.Dll|
 |[42b9f65fda3cbb613f726c9a4f26069e](https://www.virustotal.com/gui/file/42b9f65fda3cbb613f726c9a4f26069e)|Win32 DLL||2017-12-14 20:54:19|myfile.exe|
 |[27304b246c7d5b4e149124d5f93c5b01](https://www.virustotal.com/gui/file/27304b246c7d5b4e149124d5f93c5b01)|Win32 EXE||2016-06-30 13:21:27|PsExec|
+|[2dfb086bc73c259cac18a9cb1f9dbbc8](https://www.virustotal.com/gui/file/2dfb086bc73c259cac18a9cb1f9dbbc8)|Win32 EXE||2020-02-21 20:27:59|%HOMEPATH%\conhost.exe|
+|[8d8e5a09fe6878f133b3b81799d84e27](https://www.virustotal.com/gui/file/8d8e5a09fe6878f133b3b81799d84e27)|DOC|sLoad|2020-02-21 18:00:47|1db31ada5f1ac2411ef33790244343946b741cd603745257a4612c5d2e6a4052.bin|
+|[0acecad57c4015e14d9b3bb02b433d3e](https://www.virustotal.com/gui/file/0acecad57c4015e14d9b3bb02b433d3e)|Win32 EXE|Razy|2020-02-20 19:28:29|conhost.exe|
+|[74572fba26f5e988b297ec5ea5c8ac1c](https://www.virustotal.com/gui/file/74572fba26f5e988b297ec5ea5c8ac1c)|DOC|sLoad|2020-02-20 17:07:19|62dd16724874e0b05257118fb06427a6aeb839602bce52e6a139dc379f538bed.bin|
+|[53b31f65bb6ced61c5bafa8e4c98e9e8](https://www.virustotal.com/gui/file/53b31f65bb6ced61c5bafa8e4c98e9e8)|RAR|sLoad|2020-02-20 13:10:09|9aea43b22f214228caf4fc714f426c0a140b7dd70b010bf3778cd1c0ec440851.bin|
+|[b86526bed4bf9cb034baff0403617856](https://www.virustotal.com/gui/file/b86526bed4bf9cb034baff0403617856)|DOC||2014-11-06 09:53:46|Informazioni10221419.doc|
+|[047a0c1e472ec2f557a84676982465c9](https://www.virustotal.com/gui/file/047a0c1e472ec2f557a84676982465c9)|DOC||2014-10-27 09:28:20|VirusShare_047a0c1e472ec2f557a84676982465c9|
+|[73874b9b5019f2224b4506f892482760](https://www.virustotal.com/gui/file/73874b9b5019f2224b4506f892482760)|DOC|Banload|2014-10-27 09:08:21|invoice_7340565.doc|

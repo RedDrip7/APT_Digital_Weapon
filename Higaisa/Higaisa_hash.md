@@ -54,3 +54,22 @@
 |[3e17165615e74ba0e937bbce42ed125b](https://www.virustotal.com/gui/file/3e17165615e74ba0e937bbce42ed125b)|Win32 DLL|ursu|2017-10-23 17:02:26|Hsdc.Dll|
 |[a3f85e3784d3e544617cc60ab6b387b4](https://www.virustotal.com/gui/file/a3f85e3784d3e544617cc60ab6b387b4)|Win32 EXE|tiggre|2017-10-23 16:57:41|E:/virussign/malware/new_request/20171028/a3f85e3784d3e544617cc60ab6b387b4.vir|
 |[4996112daaec54fb53e5d4bbd1735af2](https://www.virustotal.com/gui/file/4996112daaec54fb53e5d4bbd1735af2)|Win32 DLL||2017-10-11 05:14:58|D:/working_board/dataset/unused/malware/vir_VT/20171012/4996112daaec54fb53e5d4bbd1735af2.vir|
+|[997ab0b59d865c4bd63cc55b5e9c8b48](https://www.virustotal.com/gui/file/997ab0b59d865c4bd63cc55b5e9c8b48)|LNK||2020-05-30 05:55:04|International English Language Testing System certificate.pdf.lnk|
+|[4a4a223893c67b9d34392670002d58d7](https://www.virustotal.com/gui/file/4a4a223893c67b9d34392670002d58d7)|LNK||2020-05-30 05:55:03|Curriculum Vitae_WANG LEI_Hong Kong Polytechnic University.pdf.lnk|
+|[278d191d794f84034c90bf9a3068d51e](https://www.virustotal.com/gui/file/278d191d794f84034c90bf9a3068d51e)|RAR||2020-05-30 02:23:35|615400.lnk|
+|[b32a91f20a3efdbcfef53a578ae760ce](https://www.virustotal.com/gui/file/b32a91f20a3efdbcfef53a578ae760ce)|LNK||2020-05-29 08:03:54|Curriculum Vitae_WANG LEI_Hong Kong Polytechnic University.pdf.lnk|
+|[c657e04141252e39b9fa75489f6320f5](https://www.virustotal.com/gui/file/c657e04141252e39b9fa75489f6320f5)|LNK||2020-05-12 21:30:51|C:\Users\ADMINI~1\AppData\Local\Temp\All tort's projects - Web lnks\Tokbox icon - Odds and Ends - iOS - Zeplin.lnk|
+|[45278d4ad4e0f4a891ec99283df153c3](https://www.virustotal.com/gui/file/45278d4ad4e0f4a891ec99283df153c3)|LNK||2020-05-12 21:30:49|C:\Users\ADMINI~1\AppData\Local\Temp\All tort's projects - Web lnks\Conversations - iOS - Swipe Icons - Zeplin.lnk|
+|[2ffb817ff7ddcfa216da31f50e199df1](https://www.virustotal.com/gui/file/2ffb817ff7ddcfa216da31f50e199df1)|RAR||2020-05-12 17:59:57|Project link and New copyright policy.rar|
+|[390366d02abce50f5bb1df94aa50e928](https://www.virustotal.com/gui/file/390366d02abce50f5bb1df94aa50e928)|Win32 EXE||2020-04-01 08:29:18| |
+|[aa67b7141327c0fad9881597c76282c0](https://www.virustotal.com/gui/file/aa67b7141327c0fad9881597c76282c0)|LNK||2020-03-27 02:19:55|aa67b7141327c0fad9881597c76282c0.virobj|
+|[59a55c7bbc0ee488ec9e2cf50b792a56](https://www.virustotal.com/gui/file/59a55c7bbc0ee488ec9e2cf50b792a56)|Win32 DLL|occamy|2020-03-05 17:55:12|C:\Users\Administrator\AppData\Roaming\Microsoft\Word\STARTUP\intel.wll|
+|[2123bf482c9c80cb1896ff9288ad7d60](https://www.virustotal.com/gui/file/2123bf482c9c80cb1896ff9288ad7d60)|RTF|CVE-2017-11882|2020-03-05 07:36:18|muestras/500b6037ddb5efff0dd91f75b22ccce5b04d996c459d83d1f07fae8780b24e09|
+|[4d937035747b4eb7a78083afa06022d3](https://www.virustotal.com/gui/file/4d937035747b4eb7a78083afa06022d3)|Win32 EXE||2020-03-02 01:25:31|4d937035747b4eb7a78083afa06022d3.virus|
+|[01b90259a9771d470582073c61773f30](https://www.virustotal.com/gui/file/01b90259a9771d470582073c61773f30)|Win32 DLL||2020-01-14 01:20:48|Duser.dll|
+|[37093d3918b0cc2ca9805f8225cccd75](https://www.virustotal.com/gui/file/37093d3918b0cc2ca9805f8225cccd75)|Win32 EXE|occamy|2020-01-14 01:18:21|2020-New-Year-Wishes-For-You.scr|
+|[739a40f8c839756a5e6e3c89b2742f8e](https://www.virustotal.com/gui/file/739a40f8c839756a5e6e3c89b2742f8e)|Win32 EXE|Graftor|2020-01-07 08:20:48| |
+|[5de5917dcadb2ecacd7ffd69ea27f986](https://www.virustotal.com/gui/file/5de5917dcadb2ecacd7ffd69ea27f986)|Win32 DLL|occamy|2020-01-03 04:21:19|C:\ProgramData\CommonDatas\Duser.dll|
+|[2173b589b30ba2b0242c82c9bcb698b2](https://www.virustotal.com/gui/file/2173b589b30ba2b0242c82c9bcb698b2)|Win32 EXE|Skeeyah|2020-01-03 04:18:57|C:\Users\ADMINI~1\AppData\Local\Temp\Happy-new-year-2020.scr|
+|[d5e42cc18906f09d5bab62df45b5fcf6](https://www.virustotal.com/gui/file/d5e42cc18906f09d5bab62df45b5fcf6)|Win32 EXE||2019-12-23 00:10:48|C:\ProgramData\TotalSecurity\360ShellPro.exe|
+|[082ed4a73761682f897ea1d7f4529f69](https://www.virustotal.com/gui/file/082ed4a73761682f897ea1d7f4529f69)|Win32 EXE||2009-07-21 01:34:30|rekeywiz|

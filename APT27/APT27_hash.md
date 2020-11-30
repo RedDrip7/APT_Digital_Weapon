@@ -92,3 +92,15 @@
 |[0762764e298c369a2de8afaec5174ed9](https://www.virustotal.com/gui/file/0762764e298c369a2de8afaec5174ed9)|Win32 EXE|pswtool|2008-05-09 07:48:34|fgdump|
 |[5fd6b30d0e9d0bf6c388f8c8cbf9823e](https://www.virustotal.com/gui/file/5fd6b30d0e9d0bf6c388f8c8cbf9823e)|Win32 DLL|Pcclient|2008-02-16 18:15:42|/home/nfs/data/VirusShare_unzip/VirusShare_5fd6b30d0e9d0bf6c388f8c8cbf9823e|
 |[3a97d9b6f17754dcd38ca7fc89caab04](https://www.virustotal.com/gui/file/3a97d9b6f17754dcd38ca7fc89caab04)|Win32 EXE||2006-06-27 04:43:11|ScanLine|
+|[eefeb76d26338e09958aae5d81479178](https://www.virustotal.com/gui/file/eefeb76d26338e09958aae5d81479178)|XML|PlugX|2020-03-20 09:41:47|9d52d8f10673518cb9f19153ddbe362acc7ca885974a217a52d1ee8257f22cfc.bin|
+|[37f78b1ad43959a788162f560bdc9c79](https://www.virustotal.com/gui/file/37f78b1ad43959a788162f560bdc9c79)|CAB||2020-03-20 06:42:14|oGhPGUDC03tURV.tmp|
+|[21a51a834372ab11fba72fb865d6830e](https://www.virustotal.com/gui/file/21a51a834372ab11fba72fb865d6830e)|LNK||2020-03-15 10:34:04|C:\Users\Administrator\AppData\Local\Temp\covid.pdf.lnk|
+|[fd648c3b7495abbe86b850587e2e5431](https://www.virustotal.com/gui/file/fd648c3b7495abbe86b850587e2e5431)|Win32 EXE||2020-03-11 14:38:18|./KISA_dataset_2020_train/002c9e0578a8b76f626e59b755a8aac18b5d048f1cc76e2c12f68bc3dd18b124.vir|
+|[83d04f21515c7e6316f9cd0bb393a118](https://www.virustotal.com/gui/file/83d04f21515c7e6316f9cd0bb393a118)|Win32 DLL||2020-03-11 14:36:25|OINFO12.OCX|
+|[fde349e9cf1074c7c21e8b9085a441ea](https://www.virustotal.com/gui/file/fde349e9cf1074c7c21e8b9085a441ea)|PDF||2020-01-20 13:12:36|APT-27_Detector.pdf|
+|[c43133da77ce560e66585f78642e089c](https://www.virustotal.com/gui/file/c43133da77ce560e66585f78642e089c)|TXT||2020-01-20 13:10:39|detector3.bat|
+|[b9000b8f7701eb3925643f1a2bbcb1a0](https://www.virustotal.com/gui/file/b9000b8f7701eb3925643f1a2bbcb1a0)|Win32 EXE||2020-01-19 16:37:04|summarize-x86.exe|
+|[7ab7a1e2493c0ce72faef10a677b4ca1](https://www.virustotal.com/gui/file/7ab7a1e2493c0ce72faef10a677b4ca1)|Win32 EXE||2020-01-19 16:37:00|AFTA-APT27-Dectector.exe|
+|[ff5e90a3cc70e224c1e7eab8e4709f06](https://www.virustotal.com/gui/file/ff5e90a3cc70e224c1e7eab8e4709f06)|PDF||2020-01-01 14:54:39|APT27_ِDoc.pdf|
+|[77df3fb2382ae5f77c69cd199560725b](https://www.virustotal.com/gui/file/77df3fb2382ae5f77c69cd199560725b)|Win32 EXE|Ursu|2020-01-01 04:22:53|AFTA-APT27-Dectector.exe|
+|[28f9ef5798ea561936fae36ffa680753](https://www.virustotal.com/gui/file/28f9ef5798ea561936fae36ffa680753)|Win32 EXE||2020-01-01 03:56:19|AFTA-APT27-Removal.exe|

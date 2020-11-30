@@ -369,3 +369,6 @@
 |[1b90ace1ab9c30382b9347d6131471a8](https://www.virustotal.com/gui/file/1b90ace1ab9c30382b9347d6131471a8)|Win32 EXE|TSCookie|2012-05-23 16:15:25|c303bab9e2655739ee85adf92cc9e9c9b1e4371dddeb9270cbbb81f34f4f96b9.vir|
 |[305d1985ba1996b4ca677229eaaf3ffd](https://www.virustotal.com/gui/file/305d1985ba1996b4ca677229eaaf3ffd)|Win32 EXE||2011-08-29 17:12:24|vti-rescan|
 |[be3f9dcaa387a26b096acf4ced39ea2f](https://www.virustotal.com/gui/file/be3f9dcaa387a26b096acf4ced39ea2f)|Win32 DLL|Zbot|2011-03-29 05:15:10|ADVPACK32|
+|[9be7bb0bcd93d46d9d9665666f217ed1](https://www.virustotal.com/gui/file/9be7bb0bcd93d46d9d9665666f217ed1)|ELF executable||2020-10-20 02:26:41|apached|
+|[0fbb54af3585af0a14a3797580b78468](https://www.virustotal.com/gui/file/0fbb54af3585af0a14a3797580b78468)|ELF executable||2020-10-19 09:01:16|sample-5B5F8C4611510C11D413CB2BEF70867E584F003210968F97E0C54E6D37BA8D8D (1).bin|
+|[048d188bad124dfe492ba1d77e9ff5ab](https://www.virustotal.com/gui/file/048d188bad124dfe492ba1d77e9ff5ab)|Win32 EXE|Symmi|2020-01-29 04:25:21| |

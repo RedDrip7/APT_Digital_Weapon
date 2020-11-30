@@ -27,3 +27,36 @@
 |[2b8c79678fa970ca4e229121e3de206f](https://www.virustotal.com/gui/file/2b8c79678fa970ca4e229121e3de206f)|Win32 DLL|zapchast|2013-06-07 17:14:58|2b8c79678fa970ca4e229121e3de206f.bin|
 |[161c840748df9b49fda878394398425a](https://www.virustotal.com/gui/file/161c840748df9b49fda878394398425a)|DOC||2013-06-06 04:17:26|161C840748DF9B49FDA878394398425A.DO$|
 |[dff54d302900e323c8988c725bbe2299](https://www.virustotal.com/gui/file/dff54d302900e323c8988c725bbe2299)|RTF|CVE-2012-0158|2013-04-28 13:53:15|1595ea659a87677c59a195a3aeec9e3ef135c808ec353222e8eaa662117c9362.rtf|
+|[2a8836c4511e7171f60ddc966a177e75](https://www.virustotal.com/gui/file/2a8836c4511e7171f60ddc966a177e75)|Win32 DLL|Razy|2020-04-27 15:42:16|%APPDATA%\microsoft\corporation\mpsvc.dll|
+|[ccacb925e6b307c266691cf6515b486e](https://www.virustotal.com/gui/file/ccacb925e6b307c266691cf6515b486e)|TXT|sLoad|2020-04-27 11:20:41|Cập nhật lịch trực lễ 30_4 và 1_5.eml|
+|[208229cd8d0d3d725af1aed73a175145](https://www.virustotal.com/gui/file/208229cd8d0d3d725af1aed73a175145)|XLS|sLoad|2020-04-27 10:42:14|Lich truc le 30-4 và 1-5.xls|
+|[b4c5cd5abc0673e6531a973dcf2ffefa](https://www.virustotal.com/gui/file/b4c5cd5abc0673e6531a973dcf2ffefa)|Win32 EXE||2016-11-29 18:27:28|MsMpEng.exe|
+|[7498a89572e1a2fcd4a0ff8ceea96f87](https://www.virustotal.com/gui/file/7498a89572e1a2fcd4a0ff8ceea96f87)|Win32 DLL|PoisonIvy|2016-11-28 10:07:11|7498a89572e1a2fcd4a0ff8ceea96f87.virus|
+|[1590ff9da2ac7f28f02564d4114a43d2](https://www.virustotal.com/gui/file/1590ff9da2ac7f28f02564d4114a43d2)|Win32 DLL||2016-09-23 11:33:33|CREDRIVER.dll|
+|[c0c96e3f268331c0c457895429e1d512](https://www.virustotal.com/gui/file/c0c96e3f268331c0c457895429e1d512)|Win32 DLL|Tspy|2016-09-03 09:13:16|VGX.OCX|
+|[53f5b9d9e81612804ddaf15e71d983c7](https://www.virustotal.com/gui/file/53f5b9d9e81612804ddaf15e71d983c7)|Win32 DLL|dynamer|2016-08-02 07:20:02|winsin.dll|
+|[7194dcb825f4df1ea78e4cac8582f148](https://www.virustotal.com/gui/file/7194dcb825f4df1ea78e4cac8582f148)|Win32 DLL|PoisonIvy|2015-12-02 06:09:17|winsin.dll|
+|[eeada911413c7f7dad76fab9821ada45](https://www.virustotal.com/gui/file/eeada911413c7f7dad76fab9821ada45)|Win64 DLL|bitrep|2015-11-19 04:53:02|Credentials.dll|
+|[6d28b55b2ae1f529635dc898c2e3cc34](https://www.virustotal.com/gui/file/6d28b55b2ae1f529635dc898c2e3cc34)|Win32 DLL|Zbot|2015-11-05 16:56:34| |
+|[4b7f5a088e43361cf6ce738661c4aa5c](https://www.virustotal.com/gui/file/4b7f5a088e43361cf6ce738661c4aa5c)|Win32 DLL||2015-07-23 07:19:54|VGX.OCX|
+|[7337596ee26c28c74f6c20dcd07fe65f](https://www.virustotal.com/gui/file/7337596ee26c28c74f6c20dcd07fe65f)|Win32 DLL|PoisonIvy|2015-06-16 23:39:56| |
+|[cd78f95d558fd3e5510298fe3c5b83a0](https://www.virustotal.com/gui/file/cd78f95d558fd3e5510298fe3c5b83a0)|Win32 DLL|KeyBoy|2015-06-04 02:47:57|SystemCertificates.ocx|
+|[069d26cd523f1576bbd335141bae8c55](https://www.virustotal.com/gui/file/069d26cd523f1576bbd335141bae8c55)|Win32 DLL|KeyBoy|2015-05-27 11:17:07|SystemCertificates.ocx|
+|[231a9766bdc006c36ae1dedb2251c07a](https://www.virustotal.com/gui/file/231a9766bdc006c36ae1dedb2251c07a)|Win32 DLL|KeyBoy|2015-05-26 14:12:50|SystemCertificates.ocx|
+|[93fa49f69aa9873c7f19823161bd8406](https://www.virustotal.com/gui/file/93fa49f69aa9873c7f19823161bd8406)|Win32 DLL||2015-05-26 08:33:52|93fa49f69aa9873c7f19823161bd8406_KaIXRQFBImVeRVlS.dll|
+|[d723f8bf72451730f48f533b372dddff](https://www.virustotal.com/gui/file/d723f8bf72451730f48f533b372dddff)|Win32 DLL||2015-05-13 08:44:54|Credentials.dll|
+|[0c7e55509e0b6d4277b3facf864af018](https://www.virustotal.com/gui/file/0c7e55509e0b6d4277b3facf864af018)|Win32 DLL|graftor|2015-05-05 23:19:24| |
+|[af797d920fda253b27f48941a30664bb](https://www.virustotal.com/gui/file/af797d920fda253b27f48941a30664bb)|Win32 DLL|KeyBoy|2015-03-18 12:07:30| |
+|[19256544f1f6de323a79631a76898e7c](https://www.virustotal.com/gui/file/19256544f1f6de323a79631a76898e7c)|Win32 DLL||2014-12-29 09:16:07|/home/virustotal/sample/19256544F1F6DE323A79631A76898E7C|
+|[bb2d57a1a557908253c96ae43f07a95d](https://www.virustotal.com/gui/file/bb2d57a1a557908253c96ae43f07a95d)|Win32 DLL||2014-12-29 09:06:11|1.dl~|
+|[fe0ad2e2c155a3938f4a2f907cae5244](https://www.virustotal.com/gui/file/fe0ad2e2c155a3938f4a2f907cae5244)|Win32 DLL|Banload|2014-12-17 05:30:02|fe0ad2e2c155a3938f4a2f907cae5244_vKJhsNzJIRyPzmrz.DlL|
+|[c0177c651dd58e4961d2190ff91c6f44](https://www.virustotal.com/gui/file/c0177c651dd58e4961d2190ff91c6f44)|Win32 DLL|PoisonIvy|2014-12-16 17:32:35|myfile.exe|
+|[0043240bebaf921674559ed9f05505f1](https://www.virustotal.com/gui/file/0043240bebaf921674559ed9f05505f1)|Win32 DLL||2014-11-06 06:08:00|0043240bebaf921674559ed9f05505f1_KZdXcTEyVdPMAaYJufdJ.dLl|
+|[e20abe1f32aa7ac4f20f8ce24f7d1f62](https://www.virustotal.com/gui/file/e20abe1f32aa7ac4f20f8ce24f7d1f62)|Win32 EXE||2014-10-24 05:14:19|Install_|
+|[216702154571022bd17f769ec2484a56](https://www.virustotal.com/gui/file/216702154571022bd17f769ec2484a56)|Win32 DLL||2014-10-08 10:06:34|credentials.dll|
+|[7fa40b6a592890c93b06796503f8771d](https://www.virustotal.com/gui/file/7fa40b6a592890c93b06796503f8771d)|Win32 DLL||2014-09-23 02:09:41|vt-upload-5hRZn|
+|[d475d1576a5994eb88e44f2dd496b03f](https://www.virustotal.com/gui/file/d475d1576a5994eb88e44f2dd496b03f)|Win32 EXE||2014-08-15 05:45:54|Install_|
+|[7cf254d99c34b3e6a10482a471cc3f70](https://www.virustotal.com/gui/file/7cf254d99c34b3e6a10482a471cc3f70)|Win32 DLL|PoisonIvy|2014-06-03 09:29:20|7cf254d99c34b3e6a10482a471cc3f70_fVwhOZwCfLSIQ.DlL|
+|[f9de4ccd73275eab6251ed0c736fc433](https://www.virustotal.com/gui/file/f9de4ccd73275eab6251ed0c736fc433)|Win32 DLL||2014-05-02 04:09:34|credriver.dll|
+|[1001e79098476cf9f11d35e2d8f6bf11](https://www.virustotal.com/gui/file/1001e79098476cf9f11d35e2d8f6bf11)|Win32 DLL|Banload|2013-11-14 20:39:39|e1480984daab1d275b99b8a2cd4013295b97392a|
+|[dcbc2de64289cd13a2ab3fe49dbb5bca](https://www.virustotal.com/gui/file/dcbc2de64289cd13a2ab3fe49dbb5bca)|Win32 EXE||2013-01-08 11:24:33|626f65d4d638437a_626f65d4d638437aaa8352fe06589165d52a91e0963c988348b00734b0a3419f.exe|

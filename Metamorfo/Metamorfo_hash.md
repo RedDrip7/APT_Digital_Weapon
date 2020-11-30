@@ -30,3 +30,10 @@
 |[6d2cb9e726c9fac0fb36afc377be3aec](https://www.virustotal.com/gui/file/6d2cb9e726c9fac0fb36afc377be3aec)|Text||2015-07-31 05:08:26|C:\users\public\a0o1t4d6h7v3i5\id|
 |[03e4f8327fbb6844e78fda7cdae2e8ad](https://www.virustotal.com/gui/file/03e4f8327fbb6844e78fda7cdae2e8ad)|Win32 EXE||2014-01-23 07:51:25|pvk2pfx|
 |[181c8f19f974ad8a84b8673d487bbf0d](https://www.virustotal.com/gui/file/181c8f19f974ad8a84b8673d487bbf0d)|Win32 EXE||2011-03-01 18:20:27|CERTMGR.EXE|
+|[f70ca5997caa3d837cd939c8ef56e6ef](https://www.virustotal.com/gui/file/f70ca5997caa3d837cd939c8ef56e6ef)|FPX||2020-03-25 01:31:20|C:\Users\Administrator\AppData\Local\Temp\msdc098755NC.msi|
+|[479317545b259d30cfb63742ec9a45f4](https://www.virustotal.com/gui/file/479317545b259d30cfb63742ec9a45f4)|FPX||2020-03-17 04:27:17|SBK13783VBYB.msi|
+|[0bc49d1402f1e6f527199a12653711fa](https://www.virustotal.com/gui/file/0bc49d1402f1e6f527199a12653711fa)|Win32 DLL|BestaFera|2020-03-16 10:12:29|C:\Sandbox\sv-user\DefaultBox\user\all\0ZnSYynX\TCiraIOL.dll|
+|[b8f27ab146df02fa220ca955ca183669](https://www.virustotal.com/gui/file/b8f27ab146df02fa220ca955ca183669)|ZIP||2020-03-16 06:43:36|Unconfirmed 177264.crdownload|
+|[ef192a6be51961fcf984c437b64475e3](https://www.virustotal.com/gui/file/ef192a6be51961fcf984c437b64475e3)|TXT||2020-03-04 10:58:07|14115-ef192a6be51961fcf984c437b64475e3.js|
+|[f3a20a781bcc6122981ff9caa7ed5580](https://www.virustotal.com/gui/file/f3a20a781bcc6122981ff9caa7ed5580)|FPX|sLoad|2020-01-03 20:41:34|eb1e5eaea4ecc04b920bbd955c16b17f3d5ac3c580ea266ff5b9d589b8b49e0c.bin|
+|[a3b4d222a755f43b34a0963f13f77500](https://www.virustotal.com/gui/file/a3b4d222a755f43b34a0963f13f77500)|Win32 DLL||2019-08-01 14:25:13|AICustAct.dll|

@@ -116,3 +116,6 @@
 |[f7547f23bd2fd37b7d44e8617f629b49](https://www.virustotal.com/gui/file/f7547f23bd2fd37b7d44e8617f629b49)|Win32 DLL|Symmi|2011-11-22 02:06:10|ace1db881a879bb73c66c14d74987f98702409636d5255cd9f46edcf436800ea|
 |[162b349be9c6d11c58cf163e211d891c](https://www.virustotal.com/gui/file/162b349be9c6d11c58cf163e211d891c)|Win32 DLL||2011-08-03 02:06:46|vti-rescan|
 |[acc57cc72a8d129703b4914c408a15a1](https://www.virustotal.com/gui/file/acc57cc72a8d129703b4914c408a15a1)|Win32 DLL||2011-05-16 00:49:01|vti-rescan|
+|[95bec02acfdf30a308fb1aa9492f885a](https://www.virustotal.com/gui/file/95bec02acfdf30a308fb1aa9492f885a)|RTF|CVE-2017-11882|2020-02-20 09:46:09|muestras/5bbf2643a601e632a49406483c8fc5262a76e206bd969f2ba3f4f2e238768ab9|
+|[b26b60c8ba87df6322fa48916b7ba86d](https://www.virustotal.com/gui/file/b26b60c8ba87df6322fa48916b7ba86d)|Win32 DLL|Injecto|2020-01-09 17:18:50|%APPDATA%\microsoft\word\startup\useless.wll|
+|[f1b21f5f9941afd9eec0ab7456ec78b8](https://www.virustotal.com/gui/file/f1b21f5f9941afd9eec0ab7456ec78b8)|RTF|o97m|2020-01-09 01:48:51|/var/www/clean-mx/virusesevidence/output.148802639.txt|

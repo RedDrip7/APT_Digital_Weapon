@@ -117,3 +117,5 @@
 |[ad2c940af4c10f43a4bdb6f88a447c85](https://www.virustotal.com/gui/file/ad2c940af4c10f43a4bdb6f88a447c85)|Win32 EXE|Kryptik|2018-04-26 00:54:26|w.jpg|
 |[bf95e540fd6e155a36b27ad04e7c8369](https://www.virustotal.com/gui/file/bf95e540fd6e155a36b27ad04e7c8369)|unknown||2018-04-25 23:31:21|Migracion colombia Proceso pendiente.mht|
 |[b0687578284b1d20b9b45a34aaa4a592](https://www.virustotal.com/gui/file/b0687578284b1d20b9b45a34aaa4a592)|unknown||2018-04-06 19:07:49|sanci%C3%B3n%20declaracion%20de%20renta.doc|
+|[a4985c0b71be336a85e4e11f804a8a32](https://www.virustotal.com/gui/file/a4985c0b71be336a85e4e11f804a8a32)|TXT|Banload|2020-07-13 19:49:07|49e48be00ac7f8fe131aaf2592c0b97b7435d91ff6a6ad1724c8a50f11f70c50.bin|
+|[c80968dcd5c47e8a11cfd8c5339de701](https://www.virustotal.com/gui/file/c80968dcd5c47e8a11cfd8c5339de701)|PDF|PhishingSite|2020-04-26 03:54:53|Comunicado.pdf|

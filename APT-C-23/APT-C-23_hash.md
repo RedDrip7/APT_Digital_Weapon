@@ -371,3 +371,33 @@
 |[34ffb9375de5fb2e5d976316000e561d](https://www.virustotal.com/gui/file/34ffb9375de5fb2e5d976316000e561d)|Android|androidos|2010-08-16 07:49:58|E:\whiteset_benny\brut.googlemaps_f61b10e24cf228f1dc6fae34db749beb901d6c86|
 |[0b6775113343412fcd75d8b35d2c1520](https://www.virustotal.com/gui/file/0b6775113343412fcd75d8b35d2c1520)|Android||2020-03-04 11:41:19|New_Mygram_IM.apk|
 |[0b6775113343412fcd75d8b35d2c1520](https://www.virustotal.com/gui/file/0b6775113343412fcd75d8b35d2c1520)|Android||2020-03-04 11:41:19|New_Mygram_IM.apk|
+|[63a0c10dfd3e89683a476fa7e319e017](https://www.virustotal.com/gui/file/63a0c10dfd3e89683a476fa7e319e017)|Android||2020-10-14 07:51:05|MyGramIM.signed.apk|
+|[471313cb47c6165ec74088fafb9a5545](https://www.virustotal.com/gui/file/471313cb47c6165ec74088fafb9a5545)|Win32 EXE||2020-10-12 10:40:09|6Tb1ay5kTdAd2Ma29N0wHz2ixgEd7xh4K9F5onZ4.exe|
+|[006b96fd401a462f084664bbb58344f9](https://www.virustotal.com/gui/file/006b96fd401a462f084664bbb58344f9)|DOCX||2020-10-11 08:26:10|C:\Users\<USER>\AppData\Local\Temp\cv AYA ALI 888.docx|
+|[c12b3336f5efc8e83fcace6f81b27642](https://www.virustotal.com/gui/file/c12b3336f5efc8e83fcace6f81b27642)|Win32 EXE|Delf|2020-10-11 08:23:56|cv AYA ALI 888_8630973_43897309634.exe|
+|[c76402446b83840dd2d3635522874f8c](https://www.virustotal.com/gui/file/c76402446b83840dd2d3635522874f8c)|Android||2020-10-04 20:01:27|WhispersTalk.apk|
+|[0425bc5de50da34fb7be133851a3193d](https://www.virustotal.com/gui/file/0425bc5de50da34fb7be133851a3193d)|Android||2020-06-21 12:48:33|/1/5/4/54f2aa690954ddfcd72e0915147378dd9a7228954b05c54da3605611b2d5a55e.file|
+|[6903e3646c29f4f8a2187880025123f1](https://www.virustotal.com/gui/file/6903e3646c29f4f8a2187880025123f1)|GZIP||2020-06-15 02:15:38| |
+|[46cd3890b5d6586bfcc940beb7d6bfe4](https://www.virustotal.com/gui/file/46cd3890b5d6586bfcc940beb7d6bfe4)|Android||2020-06-11 13:46:50|Telegram.apk|
+|[af0e580b67938afaeb783b72cf2a1c61](https://www.virustotal.com/gui/file/af0e580b67938afaeb783b72cf2a1c61)|Android||2020-06-10 12:11:55|Telegram.apk|
+|[c117c946094f3a1bbc5ef714873ce183](https://www.virustotal.com/gui/file/c117c946094f3a1bbc5ef714873ce183)|Win32 EXE|occamy|2020-05-13 09:05:22|WindowsHelpCort.exe|
+|[f303e8ef98e6326545838cee0105cd4e](https://www.virustotal.com/gui/file/f303e8ef98e6326545838cee0105cd4e)|Android||2020-04-15 23:03:05|PureTalk.apk|
+|[d35ff5620e18bf5aba1d2396828436ca](https://www.virustotal.com/gui/file/d35ff5620e18bf5aba1d2396828436ca)|Android||2020-04-14 12:46:42|New_Mygram_IM121.apk|
+|[ccc7a35a3977e2a4859f1dc8becca6b7](https://www.virustotal.com/gui/file/ccc7a35a3977e2a4859f1dc8becca6b7)|Android||2020-04-14 12:43:24|New_Mygram_IM121.apk|
+|[8d8c011ae462913386f63974bd239a60](https://www.virustotal.com/gui/file/8d8c011ae462913386f63974bd239a60)|Android||2020-03-17 11:55:41|android_q.apk|
+|[1eb1923e959490ee9f67687c7faec697](https://www.virustotal.com/gui/file/1eb1923e959490ee9f67687c7faec697)|Win32 EXE|Delf|2020-02-26 06:53:36|%PROGRAMDATA%\syncdownoptzhostproc.exe|
+|[8d50262448d0c174fc30c02e20ca55ff](https://www.virustotal.com/gui/file/8d50262448d0c174fc30c02e20ca55ff)|Win32 EXE|Strictor|2020-02-24 05:18:55|%PROGRAMDATA%\syncdownoptzhostproc.exe|
+|[46871f3082e2d33f25111a46dfafd0a6](https://www.virustotal.com/gui/file/46871f3082e2d33f25111a46dfafd0a6)|Win32 EXE|Strictor|2020-02-16 07:08:10|%PROGRAMDATA%\syncdownoptzhostproc.exe|
+|[817861fce29bac3b28f06615b4f1803f](https://www.virustotal.com/gui/file/817861fce29bac3b28f06615b4f1803f)|DOC|o97m|2020-02-02 12:52:19|السيرة الذاتية منال1.doc|
+|[a7cf4df8315c62dbebfbfea7553ef749](https://www.virustotal.com/gui/file/a7cf4df8315c62dbebfbfea7553ef749)|Win32 EXE|Strictor|2020-01-29 11:08:26|%PROGRAMDATA%\syncdownoptzhostproc.exe|
+|[09cd0da3fb00692e714e251bb3ee6342](https://www.virustotal.com/gui/file/09cd0da3fb00692e714e251bb3ee6342)|Win32 EXE|Delf|2020-01-22 19:22:17|%PROGRAMDATA%\syncdownoptzhostproc.exe|
+|[e8effd3ad2069ff8ff6344b85fc12dd6](https://www.virustotal.com/gui/file/e8effd3ad2069ff8ff6344b85fc12dd6)|Win32 EXE||2020-01-22 12:29:16|80fb33854bf54ceac731aed91c677d8fb933d1593eb95447b06bd9b80f562ed2.sample|
+|[91f83b03651bb4d1c0a40e29fc2c92a1](https://www.virustotal.com/gui/file/91f83b03651bb4d1c0a40e29fc2c92a1)|DOC|Sagent|2020-01-22 08:41:44|b33f22b967a5be0e886d479d47d6c9d35c6639d2ba2e14ffe42e7d2e5b11ad80.doc.bin|
+|[20d21c75b92be3cfcd5f69a3ef1deed2](https://www.virustotal.com/gui/file/20d21c75b92be3cfcd5f69a3ef1deed2)|Win32 EXE||2020-01-20 12:09:44|617132.exe|
+|[3296b51479c7540331233f47ed7c38dd](https://www.virustotal.com/gui/file/3296b51479c7540331233f47ed7c38dd)|Win32 EXE|Delf|2020-01-14 09:58:48|%PROGRAMDATA%\syncdownoptzhostproc.exe|
+|[90cdf5ab3b741330e5424061c7e4b2e2](https://www.virustotal.com/gui/file/90cdf5ab3b741330e5424061c7e4b2e2)|Win32 EXE|Zbot|2019-12-21 09:07:07|%PROGRAMDATA%\syncdownoptzhostproc.exe|
+|[9bb70dfa2e39be46278fb19764a6149a](https://www.virustotal.com/gui/file/9bb70dfa2e39be46278fb19764a6149a)|Win32 EXE|Zbot|2019-12-16 21:05:24|%PROGRAMDATA%\syncdownoptzhostproc.exe|
+|[4d9b6b0e7670dd5919b188cb71d478c0](https://www.virustotal.com/gui/file/4d9b6b0e7670dd5919b188cb71d478c0)|Win32 EXE||2019-12-11 19:25:41|%PROGRAMDATA%\syncdownoptzhostproc.exe|
+|[edc3b146a5103051b39967246823ca09](https://www.virustotal.com/gui/file/edc3b146a5103051b39967246823ca09)|Win32 EXE|Graftor|2019-12-09 22:25:47|%PROGRAMDATA%\syncdownoptzhostproc.exe|
+|[fc5b2c81debf30d251d5220097c2f846](https://www.virustotal.com/gui/file/fc5b2c81debf30d251d5220097c2f846)|Win32 EXE||2019-11-08 21:46:54|fc5b2c81debf30d251d5220097c2f846.virus|
+|[dd8485d87d8998d47de4f5dfcc9213e1](https://www.virustotal.com/gui/file/dd8485d87d8998d47de4f5dfcc9213e1)|Android|androidos|2019-05-21 10:58:06|29ac6e5719aeb0cba63b837ca2cbdb6483044ed5a885c457f6858ae61e2dd4da.bin|

@@ -408,3 +408,122 @@
 |[fab5eff5fc65a7a2c5920586df5e29c2](https://www.virustotal.com/gui/file/fab5eff5fc65a7a2c5920586df5e29c2)|Win32 EXE||2012-09-24 13:12:50|dnl.php|
 |[2ba1e2a63129517055ab3a63cb089e33](https://www.virustotal.com/gui/file/2ba1e2a63129517055ab3a63cb089e33)|Win32 EXE||2012-09-24 13:08:32|/home/netml/Desktop/TestMalwares/2ba1e2a63129517055ab3a63cb089e33|
 |[af5e96e260b71356d62900551f68f338](https://www.virustotal.com/gui/file/af5e96e260b71356d62900551f68f338)|Win32 EXE||2012-05-22 22:25:11|/home/netml/Desktop/TestMalwares/af5e96e260b71356d62900551f68f338|
+|[2cd6db80e8dadce0c00f2417b6dedaf4](https://www.virustotal.com/gui/file/2cd6db80e8dadce0c00f2417b6dedaf4)|Win32 EXE||2020-11-08 13:57:57|rvhdhimsa.exe|
+|[7a03b766a87f9ed759a74ca5103fef21](https://www.virustotal.com/gui/file/7a03b766a87f9ed759a74ca5103fef21)|RAR|Wacatac|2020-11-08 10:28:45|scan0001.rar|
+|[fc1b40b286ddee0421ce06cc000cd08e](https://www.virustotal.com/gui/file/fc1b40b286ddee0421ce06cc000cd08e)|Win32 EXE|foreign|2020-10-05 10:15:36|dhrsaisnedh.exe|
+|[77f21927f30034a103370516ab85302f](https://www.virustotal.com/gui/file/77f21927f30034a103370516ab85302f)|Win32 EXE||2020-10-04 09:57:32|rhrsadhirns.exe|
+|[4136a0b56c635095d378d01828a79f85](https://www.virustotal.com/gui/file/4136a0b56c635095d378d01828a79f85)|Android||2020-06-18 03:10:33|viber.apk|
+|[2ffd4f2ab4f00c78ef2661690fe349c9](https://www.virustotal.com/gui/file/2ffd4f2ab4f00c78ef2661690fe349c9)|Android||2020-06-18 03:10:28|trueC.apk|
+|[d8fd669eecaf6577994e4e4e99204527](https://www.virustotal.com/gui/file/d8fd669eecaf6577994e4e4e99204527)|Android||2020-06-18 03:10:23|snap.apk|
+|[4ae2680320e8c0d2c202cd81eb5a220f](https://www.virustotal.com/gui/file/4ae2680320e8c0d2c202cd81eb5a220f)|Android||2020-06-18 03:10:17|normal.apk|
+|[1c25ceee18f3813d78d5ef817005ede2](https://www.virustotal.com/gui/file/1c25ceee18f3813d78d5ef817005ede2)|Android||2020-06-18 03:10:12|imo.apk|
+|[216dc32c48cbea14e7af1e60085a6c66](https://www.virustotal.com/gui/file/216dc32c48cbea14e7af1e60085a6c66)|Android||2020-06-18 03:10:07|face.apk|
+|[b955782e0bf948c4dcf77c60d1793d8d](https://www.virustotal.com/gui/file/b955782e0bf948c4dcf77c60d1793d8d)|Android||2020-06-17 23:30:18|b955782e0bf948c4dcf77c60d1793d8d.virus|
+|[c0c2bca1b2668d10d0b26e0f6db34a64](https://www.virustotal.com/gui/file/c0c2bca1b2668d10d0b26e0f6db34a64)|Win32 EXE||2020-06-13 08:16:17|witharsrau.exe|
+|[bace8f757b7b53980798f9920f0ea615](https://www.virustotal.com/gui/file/bace8f757b7b53980798f9920f0ea615)|Android|androidos|2020-05-18 13:07:59|helloWooFmim.apk|
+|[111d61aa7ebb22d3037465d515949479](https://www.virustotal.com/gui/file/111d61aa7ebb22d3037465d515949479)|Android|androidos|2020-05-02 16:11:44|viber.apk|
+|[1ef033bfd65a3eabe177c766940ae07c](https://www.virustotal.com/gui/file/1ef033bfd65a3eabe177c766940ae07c)|Android|androidos|2020-05-02 16:11:40|trueC.apk|
+|[6774b46183515353179a8455fefc9bf1](https://www.virustotal.com/gui/file/6774b46183515353179a8455fefc9bf1)|Android|androidos|2020-05-02 16:11:36|snap.apk|
+|[681ff974adb54692e61551f9640f76bf](https://www.virustotal.com/gui/file/681ff974adb54692e61551f9640f76bf)|Android|androidos|2020-05-02 16:11:31|normal.apk|
+|[3117580ca2929da80150acd069cde4ab](https://www.virustotal.com/gui/file/3117580ca2929da80150acd069cde4ab)|Android|androidos|2020-05-02 16:11:26|imo.apk|
+|[a09f4199a047e1ae5cf5728fbfc90831](https://www.virustotal.com/gui/file/a09f4199a047e1ae5cf5728fbfc90831)|Android||2020-05-02 16:11:23|face.apk|
+|[adb4e3f7a2fe9170d7421413e6faf6a3](https://www.virustotal.com/gui/file/adb4e3f7a2fe9170d7421413e6faf6a3)|TXT|o97m|2020-04-29 13:33:57|Sample1.eml|
+|[931435cb8a5b2542f8e5f29fd369e010](https://www.virustotal.com/gui/file/931435cb8a5b2542f8e5f29fd369e010)|Android|androidos|2020-04-24 09:48:14|ccbe720fd059610227d478578a5a4019c96885de8fd3e83984f9c1c5fe850ad6.bin|
+|[3eb36a9853c9c68524dbe8c44734ec35](https://www.virustotal.com/gui/file/3eb36a9853c9c68524dbe8c44734ec35)|Android|androidos|2020-04-24 09:48:13|trueC.apk|
+|[a912e5967261656457fd076986bb327c](https://www.virustotal.com/gui/file/a912e5967261656457fd076986bb327c)|Android|androidos|2020-04-24 09:48:11|5ce6d273df4fcad8953dd4f37e7f4a0390f9da52978f0227b021b6a724b59313.bin|
+|[62fad3ac69db0e8e541efa2f479618ce](https://www.virustotal.com/gui/file/62fad3ac69db0e8e541efa2f479618ce)|Android||2020-04-24 09:48:09|451cab3d5b5a1c699f1b9b3d8a4ddf73c48f891cbca88e4e1a829e2442116efb.bin|
+|[627aa2f8a8fc2787b783e64c8c57b0ed](https://www.virustotal.com/gui/file/627aa2f8a8fc2787b783e64c8c57b0ed)|Android|androidos|2020-04-24 09:48:07|56bba40bc62d021b17fb79d1e7e307a61a8727bf9f59fdcae8cfff7a0e0f9422.bin|
+|[cf71ba878434605a3506203829c63b9d](https://www.virustotal.com/gui/file/cf71ba878434605a3506203829c63b9d)|Android||2020-04-24 09:48:05|fadc0fe0714d9e95904ccaaf16d895ac71c1337e92b8eb51258fed9fb8fb4620.bin|
+|[5f563a38e3b98a7bc6c65555d0ad5cfd](https://www.virustotal.com/gui/file/5f563a38e3b98a7bc6c65555d0ad5cfd)|Android||2020-04-24 06:15:52|72aa69be5cd46220e1509c040ceb6e3cbb3c676a6c464a811370d688f45f26ec.bin|
+|[97e3531a6a1455f56360e8e44617330c](https://www.virustotal.com/gui/file/97e3531a6a1455f56360e8e44617330c)|FPX|o97m|2020-04-21 03:34:28|vbaProject.bin|
+|[67dc69a16ba744fc0fa2206a6ef1d10a](https://www.virustotal.com/gui/file/67dc69a16ba744fc0fa2206a6ef1d10a)|Android||2020-04-07 14:45:39|67dc69a16ba744fc0fa2206a6ef1d10a.virus|
+|[3952ebedf24716728b7355b8be8e71b6](https://www.virustotal.com/gui/file/3952ebedf24716728b7355b8be8e71b6)|DOC|o97m|2020-04-02 17:31:28|preet.doc|
+|[5bf97a6cb64ae6fd48d6c5d849be8983](https://www.virustotal.com/gui/file/5bf97a6cb64ae6fd48d6c5d849be8983)|DOCX||2020-03-31 21:13:49|C:\Users\user\Documents\f79dc97642675df808bdf4c6e83a3d0e_02 .docx|
+|[e0db666fff1c8ac20106aa04b20b7b2e](https://www.virustotal.com/gui/file/e0db666fff1c8ac20106aa04b20b7b2e)|Win32 EXE|MSILPerseus|2020-03-17 10:26:25|dhrwarhsav.exe|
+|[3c03f18dad61e9cde18a326eab9e64c1](https://www.virustotal.com/gui/file/3c03f18dad61e9cde18a326eab9e64c1)|XLS|o97m|2020-03-17 06:30:45|Enclosed_File.xls|
+|[3bcf1bf59b51a170cbf0b8bad518608d](https://www.virustotal.com/gui/file/3bcf1bf59b51a170cbf0b8bad518608d)|Win32 EXE|Ursu|2020-03-11 04:01:28|mdlthsrvain.exe|
+|[cafffff2f91b5fa5741bd69f2f89a822](https://www.virustotal.com/gui/file/cafffff2f91b5fa5741bd69f2f89a822)|RAR||2020-03-10 19:01:56|مرکز هماهنگی اوپراتیفی زون جنوب.rar|
+|[c3e60bd2cf811f5049e1ed106c533f36](https://www.virustotal.com/gui/file/c3e60bd2cf811f5049e1ed106c533f36)|Win32 EXE|foreign|2020-03-09 08:23:35|thjavgnias.exe|
+|[4d33804d5e6fd053837ddd374d7e32b5](https://www.virustotal.com/gui/file/4d33804d5e6fd053837ddd374d7e32b5)|DOC|EmoDldr|2020-03-09 08:08:37|file.doc|
+|[d62156fa2c5bffdc63f0975c5482eab6](https://www.virustotal.com/gui/file/d62156fa2c5bffdc63f0975c5482eab6)|Win32 EXE||2020-03-06 12:29:56|brwmarivas.exe|
+|[cbfae579a25df1e2fe0e02934efd65dc](https://www.virustotal.com/gui/file/cbfae579a25df1e2fe0e02934efd65dc)|DOC|o97m|2020-03-06 06:42:34|sonam.doc|
+|[1f0fe3a696143743b9c77b77332c0902](https://www.virustotal.com/gui/file/1f0fe3a696143743b9c77b77332c0902)|Win32 EXE|occamy|2020-03-02 22:25:37|Xmahthen.exe|
+|[15b47ac554679f7ca2fac728123f2694](https://www.virustotal.com/gui/file/15b47ac554679f7ca2fac728123f2694)|DOC||2020-03-02 19:45:05|New selected officials.doc|
+|[d7d6889bfa96724f7b3f951bc06e8c02](https://www.virustotal.com/gui/file/d7d6889bfa96724f7b3f951bc06e8c02)|Win32 EXE|Neshta|2020-02-19 16:38:15|wifeexchange.exe|
+|[6c3308cd8a060327d841626a677a0549](https://www.virustotal.com/gui/file/6c3308cd8a060327d841626a677a0549)|Android|Skeeyah|2020-02-18 18:40:23|cee88ffae63cd95e4f9f7008a86a8d7818a47b62608d28a70bbe8d73c6d2b042.bin|
+|[4556ccecbf24b2e3e07d3856f42c7072](https://www.virustotal.com/gui/file/4556ccecbf24b2e3e07d3856f42c7072)|Android|androidos|2020-02-18 18:40:18|81ca347465f28d093a27caf3d83fe5c4fb50c5e48cfd851a06784d431fa8c2cf.bin|
+|[b8006e986453a6f25fd94db6b7114ac2](https://www.virustotal.com/gui/file/b8006e986453a6f25fd94db6b7114ac2)|Android|androidos|2020-02-18 18:40:13|e158b20c400cb2c24ce4223bb947dee86e3717b18446b76911389a9a1fcc2260.bin|
+|[bae69f2ce9f002a11238dcf29101c14f](https://www.virustotal.com/gui/file/bae69f2ce9f002a11238dcf29101c14f)|Android|androidos|2020-02-18 18:40:07|c598f7956b1d0d6514ade39df05c9fcad70f970957c980d15f6d019e5ca04df6.bin|
+|[53cd72147b0ef6bf6e64d266bf3ccafe](https://www.virustotal.com/gui/file/53cd72147b0ef6bf6e64d266bf3ccafe)|Android|androidos|2020-02-18 18:40:01|58643719af0f271b87c51665c2e8c904db70155b8c6f514d6e5f44c0828a4a53.bin|
+|[a20fc273a49c3b882845ac8d6cc5beac](https://www.virustotal.com/gui/file/a20fc273a49c3b882845ac8d6cc5beac)|Android|androidos|2020-02-18 18:39:56|face.apk|
+|[0294f46d0e8cb5377f97b49ea3593c25](https://www.virustotal.com/gui/file/0294f46d0e8cb5377f97b49ea3593c25)|Android||2020-02-18 15:43:14|53e3d197e9d6ac3f23f8da64ffb1a1013e84d1ebf52864f5b0f8b79006f1ddc4.bin|
+|[31967bead845fd5f3c2747befbb6072b](https://www.virustotal.com/gui/file/31967bead845fd5f3c2747befbb6072b)|Win32 EXE|MSILPerseus|2020-02-17 13:52:15|dhrwarhsav.exe|
+|[e074c234858d890502c7bb6905f0716e](https://www.virustotal.com/gui/file/e074c234858d890502c7bb6905f0716e)|XLS||2020-02-17 11:44:16|36978_1582552996_NHQEncl1.xls1|
+|[e262407a5502fa5607ad3b709a73a2e0](https://www.virustotal.com/gui/file/e262407a5502fa5607ad3b709a73a2e0)|Win32 EXE|MSILPerseus|2020-02-17 06:19:58|dhrwarhsav.exe|
+|[c57defdc4133d27f9bc02a340ac35cd2](https://www.virustotal.com/gui/file/c57defdc4133d27f9bc02a340ac35cd2)|Win32 EXE||2020-02-13 23:29:26|nvidhrgaur.exe|
+|[d4de0d1aa8c1d361d9e1c6444e5121f3](https://www.virustotal.com/gui/file/d4de0d1aa8c1d361d9e1c6444e5121f3)|DOC||2020-02-13 19:55:23|engg_review.doc|
+|[bc97f303a61ea390c5fdb29f21785ba2](https://www.virustotal.com/gui/file/bc97f303a61ea390c5fdb29f21785ba2)|Android||2020-02-13 17:36:40|bc97f303a61ea390c5fdb29f21785ba2.virus|
+|[6d3fe5661c9b89ea23211a3d2e1a45d7](https://www.virustotal.com/gui/file/6d3fe5661c9b89ea23211a3d2e1a45d7)|Win32 EXE||2020-02-10 13:41:48|6d3fe5661c9b89ea23211a3d2e1a45d7.virus|
+|[b775e11e7d90a0fc33f26cd5cc3f6697](https://www.virustotal.com/gui/file/b775e11e7d90a0fc33f26cd5cc3f6697)|Win32 EXE||2020-02-10 01:20:19|Realtime.scr|
+|[0a2b1f2201a99ee5726c7d5e4a1844f2](https://www.virustotal.com/gui/file/0a2b1f2201a99ee5726c7d5e4a1844f2)|XLS||2020-02-09 23:59:15|662c3b181467a9d2f40a7b632a4b5fe5ddd201a528ba408badbf7b2375ee3553.xls|
+|[03edfaefb8ef26342a234315b14eae2b](https://www.virustotal.com/gui/file/03edfaefb8ef26342a234315b14eae2b)|Win32 EXE|occamy|2020-02-09 18:47:10|%PROGRAMDATA%\sppextcomtel\sppextcomtel.scr|
+|[5507125d8bf2634da05331cecf9be557](https://www.virustotal.com/gui/file/5507125d8bf2634da05331cecf9be557)|Win32 DLL|occamy|2020-02-08 19:26:38|%TEMP%\m1ssh0upuuchcukxanevpozlu.dll|
+|[95970056e0ff6c26d196496105521c19](https://www.virustotal.com/gui/file/95970056e0ff6c26d196496105521c19)|Win32 EXE|occamy|2020-02-08 18:47:52|SppExtComTel.exe|
+|[d333bae2c45fe431befd7a88f1d7a540](https://www.virustotal.com/gui/file/d333bae2c45fe431befd7a88f1d7a540)|Win32 EXE|Ursu|2020-02-08 18:47:51|C:\ProgramData\systemidleperf\x64i.scr|
+|[f78838433e7b090fd9526fa92920a0f6](https://www.virustotal.com/gui/file/f78838433e7b090fd9526fa92920a0f6)|Win32 EXE||2020-02-08 18:47:23|SilentCMD.exe|
+|[b95e2ec3d72c65dd9495b633a1dbc906](https://www.virustotal.com/gui/file/b95e2ec3d72c65dd9495b633a1dbc906)|XLS||2020-02-08 16:43:41|DSOP_Advance.xls|
+|[b3f8eee133ae385d9c7655aae033ca3e](https://www.virustotal.com/gui/file/b3f8eee133ae385d9c7655aae033ca3e)|DOC|o97m|2020-01-20 08:49:28|Criteria of Army Officers.doc|
+|[48476da4403243b342a166d8a6be7a3f](https://www.virustotal.com/gui/file/48476da4403243b342a166d8a6be7a3f)|XLS|EmoDldr|2020-01-20 08:28:30|2aa160726037e80384672e89968ab4d2bd3b7f5ca3dfa1b9c1ecc4d1647a63f0.bin|
+|[a3a0750d74705d235b60556f1331ae9b](https://www.virustotal.com/gui/file/a3a0750d74705d235b60556f1331ae9b)|Win32 EXE|MSILPerseus|2020-01-20 06:20:08|ulhtagnias.exe|
+|[15da10765b7becfcca3325a91d90db37](https://www.virustotal.com/gui/file/15da10765b7becfcca3325a91d90db37)|DOCX|PhishingSite|2020-01-20 05:31:45|6c9c6966ce269bbcab164aca3c3f0231af1f7b26a18e5abc927b2ccdd9499368.docx|
+|[9c52beedf24a763c8551715b7736b032](https://www.virustotal.com/gui/file/9c52beedf24a763c8551715b7736b032)|Win32 EXE|MSILPerseus|2020-01-16 17:48:44|rdhmrarhsa.exe|
+|[e061670462a35bb5f46803394f9ca733](https://www.virustotal.com/gui/file/e061670462a35bb5f46803394f9ca733)|XLS||2020-01-16 11:33:49|2020-21.xls|
+|[929be0cd74fe30bd0480928cf6369f28](https://www.virustotal.com/gui/file/929be0cd74fe30bd0480928cf6369f28)|Win32 DLL||2020-01-09 01:11:31|/home/share_write/x00408755/20200911_cyberflood/new_samples/929be0cd74fe30bd0480928cf6369f28|
+|[c8288412e6679f33f77106b80020376b](https://www.virustotal.com/gui/file/c8288412e6679f33f77106b80020376b)|Win32 DLL|Ursu|2020-01-09 01:11:24|/home/share_write/x00408755/20200911_cyberflood/new_samples/c8288412e6679f33f77106b80020376b|
+|[63902ca9d9a24bc52e5deb03846e5546](https://www.virustotal.com/gui/file/63902ca9d9a24bc52e5deb03846e5546)|MS Excel Spreadsheet||2020-01-04 16:29:41|.|
+|[308ac61ecb808fae3698d8c1285d419e](https://www.virustotal.com/gui/file/308ac61ecb808fae3698d8c1285d419e)|Android||2020-01-03 22:39:19| |
+|[085b821db833d44ad717f73dd819c29f](https://www.virustotal.com/gui/file/085b821db833d44ad717f73dd819c29f)|XLS||2020-01-03 17:56:08|Kashmir Projects.xls|
+|[888ca13af164c6f514dec5223d319a40](https://www.virustotal.com/gui/file/888ca13af164c6f514dec5223d319a40)|Win32 EXE|Wacatac|2020-01-03 12:31:31|\PROGRA~2\Daithas\dllhvarima.exe|
+|[284df0208d03af926d1dfc868f0ef474](https://www.virustotal.com/gui/file/284df0208d03af926d1dfc868f0ef474)|Win32 EXE|MSILPerseus|2020-01-03 05:06:31|New Preet cv.exe|
+|[8a1f4a512fe9edbcc62ba4b1c3e08f0a](https://www.virustotal.com/gui/file/8a1f4a512fe9edbcc62ba4b1c3e08f0a)|Win32 EXE|Tiggre|2019-12-27 17:41:23|rlbwrarhsa.exe|
+|[bce8a8ea8d47951abffeec38fbeeeef1](https://www.virustotal.com/gui/file/bce8a8ea8d47951abffeec38fbeeeef1)|XLS|o97m|2019-12-27 11:45:27|36586_1578371289_defence.xls111|
+|[309c16372edcfe697abf7af66cd6a6da](https://www.virustotal.com/gui/file/309c16372edcfe697abf7af66cd6a6da)|Win32 EXE||2019-12-23 09:50:33|thnbiarwn.exe|
+|[8fc5adbb6c01030f750c1ed8e913c876](https://www.virustotal.com/gui/file/8fc5adbb6c01030f750c1ed8e913c876)|Win32 EXE|MSILPerseus|2019-12-16 16:41:02|thnaviwa.exe|
+|[80812d4b01071a137f5bf845beb80e8b](https://www.virustotal.com/gui/file/80812d4b01071a137f5bf845beb80e8b)|DOC||2019-12-16 14:24:43|Album_and_Feedback_Form.doc|
+|[fc155137f3de70071d7d0d80695febd0](https://www.virustotal.com/gui/file/fc155137f3de70071d7d0d80695febd0)|Android||2019-12-09 11:53:36|fc155137f3de70071d7d0d80695febd0.virus|
+|[6d5e033651ae6371b8c8a44b269101b2](https://www.virustotal.com/gui/file/6d5e033651ae6371b8c8a44b269101b2)|Win32 EXE|MSILPerseus|2019-12-04 14:40:54|tbvrarthsa.exe|
+|[5158c5c17862225a86c8a4f36f054ae2](https://www.virustotal.com/gui/file/5158c5c17862225a86c8a4f36f054ae2)|XLS||2019-12-04 11:07:01|NHQ Notice File.xls|
+|[a84549691a492ad081bf177b6c4518b0](https://www.virustotal.com/gui/file/a84549691a492ad081bf177b6c4518b0)|Win64 EXE||2019-10-07 15:27:18|Y:\Information Security\Issues\5-10-19\FPSRV-HZ\M\PerfLogs\psexec.exe|
+|[783dc28185837c8e66dca34e9a519c7c](https://www.virustotal.com/gui/file/783dc28185837c8e66dca34e9a519c7c)|Win32 EXE||2019-10-03 07:04:56|sshnet.exe|
+|[197ab57347843b00c8d9c23d695c5904](https://www.virustotal.com/gui/file/197ab57347843b00c8d9c23d695c5904)|Android||2019-08-20 18:48:18|.|
+|[e98ea14133925d26a5c34b8c0bd9fd49](https://www.virustotal.com/gui/file/e98ea14133925d26a5c34b8c0bd9fd49)|Android||2019-08-16 22:57:50|ncrTest.apk|
+|[babc1b62dd7c823f8536476aef874a3d](https://www.virustotal.com/gui/file/babc1b62dd7c823f8536476aef874a3d)|Win32 EXE|Disfa|2019-06-18 07:04:06|ngasfrmas.exe|
+|[a87d59456f323bd373cb958273dfe8bb](https://www.virustotal.com/gui/file/a87d59456f323bd373cb958273dfe8bb)|TXT||2019-04-19 07:32:18|195e95b6a1f9de762ee01027f903010c560ce76e050d61a7223b6fce0b1060a3.bin|
+|[0c4db17ed145310f336ab4887914f80c](https://www.virustotal.com/gui/file/0c4db17ed145310f336ab4887914f80c)|TXT||2019-03-21 07:00:13|49d5cfb41066bca7c9f03aad2d729e9d9d99c95bc9c50c152af3ccc94e3db4f9.bin|
+|[4c0e752600746b6d67cf1d49c103d64a](https://www.virustotal.com/gui/file/4c0e752600746b6d67cf1d49c103d64a)|DOC||2019-03-21 04:45:54|CV.doc|
+|[341bf386e067095bb17b875a451c96f2](https://www.virustotal.com/gui/file/341bf386e067095bb17b875a451c96f2)|Win32 EXE||2019-03-04 22:23:13|SilentCMD.exe|
+|[04a6a6bb92be95f59ffc8b8a0b522571](https://www.virustotal.com/gui/file/04a6a6bb92be95f59ffc8b8a0b522571)|Android|androidos|2019-01-28 14:33:03|android.s.apk|
+|[b4fcb52673089caf3e6e76379f2604d8](https://www.virustotal.com/gui/file/b4fcb52673089caf3e6e76379f2604d8)|TXT||2018-12-16 14:39:10|32e602df2a327292b9c93b609d2d210e568a058a200563795654cf16c3afc6b8.bin|
+|[0f7d3d33d7235b13d0fac4329e0d2420](https://www.virustotal.com/gui/file/0f7d3d33d7235b13d0fac4329e0d2420)|TXT||2018-11-27 09:01:07|cmd.aspx|
+|[31b431df84eaf71848c8b172c40124ec](https://www.virustotal.com/gui/file/31b431df84eaf71848c8b172c40124ec)|TXT||2018-10-22 15:39:26|C:\Users\ADMINI~1\AppData\Local\Temp\AutoRDPwn-master\Resources\Scripts\Invoke-SMBExec.ps1|
+|[54af54c9e0aa4b26c4be803c44c5f473](https://www.virustotal.com/gui/file/54af54c9e0aa4b26c4be803c44c5f473)|TXT||2018-10-22 15:38:17|Invoke-TheHash.psm1|
+|[b63de834ab7cc8fcd0e71003c6786213](https://www.virustotal.com/gui/file/b63de834ab7cc8fcd0e71003c6786213)|TXT||2018-09-05 12:02:34|d4a177af7b6e19ff4f1917e2f0a606c21845c7921e62453432ff341485b4cfa8.bin|
+|[808502752ca0492aca995e9b620d507b](https://www.virustotal.com/gui/file/808502752ca0492aca995e9b620d507b)|Win64 EXE|Johnnie|2018-08-15 09:33:26|JuicyPotato.exe|
+|[6fea7a30b2bd6014c1b15defe8963273](https://www.virustotal.com/gui/file/6fea7a30b2bd6014c1b15defe8963273)|TXT||2018-04-28 14:38:40|tiny.aspx|
+|[01a9293fb10985204a4278006796ea3f](https://www.virustotal.com/gui/file/01a9293fb10985204a4278006796ea3f)|Win32 EXE||2017-12-14 05:51:58|port.exe|
+|[f064ff619ebf67a59566c0dd54c5d05c](https://www.virustotal.com/gui/file/f064ff619ebf67a59566c0dd54c5d05c)|Win32 EXE||2017-12-14 05:51:48|sshnet.exe|
+|[cb84fc4682a74ba81ef477bc1359959b](https://www.virustotal.com/gui/file/cb84fc4682a74ba81ef477bc1359959b)|Win32 EXE|rozena|2017-12-14 05:51:31|ConsoleApplication5.exe|
+|[cfcbb6472cac07ea138379578d80845b](https://www.virustotal.com/gui/file/cfcbb6472cac07ea138379578d80845b)|Win32 EXE|rozena|2017-12-14 05:51:19|ConsoleApplication5.exe|
+|[29fb089328e78f67ff86739583a9e63a](https://www.virustotal.com/gui/file/29fb089328e78f67ff86739583a9e63a)|Win32 EXE||2017-12-11 22:30:18|sshnet.exe|
+|[155837e476b50c93b6522b310a684a33](https://www.virustotal.com/gui/file/155837e476b50c93b6522b310a684a33)|Win32 EXE|rozena|2017-12-11 14:45:29|ConsoleApplication5.exe|
+|[475f89de6031db2158231eafa07b8b72](https://www.virustotal.com/gui/file/475f89de6031db2158231eafa07b8b72)|Win32 EXE||2017-12-11 14:22:18|cs|
+|[836d61745e087e6017832233701218a4](https://www.virustotal.com/gui/file/836d61745e087e6017832233701218a4)|TXT||2017-05-03 19:53:01|Invoke-TheHash.psd1|
+|[366aeab3b8ae90a98eeaed68ccfdef00](https://www.virustotal.com/gui/file/366aeab3b8ae90a98eeaed68ccfdef00)|Win32 DLL||2017-03-31 01:35:35|shell.pyd|
+|[46fdb64ce8324bdc49fbd1ccc2c5cc3b](https://www.virustotal.com/gui/file/46fdb64ce8324bdc49fbd1ccc2c5cc3b)|Win32 DLL||2017-03-31 01:35:34|win32pipe.pyd|
+|[285a796650d360081fd415edfbff8511](https://www.virustotal.com/gui/file/285a796650d360081fd415edfbff8511)|Win32 DLL||2017-03-31 01:35:34|f9b82d9e7781304f__win32sysloader.pyd|
+|[c05cfcfd3752d6feadc0d71d04707602](https://www.virustotal.com/gui/file/c05cfcfd3752d6feadc0d71d04707602)|Win32 DLL||2016-06-28 19:29:57|\Users\Petra\AppData\Local\Temp\_MEI36722\unicodedata.pyd|
+|[f12a4d8a3bb4d4c589cebc25373ca1ff](https://www.virustotal.com/gui/file/f12a4d8a3bb4d4c589cebc25373ca1ff)|Win32 DLL||2016-06-28 14:03:31|C:\Users\<USER>\AppData\Local\Temp\_MEI28042\_ssl.pyd|
+|[6a3ab29e2f55484b07e1f71dc130dba9](https://www.virustotal.com/gui/file/6a3ab29e2f55484b07e1f71dc130dba9)|Win32 DLL||2016-06-28 14:01:07|a19d4057e460e65a_select.pyd|
+|[41cda77c69614a0fbfcc4a38ebae659b](https://www.virustotal.com/gui/file/41cda77c69614a0fbfcc4a38ebae659b)|TXT||2013-09-02 06:11:35|37a2494de2689be02bb0e6185dcf0248001e90d2b049a32bb907e1025e550748.bin|
+|[1f137ac28556d4507f97f736b0ac7d45](https://www.virustotal.com/gui/file/1f137ac28556d4507f97f736b0ac7d45)|Win64 DLL||2011-03-10 17:00:10|aeinv.dll|
+|[4b78b431f225fd8624c5655cb1de7b61](https://www.virustotal.com/gui/file/4b78b431f225fd8624c5655cb1de7b61)|Win64 DLL||2009-09-12 16:14:01|aelupsvc.dll|

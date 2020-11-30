@@ -37,3 +37,9 @@
 |[f3001d31503a2c610a6c490c24e87aba](https://www.virustotal.com/gui/file/f3001d31503a2c610a6c490c24e87aba)|Win32 EXE||2015-09-09 01:24:22| |
 |[8f56458f3fb710c4c1d103e7e9951703](https://www.virustotal.com/gui/file/8f56458f3fb710c4c1d103e7e9951703)|Win32 EXE||2015-09-09 01:24:17| |
 |[2612c832ffebbdb7dab7e5b8d1905390](https://www.virustotal.com/gui/file/2612c832ffebbdb7dab7e5b8d1905390)|Win32 EXE||2015-09-09 01:24:06|C:\gwhCUd\1DzCsDm6\i1YypTo.fon|
+|[3af02e9efcf30224fee6dae3c1f41ede](https://www.virustotal.com/gui/file/3af02e9efcf30224fee6dae3c1f41ede)|Win32 EXE|Wacatac|2020-03-14 20:14:23|dttcodexgigas.426db001875e3c067dd6203f7798549e8b0ba6d4|
+|[812c81bf15535e90dc479d6bd69dd426](https://www.virustotal.com/gui/file/812c81bf15535e90dc479d6bd69dd426)|Win32 EXE|Jatif|2020-03-14 17:00:29|812c81bf15535e90dc479d6bd69dd426.virus|
+|[dcda748387c572ed1aa7424e26278f70](https://www.virustotal.com/gui/file/dcda748387c572ed1aa7424e26278f70)|Win32 EXE|Jatif|2020-03-09 04:06:33|dttcodexgigas.3335e8e643913ab7337f4c7373a475a771b2695c|
+|[3f67b25082212393668c51710fe8191d](https://www.virustotal.com/gui/file/3f67b25082212393668c51710fe8191d)|Win32 EXE||2020-03-08 17:56:50|LiveNetTV.exe|
+|[51a2646f7586c1864507d057ef1f3500](https://www.virustotal.com/gui/file/51a2646f7586c1864507d057ef1f3500)|Win32 EXE||2020-01-07 08:54:25|C:\Users\test2\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\java.exe|
+|[b4692bb8776ab351a8104346b858aea5](https://www.virustotal.com/gui/file/b4692bb8776ab351a8104346b858aea5)|Win32 EXE||2019-10-18 21:44:52|RapidEXE|

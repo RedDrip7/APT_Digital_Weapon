@@ -121,3 +121,17 @@
 |[69b0cec55e4df899e649fa00c2979661](https://www.virustotal.com/gui/file/69b0cec55e4df899e649fa00c2979661)|Win32 EXE||2013-07-25 19:32:13|elrawdsk.sys|
 |[38a1811096a24210a472133a23e2f942](https://www.virustotal.com/gui/file/38a1811096a24210a472133a23e2f942)|Win64 EXE||2009-06-30 08:34:24|3ca3a957c526eaeabcf17b0b2cd345c0fffab549adfdf04470b6983b87f7ec62.bin|
 |[f01a9a2d1e31332ed36c1a4d2839f412](https://www.virustotal.com/gui/file/f01a9a2d1e31332ed36c1a4d2839f412)|Win32 EXE||2009-02-12 22:19:48|nb.exe|
+|[20d9d5cf185b7aed08ef93a51a75bf27](https://www.virustotal.com/gui/file/20d9d5cf185b7aed08ef93a51a75bf27)|XLS|o97m|2020-03-04 10:58:21|14120-20d9d5cf185b7aed08ef93a51a75bf27.xls|
+|[6058a180ef3026c35f15600ac3e2c57a](https://www.virustotal.com/gui/file/6058a180ef3026c35f15600ac3e2c57a)|XLS|o97m|2020-03-02 20:43:04| |
+|[48d22038c7e7cc968a2cb6fb39519e11](https://www.virustotal.com/gui/file/48d22038c7e7cc968a2cb6fb39519e11)|XML||2020-03-02 07:49:50|C:\Users\Public\.Monitor\monitor.exe.config|
+|[b08dff2a95426a0e32731ef337eab542](https://www.virustotal.com/gui/file/b08dff2a95426a0e32731ef337eab542)|Win32 EXE||2020-02-29 13:44:52|System Exchange Service.exe|
+|[07d78e211fe6684b999bd9ee46e3ba31](https://www.virustotal.com/gui/file/07d78e211fe6684b999bd9ee46e3ba31)|XLS|o97m|2020-02-17 16:05:05|07d78e211fe6684b999bd9ee46e3ba31.virus|
+|[51e362e8dc8d5ed7228af47ed913242a](https://www.virustotal.com/gui/file/51e362e8dc8d5ed7228af47ed913242a)|ZIP||2020-01-28 21:51:55|testfile.zip|
+|[8beb7bb883a091d2690982d9d46d3bb4](https://www.virustotal.com/gui/file/8beb7bb883a091d2690982d9d46d3bb4)|XLS|Sagent|2020-01-28 13:51:38|20b3d046ed617b7336156a64a0550d416afdd80a2c32ce332be6bbfd4829832c.bin|
+|[b15552213169ad3b8efb14470987a335](https://www.virustotal.com/gui/file/b15552213169ad3b8efb14470987a335)|XLS|Sagent|2020-01-28 10:31:09|a897164e3547f0ce3aaa476b0364a200769e8c07ce825bcfdc43939dd1314bb1.bin|
+|[17150a137c43235ad07011b552f9ff27](https://www.virustotal.com/gui/file/17150a137c43235ad07011b552f9ff27)|Win32 EXE||2020-01-28 10:28:13|Client update.exe|
+|[e2fc67d5572f66f92c21a9d95a4df2d0](https://www.virustotal.com/gui/file/e2fc67d5572f66f92c21a9d95a4df2d0)|Win64 EXE||2020-01-28 10:27:25|ch.exe|
+|[8afa8a59eebf43ef223be52e08fcdc67](https://www.virustotal.com/gui/file/8afa8a59eebf43ef223be52e08fcdc67)|Win64 EXE||2019-12-30 15:53:45|f07b0c79a8c88a5760847226af277cf34ab5508394a58820db4db5a8d0340fc7.exe|
+|[f5f8160fe8468a77b6a495155c3dacea](https://www.virustotal.com/gui/file/f5f8160fe8468a77b6a495155c3dacea)|Win64 EXE||2019-12-30 15:53:36|44100c73c6e2529c591a10cd3668691d92dc0241152ec82a72c6e63da299d3a2.exe|
+|[32a5f02066b4f74de28d156132bb9eb4](https://www.virustotal.com/gui/file/32a5f02066b4f74de28d156132bb9eb4)|TXT||2019-12-23 10:40:15|f1aa9f9012213f0202ef779219f7cba84c2fa01bb19e21951e074d84f84c5ec7.bin|
+|[2de2e528991ac2d85aa8f12fce5351ad](https://www.virustotal.com/gui/file/2de2e528991ac2d85aa8f12fce5351ad)|Win32 EXE||2019-12-13 17:37:41|8406ca490c60ec41569b35f31f1860ff4663bba44d1daac64760ecdfe694203d.bin|

@@ -18,3 +18,9 @@
 |[5aee0c0a06ea91102649bed484c88147](https://www.virustotal.com/gui/file/5aee0c0a06ea91102649bed484c88147)|Text||2017-01-04 07:43:14|U1848931.TMP|
 |[ecae141bb068131108c1cd826c82d88b](https://www.virustotal.com/gui/file/ecae141bb068131108c1cd826c82d88b)|Win32 EXE||2016-12-08 02:47:52|9d9853bf843f8fc221ff1ccf04e08c331d7e0a43b33280767c6c6f96c64b2044.bin|
 |[c6721344af76403e9a7d816502dca1c8](https://www.virustotal.com/gui/file/c6721344af76403e9a7d816502dca1c8)|Win32 EXE|bitrep|2016-04-21 09:01:50|Splitter.exe|
+|[d0e74da12c5e8d35f6db1ae0c60748b7](https://www.virustotal.com/gui/file/d0e74da12c5e8d35f6db1ae0c60748b7)|Win64 EXE||2018-08-21 08:02:03|mnl.exe|
+|[16b9d761c4b583b56dea276b1d980734](https://www.virustotal.com/gui/file/16b9d761c4b583b56dea276b1d980734)|Win64 DLL|occamy|2017-05-09 05:22:51|MAI.dll|
+|[efbd849619aee8bd3429dd9ccb2a1995](https://www.virustotal.com/gui/file/efbd849619aee8bd3429dd9ccb2a1995)|Win32 EXE||2016-11-15 13:16:16|%userprofile%\downloads\downloads\xnet.exe|
+|[894fd325751465d6f48c17106a1a91d1](https://www.virustotal.com/gui/file/894fd325751465d6f48c17106a1a91d1)|Win64 DLL||2015-11-11 21:07:31|98a9b2329eefe618daa78b6afed82cebf40cb918ad0aae7a8d7f59af4cb13b41.kafan|
+|[dc5695024cd23c90883db145cb236490](https://www.virustotal.com/gui/file/dc5695024cd23c90883db145cb236490)|Win32 EXE||2014-09-24 10:54:30|Plink|
+|[dd9589b206791307d25e63d793c2ca31](https://www.virustotal.com/gui/file/dd9589b206791307d25e63d793c2ca31)|Win32 EXE||2011-04-07 21:26:00|mfevtpse.exe|

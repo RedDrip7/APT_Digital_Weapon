@@ -1047,3 +1047,42 @@
 |[5698549ab5177a527ad69eb235f445df](https://www.virustotal.com/gui/file/5698549ab5177a527ad69eb235f445df)|Win32 EXE|autoit|2016-11-25 04:38:54|putty(1).exe|
 |[5ad186d503a5ce6db2c8ef5e13723154](https://www.virustotal.com/gui/file/5ad186d503a5ce6db2c8ef5e13723154)|DOC||2016-11-25 04:23:05| |
 |[4471b941c72f3ea1188e814bc569b66d](https://www.virustotal.com/gui/file/4471b941c72f3ea1188e814bc569b66d)|Win32 EXE||2013-11-16 07:22:03|myfile.exe|
+|[f4479c5553271402ab4ff9a55584a9fd](https://www.virustotal.com/gui/file/f4479c5553271402ab4ff9a55584a9fd)|PPT|o97m|2020-04-20 00:49:53|Analysis Reports.ppt|
+|[d3c802578ecb37462c5dd112bf0fbbf1](https://www.virustotal.com/gui/file/d3c802578ecb37462c5dd112bf0fbbf1)|PPT||2020-02-14 05:28:05|Autorização de Debito Leandro Soares Mendes.ppa|
+|[01439ad20b3e96684e4cb6f978871da1](https://www.virustotal.com/gui/file/01439ad20b3e96684e4cb6f978871da1)|DOCX||2020-02-10 18:44:12|C:\Users\ttzaf\Google Drive\M.Sc\Jupiter_N_Projects\Research\Paper_02\2nd_paper_Data\DOCX\Malicious\Malicious_DOCX_14916_Merged_on_18_06_2020\Malicious_Raw_Attachments\1\ac1016ad707935881233a100a8d82b59db57c7d7901d3f351723a3c826007940|
+|[3dfbcda62ba7561714a1381caf9f3a80](https://www.virustotal.com/gui/file/3dfbcda62ba7561714a1381caf9f3a80)|TXT||2020-02-10 00:17:04|hashtag25janeiro.jpg|
+|[84222f7c97ec24515aa4979f3a601201](https://www.virustotal.com/gui/file/84222f7c97ec24515aa4979f3a601201)|TXT||2020-02-07 05:34:34|janeiro25cifraocolomb.jpg|
+|[7b9287931182401e43f6848499f85467](https://www.virustotal.com/gui/file/7b9287931182401e43f6848499f85467)|Win32 EXE|Disfa|2020-02-06 09:50:30|new 1.txt|
+|[68c164d9954d5068d8ff6276d643c682](https://www.virustotal.com/gui/file/68c164d9954d5068d8ff6276d643c682)|Win32 EXE|Disfa|2020-02-06 06:39:12|new|
+|[1dc90fc36c7131b9539bc9277018a861](https://www.virustotal.com/gui/file/1dc90fc36c7131b9539bc9277018a861)|PPT||2020-01-29 16:53:55|Voucher 06 de fevereiro 2020 02 .ppa|
+|[8eb9093240e0d12f665a473136a78d07](https://www.virustotal.com/gui/file/8eb9093240e0d12f665a473136a78d07)|FPX||2020-01-29 16:51:17|ENC  Voucher 06 fevereiro 2020.msg|
+|[51676301f9a4ef83c0dcfe849981e6b7](https://www.virustotal.com/gui/file/51676301f9a4ef83c0dcfe849981e6b7)|TXT||2020-01-29 02:04:43|944c02261aeceb7c9e6fa1622269023f89a630d270b0a31aec4337ca95fe7da0|
+|[9b479669f2b2a198ab6f7424620d7190](https://www.virustotal.com/gui/file/9b479669f2b2a198ab6f7424620d7190)|TXT||2020-01-28 01:13:53|jancolomb.jpg|
+|[5ee03ad2380b3e9d3b23cf91ac7122b9](https://www.virustotal.com/gui/file/5ee03ad2380b3e9d3b23cf91ac7122b9)|TXT||2020-01-28 01:13:51|janarab.jpg|
+|[3ddde19cd21865a118c0a3e08aa5c7d9](https://www.virustotal.com/gui/file/3ddde19cd21865a118c0a3e08aa5c7d9)|TXT||2020-01-28 01:13:18|payload_1.exe|
+|[9a64dc89536a55ac6f49fbad998e7f6c](https://www.virustotal.com/gui/file/9a64dc89536a55ac6f49fbad998e7f6c)|DOCX||2020-01-27 16:53:32|moura.docx|
+|[b27afcb98a032293d5b2288b2c2a45a9](https://www.virustotal.com/gui/file/b27afcb98a032293d5b2288b2c2a45a9)|XLSM|o97m|2020-01-26 00:52:03|Package|
+|[42ed5ff0ce9bac8154d28fabf26287d0](https://www.virustotal.com/gui/file/42ed5ff0ce9bac8154d28fabf26287d0)|DOCX||2020-01-21 14:51:48|Extrato do Cartão Rosana Silva.docx|
+|[9025d2561fec1375d6906a593855645d](https://www.virustotal.com/gui/file/9025d2561fec1375d6906a593855645d)|HTML||2020-01-21 10:13:28|payload_1.exe|
+|[d9cdaa157655d8434b73ebfb7e6c8c1c](https://www.virustotal.com/gui/file/d9cdaa157655d8434b73ebfb7e6c8c1c)|Win32 EXE|Delf|2020-01-21 09:18:08|download.exe|
+|[9fad4233d741164596281fb0670e800e](https://www.virustotal.com/gui/file/9fad4233d741164596281fb0670e800e)|PPT|occamy|2020-01-21 07:56:02|Justificante_de_pago_EUR_198.00000.pps|
+|[b088a632b1f3308fad4c26ed6e1b9657](https://www.virustotal.com/gui/file/b088a632b1f3308fad4c26ed6e1b9657)|DOCX|Tiggre|2020-01-15 09:53:13|FATURA_CARTAO_13_01.doc|
+|[e05fa7bc5f7c90a6ce7d138f7b016fef](https://www.virustotal.com/gui/file/e05fa7bc5f7c90a6ce7d138f7b016fef)|TXT|sLoad|2020-01-10 15:51:38|246887675.eml|
+|[503c97eeb8d871a7c99ba9b7c9788ed9](https://www.virustotal.com/gui/file/503c97eeb8d871a7c99ba9b7c9788ed9)|TXT|sLoad|2020-01-10 08:55:50|mail20200110113407020.eml|
+|[58333fbd802c8851a8dc67d1c59e36d0](https://www.virustotal.com/gui/file/58333fbd802c8851a8dc67d1c59e36d0)|TXT||2020-01-10 07:29:41|Attack.jpg|
+|[0a0459f9fdc82c53dd17bba46bbf4f1f](https://www.virustotal.com/gui/file/0a0459f9fdc82c53dd17bba46bbf4f1f)|TXT||2020-01-10 05:57:05|NLTFaNng|
+|[97f48e97a897b45a0f87a81d08095b03](https://www.virustotal.com/gui/file/97f48e97a897b45a0f87a81d08095b03)|XLS|sLoad|2020-01-10 02:49:48|Bank Details Copy.xls|
+|[7ab7ec4658ea31c397ae348e95d80495](https://www.virustotal.com/gui/file/7ab7ec4658ea31c397ae348e95d80495)|DOCX|Groooboor|2020-01-08 09:56:26|DANILO SANTOS.docx|
+|[6eac6bd76c4ce578acc6ed418af54b8b](https://www.virustotal.com/gui/file/6eac6bd76c4ce578acc6ed418af54b8b)|RTF|o97m|2020-01-06 15:55:06|documento.doc|
+|[102a69fb5cac66179ceca4a01d0c0f48](https://www.virustotal.com/gui/file/102a69fb5cac66179ceca4a01d0c0f48)|DOCX||2020-01-06 12:01:01|CNPJ E DADOS DO CARTÃO PARA CONFIRMAÇÃO DE RESERVA.docx|
+|[7fe85327f57691535762dae17c50457e](https://www.virustotal.com/gui/file/7fe85327f57691535762dae17c50457e)|RTF|o97m|2020-01-04 21:16:32|reserva.doc|
+|[b9392f059e00742a5b3f796385f1ec3d](https://www.virustotal.com/gui/file/b9392f059e00742a5b3f796385f1ec3d)|DOCX|Tiggre|2020-01-04 17:42:14|DADOS BANDA BELEZAPURA.doc|
+|[43e5352dbd22abe5fe160201f533d50f](https://www.virustotal.com/gui/file/43e5352dbd22abe5fe160201f533d50f)|RTF|o97m|2020-01-03 08:54:44|credito.doc|
+|[bf8235efa6b3dab685510edf3a59ada3](https://www.virustotal.com/gui/file/bf8235efa6b3dab685510edf3a59ada3)|RTF|o97m|2019-12-31 17:45:22|/var/www/clean-mx/virusesevidence/output.146098373.txt|
+|[dac7fe8735d4ce128c3802aa69d111d1](https://www.virustotal.com/gui/file/dac7fe8735d4ce128c3802aa69d111d1)|DOCX||2019-12-12 09:33:37|CPF E DADOS DO CARTÃO ANA AUGUSTA SILVA.docx|
+|[947c4386a8b0d94df68164279dbe0eea](https://www.virustotal.com/gui/file/947c4386a8b0d94df68164279dbe0eea)|DOCX||2019-11-22 19:58:38| |
+|[7ee080ae89e75fc3667f19587d137b15](https://www.virustotal.com/gui/file/7ee080ae89e75fc3667f19587d137b15)|RTF|o97m|2019-11-18 22:03:08|destino.doc|
+|[3fe9aa25fb66c74e988c5d9f650f1fc3](https://www.virustotal.com/gui/file/3fe9aa25fb66c74e988c5d9f650f1fc3)|DOCX||2019-11-18 17:58:17|Confirmação de Reserva Alysson Martins.docx|
+|[85ced2d7116a65f5f15ce06f9ec459a6](https://www.virustotal.com/gui/file/85ced2d7116a65f5f15ce06f9ec459a6)|RTF|o97m|2019-11-09 06:07:06|dttcodexgigas.0dfe9f8b7eca5808beac3beececf0f1e61605cd5|
+|[e7acba6142b1f09db80434b905d8fdfe](https://www.virustotal.com/gui/file/e7acba6142b1f09db80434b905d8fdfe)|DOCX||2019-11-08 19:20:42|RoomList Banda Desejo Proibido.docx|
+|[a5cbca737d6195febe21e26804d9526a](https://www.virustotal.com/gui/file/a5cbca737d6195febe21e26804d9526a)|DOCX||2019-10-24 05:00:52|Confirmar Reserva Nara Galvão.docx|

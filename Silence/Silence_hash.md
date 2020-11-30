@@ -101,3 +101,6 @@
 |[172bc98dbe0f6c4ac59857c071cd8673](https://www.virustotal.com/gui/file/172bc98dbe0f6c4ac59857c071cd8673)|Win32 EXE||2018-05-25 14:27:41|svchos|
 |[97599e2edc7e7025d5c2a7d7a81dac47](https://www.virustotal.com/gui/file/97599e2edc7e7025d5c2a7d7a81dac47)|Win32 EXE||2018-05-24 07:36:11|myfile.exe|
 |[c3a70d2bf53f2eb6d05cafbb5e640855](https://www.virustotal.com/gui/file/c3a70d2bf53f2eb6d05cafbb5e640855)|RTF||2018-05-24 02:20:13|a16cb18857bed36c0cdead4fcb8b9785aae626729a3b41b542afa15ae0fdda5f.bin|
+|[363df0b3c8b7b390573d3a9f09953feb](https://www.virustotal.com/gui/file/363df0b3c8b7b390573d3a9f09953feb)|Win32 EXE|occamy|2020-02-27 14:31:09|service.exe|
+|[800060b75675493f2df6d9e0f81474fd](https://www.virustotal.com/gui/file/800060b75675493f2df6d9e0f81474fd)|Win32 EXE|Silence|2020-02-27 14:27:37|services.exe|
+|[ce04972114bbd5844aa2f63d83cdd333](https://www.virustotal.com/gui/file/ce04972114bbd5844aa2f63d83cdd333)|Win32 EXE|occamy|2020-02-27 14:21:32|antrem.exe|

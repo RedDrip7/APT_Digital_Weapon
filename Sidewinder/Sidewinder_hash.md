@@ -83,3 +83,23 @@
 |[26a7c3273e8e398ab13519793ff44626](https://www.virustotal.com/gui/file/26a7c3273e8e398ab13519793ff44626)|TXT||2020-02-25 13:16:15|/var/www/clean-mx/virusesevidence/output.149965783.txt|
 |[cbf120f20fc4fc67e1b0c4a3694f0e58](https://www.virustotal.com/gui/file/cbf120f20fc4fc67e1b0c4a3694f0e58)|Win32 DLL|Starter|2019-12-25 17:27:38|DUSER.dll|
 |[7442b3efecb909cfff4aea4ecaae98d8](https://www.virustotal.com/gui/file/7442b3efecb909cfff4aea4ecaae98d8)|LNK|Banload|2019-04-26 13:28:06|daraz-coupon.pdf.lnk|
+|[3ad3ddc1e8ada7f6a4fe0800b578ee4a](https://www.virustotal.com/gui/file/3ad3ddc1e8ada7f6a4fe0800b578ee4a)|TXT||2020-10-15 08:49:25|%TEMP%\1.a|
+|[2ba61596f9ec352eebe6e410a25867f6](https://www.virustotal.com/gui/file/2ba61596f9ec352eebe6e410a25867f6)|RTF|CVE-2017-11882|2020-10-15 08:48:20|MoU's.doc|
+|[1cf37a0a8a5f5704a3df692d84a16a71](https://www.virustotal.com/gui/file/1cf37a0a8a5f5704a3df692d84a16a71)|RTF|o97m|2020-09-24 11:50:27|Protocol.doc|
+|[4e804c96ef8544be3b56213f8e6cf016](https://www.virustotal.com/gui/file/4e804c96ef8544be3b56213f8e6cf016)|LNK||2020-09-22 20:14:38|Audit_Observation2019.pdf.lnk|
+|[7680ea7601c90078f07f7b9be1944b3b](https://www.virustotal.com/gui/file/7680ea7601c90078f07f7b9be1944b3b)|Win32 DLL||2020-09-10 00:13:07|e890dadff013b7dc40e7b7857e435d6cf5b4da79758cf7e2328ae56ce000acdb.sample|
+|[524f3992a5a8fec81da1b660eb60129f](https://www.virustotal.com/gui/file/524f3992a5a8fec81da1b660eb60129f)|DOCX||2020-06-29 10:56:51| |
+|[cf18974bb2f68e7d9d172d939a4ba313](https://www.virustotal.com/gui/file/cf18974bb2f68e7d9d172d939a4ba313)|TXT|Kryptik|2020-05-16 08:22:33|악성코드46.hta|
+|[4dc475b2055b5a880cbd67526b0f6e3c](https://www.virustotal.com/gui/file/4dc475b2055b5a880cbd67526b0f6e3c)|TXT|Kryptik|2020-05-14 12:49:32|3387c59|
+|[265222bbe164d55750ca0ee1a53f2de2](https://www.virustotal.com/gui/file/265222bbe164d55750ca0ee1a53f2de2)|TXT|Kryptik|2020-05-14 11:32:31|extract-1589360921.153124-HTTP-FdJDvV1b1rPiJecXfa|
+|[4e5deecb468ab36c5fe347a39878c949](https://www.virustotal.com/gui/file/4e5deecb468ab36c5fe347a39878c949)|TXT|Kryptik|2020-05-14 03:48:29|file.hta|
+|[affbb0cf97289220b88dee2961e0a4b3](https://www.virustotal.com/gui/file/affbb0cf97289220b88dee2961e0a4b3)|TXT||2020-05-14 01:18:35|malicious.hta|
+|[865e7c8013537414b97749e7a160a94e](https://www.virustotal.com/gui/file/865e7c8013537414b97749e7a160a94e)|ZIP||2020-05-13 06:28:38|Policy Guidelines for Online Classes.zip|
+|[2c798c915568b3fd8ee7909c45a43168](https://www.virustotal.com/gui/file/2c798c915568b3fd8ee7909c45a43168)|RTF|Sagent|2020-04-21 18:39:36|%TEMP%\2c798c915568b3fd8ee7909c45a43168.rtf|
+|[dbb09fd0da004742cac805150dbc01ca](https://www.virustotal.com/gui/file/dbb09fd0da004742cac805150dbc01ca)|RTF||2020-04-20 18:16:37|%TEMP%\dbb09fd0da004742cac805150dbc01ca.rtf|
+|[f6d29ca878f0815935fc1de2def06c46](https://www.virustotal.com/gui/file/f6d29ca878f0815935fc1de2def06c46)|RTF|o97m|2020-04-14 15:04:51|main.file.rtf|
+|[3e0c08851aafbca17dda7ce54ba52cb9](https://www.virustotal.com/gui/file/3e0c08851aafbca17dda7ce54ba52cb9)|TXT|Sagent|2020-04-08 16:16:44| |
+|[40fd59323c3883717faca9424b29b9aa](https://www.virustotal.com/gui/file/40fd59323c3883717faca9424b29b9aa)|TXT||2020-04-06 11:16:55|cb2e3e0[1].hta|
+|[7a4f9c2e5a60ec498c66d85d2df351e8](https://www.virustotal.com/gui/file/7a4f9c2e5a60ec498c66d85d2df351e8)|TXT|Nemucod|2020-04-06 11:11:53|966029e.hta|
+|[4476ee858c455a84031d3f54a0dfe73d](https://www.virustotal.com/gui/file/4476ee858c455a84031d3f54a0dfe73d)|RTF|o97m|2020-02-05 14:48:52|6EF6D4C78AB11FE85D461AB71E3177666FAFD798|
+|[bad0917fdb0963903747e86c33b74c08](https://www.virustotal.com/gui/file/bad0917fdb0963903747e86c33b74c08)|RTF|CVE-2017-11882|2020-01-14 13:37:11|%TEMP%\bad0917fdb0963903747e86c33b74c08.rtf|

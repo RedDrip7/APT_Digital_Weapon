@@ -410,3 +410,36 @@
 |[75368a54b28acb89b2705b636ed5ec61](https://www.virustotal.com/gui/file/75368a54b28acb89b2705b636ed5ec61)|PDF|pidief|2009-04-29 00:44:25| |
 |[8dcd3cb1e615edbfade8c2d9d6ef4c67](https://www.virustotal.com/gui/file/8dcd3cb1e615edbfade8c2d9d6ef4c67)|Win32 EXE||2009-03-17 22:15:39|test.txt|
 |[c8cab28e550f60468099f60a0b6ccb81](https://www.virustotal.com/gui/file/c8cab28e550f60468099f60a0b6ccb81)|PDF|pidief|2009-03-10 19:47:22| |
+|[969310a9775070c314377a9a4a665686](https://www.virustotal.com/gui/file/969310a9775070c314377a9a4a665686)|Win64 EXE|WellMess|2020-06-25 17:46:02|dttcodexgigas.a8e60df51c30106a7d1b0170cbb0a9ca7e167ca7|
+|[11796e9e5567954ffe6eb9049f29acb2](https://www.virustotal.com/gui/file/11796e9e5567954ffe6eb9049f29acb2)|ELF executable|WellMess|2020-06-23 02:44:38|2daba469f50cd1b77481e605aeae0f28bf14cedfcd8e4369193e5e04c523bc38.sample|
+|[a9485f3ecf7f35ba16a680a03d17c9ee](https://www.virustotal.com/gui/file/a9485f3ecf7f35ba16a680a03d17c9ee)|Win64 EXE||2020-06-18 13:05:06|dttcodexgigas.51379e74f85ede610cdc5aaf250fee4cdac5e3b0|
+|[d4aed55bfbfe0afac5230d9827c63878](https://www.virustotal.com/gui/file/d4aed55bfbfe0afac5230d9827c63878)|ELF executable|WellMess|2020-05-25 10:24:00|watchdogd|
+|[07854284dbd341cd695e24d7ca54162e](https://www.virustotal.com/gui/file/07854284dbd341cd695e24d7ca54162e)|ELF executable|WellMess|2020-05-17 10:55:11|0b8e6a11adaa3df120ec15846bb966d674724b6b92eae34d63b665e0698e0193_latest|
+|[6c7ca0a40af4fe2b4527ff5260a39e48](https://www.virustotal.com/gui/file/6c7ca0a40af4fe2b4527ff5260a39e48)|ELF executable|WellMess|2020-05-17 10:26:34| |
+|[d07992fe6abfb99e7fdddbc9f1a28d2c](https://www.virustotal.com/gui/file/d07992fe6abfb99e7fdddbc9f1a28d2c)|ELF executable|WellMess|2020-05-13 09:29:56|0b8e6a11adaa3df120ec15846bb966d674724b6b92eae34d63b665e0698e0193_to_Zero|
+|[30247645638ff6d314c83044c831cdc4](https://www.virustotal.com/gui/file/30247645638ff6d314c83044c831cdc4)|ELF executable|WellMess|2020-05-12 13:05:43|ls_patched_2|
+|[ee6420f6bccd3eb9510211c020129c0c](https://www.virustotal.com/gui/file/ee6420f6bccd3eb9510211c020129c0c)|Win32 EXE||2020-04-30 13:41:36|ee6420f6bccd3eb9510211c020129c0c.virus|
+|[3a9cdd8a5cbc3ab10ad64c4bb641b41f](https://www.virustotal.com/gui/file/3a9cdd8a5cbc3ab10ad64c4bb641b41f)|ELF executable|WellMess|2020-04-23 02:41:45|5ca4a9f6553fea64ad2c724bf71d0fac2b372f9e7ce2200814c98aac647172fb.sample|
+|[1d290d993eac8634b15b2204c3c011b4](https://www.virustotal.com/gui/file/1d290d993eac8634b15b2204c3c011b4)|Win64 EXE||2020-04-16 14:26:48|1d290d993eac8634b15b2204c3c011b4.virus|
+|[18427cdcb5729a194954f0a6b5c0835a](https://www.virustotal.com/gui/file/18427cdcb5729a194954f0a6b5c0835a)|Win32 EXE|Ursu|2020-04-06 01:09:29|93e9383ae8ad2371d457fc4c1035157d887a84bbfe66fbbb3769c5637de59c75|
+|[5988539d17d940cd7f51d9eb9fc2541c](https://www.virustotal.com/gui/file/5988539d17d940cd7f51d9eb9fc2541c)|ELF executable|WellMess|2020-04-01 09:39:44|watchdog.63|
+|[dc146f77caaaea3deae053d9dc5a82d2](https://www.virustotal.com/gui/file/dc146f77caaaea3deae053d9dc5a82d2)|ELF executable|WellMess|2020-04-01 08:44:10|watchdog|
+|[71fcbce4a9071e779dd9212cdffedc0a](https://www.virustotal.com/gui/file/71fcbce4a9071e779dd9212cdffedc0a)|Win64 EXE|WellMess|2020-03-31 18:15:19|avamar.exe|
+|[a32e1202257a2945bf0f878c58490af8](https://www.virustotal.com/gui/file/a32e1202257a2945bf0f878c58490af8)|Win32 EXE||2020-03-30 03:11:41|SangforUD.exe|
+|[e6399853def634dc8f8893f93158486d](https://www.virustotal.com/gui/file/e6399853def634dc8f8893f93158486d)|ELF executable|WellMess|2020-03-23 04:23:55|migration20|
+|[429be60f0e444f4d9ba1255e88093721](https://www.virustotal.com/gui/file/429be60f0e444f4d9ba1255e88093721)|Win32 EXE|WellMess|2020-02-27 03:41:12|m.exe|
+|[967fcf185634def5177f74b0f703bdc0](https://www.virustotal.com/gui/file/967fcf185634def5177f74b0f703bdc0)|Win32 EXE|Skeeyah|2020-01-24 21:46:49|SangforUD.exe|
+|[c5d5cb99291fa4b2a68b5ea3ff9d9f9a](https://www.virustotal.com/gui/file/c5d5cb99291fa4b2a68b5ea3ff9d9f9a)|Win32 EXE||2020-01-21 00:02:13|SangforUD.exe|
+|[e58b8de07372b9913ca2fbd3b103bb8f](https://www.virustotal.com/gui/file/e58b8de07372b9913ca2fbd3b103bb8f)|Win32 EXE|Ursu|2020-01-20 23:46:49|e58b8de07372b9913ca2fbd3b103bb8f.virus|
+|[ae7a46529a0f74fb83beeb1ab2c68c5c](https://www.virustotal.com/gui/file/ae7a46529a0f74fb83beeb1ab2c68c5c)|ELF executable|WellMess|2019-10-12 14:25:27|watchdog|
+|[69492c49fe10caebac8b56732467a7f4](https://www.virustotal.com/gui/file/69492c49fe10caebac8b56732467a7f4)|Win64 EXE|WellMess|2019-10-06 22:12:05| |
+|[2f9f4f2a9d438cdc944f79bdf44a18f8](https://www.virustotal.com/gui/file/2f9f4f2a9d438cdc944f79bdf44a18f8)|ELF executable||2019-09-10 03:55:05|e329607379a01483fc914a47c0062d5a3a8d8d65f777fbad2c5a841a90a0af09.sample|
+|[861879f402fe3080ab058c0c88536be4](https://www.virustotal.com/gui/file/861879f402fe3080ab058c0c88536be4)|ELF executable|WellMess|2019-09-09 01:16:01|watchdog-10.5.5.11|
+|[01d322dcac438d2bb6bce2bae8d613cb](https://www.virustotal.com/gui/file/01d322dcac438d2bb6bce2bae8d613cb)|ELF executable||2019-07-30 09:58:47|ksoftirqd|
+|[8777a9796565effa01b03cf1cea9d24d](https://www.virustotal.com/gui/file/8777a9796565effa01b03cf1cea9d24d)|ELF executable||2019-07-30 08:05:56|ksoftirqd|
+|[4d38ac3319b167f6c8acb16b70297111](https://www.virustotal.com/gui/file/4d38ac3319b167f6c8acb16b70297111)|ELF executable|WellMess|2019-07-08 19:36:37| |
+|[8ca29c265d8c41be7c2a463930e3e1b3](https://www.virustotal.com/gui/file/8ca29c265d8c41be7c2a463930e3e1b3)|Win64 EXE|WellMess|2019-03-12 14:16:40|bec1981e422c1e01c14511d384a33c9bcc66456c1274bbbac073da825a3f537d_dump7_0x00400000_reconstructed|
+|[579d3af1b487ea3c442870eabe886a4f](https://www.virustotal.com/gui/file/579d3af1b487ea3c442870eabe886a4f)|Win32 EXE||2018-10-02 12:40:25|unp.exe|
+|[b981736a057b888170148a91bcd86a59](https://www.virustotal.com/gui/file/b981736a057b888170148a91bcd86a59)|ELF executable||2018-07-30 00:31:37|perfc|
+|[4a2b8954695b32322508e844ff7e74f5](https://www.virustotal.com/gui/file/4a2b8954695b32322508e844ff7e74f5)|Win32 EXE|WellMess|2018-04-11 09:01:41|conhost.exe|
+|[05b5cf94f07fee666eb086c91182ad25](https://www.virustotal.com/gui/file/05b5cf94f07fee666eb086c91182ad25)|PPSX||2015-04-06 08:49:54|athirappalli.pps|

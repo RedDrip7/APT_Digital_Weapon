@@ -40,3 +40,5 @@
 |[ae797446710e375f0fc9a33432d64256](https://www.virustotal.com/gui/file/ae797446710e375f0fc9a33432d64256)|Win32 EXE|Stealer|2016-04-25 06:19:41|Dostealer.exe|
 |[d6fa439f0278babb1edff32d8dc31c59](https://www.virustotal.com/gui/file/d6fa439f0278babb1edff32d8dc31c59)|Win32 EXE|msilperseus|2015-12-20 15:38:46|Wextract|
 |[bd0a6fe7a852fdd61c1da37cf99103d2](https://www.virustotal.com/gui/file/bd0a6fe7a852fdd61c1da37cf99103d2)|Win32 EXE||2015-09-01 22:46:15|Wextract|
+|[3d67ce57aab4f7f917cf87c724ed7dab](https://www.virustotal.com/gui/file/3d67ce57aab4f7f917cf87c724ed7dab)|Win32 EXE||2019-10-03 11:00:25|%APPDATA%\pdfreader\pdfreader.exe|
+|[542128ab98bda5ea139b169200a50bce](https://www.virustotal.com/gui/file/542128ab98bda5ea139b169200a50bce)|ZIP||2019-10-03 07:14:22|pdfreader.zip|
