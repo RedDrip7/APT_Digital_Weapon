@@ -1705,3 +1705,16 @@
 |[aaf3bf7f33cdf71661f367a931626dd6](https://www.virustotal.com/gui/file/aaf3bf7f33cdf71661f367a931626dd6)|Win32 DLL||2011-03-22 01:16:23|bs.dl|
 |[ace6354688262926f3694eba0e856f93](https://www.virustotal.com/gui/file/ace6354688262926f3694eba0e856f93)|Win32 EXE||2011-03-21 09:36:55|e9f3f6e286f5d06a_htprotm.exe|
 |[9ec4c12949a4f31474f299058ce2b22a](https://www.virustotal.com/gui/file/9ec4c12949a4f31474f299058ce2b22a)|TXT||2010-07-08 15:01:29| |
+|[994c02f8c721254a959ed9bc823ab94b](https://www.virustotal.com/gui/file/994c02f8c721254a959ed9bc823ab94b)|DOCX||2020-11-19 18:50:19|GDLS47129481.docx|
+|[47e7b297f020d53f7de7dc0f450e262d](https://www.virustotal.com/gui/file/47e7b297f020d53f7de7dc0f450e262d)|Mach-O executable|Nukesped|2020-10-28 14:10:19|signal|
+|[f6c1cf98076457e742937240b29132d2](https://www.virustotal.com/gui/file/f6c1cf98076457e742937240b29132d2)|Macintosh Disk Image||2020-10-28 14:05:46|skord.dmg|
+|[dfb689196faa945217a8929131f1d670](https://www.virustotal.com/gui/file/dfb689196faa945217a8929131f1d670)|Win64 DLL||2020-10-03 23:03:14| |
+|[2c373a7e86d0f3469849971e053bcc82](https://www.virustotal.com/gui/file/2c373a7e86d0f3469849971e053bcc82)|Macintosh Disk Image||2020-09-30 13:22:32|Torrytrade.dmg|
+|[465e89654a72256e7d1fb066388cc2a3](https://www.virustotal.com/gui/file/465e89654a72256e7d1fb066388cc2a3)|Win64 DLL|Nukesped|2020-09-28 10:18:40|hqnmsd.dll|
+|[bd0c929701308c84e67479adb719367c](https://www.virustotal.com/gui/file/bd0c929701308c84e67479adb719367c)|DOCX|o97m|2020-09-05 08:31:40|BAE_FMV_SOF.doc|
+|[20183332c370b9d35d368083ecb74d22](https://www.virustotal.com/gui/file/20183332c370b9d35d368083ecb74d22)|Win32 EXE|Vigorf|2020-06-16 07:49:29|C:\Users\CMarc\Desktop\ANY.RUN-3\WinX.HiddenCobra.Supply\91f6fdf97a9aab278ec63156a8deeca616abb968c81a14dc5713d9918f7eeb75.exe|
+|[707ec5c00170cee6e9879803c316eac6](https://www.virustotal.com/gui/file/707ec5c00170cee6e9879803c316eac6)|Win32 EXE||2020-04-27 11:46:16|adfind|
+|[37ee8c694dadbc2f38a1d27b4bca0f8d](https://www.virustotal.com/gui/file/37ee8c694dadbc2f38a1d27b4bca0f8d)|Win64 EXE||2019-06-04 05:53:56|c:\windows\system32\drivers\pssdk-proto.sys|
+|[be046bab4a23f8db568535aaea565f87](https://www.virustotal.com/gui/file/be046bab4a23f8db568535aaea565f87)|Win32 EXE||2016-04-28 09:24:46|procdump|
+|[9b02dd2a1a15e94922be3f85129083ac](https://www.virustotal.com/gui/file/9b02dd2a1a15e94922be3f85129083ac)|Win32 EXE||2015-03-02 08:20:41|adfind|
+|[070d15cd95c14784606ecaa88657551e](https://www.virustotal.com/gui/file/070d15cd95c14784606ecaa88657551e)|Win32 EXE||2013-12-03 11:19:35|Command line RAR|

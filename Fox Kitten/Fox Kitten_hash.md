@@ -21,3 +21,4 @@
 |[475f89de6031db2158231eafa07b8b72](https://www.virustotal.com/gui/file/475f89de6031db2158231eafa07b8b72)|Win32 EXE||2017-12-11 14:22:18|cs|
 |[836d61745e087e6017832233701218a4](https://www.virustotal.com/gui/file/836d61745e087e6017832233701218a4)|TXT||2017-05-03 19:53:01|Invoke-TheHash.psd1|
 |[41cda77c69614a0fbfcc4a38ebae659b](https://www.virustotal.com/gui/file/41cda77c69614a0fbfcc4a38ebae659b)|TXT||2013-09-02 06:11:35|37a2494de2689be02bb0e6185dcf0248001e90d2b049a32bb907e1025e550748.bin|
+|[af8b2eb23d9860e41e83292e55e64864](https://www.virustotal.com/gui/file/af8b2eb23d9860e41e83292e55e64864)|Win32 EXE|Filecoder|2020-12-15 18:35:07|af8b2eb23d9860e41e83292e55e64864.virus|

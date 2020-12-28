@@ -1,0 +1,6 @@
+|Hash|Type|Family|First_Seen|Name|
+|:--|:--|:--|:--|:--|
+|[9d4066c57c6e1602ce33f15dc7f3841b](https://www.virustotal.com/gui/file/9d4066c57c6e1602ce33f15dc7f3841b)|PNG||2020-09-02 22:02:15|79d4849847aac55022d7b08ca43e00312f75c8e2d479a55c27e5ae01bf027915.bin|
+|[3a6099214f474c1501c110ce66033f3c](https://www.virustotal.com/gui/file/3a6099214f474c1501c110ce66033f3c)|TXT|Nemucod|2020-07-20 09:23:11|fbb033af9efb9ab5b83978fc35e518e2f4018406589656ff6616e42b76526f18.bin|
+|[5d04d246f3e5da6a9347ec72494d5610](https://www.virustotal.com/gui/file/5d04d246f3e5da6a9347ec72494d5610)|LNK||2020-07-20 09:23:11|4b59fa6daeaaedace0c7eb5201dd21041de5c09f4d5d38e0f8e9eb2bbda9444a.bin|
+|[871d64d8330d956593545dfff069194e](https://www.virustotal.com/gui/file/871d64d8330d956593545dfff069194e)|DOCM|o97m|2020-07-18 12:15:12|46afa83e0b43fdb9062dd3e5fb7805997c432dd96f09ddf81f2162781daaf834.bin|

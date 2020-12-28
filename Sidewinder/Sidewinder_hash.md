@@ -103,3 +103,11 @@
 |[7a4f9c2e5a60ec498c66d85d2df351e8](https://www.virustotal.com/gui/file/7a4f9c2e5a60ec498c66d85d2df351e8)|TXT|Nemucod|2020-04-06 11:11:53|966029e.hta|
 |[4476ee858c455a84031d3f54a0dfe73d](https://www.virustotal.com/gui/file/4476ee858c455a84031d3f54a0dfe73d)|RTF|o97m|2020-02-05 14:48:52|6EF6D4C78AB11FE85D461AB71E3177666FAFD798|
 |[bad0917fdb0963903747e86c33b74c08](https://www.virustotal.com/gui/file/bad0917fdb0963903747e86c33b74c08)|RTF|CVE-2017-11882|2020-01-14 13:37:11|%TEMP%\bad0917fdb0963903747e86c33b74c08.rtf|
+|[7a3b6f76cd98ce2295cc237617633529](https://www.virustotal.com/gui/file/7a3b6f76cd98ce2295cc237617633529)|Win32 DLL|Ursu|2020-12-14 15:06:30|StInstaller.dll|
+|[e95250efc80a819201bafb0905224837](https://www.virustotal.com/gui/file/e95250efc80a819201bafb0905224837)|TXT||2020-11-24 07:14:56|ed5e1d6e914de64a203f2f32ab95176fc7efff3a520915971d5fe748e79d611c.bin|
+|[e24e51ec170b2341ef90321640fef797](https://www.virustotal.com/gui/file/e24e51ec170b2341ef90321640fef797)|RTF||2020-11-24 07:14:34|rtf.rtf|
+|[d95db71aa8836201dc8e85ab0d641f03](https://www.virustotal.com/gui/file/d95db71aa8836201dc8e85ab0d641f03)|Win32 DLL||2020-11-17 16:09:44|DUSER.dll|
+|[8536a225e3bd5e205b313b216dc9f0a2](https://www.virustotal.com/gui/file/8536a225e3bd5e205b313b216dc9f0a2)|TXT|Kryptik|2020-11-17 16:09:34|75c158cea14e338c8d9d32ed988c7032da9ae6d54f5b1126ed6a83f71b9e03bf.bin|
+|[1afb77b2f0ef2e082b37d9ff4b2e7e78](https://www.virustotal.com/gui/file/1afb77b2f0ef2e082b37d9ff4b2e7e78)|DOCX|CVE-2017-0199|2020-11-17 06:38:17|1cbec920afe2f978b8f84e0a4e6b757d400aeb96e8c0a221130060b196ece010.bin|
+|[91c96924f79fe35471bf3a910e5b50d8](https://www.virustotal.com/gui/file/91c96924f79fe35471bf3a910e5b50d8)|RTF|CVE-2017-11882|2020-11-05 06:21:28|main.file.rtf|
+|[df020e81b7ca32868a8ac1f5eddd086f](https://www.virustotal.com/gui/file/df020e81b7ca32868a8ac1f5eddd086f)|DOCX|CVE-2017-11882|2020-11-05 06:15:27|NDC Participants.docx|

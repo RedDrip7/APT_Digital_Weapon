@@ -419,3 +419,4 @@
 |[986f263ca2c529d5d28bce3c62f858ea](https://www.virustotal.com/gui/file/986f263ca2c529d5d28bce3c62f858ea)|Win32 DLL||2008-09-08 11:04:34|MSJAVAVM|
 |[f93ce76f6580d68a95260198b2d6feaa](https://www.virustotal.com/gui/file/f93ce76f6580d68a95260198b2d6feaa)|Win32 DLL||2008-02-14 12:39:45|MSJAVAVM|
 |[b41fbdd02e4d54b4bc28eda99a8c1502](https://www.virustotal.com/gui/file/b41fbdd02e4d54b4bc28eda99a8c1502)|Win32 DLL||2007-08-14 11:04:04|desktop.dll|
+|[8e2ce1bc84ad3edd3c38037c982b509a](https://www.virustotal.com/gui/file/8e2ce1bc84ad3edd3c38037c982b509a)|Win32 DLL|Razy|2019-04-02 20:32:27|8e2ce1bc84ad3edd3c38037c982b509a.virus|

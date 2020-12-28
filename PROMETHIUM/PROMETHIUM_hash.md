@@ -205,3 +205,8 @@
 |[fa4897922e8aef9317e750f9df3273e4](https://www.virustotal.com/gui/file/fa4897922e8aef9317e750f9df3273e4)|Win32 EXE|Minerd|2018-05-17 04:46:38| |
 |[b46ae605101ee411d8691286c7fd085b](https://www.virustotal.com/gui/file/b46ae605101ee411d8691286c7fd085b)|Win32 EXE|Minerd|2018-05-17 04:45:58| |
 |[77d2a56d02e117d2e237999eab608297](https://www.virustotal.com/gui/file/77d2a56d02e117d2e237999eab608297)|Win32 EXE|Minerd|2018-04-20 21:28:28|77d2a56d02e117d2e237999eab608297.virus|
+|[4293de17e8c55e8272a178342a2eac2f](https://www.virustotal.com/gui/file/4293de17e8c55e8272a178342a2eac2f)|Win32 EXE|Wacatac|2020-11-26 00:43:47| |
+|[722f74ad77606be2d533dc95444eaf9b](https://www.virustotal.com/gui/file/722f74ad77606be2d533dc95444eaf9b)|Win32 EXE||2020-11-25 23:57:45| |
+|[1b0b87dc09ca5fad4affde684ea1c8ab](https://www.virustotal.com/gui/file/1b0b87dc09ca5fad4affde684ea1c8ab)|Win32 EXE||2020-11-25 23:51:05| |
+|[dc0feea70e38569252cd4bee7311f6cd](https://www.virustotal.com/gui/file/dc0feea70e38569252cd4bee7311f6cd)|Win32 EXE||2020-11-25 23:43:59| |
+|[6a58c90bbabef1566f507756b2e32371](https://www.virustotal.com/gui/file/6a58c90bbabef1566f507756b2e32371)|Win32 EXE||2020-11-25 23:37:35| |

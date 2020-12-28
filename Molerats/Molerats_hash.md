@@ -633,3 +633,21 @@
 |[01dc06e8c987825776a43f1f7ef5e41a](https://www.virustotal.com/gui/file/01dc06e8c987825776a43f1f7ef5e41a)|Win32 EXE|Razy|2016-03-01 12:28:57|OfficeCenter.exe|
 |[8f646adc6318eb037fc3a1a926f903dc](https://www.virustotal.com/gui/file/8f646adc6318eb037fc3a1a926f903dc)|Win32 EXE||2016-01-06 11:11:32|e3779f6252ca606ace9ae06623ba086d1a441582b625e433799260d71cdb1b4b.bin|
 |[8c80d850100753f82d21f0a1d2abff93](https://www.virustotal.com/gui/file/8c80d850100753f82d21f0a1d2abff93)|Win32 EXE|Razy|2015-12-10 12:15:10|bindtest.exe|
+|[ae3d8576594867cfd55bac9fe12d6a54](https://www.virustotal.com/gui/file/ae3d8576594867cfd55bac9fe12d6a54)|Win32 EXE|Quasar|2020-12-16 03:03:13|Client.exe|
+|[af44e1c376503429bef73e668e56ab7a](https://www.virustotal.com/gui/file/af44e1c376503429bef73e668e56ab7a)|Win32 EXE|Quasar|2020-12-03 19:04:23|Client.exe|
+|[b0779c7794a52ce0f1aae33539de6f01](https://www.virustotal.com/gui/file/b0779c7794a52ce0f1aae33539de6f01)|Win32 EXE|Wacatac|2020-12-01 15:14:24|OpenOfficeOnline.exe|
+|[3158e619788d56669175490817863fb1](https://www.virustotal.com/gui/file/3158e619788d56669175490817863fb1)|Win32 EXE||2020-11-25 04:49:38|2578cbf4980569b372e06cf414c3da9e29226df4612e2fc6c56793f77f8429d8.bin|
+|[eea1c70128060e6246bc959a873be7da](https://www.virustotal.com/gui/file/eea1c70128060e6246bc959a873be7da)|Win32 EXE||2020-11-25 04:49:20|World|
+|[5f70d52d2be4d0389eeb1c7e27d5e9bd](https://www.virustotal.com/gui/file/5f70d52d2be4d0389eeb1c7e27d5e9bd)|Win32 EXE|Disfa|2020-11-25 04:49:09|SG.exe|
+|[b0f7e462dde681004f5b2b1eca1f38e0](https://www.virustotal.com/gui/file/b0f7e462dde681004f5b2b1eca1f38e0)|ZIP||2020-11-24 11:11:42|58f926d9bd70c144f8697905bf81dfff046a12929639dfba3a6bd30a26367823.bin|
+|[4c61985a5c8c11eb516e592397343f27](https://www.virustotal.com/gui/file/4c61985a5c8c11eb516e592397343f27)|PDF|Hoax|2020-11-24 11:11:14|553127cb586591cbfbae54dd4e28d4cd40fdddebaf4e0e7e1f3f23c446a621bb.bin|
+|[bb44c8b85109d65e7f2a630f5f4c6fe7](https://www.virustotal.com/gui/file/bb44c8b85109d65e7f2a630f5f4c6fe7)|Win32 EXE|Quasar|2020-11-18 18:22:36|Client.exe|
+|[60e9b1c155263385f51b80345c292269](https://www.virustotal.com/gui/file/60e9b1c155263385f51b80345c292269)|Win32 EXE||2020-11-08 16:31:17|GTX|
+|[a559547c0815d1a4c025d6de25108a70](https://www.virustotal.com/gui/file/a559547c0815d1a4c025d6de25108a70)|Win32 EXE|Disfa|2020-10-22 10:57:50|OpenOfficeOnline.exe|
+|[1b1ec8ae327a5543423978e7e58fc44c](https://www.virustotal.com/gui/file/1b1ec8ae327a5543423978e7e58fc44c)|Win32 EXE|Disfa|2020-10-10 08:19:00|Open Office Online.exe|
+|[5fa06e949fbf66f7e93b1e5f6268c0e5](https://www.virustotal.com/gui/file/5fa06e949fbf66f7e93b1e5f6268c0e5)|Win32 EXE||2020-10-08 09:50:26|Open Office Online.exe|
+|[79c25e297870ce68907f2c25564a161f](https://www.virustotal.com/gui/file/79c25e297870ce68907f2c25564a161f)|Win32 EXE||2020-10-06 11:09:24|Open Office Online.exe|
+|[42eff3bb0b277214b8faadf1c85e822d](https://www.virustotal.com/gui/file/42eff3bb0b277214b8faadf1c85e822d)|Win32 EXE|Razy|2020-09-30 15:10:55|REG.exe|
+|[f88cf309b2b90198ada36e0686ee7305](https://www.virustotal.com/gui/file/f88cf309b2b90198ada36e0686ee7305)|RAR|Razy|2020-09-30 11:24:29|Hamas_Internal_Elections.rar|
+|[2ca3f1b013c26f9147547c6d67d02a8c](https://www.virustotal.com/gui/file/2ca3f1b013c26f9147547c6d67d02a8c)|Win32 EXE|Quasar|2020-04-22 04:46:06|Media View|
+|[8f201c59e28bb3fb6c09f5c424972988](https://www.virustotal.com/gui/file/8f201c59e28bb3fb6c09f5c424972988)|Win32 EXE|Quasar|2019-11-12 16:49:57|Client.exe|

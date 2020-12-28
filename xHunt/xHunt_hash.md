@@ -7,3 +7,5 @@
 |[e18c509656fcfe25c3b2ff9ff335706e](https://www.virustotal.com/gui/file/e18c509656fcfe25c3b2ff9ff335706e)|Win32 EXE||2011-12-10 15:21:03|Plink|
 |[3583d7c971de148a1ffb3302d1510ef1](https://www.virustotal.com/gui/file/3583d7c971de148a1ffb3302d1510ef1)|Win32 EXE||2009-05-26 12:10:03|dsquery.exe|
 |[081e2ce7e2a603a78cc6c20a05b08ca8](https://www.virustotal.com/gui/file/081e2ce7e2a603a78cc6c20a05b08ca8)|Win32 EXE||2009-04-05 15:00:54|450ebd66ba67bb46bf18d122823ff07ef4a7b11afe63b6f269aec9236a1790cd.bin|
+|[162959ebfd839229969d5e830c7d1dbc](https://www.virustotal.com/gui/file/162959ebfd839229969d5e830c7d1dbc)|TXT||2019-10-20 07:51:25|OfficeIntegrators.ps1|
+|[0a6ebebabf140ea60101d625c52fb3e2](https://www.virustotal.com/gui/file/0a6ebebabf140ea60101d625c52fb3e2)|TXT||2019-09-13 22:42:10|xpsrchvw.ps1|

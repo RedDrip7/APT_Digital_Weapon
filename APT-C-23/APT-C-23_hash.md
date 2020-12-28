@@ -401,3 +401,34 @@
 |[edc3b146a5103051b39967246823ca09](https://www.virustotal.com/gui/file/edc3b146a5103051b39967246823ca09)|Win32 EXE|Graftor|2019-12-09 22:25:47|%PROGRAMDATA%\syncdownoptzhostproc.exe|
 |[fc5b2c81debf30d251d5220097c2f846](https://www.virustotal.com/gui/file/fc5b2c81debf30d251d5220097c2f846)|Win32 EXE||2019-11-08 21:46:54|fc5b2c81debf30d251d5220097c2f846.virus|
 |[dd8485d87d8998d47de4f5dfcc9213e1](https://www.virustotal.com/gui/file/dd8485d87d8998d47de4f5dfcc9213e1)|Android|androidos|2019-05-21 10:58:06|29ac6e5719aeb0cba63b837ca2cbdb6483044ed5a885c457f6858ae61e2dd4da.bin|
+|[6964e9ed0a8965b74ef89173b5205b9c](https://www.virustotal.com/gui/file/6964e9ed0a8965b74ef89173b5205b9c)|Android||2020-11-30 16:56:20|6964e9ed0a8965b74ef89173b5205b9c.virus|
+|[21aa63b42825fb95bf5114419fb42157](https://www.virustotal.com/gui/file/21aa63b42825fb95bf5114419fb42157)|Win32 EXE|Delf|2020-11-28 12:27:02|C:\Users\CMarc\Desktop\ANY.RUN-3\._cache_maram-11_22_2020-9785348634-docx.exe|
+|[9fcb1cb7e8bb3424ce7e83ce5ad9a78d](https://www.virustotal.com/gui/file/9fcb1cb7e8bb3424ce7e83ce5ad9a78d)|Win32 EXE||2020-11-24 16:03:16|Financing USA is illegal and suspicious organizations.exe|
+|[4694bf0093c95fa9a7f49af3a7722211](https://www.virustotal.com/gui/file/4694bf0093c95fa9a7f49af3a7722211)|Win32 EXE|Tiggre|2020-11-22 22:11:01|/home/share/sample/gray/cde_pe_samples/sample_decompress/20201123/2020_11_23_15_17_17_847991_3caeca512ada01b4f1eea6f6e07a9478/hit/4694bf0093c95fa9a7f49af3a7722211|
+|[faff57734fe08af63e90c0492b4a9a56](https://www.virustotal.com/gui/file/faff57734fe08af63e90c0492b4a9a56)|Win64 EXE||2020-11-22 11:48:29|%ALLUSERSPROFILE%\secprocessingwindowssystem.exe|
+|[1507f7ecc5fe8ef4c90c853d64e1a9f9](https://www.virustotal.com/gui/file/1507f7ecc5fe8ef4c90c853d64e1a9f9)|Win32 EXE||2020-11-18 14:37:29|sun is crying in a door and what it tells tells my country Take me on my homelandd.exe|
+|[835f86e1e83a3da25c715e89db5355cc](https://www.virustotal.com/gui/file/835f86e1e83a3da25c715e89db5355cc)|Win32 EXE|Delf|2020-11-18 09:44:40|C:\Samples\835f86e1e83a3da25c715e89db5355cc|
+|[bbf630ca23976ddf8a561ccdb477c73d](https://www.virustotal.com/gui/file/bbf630ca23976ddf8a561ccdb477c73d)|Win32 EXE||2020-11-18 09:27:55|46dae9b27f100703acf5b9fda2d1b063cca2af0d4abeeccc6cd45d12be919531.bin|
+|[c4a90110acd78e2de31ad9077aa4eff6](https://www.virustotal.com/gui/file/c4a90110acd78e2de31ad9077aa4eff6)|Win32 EXE||2020-11-18 09:26:31|cloudwindowsapphost.exe|
+|[f5bac4d2de2eb1f8007f68c77bfa460e](https://www.virustotal.com/gui/file/f5bac4d2de2eb1f8007f68c77bfa460e)|Win32 EXE|Strictor|2020-11-15 09:15:09|%ALLUSERSPROFILE%\secprocessingwindowssystem.exe|
+|[ae0b53e6b378bf74e1dd2973d604be55](https://www.virustotal.com/gui/file/ae0b53e6b378bf74e1dd2973d604be55)|Win64 EXE||2020-11-15 08:21:13|SecProcessingWindowsSystem.exe|
+|[7ea20c7c999bbd59e9b90309c0afa972](https://www.virustotal.com/gui/file/7ea20c7c999bbd59e9b90309c0afa972)|Win32 EXE|Zbot|2020-10-18 16:05:57|C:\ProgramData\MemoryCompression\SmartScreenWin.exe|
+|[ca1d9908f32ee5c0bdd9b4efec79108f](https://www.virustotal.com/gui/file/ca1d9908f32ee5c0bdd9b4efec79108f)|Win32 EXE|pswtool|2020-10-18 15:59:42|ddaeffb12a944a5f4d47b28affe97c1bc3a613dab32e5b5b426ef249cfc29273.bin|
+|[835e71a7bc8bf9fabf73e4f1d0016c6a](https://www.virustotal.com/gui/file/835e71a7bc8bf9fabf73e4f1d0016c6a)|Win32 EXE||2020-10-18 15:32:17|26253e9027f798bafc4a70bef1b5062f096a72b0d7af3065b0f4a9b3be937c99.bin|
+|[142a25bb5fd4612c9f6afcaad34fce37](https://www.virustotal.com/gui/file/142a25bb5fd4612c9f6afcaad34fce37)|Win32 EXE||2020-10-18 15:31:54|WinAppQpueoawcScWx.exe|
+|[e35d13bd8f04853e69ded48cf59827ef](https://www.virustotal.com/gui/file/e35d13bd8f04853e69ded48cf59827ef)|Win32 EXE|Delf|2020-10-18 15:30:16|3884ac554dcd58c871a4e55900f8847c9e308a79c321ae46ced58daa00d82ab4.bin|
+|[9d76d59de0ee91add92c938e3335f27f](https://www.virustotal.com/gui/file/9d76d59de0ee91add92c938e3335f27f)|Win32 EXE||2020-10-18 15:29:00|openvhost-7q6eDB6y490C.exe|
+|[26a1fc2f983fb8abae4b47b0c7edfee6](https://www.virustotal.com/gui/file/26a1fc2f983fb8abae4b47b0c7edfee6)|Win32 EXE||2020-06-18 13:02:53|bihbik lamaa bitahki tarsum eishafafik dahka hbihbik lamaa bitahki.exe|
+|[89e9823013f711d384824d8461cc425d](https://www.virustotal.com/gui/file/89e9823013f711d384824d8461cc425d)|Win32 EXE|Delf|2020-06-14 08:25:56|c:\users\admini~1\appdata\local\temp\crisis meeting -456923785-34798275-docx.exe|
+|[cf24ddd2bfd6ea9b362722baff36cc21](https://www.virustotal.com/gui/file/cf24ddd2bfd6ea9b362722baff36cc21)|ZIP|Delf|2020-06-14 08:21:59|14-06-2020meeting.zip|
+|[f49d5cd5ce822d0bdf935823792da8ee](https://www.virustotal.com/gui/file/f49d5cd5ce822d0bdf935823792da8ee)|RAR|Delf|2020-06-14 08:20:22|14-06-2020meeting.xz|
+|[c27f925a7c424c0f5125a681a9c44607](https://www.virustotal.com/gui/file/c27f925a7c424c0f5125a681a9c44607)|Win64 EXE||2020-05-17 15:24:19|C:\ProgramData\SecProcessingWindowsSystem.exe|
+|[e098135ca0b3bdfdd8465312c378e4e2](https://www.virustotal.com/gui/file/e098135ca0b3bdfdd8465312c378e4e2)|RAR||2020-05-17 11:27:43|078212fc6d69641e96ed04352fba4d028fd5eadc87c7a4169bfbcfc52b8ef8f2.bin|
+|[94a5e595be051b9250e678de1ff927ac](https://www.virustotal.com/gui/file/94a5e595be051b9250e678de1ff927ac)|Win64 EXE||2020-05-17 08:41:28|e869c7f981256ddb7aa1c187a081c46fed541722fa5668a7d90ff8d6b81c1db6.bin|
+|[6e2d058c3508694a392194dbb6e9fe44](https://www.virustotal.com/gui/file/6e2d058c3508694a392194dbb6e9fe44)|Win64 EXE||2020-05-13 09:07:49|2115d02ead5e497ce5a52ab9b17f0e007a671b3cd95aa55554af17d9a30de37c.bin|
+|[f93faca357f9a8041a377ca913888565](https://www.virustotal.com/gui/file/f93faca357f9a8041a377ca913888565)|Win64 EXE||2020-05-05 11:05:31|b61fa79c6e8bfcb96f6e2ed4057f5a835a299e9e13e4c6893c3c3309e31cad44.bin|
+|[315c2dbe40bc2dc62cd58872744d1f0c](https://www.virustotal.com/gui/file/315c2dbe40bc2dc62cd58872744d1f0c)|RAR||2020-04-27 13:12:40|APT-C-23 sample (pass infected)APT攻击高级样本诺顿全杀卡巴全杀,BD全杀.rar|
+|[9af8f2a02befa7ceb9b72359ce30c0bb](https://www.virustotal.com/gui/file/9af8f2a02befa7ceb9b72359ce30c0bb)|Win32 EXE||2020-03-30 16:28:39|\Users\Petra\AppData\Local\Temp\PhoneProvidersHandler\PhoneProviders.exe|
+|[e0f8e726e4d5a4ad22de8a62c98e1737](https://www.virustotal.com/gui/file/e0f8e726e4d5a4ad22de8a62c98e1737)|Win32 EXE||2019-10-28 08:59:22|Her hands are following my pain Irfana, I am suffering What lightness and my pain wasted me.exe|
+|[51ae5a914f10945edcc4668550c5d880](https://www.virustotal.com/gui/file/51ae5a914f10945edcc4668550c5d880)|Win32 EXE||2019-10-14 17:14:39|ProcessorEventsExploer.exe|
+|[a0e681a0637988baea55b50cfff5c3ad](https://www.virustotal.com/gui/file/a0e681a0637988baea55b50cfff5c3ad)|Win32 EXE||2019-05-09 09:21:03|The most important items of the truce between the new Gaza and Israel.com|

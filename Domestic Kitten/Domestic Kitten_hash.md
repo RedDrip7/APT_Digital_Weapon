@@ -37,3 +37,6 @@
 |[59c11c8bb4ec4db662d29ab095f6b3e1](https://www.virustotal.com/gui/file/59c11c8bb4ec4db662d29ab095f6b3e1)|Android||2017-04-15 19:02:05|/1/9/5/953c2ce6cc1f013cb9de527a28f8068f4a5c6dabab07701b139dfa661904a8db.file|
 |[8e53166ffb47300d9b2401cfe2e07022](https://www.virustotal.com/gui/file/8e53166ffb47300d9b2401cfe2e07022)|Android|bitrep|2017-04-13 19:01:11|/1/3/1/319c499932badf0b51fa4401d6cdc97b3a677299ebb2c80e53078ae1b5ca236f.file|
 |[b6d16b6d40dfec8bfbb8925bf30cc6db](https://www.virustotal.com/gui/file/b6d16b6d40dfec8bfbb8925bf30cc6db)|Android||2017-03-26 02:17:05|/1/7/6/76332cd87db67c15f536a911a4a58d5bf4e1130655dcfa00f2a6273ad315626d.file|
+|[3bab4d4c90e53e94d35b2f19ceeb1de2](https://www.virustotal.com/gui/file/3bab4d4c90e53e94d35b2f19ceeb1de2)|Android||2020-11-22 11:05:05|dd97ab1c6cc3b4c4e5c16a8d66b0d70036e6139da39731872c4ee0bdd919ea5e.bin|
+|[2ed69fa2170e9d4570218d33f5f32d26](https://www.virustotal.com/gui/file/2ed69fa2170e9d4570218d33f5f32d26)|Android||2020-11-22 10:58:21|bd7779e6100e07b3eae67bfcdc53f1f08468651240229e284cca60e2b953496b.bin|
+|[6129cc4392d2e10ffdb80db67ca2534b](https://www.virustotal.com/gui/file/6129cc4392d2e10ffdb80db67ca2534b)|Android||2020-10-27 06:43:54|کوروش کبیر v1.0.apk|

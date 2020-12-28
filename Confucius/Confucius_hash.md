@@ -122,3 +122,10 @@
 |[27790c50a6ddc9b4835973f33d1d5371](https://www.virustotal.com/gui/file/27790c50a6ddc9b4835973f33d1d5371)|Win32 EXE||2014-02-17 17:36:38|Adobe PDF|
 |[47f72949407838e0d3bfb15a275b6ef7](https://www.virustotal.com/gui/file/47f72949407838e0d3bfb15a275b6ef7)|Win32 EXE||2014-02-07 12:16:26|6a46ec0f3a3ad4f73bb5557651278588eaf62e72|
 |[cab163e740e10b9572a6424e69cce1d5](https://www.virustotal.com/gui/file/cab163e740e10b9572a6424e69cce1d5)|Win32 EXE|Ursu|2020-01-06 05:45:23|Policy_update.exe|
+|[37f78dd80716d3ecefc6a098a6871070](https://www.virustotal.com/gui/file/37f78dd80716d3ecefc6a098a6871070)|DOCX|CVE-2017-11882|2020-11-04 10:27:33|Suparco Vacancy Notification.docx|
+|[dabe22a829ebb327db3ebb68061711ad](https://www.virustotal.com/gui/file/dabe22a829ebb327db3ebb68061711ad)|Win32 DLL|Razy|2020-11-04 06:31:38|dumpdll.mem|
+|[8eaa27c0aeffc71b1b9600878b49fb88](https://www.virustotal.com/gui/file/8eaa27c0aeffc71b1b9600878b49fb88)|Win32 EXE|Razy|2020-10-30 07:26:08|/data/modqi/samples/sum/9297a1cbcba9c2c1d90755d21ca060fc91679a32a3d8e25d183c2f5afc37cc1b|
+|[5554be4fea7ae659b067550228788bdf](https://www.virustotal.com/gui/file/5554be4fea7ae659b067550228788bdf)|Win32 DLL||2020-10-29 10:34:33|%TEMP%\muka.dll|
+|[dd37460956de36c0dabb72a603d5f86c](https://www.virustotal.com/gui/file/dd37460956de36c0dabb72a603d5f86c)|RTF||2020-10-29 06:49:09|KB466432|
+|[c2528d0f946970e86e6ab9505a36d7b9](https://www.virustotal.com/gui/file/c2528d0f946970e86e6ab9505a36d7b9)|DOCX|CVE-2017-11882|2020-10-29 04:23:09|C:\Samples\c2528d0f946970e86e6ab9505a36d7b9|
+|[6b906764a35508a7fd266cdd512e46b1](https://www.virustotal.com/gui/file/6b906764a35508a7fd266cdd512e46b1)|Win32 DLL||2018-10-24 20:23:05|C:\Users\5P5NRG~1\AppData\Local\Temp\dismcore.dll|

@@ -119,3 +119,6 @@
 |[95bec02acfdf30a308fb1aa9492f885a](https://www.virustotal.com/gui/file/95bec02acfdf30a308fb1aa9492f885a)|RTF|CVE-2017-11882|2020-02-20 09:46:09|muestras/5bbf2643a601e632a49406483c8fc5262a76e206bd969f2ba3f4f2e238768ab9|
 |[b26b60c8ba87df6322fa48916b7ba86d](https://www.virustotal.com/gui/file/b26b60c8ba87df6322fa48916b7ba86d)|Win32 DLL|Injecto|2020-01-09 17:18:50|%APPDATA%\microsoft\word\startup\useless.wll|
 |[f1b21f5f9941afd9eec0ab7456ec78b8](https://www.virustotal.com/gui/file/f1b21f5f9941afd9eec0ab7456ec78b8)|RTF|o97m|2020-01-09 01:48:51|/var/www/clean-mx/virusesevidence/output.148802639.txt|
+|[cfb7ea83db51c75b4d4104e2c108bb43](https://www.virustotal.com/gui/file/cfb7ea83db51c75b4d4104e2c108bb43)|Win32 DLL|PlugX|2020-07-01 15:54:57|\Users\Petra\Wmi Player\siteadv.dll|
+|[e346480dee921d101311e5b1026bf9ed](https://www.virustotal.com/gui/file/e346480dee921d101311e5b1026bf9ed)|Win32 EXE||2020-07-01 11:38:42|Able Desktop|
+|[d88292a51f52787e5880a3ad55216864](https://www.virustotal.com/gui/file/d88292a51f52787e5880a3ad55216864)|Win32 DLL||2018-06-15 02:12:04|\Users\Petra\AppData\Local\Temp\7zD5005DC4\pcalocalresloader.dll|

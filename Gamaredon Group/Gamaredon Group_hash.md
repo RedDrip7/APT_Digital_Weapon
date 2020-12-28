@@ -356,3 +356,13 @@
 |[a25210fd54f7af0940280dfdea6da8f1](https://www.virustotal.com/gui/file/a25210fd54f7af0940280dfdea6da8f1)|TXT||2019-11-18 16:02:58|39c6884526e7b7f2ed6e47b630010508bb5957385eccf248c961cbd5bcb802c6.bin|
 |[2fd3d6c6badd772442a3b6c420c43ab2](https://www.virustotal.com/gui/file/2fd3d6c6badd772442a3b6c420c43ab2)|Win32 DLL|Skeeyah|2019-10-06 02:00:26|<LS_APPDATA>\microsoft\windows\explorer\explorer.dll|
 |[34ba523de5fa043bc77371799f261458](https://www.virustotal.com/gui/file/34ba523de5fa043bc77371799f261458)|Win64 EXE||2015-09-24 20:17:21|C:\Users\Evgeny\Documents\wintools\7+ Taskbar Tweaker\winapiexec\winapiexec64.exe|
+|[93ce4a8043815d6083918c9e87946f79](https://www.virustotal.com/gui/file/93ce4a8043815d6083918c9e87946f79)|Win32 EXE|Stealer|2020-12-05 12:31:42|test2.exe|
+|[c60a5ceae066dfab81fa83034fb7f2cf](https://www.virustotal.com/gui/file/c60a5ceae066dfab81fa83034fb7f2cf)|DOC|sLoad|2020-12-05 10:00:22|iencli15.dot|
+|[8179eec8d63e0f5ec8884ccc3ad00a31](https://www.virustotal.com/gui/file/8179eec8d63e0f5ec8884ccc3ad00a31)|DOCX|sLoad|2020-12-05 08:58:24|CCS4436561.docx|
+|[0b67be631179971096b3f6004f43a3ad](https://www.virustotal.com/gui/file/0b67be631179971096b3f6004f43a3ad)|DOCX||2020-11-26 15:04:00|COLLINS_PEREVIZNYI.docx|
+|[b841990b6f15fa26bbbb11e217229bf7](https://www.virustotal.com/gui/file/b841990b6f15fa26bbbb11e217229bf7)|DOCX|o97m|2020-11-25 12:34:09|c6fe85f16ddb68f8244e8a6518f02b998e15cbd94a56ef756cf14c36c82a2e2b.bin|
+|[9afeb4ce2d1a9cd13c6e5bd2ccb7b060](https://www.virustotal.com/gui/file/9afeb4ce2d1a9cd13c6e5bd2ccb7b060)|DOCX|o97m|2020-11-20 13:38:36|SHALIMOV.DOCX|
+|[0d669b8155df807b13f9fb5f01804701](https://www.virustotal.com/gui/file/0d669b8155df807b13f9fb5f01804701)|TXT|Wacatac|2020-10-16 20:25:29|C:\Users\<USER>\AppData\Local\Temp\7ZipSfx.000\31356.vbs|
+|[f8e39712ae560cf21d5998bae670372e](https://www.virustotal.com/gui/file/f8e39712ae560cf21d5998bae670372e)|Win32 EXE|sLoad|2020-10-09 00:45:38|f8e39712ae560cf21d5998bae670372e.virus|
+|[1257fdd9339094f43f5cd63b9e2019a7](https://www.virustotal.com/gui/file/1257fdd9339094f43f5cd63b9e2019a7)|TXT|Wacatac|2020-10-07 16:40:12|C:\Users\<USER>\AppData\Local\Temp\7ZipSfx.000\27641.vbs|
+|[22ef42f870744cc953489adb3060c827](https://www.virustotal.com/gui/file/22ef42f870744cc953489adb3060c827)|Win32 EXE|sLoad|2020-10-03 08:26:44|22ef42f870744cc953489adb3060c827.virus|

@@ -1030,3 +1030,5 @@
 |[08663152d9e9083d7be46eb2a16d374c](https://www.virustotal.com/gui/file/08663152d9e9083d7be46eb2a16d374c)|Android||2015-04-23 10:55:27|ad471a2f26c29336076821d7297f2299aebd65aeaeb359f85a4ff87d7855cd4f.bin|
 |[07e01c2fa020724887fc39e5c97eccee](https://www.virustotal.com/gui/file/07e01c2fa020724887fc39e5c97eccee)|Android|Wacatac|2015-03-15 05:35:00|f2d97b508d6f51c9f15175a44a162a05985054610a38c3df3e70cd72eae9449c.bin|
 |[f449cca2bc85b09e9bf4d3c4afa707b6](https://www.virustotal.com/gui/file/f449cca2bc85b09e9bf4d3c4afa707b6)|Android|Wacatac|2014-07-18 21:34:48|c99e4e35fc5ce364a6abcfd501a6871b6602beaee54b3d2b0c400ad1ff94ec5f.bin|
+|[75cda1a91b258cb5bc59e420d7f7fc16](https://www.virustotal.com/gui/file/75cda1a91b258cb5bc59e420d7f7fc16)|TXT||2020-08-18 15:44:16|SCCreateProcess.exe.bat|
+|[06392ccd719067dd165fa27b69bcee04](https://www.virustotal.com/gui/file/06392ccd719067dd165fa27b69bcee04)|Win32 EXE||2020-02-28 10:31:57|c:\program files (x86)\vmware\sccreateprocess.exe|

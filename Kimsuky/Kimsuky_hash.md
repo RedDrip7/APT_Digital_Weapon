@@ -206,3 +206,5 @@
 |[50416931926754d867c9e5f418a4d08a](https://www.virustotal.com/gui/file/50416931926754d867c9e5f418a4d08a)|DOCM|sLoad|2020-01-13 06:00:53|문정인 대통령 통일외교안보특보 미국 국익센터 세미나.doc|
 |[b654f7f7d59b093baab3eec9e1636643](https://www.virustotal.com/gui/file/b654f7f7d59b093baab3eec9e1636643)|FPX||2020-01-06 04:49:58|중국 지식인들의 북한 관을 살펴보면서.hwp|
 |[0a269b0053ff178e0881fde3685b65b4](https://www.virustotal.com/gui/file/0a269b0053ff178e0881fde3685b65b4)|Win32 DLL|Bublik|2019-11-17 10:00:21|0a269b0053ff178e0881fde3685b65b4.virus|
+|[8a1440dbbcb5ed848de46e70005cd128](https://www.virustotal.com/gui/file/8a1440dbbcb5ed848de46e70005cd128)|DOCM|Valyria|2020-12-01 12:18:30|2020.11.26.doc|
+|[cef58328beeaee8db8a34d421dc09b0c](https://www.virustotal.com/gui/file/cef58328beeaee8db8a34d421dc09b0c)|DOTM|o97m|2020-10-06 07:53:38|d88c5695ccd83dce6729b84c8c43e8a804938a7ab7cfeccaa0699d6b1f81c95c.bin|

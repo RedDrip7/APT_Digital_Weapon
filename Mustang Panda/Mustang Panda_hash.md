@@ -98,3 +98,9 @@
 |[8fb95eb3fde30ed58829d49b62b77f40](https://www.virustotal.com/gui/file/8fb95eb3fde30ed58829d49b62b77f40)|Win32 DLL|Zbot|2019-03-21 06:11:59|hex.dll|
 |[28c6f235946fd694d2634c7a2f24c1ba](https://www.virustotal.com/gui/file/28c6f235946fd694d2634c7a2f24c1ba)|Win32 EXE||2014-02-22 20:24:11|EHttpSrv.exe|
 |[371e896d818784934bd1456296b99cbe](https://www.virustotal.com/gui/file/371e896d818784934bd1456296b99cbe)|Win32 EXE||2009-05-04 03:32:06|OInfoP12|
+|[706e0f37a49e013b9fc73a5c05fc861a](https://www.virustotal.com/gui/file/706e0f37a49e013b9fc73a5c05fc861a)|Win32 EXE|Minerd|2020-10-23 05:11:06|Adobel.exe|
+|[c5f4da8c703696e2fc034cbcc3da6336](https://www.virustotal.com/gui/file/c5f4da8c703696e2fc034cbcc3da6336)|Win32 EXE|Graftor|2020-10-22 17:10:57|AdobelmdyU.exe|
+|[e21e8f398c6d61ae8335664b1ad0444f](https://www.virustotal.com/gui/file/e21e8f398c6d61ae8335664b1ad0444f)|unknown||2020-09-15 04:21:11| |
+|[43529e54971a2302ae736c40f39d65df](https://www.virustotal.com/gui/file/43529e54971a2302ae736c40f39d65df)|Win32 DLL|PlugX|2020-09-13 22:58:44|C:\Users\<USER>\AppData\Local\Temp\hex.dll|
+|[c43de22826a424b2d24cf1b4b694ce07](https://www.virustotal.com/gui/file/c43de22826a424b2d24cf1b4b694ce07)|Win32 EXE|Graftor|2020-07-02 11:55:31|C:\Users\<USER>\AppData\Local\Temp\AdobeHelp.exe|
+|[c70d8dce46b4551133ecc58aed84bf0e](https://www.virustotal.com/gui/file/c70d8dce46b4551133ecc58aed84bf0e)|Win32 EXE||2016-11-04 11:34:34|Adobe CEF Helper.exe|

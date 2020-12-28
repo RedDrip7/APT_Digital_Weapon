@@ -135,3 +135,14 @@
 |[f5f8160fe8468a77b6a495155c3dacea](https://www.virustotal.com/gui/file/f5f8160fe8468a77b6a495155c3dacea)|Win64 EXE||2019-12-30 15:53:36|44100c73c6e2529c591a10cd3668691d92dc0241152ec82a72c6e63da299d3a2.exe|
 |[32a5f02066b4f74de28d156132bb9eb4](https://www.virustotal.com/gui/file/32a5f02066b4f74de28d156132bb9eb4)|TXT||2019-12-23 10:40:15|f1aa9f9012213f0202ef779219f7cba84c2fa01bb19e21951e074d84f84c5ec7.bin|
 |[2de2e528991ac2d85aa8f12fce5351ad](https://www.virustotal.com/gui/file/2de2e528991ac2d85aa8f12fce5351ad)|Win32 EXE||2019-12-13 17:37:41|8406ca490c60ec41569b35f31f1860ff4663bba44d1daac64760ecdfe694203d.bin|
+|[c9a0225f757f6e328e8dcbf937e7b937](https://www.virustotal.com/gui/file/c9a0225f757f6e328e8dcbf937e7b937)|Win32 EXE|AgentTesla|2020-10-20 07:55:27|/data/modqi/samples/sum/26345084cbd7f3571599ead41cde209b46e5a9633b4b6d0e4c5ba379d3ffa4b8|
+|[9564cdbde9355a3df33b756a528311b2](https://www.virustotal.com/gui/file/9564cdbde9355a3df33b756a528311b2)|Win32 EXE|Andromeda|2020-10-18 09:28:04|گ太.exe|
+|[09ae134443ee2e63240664c93e2c6afd](https://www.virustotal.com/gui/file/09ae134443ee2e63240664c93e2c6afd)|Win32 EXE|Kryptik|2020-10-12 12:13:46|C:\Program Files (x86)\slaves\slaves.exe|
+|[5744aecec3b891808604873d73dcf4f5](https://www.virustotal.com/gui/file/5744aecec3b891808604873d73dcf4f5)|Win32 EXE|Gorgon|2020-10-09 21:25:52|EC.exe|
+|[f220acfc15f08f94104c32d4822cf79b](https://www.virustotal.com/gui/file/f220acfc15f08f94104c32d4822cf79b)|Win32 EXE|Wacatac|2020-10-08 08:31:09|ib0h5HhSVBDtj7W.exe|
+|[5924e8ebbc917e2e23107018f23ee47b](https://www.virustotal.com/gui/file/5924e8ebbc917e2e23107018f23ee47b)|Win32 EXE|AgentTesla|2020-10-07 23:24:27|CrUSqwnSsat.exe|
+|[1842603786405dacd7b937b75f993e3e](https://www.virustotal.com/gui/file/1842603786405dacd7b937b75f993e3e)|DOCM|Sagent|2020-10-05 08:50:37|Azeri.doc|
+|[a2520feef6b6cc17d2f599b3d8c652cc](https://www.virustotal.com/gui/file/a2520feef6b6cc17d2f599b3d8c652cc)|Win32 EXE|Andromeda|2020-09-28 11:34:26|Ad.exe|
+|[230f050c1431c2aaa9288f792aa2e817](https://www.virustotal.com/gui/file/230f050c1431c2aaa9288f792aa2e817)|Win32 EXE||2020-09-27 08:42:22|QbG.exe|
+|[acfa858b47f0cbd8148a4512ec976da9](https://www.virustotal.com/gui/file/acfa858b47f0cbd8148a4512ec976da9)|DOCM|Sagent|2020-09-22 08:27:47|PO ZZ_622_20.doc|
+|[d76471041417e5cc82bdc26c668001e8](https://www.virustotal.com/gui/file/d76471041417e5cc82bdc26c668001e8)|Win32 EXE|AgentTesla|2020-09-21 08:12:41|kja.exe|
