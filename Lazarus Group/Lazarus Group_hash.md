@@ -1718,3 +1718,21 @@
 |[be046bab4a23f8db568535aaea565f87](https://www.virustotal.com/gui/file/be046bab4a23f8db568535aaea565f87)|Win32 EXE||2016-04-28 09:24:46|procdump|
 |[9b02dd2a1a15e94922be3f85129083ac](https://www.virustotal.com/gui/file/9b02dd2a1a15e94922be3f85129083ac)|Win32 EXE||2015-03-02 08:20:41|adfind|
 |[070d15cd95c14784606ecaa88657551e](https://www.virustotal.com/gui/file/070d15cd95c14784606ecaa88657551e)|Win32 EXE||2013-12-03 11:19:35|Command line RAR|
+|[7fc2af97b004836c5452922d4491baaa](https://www.virustotal.com/gui/file/7fc2af97b004836c5452922d4491baaa)|Win64 DLL|Nukesped|2021-01-26 21:29:31|JOINPROVIDEROL.DLL|
+|[80bd4a36495806b9afb9dfd2ae59350b](https://www.virustotal.com/gui/file/80bd4a36495806b9afb9dfd2ae59350b)|Win64 DLL|Nukesped|2021-01-26 16:17:45|JOINPROVIDEROL.DLL|
+|[b66ffa84a2baf6bab97eb58763b56097](https://www.virustotal.com/gui/file/b66ffa84a2baf6bab97eb58763b56097)|Win64 DLL|Nukesped|2021-01-26 09:50:47|SRService.sys|
+|[a291ab63c53985f8efa0584a0af82e25](https://www.virustotal.com/gui/file/a291ab63c53985f8efa0584a0af82e25)|Win64 DLL|Manuscrypt|2021-01-26 08:53:09|NWCWorkstation.sys|
+|[b2e71c2889e63599e98444d6153cceb7](https://www.virustotal.com/gui/file/b2e71c2889e63599e98444d6153cceb7)|Win64 DLL|Manuscrypt|2021-01-26 08:11:13|apple.bin|
+|[bf82c81204631eb20754e5f26ce08e02](https://www.virustotal.com/gui/file/bf82c81204631eb20754e5f26ce08e02)|Win64 DLL|Manuscrypt|2021-01-26 07:14:07|loadusbdriver.sys|
+|[6e5726d1e3258e9e56f0c8aac6cc3edf](https://www.virustotal.com/gui/file/6e5726d1e3258e9e56f0c8aac6cc3edf)|Win64 DLL|Manuscrypt|2021-01-26 05:10:06|netbtugc.exe|
+|[3ee586218d6e794a995ba89aac7dd3cf](https://www.virustotal.com/gui/file/3ee586218d6e794a995ba89aac7dd3cf)|TXT||2021-01-24 08:02:54| |
+|[c14dba840d6ce217af6d4f30c00ee578](https://www.virustotal.com/gui/file/c14dba840d6ce217af6d4f30c00ee578)|TXT||2021-01-24 08:00:26| |
+|[ae17ce1eb59dd82f38efb9666f279044](https://www.virustotal.com/gui/file/ae17ce1eb59dd82f38efb9666f279044)|Win64 DLL|Nukesped|2021-01-20 20:57:18|helpsvc.sys|
+|[56018500f73e3f6cf179d3b853c27912](https://www.virustotal.com/gui/file/56018500f73e3f6cf179d3b853c27912)|Win64 DLL|Manuscrypt|2021-01-14 13:56:18|EFSCORE.DLL|
+|[f5475608c0126582081e29927424f338](https://www.virustotal.com/gui/file/f5475608c0126582081e29927424f338)|Win64 DLL|Nukesped|2021-01-12 21:25:38|DISPLAY|
+|[b52e05683b15c6ad56cebea4a5a54990](https://www.virustotal.com/gui/file/b52e05683b15c6ad56cebea4a5a54990)|Win64 DLL||2020-12-31 22:25:33|JOINPROVIDEROL.DLL|
+|[9e9f69ed56482fff18933c5ec8612063](https://www.virustotal.com/gui/file/9e9f69ed56482fff18933c5ec8612063)|Win64 DLL|Nukesped|2020-12-31 22:10:41|DISPLAY|
+|[81ca4bd42b01fe43cefd7fc38083bc6b](https://www.virustotal.com/gui/file/81ca4bd42b01fe43cefd7fc38083bc6b)|Win32 DLL|Manuscrypt|2020-11-14 03:14:37|Win32_DeviceGuard.dll|
+|[c74467fa96c2202faeed3f79334f0b21](https://www.virustotal.com/gui/file/c74467fa96c2202faeed3f79334f0b21)|LNK||2020-09-08 06:36:24|%APPDATA%\microsoft\windows\start menu\programs\startup\recent.lnk|
+|[d58d2127453e056544d8b6413e7836ac](https://www.virustotal.com/gui/file/d58d2127453e056544d8b6413e7836ac)|DOC|Sagent|2020-06-15 15:56:13|c:\users\admini~1\appdata\local\temp\~wrl0001.tmp|
+|[f2a0e9034d67f8200993c4fa8e4f5d15](https://www.virustotal.com/gui/file/f2a0e9034d67f8200993c4fa8e4f5d15)|DOC|Valyria|2020-04-22 08:21:15|лист НДІХП.doc|

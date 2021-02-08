@@ -284,3 +284,4 @@
 |[0b37c62da0464c830a68598b865f45eb](https://www.virustotal.com/gui/file/0b37c62da0464c830a68598b865f45eb)|TXT||2016-04-26 10:32:49|Invoke-Mimikatz.ps1|
 |[6983f7001de10f4d19fc2d794c3eb534](https://www.virustotal.com/gui/file/6983f7001de10f4d19fc2d794c3eb534)|Win32 EXE||2012-12-18 21:06:50|c:\windows\rkxcukva.exe|
 |[d1ab72db2bedd2f255d35da3da0d4b16](https://www.virustotal.com/gui/file/d1ab72db2bedd2f255d35da3da0d4b16)|Win32 EXE||2009-11-20 15:32:57|wscript.exe|
+|[b4e4707a23708f436b481a0ebcbaa849](https://www.virustotal.com/gui/file/b4e4707a23708f436b481a0ebcbaa849)|Win32 EXE|Kryptik|2021-01-10 10:51:27|b4e4707a23708f436b481a0ebcbaa849.virus|

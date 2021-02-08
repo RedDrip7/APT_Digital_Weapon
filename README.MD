@@ -23,27 +23,13 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 |Groupname|Total|Update|data|  
 |:--|:--|:--|:--|  
-|APT-C-23|431|31|2020-12-28|  
-|APT10|668|1|2020-12-28|  
-|APT28|740|28|2020-12-28|  
-|APT34|146|11|2020-12-28|  
-|APT37|145|2|2020-12-28|  
-|BladeEagle|69|69|2020-12-28|  
-|C-Major|528|1|2020-12-28|  
-|Confucius|129|7|2020-12-28|  
-|Dark Caracal|52|28|2020-12-28|  
-|DeathStalker|4|4|2020-12-28|  
-|Domestic Kitten|40|3|2020-12-28|  
-|Fox Kitten|22|1|2020-12-28|  
-|Gamaredon Group|366|10|2020-12-28|  
-|IceFog|122|3|2020-12-28|  
-|Kimsuky|208|2|2020-12-28|  
-|Lazarus Group|1718|13|2020-12-28|  
-|Molerats|651|18|2020-12-28|  
-|Mustang Panda|104|6|2020-12-28|  
-|OceanLotus|1032|2|2020-12-28|  
-|PROMETHIUM|210|5|2020-12-28|  
-|Sidewinder|111|8|2020-12-28|  
-|Turla|420|1|2020-12-28|  
-|UNC2452|8|8|2020-12-28|  
-|xHunt|9|2|2020-12-28|  
+|BITTER|247|1|2020-02-08|  
+|Donot|425|1|2020-02-08|  
+|Gamaredon Group|369|3|2020-02-08|  
+|Hellsing|110|1|2020-02-08|  
+|Lazarus Group|1736|18|2020-02-08|  
+|Matryoshka|26|8|2020-02-08|  
+|Molerats|658|7|2020-02-08|  
+|MuddyWater|285|1|2020-02-08|  
+|Outlaw|31|2|2020-02-08|  
+|Volatile Cedar|9|9|2020-02-08|  

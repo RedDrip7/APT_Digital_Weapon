@@ -651,3 +651,10 @@
 |[f88cf309b2b90198ada36e0686ee7305](https://www.virustotal.com/gui/file/f88cf309b2b90198ada36e0686ee7305)|RAR|Razy|2020-09-30 11:24:29|Hamas_Internal_Elections.rar|
 |[2ca3f1b013c26f9147547c6d67d02a8c](https://www.virustotal.com/gui/file/2ca3f1b013c26f9147547c6d67d02a8c)|Win32 EXE|Quasar|2020-04-22 04:46:06|Media View|
 |[8f201c59e28bb3fb6c09f5c424972988](https://www.virustotal.com/gui/file/8f201c59e28bb3fb6c09f5c424972988)|Win32 EXE|Quasar|2019-11-12 16:49:57|Client.exe|
+|[5fea6299bb6797d547a3d68d7c3f6c98](https://www.virustotal.com/gui/file/5fea6299bb6797d547a3d68d7c3f6c98)|Win32 EXE||2021-01-12 21:34:27|/1/7/6/76091bc1425f048a0742de08dd1974e26ff2f433893554b6f8da5306bb957122.file|
+|[9006bfc208a6ed36f7a75816e2b31ca8](https://www.virustotal.com/gui/file/9006bfc208a6ed36f7a75816e2b31ca8)|Android|Wacatac|2020-12-03 22:44:30|ssl_v5.apk|
+|[5770a9c2504ff5f424aa2d563c98a12e](https://www.virustotal.com/gui/file/5770a9c2504ff5f424aa2d563c98a12e)|Android||2020-08-28 11:45:43|5770a9c2504ff5f424aa2d563c98a12e.virus|
+|[2b6f2c53e206544a707241c9e157f9dd](https://www.virustotal.com/gui/file/2b6f2c53e206544a707241c9e157f9dd)|Android||2020-03-06 12:25:21|AndroidMalware_2020/89ab73d4aaf41cbcdbd0c8c7d6d85d21d93ed199.apk|
+|[989da9cf729db914c03cfadb25418e0a](https://www.virustotal.com/gui/file/989da9cf729db914c03cfadb25418e0a)|Android||2020-01-27 04:10:54|AndroidMalware_2020/c755d37d6692c650692f4c637ae83ef6bb9577fc.apk|
+|[8698967ce83b4ac06a509a9fbfef5281](https://www.virustotal.com/gui/file/8698967ce83b4ac06a509a9fbfef5281)|Android||2019-05-09 13:13:24|AndroidMalware_2020/c60d7134b05b34af08023155eab3b38cede4bccd.apk|
+|[2c5cd58126290a04b4dffe87d5240ba0](https://www.virustotal.com/gui/file/2c5cd58126290a04b4dffe87d5240ba0)|Android||2018-02-21 04:06:41|2c5cd58126290a04b4dffe87d5240ba0|

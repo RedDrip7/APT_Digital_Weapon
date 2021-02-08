@@ -366,3 +366,6 @@
 |[f8e39712ae560cf21d5998bae670372e](https://www.virustotal.com/gui/file/f8e39712ae560cf21d5998bae670372e)|Win32 EXE|sLoad|2020-10-09 00:45:38|f8e39712ae560cf21d5998bae670372e.virus|
 |[1257fdd9339094f43f5cd63b9e2019a7](https://www.virustotal.com/gui/file/1257fdd9339094f43f5cd63b9e2019a7)|TXT|Wacatac|2020-10-07 16:40:12|C:\Users\<USER>\AppData\Local\Temp\7ZipSfx.000\27641.vbs|
 |[22ef42f870744cc953489adb3060c827](https://www.virustotal.com/gui/file/22ef42f870744cc953489adb3060c827)|Win32 EXE|sLoad|2020-10-03 08:26:44|22ef42f870744cc953489adb3060c827.virus|
+|[fbc037e68f5988df9190cdadf7424752](https://www.virustotal.com/gui/file/fbc037e68f5988df9190cdadf7424752)|DOCX|o97m|2021-01-15 11:04:16|C:\lol.docx|
+|[ddc38e9b53458ee58504a40fdc41df61](https://www.virustotal.com/gui/file/ddc38e9b53458ee58504a40fdc41df61)|DOC||2021-01-11 16:51:40|KzGdWvmSq.dot|
+|[e9294dcc4c80544efddd8bca7f1ffbe6](https://www.virustotal.com/gui/file/e9294dcc4c80544efddd8bca7f1ffbe6)|PPTX||2011-04-15 23:07:30|CleanGradient.thmx|

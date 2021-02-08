@@ -29,3 +29,5 @@
 |[17dfec62acb9bc298bb333fbe391f486](https://www.virustotal.com/gui/file/17dfec62acb9bc298bb333fbe391f486)|sh script||2019-03-21 16:12:45|c:\users\admini~1\appdata\local\temp\.configrc\b\a|
 |[b56a122f8141ffd829bf5c1bc6c6eb4e](https://www.virustotal.com/gui/file/b56a122f8141ffd829bf5c1bc6c6eb4e)|sh script|Shell|2019-03-21 02:46:12|init0|
 |[e8710e790c04be153d11f8b66e4bb91e](https://www.virustotal.com/gui/file/e8710e790c04be153d11f8b66e4bb91e)|bash script||2019-01-30 10:59:59|0bf8868d117a7c45276b6f966c09830b010c550cd16a2b0d753924fca707c842.bin|
+|[be85068596881f3ebd6c0c76288c9415](https://www.virustotal.com/gui/file/be85068596881f3ebd6c0c76288c9415)|ELF shared library|Minerd|2021-01-11 19:36:49|wanwakuang|
+|[eefc0ce93d254982fbbcd26460f3d10d](https://www.virustotal.com/gui/file/eefc0ce93d254982fbbcd26460f3d10d)|ELF executable||2016-05-21 17:29:39|masscan|
