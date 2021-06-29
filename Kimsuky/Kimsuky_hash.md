@@ -208,3 +208,4 @@
 |[0a269b0053ff178e0881fde3685b65b4](https://www.virustotal.com/gui/file/0a269b0053ff178e0881fde3685b65b4)|Win32 DLL|Bublik|2019-11-17 10:00:21|0a269b0053ff178e0881fde3685b65b4.virus|
 |[8a1440dbbcb5ed848de46e70005cd128](https://www.virustotal.com/gui/file/8a1440dbbcb5ed848de46e70005cd128)|DOCM|Valyria|2020-12-01 12:18:30|2020.11.26.doc|
 |[cef58328beeaee8db8a34d421dc09b0c](https://www.virustotal.com/gui/file/cef58328beeaee8db8a34d421dc09b0c)|DOTM|o97m|2020-10-06 07:53:38|d88c5695ccd83dce6729b84c8c43e8a804938a7ab7cfeccaa0699d6b1f81c95c.bin|
+|[4410cc7bc993d75f9c073798f23f4ccf](https://www.virustotal.com/gui/file/4410cc7bc993d75f9c073798f23f4ccf)|DOTM|o97m|2021-03-30 01:18:45|normal.x|

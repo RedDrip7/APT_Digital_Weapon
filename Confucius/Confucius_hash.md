@@ -129,3 +129,37 @@
 |[dd37460956de36c0dabb72a603d5f86c](https://www.virustotal.com/gui/file/dd37460956de36c0dabb72a603d5f86c)|RTF||2020-10-29 06:49:09|KB466432|
 |[c2528d0f946970e86e6ab9505a36d7b9](https://www.virustotal.com/gui/file/c2528d0f946970e86e6ab9505a36d7b9)|DOCX|CVE-2017-11882|2020-10-29 04:23:09|C:\Samples\c2528d0f946970e86e6ab9505a36d7b9|
 |[6b906764a35508a7fd266cdd512e46b1](https://www.virustotal.com/gui/file/6b906764a35508a7fd266cdd512e46b1)|Win32 DLL||2018-10-24 20:23:05|C:\Users\5P5NRG~1\AppData\Local\Temp\dismcore.dll|
+|[20e57ef23b828e1f966851cb4d24dc22](https://www.virustotal.com/gui/file/20e57ef23b828e1f966851cb4d24dc22)|Android||2020-12-19 16:28:54|filos.apk|
+|[d553de4ba8af81c9fe02a75a2e1e0637](https://www.virustotal.com/gui/file/d553de4ba8af81c9fe02a75a2e1e0637)|Android||2020-01-12 18:56:12|148459|
+|[34125e25b269b5a775eadc3a759621b5](https://www.virustotal.com/gui/file/34125e25b269b5a775eadc3a759621b5)|Android||2019-12-12 07:46:25|CucuChat.apk|
+|[e05fa4663e1af93fd3058b537dd70e17](https://www.virustotal.com/gui/file/e05fa4663e1af93fd3058b537dd70e17)|Android|Wacatac|2019-12-01 17:58:29|Just-You.apk|
+|[6536e404a8621ac51a5f7f2e2474b77d](https://www.virustotal.com/gui/file/6536e404a8621ac51a5f7f2e2474b77d)|Android||2019-09-12 09:28:48|Fruitchat.apk|
+|[403afaec02f45686858a0f5bc81c255e](https://www.virustotal.com/gui/file/403afaec02f45686858a0f5bc81c255e)|Android|Wacatac|2019-06-04 07:15:00| |
+|[0f88ccd9a2837016f88ec43b6f7507dc](https://www.virustotal.com/gui/file/0f88ccd9a2837016f88ec43b6f7507dc)|Android|Wacatac|2019-04-26 13:26:15|razabHidden.apk|
+|[fab0fd5058254da0d613135f93ba514b](https://www.virustotal.com/gui/file/fab0fd5058254da0d613135f93ba514b)|Android|androidos|2019-02-28 06:49:15|Nothingnew.apk|
+|[24767cf4175dfa56e32add9ff2f30074](https://www.virustotal.com/gui/file/24767cf4175dfa56e32add9ff2f30074)|Android|Wacatac|2019-01-06 04:09:04|24767cf4175dfa56e32add9ff2f30074.virus|
+|[5a139982345e70d9af67091ecd88a63f](https://www.virustotal.com/gui/file/5a139982345e70d9af67091ecd88a63f)|Android|Wacatac|2018-12-13 00:16:23|5a139982345e70d9af67091ecd88a63f.virus|
+|[3447dc3890c8f232a4968113c18c2f78](https://www.virustotal.com/gui/file/3447dc3890c8f232a4968113c18c2f78)|Android||2018-10-04 10:40:31|bfb77bc0-7ada-491c-b624-f8b7c9a874ce.apk|
+|[85c157f182033e5999c60dc13a970fae](https://www.virustotal.com/gui/file/85c157f182033e5999c60dc13a970fae)|Android|Wacatac|2018-05-24 03:30:10|85c157f182033e5999c60dc13a970fae.virus|
+|[542549a5c39cb4e5c1bc86c1218854ba](https://www.virustotal.com/gui/file/542549a5c39cb4e5c1bc86c1218854ba)|Android|Wacatac|2018-05-24 03:26:04|542549a5c39cb4e5c1bc86c1218854ba.virus|
+|[23b65624a76a76aeed5e5ef6c0193d99](https://www.virustotal.com/gui/file/23b65624a76a76aeed5e5ef6c0193d99)|Android|Wacatac|2018-05-24 03:25:36|23b65624a76a76aeed5e5ef6c0193d99.virus|
+|[12f2de45996193308bba54bad36d8161](https://www.virustotal.com/gui/file/12f2de45996193308bba54bad36d8161)|Android||2018-05-24 03:24:49|12f2de45996193308bba54bad36d8161.virus|
+|[5096e026de33e6f50c8f300dd962d8bf](https://www.virustotal.com/gui/file/5096e026de33e6f50c8f300dd962d8bf)|Android|Wacatac|2018-05-24 03:24:10|5096e026de33e6f50c8f300dd962d8bf.virus|
+|[76a673d12d24b62abdd972841c2a28d6](https://www.virustotal.com/gui/file/76a673d12d24b62abdd972841c2a28d6)|Android|Wacatac|2018-05-23 07:10:17|Fruit_Chat_New_Server_v30.apk|
+|[8b4b967aedccd0f1b21a3a061c19931c](https://www.virustotal.com/gui/file/8b4b967aedccd0f1b21a3a061c19931c)|Android||2018-05-22 02:23:16|8b4b967aedccd0f1b21a3a061c19931c.virus|
+|[2b5cacb40496d10bd26ddca104e2654b](https://www.virustotal.com/gui/file/2b5cacb40496d10bd26ddca104e2654b)|Android||2018-05-22 02:20:45|2b5cacb40496d10bd26ddca104e2654b.virus|
+|[e62cfc995f8e3969e03427ee80343482](https://www.virustotal.com/gui/file/e62cfc995f8e3969e03427ee80343482)|Android||2018-05-22 02:20:35|e62cfc995f8e3969e03427ee80343482.virus|
+|[c20d9820aacc5e7ff1b695243a127c6f](https://www.virustotal.com/gui/file/c20d9820aacc5e7ff1b695243a127c6f)|Android||2018-05-22 02:20:24|c20d9820aacc5e7ff1b695243a127c6f.virus|
+|[5ef8141b587b93d6f3ee1aa8cc4462f6](https://www.virustotal.com/gui/file/5ef8141b587b93d6f3ee1aa8cc4462f6)|Android||2018-05-22 02:20:19|5ef8141b587b93d6f3ee1aa8cc4462f6.virus|
+|[8f569f9d247b120a229fb90fb3353343](https://www.virustotal.com/gui/file/8f569f9d247b120a229fb90fb3353343)|Android|Wacatac|2018-03-29 12:19:15|8f569f9d247b120a229fb90fb3353343.virus|
+|[7c60b7b4d15b0451b12f7bf6a8b8a8ac](https://www.virustotal.com/gui/file/7c60b7b4d15b0451b12f7bf6a8b8a8ac)|Android||2018-03-29 10:56:50|7c60b7b4d15b0451b12f7bf6a8b8a8ac.virus|
+|[a0b2c7449e44b456515375dd706cd563](https://www.virustotal.com/gui/file/a0b2c7449e44b456515375dd706cd563)|Android||2018-03-29 10:33:50|a0b2c7449e44b456515375dd706cd563.virus|
+|[ff501ad25de38de5fcd63700c76a11a8](https://www.virustotal.com/gui/file/ff501ad25de38de5fcd63700c76a11a8)|Android||2018-03-18 22:29:05|ff501ad25de38de5fcd63700c76a11a8.virus|
+|[9e685d071b5d97a701d03fe6cfde3d5f](https://www.virustotal.com/gui/file/9e685d071b5d97a701d03fe6cfde3d5f)|Android||2018-03-05 13:02:02|594234|
+|[97c12ee4d59af04e64f5dae9bc5a92f5](https://www.virustotal.com/gui/file/97c12ee4d59af04e64f5dae9bc5a92f5)|Android|Wacatac|2018-02-12 20:07:06|97c12ee4d59af04e64f5dae9bc5a92f5.virus|
+|[f659b0ea432adcfcffd4932ecd50197a](https://www.virustotal.com/gui/file/f659b0ea432adcfcffd4932ecd50197a)|Android|Wacatac|2017-12-13 10:41:19|F659B0EA432ADCFCFFD4932ECD50197A|
+|[eec36f55eb121eb662986b7959bbc915](https://www.virustotal.com/gui/file/eec36f55eb121eb662986b7959bbc915)|Android||2017-12-09 12:47:18|com.falconry.sun.apk|
+|[99dd07614da9ae5b455326380ddca7ff](https://www.virustotal.com/gui/file/99dd07614da9ae5b455326380ddca7ff)|Android|Bitrep|2017-12-06 00:27:59|smania.soccer.app.apk|
+|[871d7972616ce32f28545efd6b1c137d](https://www.virustotal.com/gui/file/871d7972616ce32f28545efd6b1c137d)|Android|Wacatac|2017-12-05 02:24:22|com.eid.eidcard.apk|
+|[4c1dd98caa88db24eb5504e95f8c5c2e](https://www.virustotal.com/gui/file/4c1dd98caa88db24eb5504e95f8c5c2e)|Android|Wacatac|2017-10-19 02:20:18|4c1dd98caa88db24eb5504e95f8c5c2e.virus|
+|[e98b3df01b001a7cd8ff100bd65ac67c](https://www.virustotal.com/gui/file/e98b3df01b001a7cd8ff100bd65ac67c)|Android|Bitrep|2017-01-11 05:26:12|news.apk|

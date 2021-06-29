@@ -146,3 +146,5 @@
 |[230f050c1431c2aaa9288f792aa2e817](https://www.virustotal.com/gui/file/230f050c1431c2aaa9288f792aa2e817)|Win32 EXE||2020-09-27 08:42:22|QbG.exe|
 |[acfa858b47f0cbd8148a4512ec976da9](https://www.virustotal.com/gui/file/acfa858b47f0cbd8148a4512ec976da9)|DOCM|Sagent|2020-09-22 08:27:47|PO ZZ_622_20.doc|
 |[d76471041417e5cc82bdc26c668001e8](https://www.virustotal.com/gui/file/d76471041417e5cc82bdc26c668001e8)|Win32 EXE|AgentTesla|2020-09-21 08:12:41|kja.exe|
+|[94004648630739c154f78a0bae0bec0a](https://www.virustotal.com/gui/file/94004648630739c154f78a0bae0bec0a)|Win32 EXE||2021-01-10 03:12:23|47d3e6c389cfdbc9cf7eb61f3051c9f4e50e30cf2d97499144e023ae87d68d5a.bin|
+|[6615c410b8d7411ed14946635947325e](https://www.virustotal.com/gui/file/6615c410b8d7411ed14946635947325e)|DOC|o97m|2021-01-10 00:49:14|Jobs-Details.doc|

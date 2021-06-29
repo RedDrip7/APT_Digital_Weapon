@@ -372,3 +372,9 @@
 |[9be7bb0bcd93d46d9d9665666f217ed1](https://www.virustotal.com/gui/file/9be7bb0bcd93d46d9d9665666f217ed1)|ELF executable||2020-10-20 02:26:41|apached|
 |[0fbb54af3585af0a14a3797580b78468](https://www.virustotal.com/gui/file/0fbb54af3585af0a14a3797580b78468)|ELF executable||2020-10-19 09:01:16|sample-5B5F8C4611510C11D413CB2BEF70867E584F003210968F97E0C54E6D37BA8D8D (1).bin|
 |[048d188bad124dfe492ba1d77e9ff5ab](https://www.virustotal.com/gui/file/048d188bad124dfe492ba1d77e9ff5ab)|Win32 EXE|Symmi|2020-01-29 04:25:21| |
+|[3baab75ef08834d0fdb24369e0fd7c7a](https://www.virustotal.com/gui/file/3baab75ef08834d0fdb24369e0fd7c7a)|unknown||2019-10-03 15:21:20|WriteProcessMemory_0x220008_5898_bytes.bin|
+|[633ca057be3189b5da3678849aa5d9ce](https://www.virustotal.com/gui/file/633ca057be3189b5da3678849aa5d9ce)|Win32 EXE|Injecto|2016-04-06 08:51:48|libgmodule-2.0-0|
+|[2a321465999f74ac4055e83e58be2624](https://www.virustotal.com/gui/file/2a321465999f74ac4055e83e58be2624)|Win32 EXE|Injecto|2015-03-24 04:11:28|libgmodule-2.0-0|
+|[386091b299cfbe9b95034b21be7aa44c](https://www.virustotal.com/gui/file/386091b299cfbe9b95034b21be7aa44c)|Win32 EXE|Injecto|2015-02-25 03:19:03|libgmodule-2.0-0|
+|[26e0b9a97a9448f2c6cccfd1003e0cb0](https://www.virustotal.com/gui/file/26e0b9a97a9448f2c6cccfd1003e0cb0)|Win32 EXE|Injecto|2015-02-09 06:52:41|libgmodule-2.0-0|
+|[05f34b09b28e771c99b8578f8a4324ce](https://www.virustotal.com/gui/file/05f34b09b28e771c99b8578f8a4324ce)|Win32 EXE|Injecto|2015-01-29 05:52:50|libgmodule-2.0-0|

@@ -210,3 +210,4 @@
 |[1b0b87dc09ca5fad4affde684ea1c8ab](https://www.virustotal.com/gui/file/1b0b87dc09ca5fad4affde684ea1c8ab)|Win32 EXE||2020-11-25 23:51:05| |
 |[dc0feea70e38569252cd4bee7311f6cd](https://www.virustotal.com/gui/file/dc0feea70e38569252cd4bee7311f6cd)|Win32 EXE||2020-11-25 23:43:59| |
 |[6a58c90bbabef1566f507756b2e32371](https://www.virustotal.com/gui/file/6a58c90bbabef1566f507756b2e32371)|Win32 EXE||2020-11-25 23:37:35| |
+|[425f3ef372e789b9843dbb4defac606b](https://www.virustotal.com/gui/file/425f3ef372e789b9843dbb4defac606b)|Win32 EXE|Mint|2021-03-07 12:24:49|C:\Users\TPSC\Desktop\057e27d215f4930469417bfd5fec41b193c85ac9275a1ae5594fcbab68c23ed7.exe|

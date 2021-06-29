@@ -668,3 +668,6 @@
 |[33e2f80acdca19b71ccaa31e7cbb1875](https://www.virustotal.com/gui/file/33e2f80acdca19b71ccaa31e7cbb1875)|Win32 EXE|PoisonIvy|2008-07-27 00:41:26| |
 |[808e21d6efa2884811fbd0adf67fda78](https://www.virustotal.com/gui/file/808e21d6efa2884811fbd0adf67fda78)|Win32 EXE|poison|2008-01-07 10:56:42| |
 |[6c68753503b79998ee29f52ce0f08e72](https://www.virustotal.com/gui/file/6c68753503b79998ee29f52ce0f08e72)|Win64 DLL||2020-12-10 05:23:28|jli.dll|
+|[4638220ec2c6bc1406b5725c2d35edc3](https://www.virustotal.com/gui/file/4638220ec2c6bc1406b5725c2d35edc3)|Win64 DLL||2020-10-03 00:49:37|Product Key Helper|
+|[cca46fc64425364774e5d5db782ddf54](https://www.virustotal.com/gui/file/cca46fc64425364774e5d5db782ddf54)|Win64 DLL||2020-10-03 00:49:35|vmtools.dll|
+|[d37964a9f7f56aad9433676a6df9bd19](https://www.virustotal.com/gui/file/d37964a9f7f56aad9433676a6df9bd19)|Win64 DLL||2020-10-02 21:17:47|WINTRUST.DLL|

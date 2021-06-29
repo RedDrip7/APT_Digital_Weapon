@@ -425,3 +425,4 @@
 |[649588f10d0bd618ecb9987912c211d8](https://www.virustotal.com/gui/file/649588f10d0bd618ecb9987912c211d8)|Android||2018-09-10 09:40:18|secchating.apk|
 |[510f97947897b8323b1f44a3754e18f4](https://www.virustotal.com/gui/file/510f97947897b8323b1f44a3754e18f4)|XLS|Valyria|2017-11-09 06:53:55|Circullar_Nov_2017.xls|
 |[1c8988c44adcc9a06f37323a284916c2](https://www.virustotal.com/gui/file/1c8988c44adcc9a06f37323a284916c2)|Win32 EXE|Wacatac|2021-01-21 01:04:21|jaca.exe|
+|[82e3981303bee2eff6d1af17ad51eb32](https://www.virustotal.com/gui/file/82e3981303bee2eff6d1af17ad51eb32)|RTF|EmoDldr|2021-04-05 11:15:37|Defence proposal 2021-2022.doc|

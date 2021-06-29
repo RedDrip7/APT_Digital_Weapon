@@ -420,3 +420,15 @@
 |[f93ce76f6580d68a95260198b2d6feaa](https://www.virustotal.com/gui/file/f93ce76f6580d68a95260198b2d6feaa)|Win32 DLL||2008-02-14 12:39:45|MSJAVAVM|
 |[b41fbdd02e4d54b4bc28eda99a8c1502](https://www.virustotal.com/gui/file/b41fbdd02e4d54b4bc28eda99a8c1502)|Win32 DLL||2007-08-14 11:04:04|desktop.dll|
 |[8e2ce1bc84ad3edd3c38037c982b509a](https://www.virustotal.com/gui/file/8e2ce1bc84ad3edd3c38037c982b509a)|Win32 DLL|Razy|2019-04-02 20:32:27|8e2ce1bc84ad3edd3c38037c982b509a.virus|
+|[0ebe822e8c7ebb803ae5b6b74601c36f](https://www.virustotal.com/gui/file/0ebe822e8c7ebb803ae5b6b74601c36f)|TXT|Turla|2021-01-11 16:59:53|profilec.py|
+|[7fcd8d3fde761de1d894dcf87827dde3](https://www.virustotal.com/gui/file/7fcd8d3fde761de1d894dcf87827dde3)|Win64 DLL|Turla|2021-01-11 16:57:52|payload.exe|
+|[e46da9ab2096ebb33279a808f5a7ee77](https://www.virustotal.com/gui/file/e46da9ab2096ebb33279a808f5a7ee77)|Win32 DLL|Injecto|2021-01-11 16:52:44|NetInjector.dll|
+|[48f52e0c7aa72c2ccc5f5fcbd8e1290b](https://www.virustotal.com/gui/file/48f52e0c7aa72c2ccc5f5fcbd8e1290b)|TXT|Turla|2021-01-11 16:16:30|220profile.py|
+|[b11d85844af9fa84bf84ff746557f0b5](https://www.virustotal.com/gui/file/b11d85844af9fa84bf84ff746557f0b5)|TXT||2021-01-11 16:14:59|120profilec.py|
+|[9446059710c1869fc8aa9f0ef75d82f4](https://www.virustotal.com/gui/file/9446059710c1869fc8aa9f0ef75d82f4)|TXT||2021-01-11 16:13:12|10profilec.py|
+|[f376bc51b1220e5fc520ce60762ac6ce](https://www.virustotal.com/gui/file/f376bc51b1220e5fc520ce60762ac6ce)|Win64 DLL|Turla|2020-09-04 10:27:26|part_3.data|
+|[eff5881b4bf83386e26c451ff7c34a90](https://www.virustotal.com/gui/file/eff5881b4bf83386e26c451ff7c34a90)|Win64 DLL|Turla|2020-09-04 10:27:15|eff5881b4bf83386e26c451ff7c34a90.virobj|
+|[1777b81f3f87648b2344ea480bbcba65](https://www.virustotal.com/gui/file/1777b81f3f87648b2344ea480bbcba65)|Win32 DLL|Injecto|2020-09-04 10:26:51|PeInjector_x64.dll|
+|[0674e34d0b01e1c71e4666da1f3b589f](https://www.virustotal.com/gui/file/0674e34d0b01e1c71e4666da1f3b589f)|TXT|Nemucod|2020-08-24 08:57:02|b641687696b66e6e820618acc4765162298ba3e9106df4ef44b2218086ce8040.bin|
+|[98ce8c41188fcc1a92d0a23569c3765c](https://www.virustotal.com/gui/file/98ce8c41188fcc1a92d0a23569c3765c)|7ZIP|Turla|2020-08-20 09:25:07|IronPython-2.7.7z|
+|[d672139849f9855bfb703fcaec020a2f](https://www.virustotal.com/gui/file/d672139849f9855bfb703fcaec020a2f)|TXT|Turla|2020-06-10 07:36:50|profile.py|

@@ -528,3 +528,13 @@
 |[1f137ac28556d4507f97f736b0ac7d45](https://www.virustotal.com/gui/file/1f137ac28556d4507f97f736b0ac7d45)|Win64 DLL||2011-03-10 17:00:10|aeinv.dll|
 |[4b78b431f225fd8624c5655cb1de7b61](https://www.virustotal.com/gui/file/4b78b431f225fd8624c5655cb1de7b61)|Win64 DLL||2009-09-12 16:14:01|aelupsvc.dll|
 |[297a331c90ab8923b7d44a8c2e59f7b8](https://www.virustotal.com/gui/file/297a331c90ab8923b7d44a8c2e59f7b8)|Win32 EXE||2020-11-15 14:14:49|thfhadhsva.exe|
+|[4a8fdd5b9b821830f1e4a392abd1b346](https://www.virustotal.com/gui/file/4a8fdd5b9b821830f1e4a392abd1b346)|Win32 EXE||2021-04-05 14:10:10|wardhmrias.exe|
+|[4ac9985a8a235f3c99c46402b2b43aa7](https://www.virustotal.com/gui/file/4ac9985a8a235f3c99c46402b2b43aa7)|Win32 EXE|Wacatac|2021-04-05 11:55:43|wardhmrias.exe|
+|[6c683aca669e1c448b0abce3df49fcb1](https://www.virustotal.com/gui/file/6c683aca669e1c448b0abce3df49fcb1)|FPX|Tiggre|2021-04-05 09:18:16|NDC Updates.ppt|
+|[bb8e05ec8b15efa2f9d5b66de1a7eb1d](https://www.virustotal.com/gui/file/bb8e05ec8b15efa2f9d5b66de1a7eb1d)|Android||2021-02-02 12:29:32|whatsapplite.apk|
+|[02a121aea1bfb7b0684462b112c82552](https://www.virustotal.com/gui/file/02a121aea1bfb7b0684462b112c82552)|Android||2021-01-20 03:51:59|AF_News.apk|
+|[579b9c358475b9e45d91a06df58493d6](https://www.virustotal.com/gui/file/579b9c358475b9e45d91a06df58493d6)|Android||2021-01-03 15:31:13|579b9c358475b9e45d91a06df58493d6.virus|
+|[976743edf6bcc12bb0349b3ea11aab2f](https://www.virustotal.com/gui/file/976743edf6bcc12bb0349b3ea11aab2f)|Android||2020-12-26 04:31:18|976743edf6bcc12bb0349b3ea11aab2f.virus|
+|[cc4d7b39dec5335e209f80a3c212a6ba](https://www.virustotal.com/gui/file/cc4d7b39dec5335e209f80a3c212a6ba)|Android|androidos|2020-12-02 12:11:13|whsapp.apk|
+|[bf5cc683a34f697affec1aef221ccb30](https://www.virustotal.com/gui/file/bf5cc683a34f697affec1aef221ccb30)|Android|androidos|2020-11-21 08:11:36|whsapp.apk|
+|[d2a9b362fdf56c10bb89c8164a779601](https://www.virustotal.com/gui/file/d2a9b362fdf56c10bb89c8164a779601)|Android||2020-09-06 04:47:06|d2a9b362fdf56c10bb89c8164a779601.virus|

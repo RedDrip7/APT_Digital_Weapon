@@ -658,3 +658,6 @@
 |[989da9cf729db914c03cfadb25418e0a](https://www.virustotal.com/gui/file/989da9cf729db914c03cfadb25418e0a)|Android||2020-01-27 04:10:54|AndroidMalware_2020/c755d37d6692c650692f4c637ae83ef6bb9577fc.apk|
 |[8698967ce83b4ac06a509a9fbfef5281](https://www.virustotal.com/gui/file/8698967ce83b4ac06a509a9fbfef5281)|Android||2019-05-09 13:13:24|AndroidMalware_2020/c60d7134b05b34af08023155eab3b38cede4bccd.apk|
 |[2c5cd58126290a04b4dffe87d5240ba0](https://www.virustotal.com/gui/file/2c5cd58126290a04b4dffe87d5240ba0)|Android||2018-02-21 04:06:41|2c5cd58126290a04b4dffe87d5240ba0|
+|[a03f516285d496d7f15c2e992846d109](https://www.virustotal.com/gui/file/a03f516285d496d7f15c2e992846d109)|Win32 EXE|Razy|2021-06-07 19:09:11|Hammas2.exe|
+|[d07654434d64b73fe8cb49cfb9b7e3fb](https://www.virustotal.com/gui/file/d07654434d64b73fe8cb49cfb9b7e3fb)|Win32 EXE|AgentTesla|2021-06-03 11:02:37|Viewfile.exe|
+|[8a301089f74596128f861deb612e35ac](https://www.virustotal.com/gui/file/8a301089f74596128f861deb612e35ac)|Android||2021-02-25 23:38:33|/vdepot3/apk/8A/30/8A301089F74596128F861DEB612E35AC|

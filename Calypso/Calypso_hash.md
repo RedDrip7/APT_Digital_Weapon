@@ -22,3 +22,7 @@
 |[85ce60b365edf4beebbdd85cc971e84d](https://www.virustotal.com/gui/file/85ce60b365edf4beebbdd85cc971e84d)|Win32 EXE||2017-09-26 12:24:53|C:\Users\<USER>\AppData\Local\Temp\85CE60B365EDF4BEEBBDD85CC971E84D.exe|
 |[c84df4b2cd0d3e7729210f15112da7ac](https://www.virustotal.com/gui/file/c84df4b2cd0d3e7729210f15112da7ac)|Win32 DLL||2017-07-18 18:00:33|mscorsvw.dll|
 |[1e765fed294a7ad082169819c95d2c85](https://www.virustotal.com/gui/file/1e765fed294a7ad082169819c95d2c85)|Win32 EXE|Tofsee|2017-05-26 20:09:37|f6a09372156a8aef96576627a1ed9e57f194b008bb77e32ca29ac89505f933f0.bin|
+|[9bdb9b9dfb20827a6ffe6bee671d8a04](https://www.virustotal.com/gui/file/9bdb9b9dfb20827a6ffe6bee671d8a04)|Win32 DLL|PlugX|2021-03-08 05:37:09|9bdb9b9dfb20827a6ffe6bee671d8a04.virus|
+|[b0e90d483ac14f1929de6ed8e8af878a](https://www.virustotal.com/gui/file/b0e90d483ac14f1929de6ed8e8af878a)|Win32 DLL||2021-03-03 12:41:17|rapi.dll|
+|[5a8fc748a8640553ff6fb161928eb1fe](https://www.virustotal.com/gui/file/5a8fc748a8640553ff6fb161928eb1fe)|Win32 EXE||2020-12-24 13:09:52|f32866258b67f041dc7858a59ea8afcd1297579ef50d4ebcec8775c816eb2da9.bin|
+|[7765a8cc852c4aa0adfab75f6825fffd](https://www.virustotal.com/gui/file/7765a8cc852c4aa0adfab75f6825fffd)|Win32 EXE|Farfli|2018-07-14 18:29:57|913fa95829ba3f77c0673f0af5c6afaeb6e6a2bdd0e98c186df65f1d27b9dc1f.bin|

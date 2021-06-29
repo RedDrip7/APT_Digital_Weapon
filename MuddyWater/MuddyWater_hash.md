@@ -285,3 +285,15 @@
 |[6983f7001de10f4d19fc2d794c3eb534](https://www.virustotal.com/gui/file/6983f7001de10f4d19fc2d794c3eb534)|Win32 EXE||2012-12-18 21:06:50|c:\windows\rkxcukva.exe|
 |[d1ab72db2bedd2f255d35da3da0d4b16](https://www.virustotal.com/gui/file/d1ab72db2bedd2f255d35da3da0d4b16)|Win32 EXE||2009-11-20 15:32:57|wscript.exe|
 |[b4e4707a23708f436b481a0ebcbaa849](https://www.virustotal.com/gui/file/b4e4707a23708f436b481a0ebcbaa849)|Win32 EXE|Kryptik|2021-01-10 10:51:27|b4e4707a23708f436b481a0ebcbaa849.virus|
+|[2ec61c8b7e57126025ebfdf2438418fc](https://www.virustotal.com/gui/file/2ec61c8b7e57126025ebfdf2438418fc)|Win64 DLL||2021-02-16 17:12:14|ccdddd1ebf3c5de2e68b4dcb8fbc7d4ed32e8f39f6fdf71ac022a7b4d0aa4131.sample|
+|[a8fce1e8e89053e143b5431cfa5209cb](https://www.virustotal.com/gui/file/a8fce1e8e89053e143b5431cfa5209cb)|Win32 EXE||2021-01-26 08:36:26|تحليل ودراسة  تطبيع العلاقات  الدول العربية واسرائيل  httpsmod.gov.kw.exe|
+|[b9cff91be734e2a071d3b0fc07dc8386](https://www.virustotal.com/gui/file/b9cff91be734e2a071d3b0fc07dc8386)|ZIP||2021-01-26 08:35:43|77505dcec5d67cc0f6eb841f50da7e7c41a69419d50dc6ce17fffc48387452e1.bin|
+|[2cd569dafe4f537150f0416b021c30ab](https://www.virustotal.com/gui/file/2cd569dafe4f537150f0416b021c30ab)|DOCX|o97m|2021-01-26 08:24:09|مشروع .docx|
+|[960594cbdf938bcb03bd0637843d9154](https://www.virustotal.com/gui/file/960594cbdf938bcb03bd0637843d9154)|ZIP||2021-01-12 18:33:53|b2f429efdb1801892ec8a2bcdd00a44d6ee31df04721482a1927fc6df554cdcf.bin|
+|[e8e84ac1ae83a45c260df146e97cb1cb](https://www.virustotal.com/gui/file/e8e84ac1ae83a45c260df146e97cb1cb)|Win32 EXE||2021-01-12 18:28:41|المنح الدراسیة .exe|
+|[09cc6bebec6db77a401507d33ec3987c](https://www.virustotal.com/gui/file/09cc6bebec6db77a401507d33ec3987c)|Win32 EXE||2020-11-28 09:03:46|SharpChisel.exe|
+|[3c1b429685e5f1853a3cd955bd0acbd7](https://www.virustotal.com/gui/file/3c1b429685e5f1853a3cd955bd0acbd7)|ZIP||2020-11-11 10:04:58|ورش مجانية .zip|
+|[71ffc9ebbb80f4e2f405034662dfd424](https://www.virustotal.com/gui/file/71ffc9ebbb80f4e2f405034662dfd424)|ZIP||2020-10-21 05:14:19|برنامج دولیة.zip|
+|[fa6d5164772ba72dc3931dae8e09b488](https://www.virustotal.com/gui/file/fa6d5164772ba72dc3931dae8e09b488)|ZIP||2020-09-30 08:38:12|برنامج.zip|
+|[7ce27d43bdbb6c9238c5d367a86dc37b](https://www.virustotal.com/gui/file/7ce27d43bdbb6c9238c5d367a86dc37b)|ZIP||2020-09-29 03:43:58|مکتبة إلکترونیة .zip|
+|[c67d578a14571e4f56430ce4bdc228f9](https://www.virustotal.com/gui/file/c67d578a14571e4f56430ce4bdc228f9)|Win32 EXE||2020-04-13 10:43:57|aaa.exe|

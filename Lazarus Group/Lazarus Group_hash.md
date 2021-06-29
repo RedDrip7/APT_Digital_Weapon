@@ -1736,3 +1736,11 @@
 |[c74467fa96c2202faeed3f79334f0b21](https://www.virustotal.com/gui/file/c74467fa96c2202faeed3f79334f0b21)|LNK||2020-09-08 06:36:24|%APPDATA%\microsoft\windows\start menu\programs\startup\recent.lnk|
 |[d58d2127453e056544d8b6413e7836ac](https://www.virustotal.com/gui/file/d58d2127453e056544d8b6413e7836ac)|DOC|Sagent|2020-06-15 15:56:13|c:\users\admini~1\appdata\local\temp\~wrl0001.tmp|
 |[f2a0e9034d67f8200993c4fa8e4f5d15](https://www.virustotal.com/gui/file/f2a0e9034d67f8200993c4fa8e4f5d15)|DOC|Valyria|2020-04-22 08:21:15|лист НДІХП.doc|
+|[36ab0902797bd18acd6880040369731c](https://www.virustotal.com/gui/file/36ab0902797bd18acd6880040369731c)|Win32 DLL|Nukesped|2020-12-03 18:43:00| |
+|[22a968beda8a033eb31ae175b7e0a937](https://www.virustotal.com/gui/file/22a968beda8a033eb31ae175b7e0a937)|Win64 DLL|Nukesped|2020-10-01 04:17:04|images.zip.000|
+|[403ad5ef66f3932e548e29e1b6a2cb4f](https://www.virustotal.com/gui/file/403ad5ef66f3932e548e29e1b6a2cb4f)|ELF executable|Nukesped|2020-08-29 08:26:04|390f9aae2dd5f0584106e3aa315bbd28a8c6479f126a4f13c7c3a62e19356634.bin|
+|[282d74d4f4ecd1a539d5838e3b2d2c60](https://www.virustotal.com/gui/file/282d74d4f4ecd1a539d5838e3b2d2c60)|Win32 DLL||2020-06-22 06:28:53|282d74d4f4ecd1a539d5838e3b2d2c60.virobj|
+|[01c13144ea9d9728500dc6c067bab899](https://www.virustotal.com/gui/file/01c13144ea9d9728500dc6c067bab899)|Win32 EXE|Nukesped|2020-05-22 04:32:27|NvContainer|
+|[c34d5d2cc857b6ee9038d8bb107800f1](https://www.virustotal.com/gui/file/c34d5d2cc857b6ee9038d8bb107800f1)|Win64 DLL|Nukesped|2019-05-22 07:32:41|775bcd723e8f75f51f612bccbd7ecc4811658508025a3056248e999c7c2b0f9b.exe|
+|[6f0c7cbd57439e391c93a2101f958ccd](https://www.virustotal.com/gui/file/6f0c7cbd57439e391c93a2101f958ccd)|Win32 EXE||2019-05-10 16:22:49|ZZZ.ZZZ|
+|[fc9e7dc13ce7edc590ef7dfce12fe017](https://www.virustotal.com/gui/file/fc9e7dc13ce7edc590ef7dfce12fe017)|Win32 EXE|Tspy|2015-12-02 04:25:05|msnconf.pe|
