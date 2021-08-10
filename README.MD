@@ -24,26 +24,6 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 |Groupname|Total|Update|data|  
 |:--|:--|:--|:--|  
-|APT-C-23|432|1|2021-06-29  
-|APT10|671|3|2021-06-29  
-|APT28|743|3|2021-06-29  
-|APT34|148|2|2021-06-29  
-|BITTER|248|1|2021-06-29  
-|BlackTech|378|6|2021-06-29  
-|C-Major|538|10|2021-06-29  
-|Calypso|26|4|2021-06-29  
-|Confucius|163|34|2021-06-29  
-|Donot|426|1|2021-06-29  
-|Gamaredon Group|370|1|2021-06-29  
-|Gelsemium|17|17|2021-06-29  
-|GroupA21|35|16|2021-06-29  
-|Hellsing|138|28|2021-06-29  
-|Kimsuky|209|1|2021-06-29  
-|Lazarus Group|1744|8|2021-06-29  
-|MKLG|15|15|2021-06-29  
-|Molerats|661|3|2021-06-29  
-|MuddyWater|297|12|2021-06-29  
-|PROMETHIUM|211|1|2021-06-29  
-|TunnelSnake|10|10|2021-06-29  
-|Turla|432|12|2021-06-29  
-|WIRTE|23|16|2021-06-29  
+|APT29|444|1|2021-08-10  
+|SnowLeopard|13|13|2021-08-10  
+|SOURGUM|1|1|2021-08-10  
