@@ -72,7 +72,6 @@
 |[5a6d034b9f656bd60cc29688d2eba618](https://www.virustotal.com/gui/file/5a6d034b9f656bd60cc29688d2eba618)|Win32 DLL||2017-12-21 04:04:50|myfile.exe|
 |[b182fce35c27dd32e7f7433e4de583cc](https://www.virustotal.com/gui/file/b182fce35c27dd32e7f7433e4de583cc)|Win32 DLL|Ursu|2017-12-19 18:47:20|b182fce35c27dd32e7f7433e4de583cc_eFrwoUuKchZJM.Dll|
 |[42b9f65fda3cbb613f726c9a4f26069e](https://www.virustotal.com/gui/file/42b9f65fda3cbb613f726c9a4f26069e)|Win32 DLL||2017-12-14 20:54:19|myfile.exe|
-|[27304b246c7d5b4e149124d5f93c5b01](https://www.virustotal.com/gui/file/27304b246c7d5b4e149124d5f93c5b01)|Win32 EXE||2016-06-30 13:21:27|PsExec|
 |[2dfb086bc73c259cac18a9cb1f9dbbc8](https://www.virustotal.com/gui/file/2dfb086bc73c259cac18a9cb1f9dbbc8)|Win32 EXE||2020-02-21 20:27:59|%HOMEPATH%\conhost.exe|
 |[8d8e5a09fe6878f133b3b81799d84e27](https://www.virustotal.com/gui/file/8d8e5a09fe6878f133b3b81799d84e27)|DOC|sLoad|2020-02-21 18:00:47|1db31ada5f1ac2411ef33790244343946b741cd603745257a4612c5d2e6a4052.bin|
 |[0acecad57c4015e14d9b3bb02b433d3e](https://www.virustotal.com/gui/file/0acecad57c4015e14d9b3bb02b433d3e)|Win32 EXE|Razy|2020-02-20 19:28:29|conhost.exe|

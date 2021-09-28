@@ -119,3 +119,8 @@
 |[1381148d543c0de493b13ba8ca17c14f](https://www.virustotal.com/gui/file/1381148d543c0de493b13ba8ca17c14f)|Win32 EXE||2014-12-15 14:45:53|bb6267c8514ec1cb9d6c0f209d4077e3dff6edaf|
 |[d01781f1246fd1b64e09170bd6600fe1](https://www.virustotal.com/gui/file/d01781f1246fd1b64e09170bd6600fe1)|Win32 EXE||2014-08-02 07:58:33|eaa0fc8ccd386160_re.txt|
 |[0753857710dcf96b950e07df9cdf7911](https://www.virustotal.com/gui/file/0753857710dcf96b950e07df9cdf7911)|Win32 EXE||2014-08-02 07:55:57|525de1db42eca758_re.txt|
+|[3f5329cf2a829f8840ba6a903f17a1bf](https://www.virustotal.com/gui/file/3f5329cf2a829f8840ba6a903f17a1bf)|Win32 EXE|Ursu|2017-01-18 05:50:56|Chrome Update.exe|
+|[3f5329cf2a829f8840ba6a903f17a1bf](https://www.virustotal.com/gui/file/3f5329cf2a829f8840ba6a903f17a1bf)|Win32 EXE|Ursu|2017-01-18 05:50:56|Chrome Update.exe|
+|[3f5329cf2a829f8840ba6a903f17a1bf](https://www.virustotal.com/gui/file/3f5329cf2a829f8840ba6a903f17a1bf)|Win32 EXE|Ursu|2017-01-18 05:50:56|Chrome Update.exe|
+|[3f5329cf2a829f8840ba6a903f17a1bf](https://www.virustotal.com/gui/file/3f5329cf2a829f8840ba6a903f17a1bf)|Win32 EXE|Ursu|2017-01-18 05:50:56|Chrome Update.exe|
+|[3f5329cf2a829f8840ba6a903f17a1bf](https://www.virustotal.com/gui/file/3f5329cf2a829f8840ba6a903f17a1bf)|Win32 EXE|Ursu|2017-01-18 05:50:56|Chrome Update.exe|

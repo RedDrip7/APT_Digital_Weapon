@@ -743,3 +743,8 @@
 |[df6c6ee05898ce35ce5963ff0ae2344d](https://www.virustotal.com/gui/file/df6c6ee05898ce35ce5963ff0ae2344d)|Win32 EXE||2021-02-17 13:54:22|c:\users\%USERNAME%\appdata\local\temp\wininition.exe|
 |[49696043b51acca6ced2ab213bd4abef](https://www.virustotal.com/gui/file/49696043b51acca6ced2ab213bd4abef)|DOC|o97m|2021-02-17 11:33:56|3b548a851fb889d3cc84243eb8ce9cbf8a857c7d725a24408934c0d8342d5811.doc|
 |[c9a43fd6623bf0bc287012b6ee10a98e](https://www.virustotal.com/gui/file/c9a43fd6623bf0bc287012b6ee10a98e)|DOC|o97m|2021-02-17 11:29:05|1dd03c4ea4d630a59f73e053d705185e27e2e2545dd9caedb26a824ac5d11466.doc|
+|[573247af55b015d48ab7f6d7d0d6f1db](https://www.virustotal.com/gui/file/573247af55b015d48ab7f6d7d0d6f1db)|Win64 EXE||2020-08-05 09:48:13|explorer|
+|[573247af55b015d48ab7f6d7d0d6f1db](https://www.virustotal.com/gui/file/573247af55b015d48ab7f6d7d0d6f1db)|Win64 EXE||2020-08-05 09:48:13|explorer|
+|[573247af55b015d48ab7f6d7d0d6f1db](https://www.virustotal.com/gui/file/573247af55b015d48ab7f6d7d0d6f1db)|Win64 EXE||2020-08-05 09:48:13|explorer|
+|[573247af55b015d48ab7f6d7d0d6f1db](https://www.virustotal.com/gui/file/573247af55b015d48ab7f6d7d0d6f1db)|Win64 EXE||2020-08-05 09:48:13|explorer|
+|[573247af55b015d48ab7f6d7d0d6f1db](https://www.virustotal.com/gui/file/573247af55b015d48ab7f6d7d0d6f1db)|Win64 EXE||2020-08-05 09:48:13|explorer|

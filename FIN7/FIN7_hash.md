@@ -315,7 +315,6 @@
 |[1c02c6b68025768d056805d26d33af4f](https://www.virustotal.com/gui/file/1c02c6b68025768d056805d26d33af4f)|Win32 EXE|razy|2016-07-05 18:41:17|JAVAW.exe|
 |[bf077200aa5072279f7bb6c42676dd08](https://www.virustotal.com/gui/file/bf077200aa5072279f7bb6c42676dd08)|Win32 EXE||2016-06-30 18:25:33|sdu_v42|
 |[75b55bb34dac9d02740b9ad6b6820360](https://www.virustotal.com/gui/file/75b55bb34dac9d02740b9ad6b6820360)|Win32 EXE||2016-06-30 13:28:30|c:\windows\psexesvc.exe|
-|[27304b246c7d5b4e149124d5f93c5b01](https://www.virustotal.com/gui/file/27304b246c7d5b4e149124d5f93c5b01)|Win32 EXE||2016-06-30 13:21:27|PsExec|
 |[0f556e5099e497b97865cff0a585cb29](https://www.virustotal.com/gui/file/0f556e5099e497b97865cff0a585cb29)|Win32 EXE|strictor|2016-06-11 22:51:31|DVT.AVVoiceChanger.RegistrationLoader.exe|
 |[2828ea78cdda8f21187572c99ded6dc2](https://www.virustotal.com/gui/file/2828ea78cdda8f21187572c99ded6dc2)|Win32 EXE|deni|2016-05-27 22:29:18|2828ea78cdda8f21187572c99ded6dc2.virus|
 |[5a45366da2a8023464d7ea09fd80ba9f](https://www.virustotal.com/gui/file/5a45366da2a8023464d7ea09fd80ba9f)|Win32 EXE|Kryptik|2016-05-27 00:46:23|2503bdaeaa264bfc67b3a3603ee48ddb7b964d6466fac0377885c6649209c098.bin|

@@ -521,9 +521,6 @@
 |[366aeab3b8ae90a98eeaed68ccfdef00](https://www.virustotal.com/gui/file/366aeab3b8ae90a98eeaed68ccfdef00)|Win32 DLL||2017-03-31 01:35:35|shell.pyd|
 |[46fdb64ce8324bdc49fbd1ccc2c5cc3b](https://www.virustotal.com/gui/file/46fdb64ce8324bdc49fbd1ccc2c5cc3b)|Win32 DLL||2017-03-31 01:35:34|win32pipe.pyd|
 |[285a796650d360081fd415edfbff8511](https://www.virustotal.com/gui/file/285a796650d360081fd415edfbff8511)|Win32 DLL||2017-03-31 01:35:34|f9b82d9e7781304f__win32sysloader.pyd|
-|[c05cfcfd3752d6feadc0d71d04707602](https://www.virustotal.com/gui/file/c05cfcfd3752d6feadc0d71d04707602)|Win32 DLL||2016-06-28 19:29:57|\Users\Petra\AppData\Local\Temp\_MEI36722\unicodedata.pyd|
-|[f12a4d8a3bb4d4c589cebc25373ca1ff](https://www.virustotal.com/gui/file/f12a4d8a3bb4d4c589cebc25373ca1ff)|Win32 DLL||2016-06-28 14:03:31|C:\Users\<USER>\AppData\Local\Temp\_MEI28042\_ssl.pyd|
-|[6a3ab29e2f55484b07e1f71dc130dba9](https://www.virustotal.com/gui/file/6a3ab29e2f55484b07e1f71dc130dba9)|Win32 DLL||2016-06-28 14:01:07|a19d4057e460e65a_select.pyd|
 |[41cda77c69614a0fbfcc4a38ebae659b](https://www.virustotal.com/gui/file/41cda77c69614a0fbfcc4a38ebae659b)|TXT||2013-09-02 06:11:35|37a2494de2689be02bb0e6185dcf0248001e90d2b049a32bb907e1025e550748.bin|
 |[1f137ac28556d4507f97f736b0ac7d45](https://www.virustotal.com/gui/file/1f137ac28556d4507f97f736b0ac7d45)|Win64 DLL||2011-03-10 17:00:10|aeinv.dll|
 |[4b78b431f225fd8624c5655cb1de7b61](https://www.virustotal.com/gui/file/4b78b431f225fd8624c5655cb1de7b61)|Win64 DLL||2009-09-12 16:14:01|aelupsvc.dll|
@@ -538,3 +535,5 @@
 |[cc4d7b39dec5335e209f80a3c212a6ba](https://www.virustotal.com/gui/file/cc4d7b39dec5335e209f80a3c212a6ba)|Android|androidos|2020-12-02 12:11:13|whsapp.apk|
 |[bf5cc683a34f697affec1aef221ccb30](https://www.virustotal.com/gui/file/bf5cc683a34f697affec1aef221ccb30)|Android|androidos|2020-11-21 08:11:36|whsapp.apk|
 |[d2a9b362fdf56c10bb89c8164a779601](https://www.virustotal.com/gui/file/d2a9b362fdf56c10bb89c8164a779601)|Android||2020-09-06 04:47:06|d2a9b362fdf56c10bb89c8164a779601.virus|
+|[f6b028ccc8a872ad5eb3d9a36020adac](https://www.virustotal.com/gui/file/f6b028ccc8a872ad5eb3d9a36020adac)|Android||2020-09-15 16:28:06| |
+|[2d73bb3ac2625fda94e5da8d8e79cae3](https://www.virustotal.com/gui/file/2d73bb3ac2625fda94e5da8d8e79cae3)|Android|Wacatac|2020-09-15 16:26:20| |
