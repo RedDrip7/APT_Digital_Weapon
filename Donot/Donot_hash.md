@@ -88,7 +88,6 @@
 |[4aea3ec301b3c0e6d813795ca7e191bb](https://www.virustotal.com/gui/file/4aea3ec301b3c0e6d813795ca7e191bb)|Android||2019-01-11 05:51:28|tmp20190122-19234-1elf068|
 |[41ccc717afca85216d5587d88f608332](https://www.virustotal.com/gui/file/41ccc717afca85216d5587d88f608332)|Win32 EXE|Ehdoor|2019-01-08 22:55:02| |
 |[b463cd6c6009093970e280027c2a4464](https://www.virustotal.com/gui/file/b463cd6c6009093970e280027c2a4464)|unknown||2018-11-28 21:02:59|%TEMP%\tard23a.tmp|
-|[a902cf373e02f7dc34f456ed7449279c](https://www.virustotal.com/gui/file/a902cf373e02f7dc34f456ed7449279c)|CAB||2018-11-27 21:12:32|/msdownload/update/v3/static/trustedr/en/authrootstl.cab|
 |[68e8c2314c2b1c43709269acd7c8726c](https://www.virustotal.com/gui/file/68e8c2314c2b1c43709269acd7c8726c)|Win32 EXE||2018-10-01 13:24:32|4.exe|
 |[23386af8fd04c25dcc4fdbbeed68f8d4](https://www.virustotal.com/gui/file/23386af8fd04c25dcc4fdbbeed68f8d4)|Win32 EXE||2018-10-01 13:22:07|2.exe|
 |[88f244356fdaddd5087475968d9ac9bf](https://www.virustotal.com/gui/file/88f244356fdaddd5087475968d9ac9bf)|Win32 EXE|dynamer|2018-10-01 13:21:18|1.exe|
