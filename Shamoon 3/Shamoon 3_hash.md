@@ -31,3 +31,19 @@
 |[8fbe990c2d493f58a2afa2b746e49c86](https://www.virustotal.com/gui/file/8fbe990c2d493f58a2afa2b746e49c86)|Win64 EXE||2016-11-21 17:47:37|8fbe990c2d493f58a2afa2b746e49c86_WDbaSOLIkXnKXJIBRU.Exe|
 |[76c643ab29d497317085e5db8c799960](https://www.virustotal.com/gui/file/76c643ab29d497317085e5db8c799960)|Win64 EXE||2012-08-20 09:16:03|elrawdsk.sys|
 |[1493d342e7a36553c56b2adea150949e](https://www.virustotal.com/gui/file/1493d342e7a36553c56b2adea150949e)|Win32 EXE||2012-08-16 13:20:40|elrawdsk.sys|
+|[00c417425a73db5a315d23fac8cb353f](https://www.virustotal.com/gui/file/00c417425a73db5a315d23fac8cb353f)|Win64 EXE||2017-07-11 12:23:33|ntertmgr64.exe|
+|[da3d900f8b090c705e8256e1193a18ec](https://www.virustotal.com/gui/file/da3d900f8b090c705e8256e1193a18ec)|Win64 EXE||2017-07-11 12:14:46|caiaw00a.exe|
+|[8712cea8b5e3ce0073330fd425d34416](https://www.virustotal.com/gui/file/8712cea8b5e3ce0073330fd425d34416)|Win32 EXE||2017-02-03 07:11:06|shamoon DISTTRACK|
+|[af053352fe1a02ba8010ec7524670ed9](https://www.virustotal.com/gui/file/af053352fe1a02ba8010ec7524670ed9)|Win32 EXE||2017-02-03 06:32:50|af053352fe1a02ba8010ec7524670ed9.virus|
+|[38f3bed2635857dc385c5d569bbc88ac](https://www.virustotal.com/gui/file/38f3bed2635857dc385c5d569bbc88ac)|Win32 EXE||2017-02-03 06:28:17|38f3bed2635857dc385c5d569bbc88ac.virus|
+|[7772ce23c23f28596145656855fd02fc](https://www.virustotal.com/gui/file/7772ce23c23f28596145656855fd02fc)|Win32 EXE||2017-02-03 06:27:24|7772ce23c23f28596145656855fd02fc.virus|
+|[9d40d04d64f26a30da893b7a30da04eb](https://www.virustotal.com/gui/file/9d40d04d64f26a30da893b7a30da04eb)|Win32 EXE|Agentwdcr|2017-02-03 06:26:35|9d40d04d64f26a30da893b7a30da04eb.virus|
+|[7f399a3362c4a33b5a58e94b8631a3d5](https://www.virustotal.com/gui/file/7f399a3362c4a33b5a58e94b8631a3d5)|Win32 EXE||2017-02-03 06:25:51|7f399a3362c4a33b5a58e94b8631a3d5.virus|
+|[b4ddab362a20578dc6ca0bc8cc8ab986](https://www.virustotal.com/gui/file/b4ddab362a20578dc6ca0bc8cc8ab986)|Win32 EXE||2017-02-03 06:23:26|b4ddab362a20578dc6ca0bc8cc8ab986.virus|
+|[548f6b23799f9265c01feefc6d86a5d3](https://www.virustotal.com/gui/file/548f6b23799f9265c01feefc6d86a5d3)|Win32 EXE||2017-02-03 06:20:50|548f6b23799f9265c01feefc6d86a5d3.virus|
+|[d30cfa003ebfcd4d7c659a73a8dce11e](https://www.virustotal.com/gui/file/d30cfa003ebfcd4d7c659a73a8dce11e)|Win64 EXE||2017-01-25 18:39:08|C:\Windows\System32\caiaw00b.exe|
+|[aae531a922d9cca9ddca3d98be09f9df](https://www.virustotal.com/gui/file/aae531a922d9cca9ddca3d98be09f9df)|Win32 EXE||2017-01-23 06:28:08|aae531a922d9cca9ddca3d98be09f9df_hoLcXlEyeCyXFgXamAHTWxLK.Exe|
+|[6a7bff614a1c2fd2901a5bd1d878be59](https://www.virustotal.com/gui/file/6a7bff614a1c2fd2901a5bd1d878be59)|Win32 EXE||2017-01-23 05:21:24|6a7bff614a1c2fd2901a5bd1d878be59_vHWKUTbVBDJXtaSMyVg.exE|
+|[7edd88dd4511a7d5bcb91f2ff177d29d](https://www.virustotal.com/gui/file/7edd88dd4511a7d5bcb91f2ff177d29d)|ZIP|Starter|2017-01-23 03:52:54|/1/e/f/ef35a54290d96871a860f80a789460ab10e91844a5184489c96a97b810768d29.file|
+|[33a63f09e0962313285c0f0fb654ae11](https://www.virustotal.com/gui/file/33a63f09e0962313285c0f0fb654ae11)|ZIP|Starter|2017-01-23 02:39:43|/1/5/7/57fb0ec1eb292956a8d5031d6c2d1369acf5745b94a776aa6957e701003078d6.file|
+|[baa9862b027abd61b3e19941e40b1b2d](https://www.virustotal.com/gui/file/baa9862b027abd61b3e19941e40b1b2d)|Win32 EXE||2016-02-15 05:30:26|Distributed Link Tracking Server|

@@ -661,3 +661,9 @@
 |[a03f516285d496d7f15c2e992846d109](https://www.virustotal.com/gui/file/a03f516285d496d7f15c2e992846d109)|Win32 EXE|Razy|2021-06-07 19:09:11|Hammas2.exe|
 |[d07654434d64b73fe8cb49cfb9b7e3fb](https://www.virustotal.com/gui/file/d07654434d64b73fe8cb49cfb9b7e3fb)|Win32 EXE|AgentTesla|2021-06-03 11:02:37|Viewfile.exe|
 |[8a301089f74596128f861deb612e35ac](https://www.virustotal.com/gui/file/8a301089f74596128f861deb612e35ac)|Android||2021-02-25 23:38:33|/vdepot3/apk/8A/30/8A301089F74596128F861DEB612E35AC|
+|[380962723eae3e610e957c075b884dd5](https://www.virustotal.com/gui/file/380962723eae3e610e957c075b884dd5)|Win32 EXE||2020-11-30 07:34:04|Firefox.exe|
+|[947fd5f93c44807986f5663a739e0f46](https://www.virustotal.com/gui/file/947fd5f93c44807986f5663a739e0f46)|Win32 EXE|Zbot|2020-11-24 15:48:53|windowsprocesstimewikisystem.exe|
+|[8b7ad86f74c3fb6d51e7cfb39fdd65be](https://www.virustotal.com/gui/file/8b7ad86f74c3fb6d51e7cfb39fdd65be)|Win32 EXE|Zbot|2020-11-24 15:47:15|TimeHostServicesUpdate.exe|
+|[1cefe48109d45f5271e3b8b277b1c74a](https://www.virustotal.com/gui/file/1cefe48109d45f5271e3b8b277b1c74a)|Win32 EXE|Generickdz|2020-11-22 11:33:49|32eb4f92c8e82d3f401078725115d0604f9283ff8d9a088e7afbc150e08df295.bin|
+|[af377d57af6c3b86ba2d01d042f95cf9](https://www.virustotal.com/gui/file/af377d57af6c3b86ba2d01d042f95cf9)|ZIP|Zbot|2020-11-14 09:39:01|General Secretariat for the Council of Ministers 1839-2021.zip|
+|[4b96fecd0c6451b30619e6e836fe7ffa](https://www.virustotal.com/gui/file/4b96fecd0c6451b30619e6e836fe7ffa)|Win32 EXE|Zbot|2020-10-08 17:47:22|c:\users\admini~1\appdata\local\temp\general secretariat for the council of ministers 1839-2021.exe|

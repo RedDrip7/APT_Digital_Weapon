@@ -540,3 +540,4 @@
 |[4204019f999aa1360694a541514f89dc](https://www.virustotal.com/gui/file/4204019f999aa1360694a541514f89dc)|TXT||2020-03-30 19:16:20|colorpickerdesk__co.ini|
 |[84d77a3b76ac690ce7a60199c88ceeb5](https://www.virustotal.com/gui/file/84d77a3b76ac690ce7a60199c88ceeb5)|TXT|Nemucod|2020-03-02 19:44:07|prada.txt|
 |[718bc1dd6e993208bdaf3d2062e29871](https://www.virustotal.com/gui/file/718bc1dd6e993208bdaf3d2062e29871)|Win64 DLL||2018-06-11 02:07:15|f59e443dcaa2d92277d403ffe57a639cadf46932e61f33297a68be025ec5a137.bin|
+|[06cb2cc66d51f35033977a99cc30c12c](https://www.virustotal.com/gui/file/06cb2cc66d51f35033977a99cc30c12c)|Win32 EXE||2020-07-19 15:10:02|dttcodexgigas.623980449b8ab76d2fcbaa0a910a6d8be55a39ba|

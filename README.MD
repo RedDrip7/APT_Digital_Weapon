@@ -22,16 +22,9 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 
 
+
 |Groupname|Total|Update|data|  
 |:--|:--|:--|:--|  
-|APT17|3074|1|2021-09-28|  
-|APT28|744|1|2021-09-28|  
-|APT33|120|1|2021-09-28|  
-|APT34|149|1|2021-09-28|  
-|BAD TRAFFIC|2|2|2021-09-28|  
-|C-Major|540|2|2021-09-28|  
-|DarkOxide|8|8|2021-09-28|  
-|Ghostwriter|4|4|2021-09-28|  
-|Kremlin|8|8|2021-09-28|  
-|Lazarus Group|1745|1|2021-09-28|  
-|Signsight|4|4|2021-09-28|  
+|FIN7|542|1|2021-11-15|  
+|Molerats|667|6|2021-11-15|  
+|Shamoon 3|47|16|2021-11-15|  
