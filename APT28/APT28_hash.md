@@ -635,7 +635,6 @@
 |[f6f88caf49a3e32174387cacfa144a89](https://www.virustotal.com/gui/file/f6f88caf49a3e32174387cacfa144a89)|Win32 DLL||2015-02-17 19:50:41|/home/virustotal/sample/F6F88CAF49A3E32174387CACFA144A89|
 |[da2a657dc69d7320f2ffc87013f257ad](https://www.virustotal.com/gui/file/da2a657dc69d7320f2ffc87013f257ad)|Win32 DLL||2014-11-03 06:49:47|coreshell.dll|
 |[ce254486b02be740488c0ab3278956fd](https://www.virustotal.com/gui/file/ce254486b02be740488c0ab3278956fd)|PDF||2014-10-29 00:12:09|wp-operation-pawn-storm.pdf|
-|[60e84516c6ec6dfdae7b422d1f7cab06](https://www.virustotal.com/gui/file/60e84516c6ec6dfdae7b422d1f7cab06)|Win64 EXE||2014-10-13 11:50:36|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/APT28,FancyBear/LoJaxKernelDriver.bin|
 |[800af1c9d341b846a856a1e686be6a3e](https://www.virustotal.com/gui/file/800af1c9d341b846a856a1e686be6a3e)|Win32 DLL||2014-10-07 12:01:29|myfile.exe|
 |[df895e6479abf85c4c65d7d3a2451ddb](https://www.virustotal.com/gui/file/df895e6479abf85c4c65d7d3a2451ddb)|Win32 EXE||2014-10-05 09:06:14|DF895E6479ABF85C4C65D7D3A2451DDB.virus|
 |[ee64d3273f9b4d80020c24edcbbf961e](https://www.virustotal.com/gui/file/ee64d3273f9b4d80020c24edcbbf961e)|Win32 DLL||2014-10-05 08:33:08|splm.dll|
