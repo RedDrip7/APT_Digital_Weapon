@@ -1750,3 +1750,11 @@
 |[50ed1ba7abdb38d75e68258275b9f2c7](https://www.virustotal.com/gui/file/50ed1ba7abdb38d75e68258275b9f2c7)|ZIP||2020-11-05 09:55:09|New Profits Distribution.zip|
 |[50ed1ba7abdb38d75e68258275b9f2c7](https://www.virustotal.com/gui/file/50ed1ba7abdb38d75e68258275b9f2c7)|ZIP||2020-11-05 09:55:09|New Profits Distribution.zip|
 |[50ed1ba7abdb38d75e68258275b9f2c7](https://www.virustotal.com/gui/file/50ed1ba7abdb38d75e68258275b9f2c7)|ZIP||2020-11-05 09:55:09|New Profits Distribution.zip|
+|[88f9824b5a76591d62d391e6b1ef1d31](https://www.virustotal.com/gui/file/88f9824b5a76591d62d391e6b1ef1d31)|Win32 EXE||2021-11-23 01:25:38|88f9824b5a76591d62d391e6b1ef1d31.virus|
+|[505262547f8879249794fc31eea41fc6](https://www.virustotal.com/gui/file/505262547f8879249794fc31eea41fc6)|Win64 EXE|Nukesped|2021-10-21 16:00:43|overlay.bin|
+|[a35a8c64870b9a3fe45348b4f2a93e75](https://www.virustotal.com/gui/file/a35a8c64870b9a3fe45348b4f2a93e75)|Win64 EXE|Nukesped|2021-09-13 01:57:48| |
+|[d6121d74dcef566a5e2f9aba179b8cca](https://www.virustotal.com/gui/file/d6121d74dcef566a5e2f9aba179b8cca)|Win64 EXE|Nukesped|2021-09-09 04:36:44|d6121d74dcef566a5e2f9aba179b8cca.virus|
+|[525cc10803d9858fca5dc4010925ba68](https://www.virustotal.com/gui/file/525cc10803d9858fca5dc4010925ba68)|Win64 EXE|Nukesped|2021-06-21 04:58:26|525cc10803d9858fca5dc4010925ba68.virus|
+|[7b81ea543bb57d2b6db1610d8b424e95](https://www.virustotal.com/gui/file/7b81ea543bb57d2b6db1610d8b424e95)|Win64 EXE|Nukesped|2021-06-17 16:55:25| |
+|[5c41cbf8a7620e10f158f6b70963d1cb](https://www.virustotal.com/gui/file/5c41cbf8a7620e10f158f6b70963d1cb)|Win64 EXE|Nukesped|2021-06-17 16:35:23| |
+|[91038ff04bf85c19e377aef3381e47f9](https://www.virustotal.com/gui/file/91038ff04bf85c19e377aef3381e47f9)|Win32 EXE|Graftor|2020-12-22 08:14:32|3817608083|

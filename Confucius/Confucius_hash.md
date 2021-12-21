@@ -163,3 +163,8 @@
 |[871d7972616ce32f28545efd6b1c137d](https://www.virustotal.com/gui/file/871d7972616ce32f28545efd6b1c137d)|Android|Wacatac|2017-12-05 02:24:22|com.eid.eidcard.apk|
 |[4c1dd98caa88db24eb5504e95f8c5c2e](https://www.virustotal.com/gui/file/4c1dd98caa88db24eb5504e95f8c5c2e)|Android|Wacatac|2017-10-19 02:20:18|4c1dd98caa88db24eb5504e95f8c5c2e.virus|
 |[e98b3df01b001a7cd8ff100bd65ac67c](https://www.virustotal.com/gui/file/e98b3df01b001a7cd8ff100bd65ac67c)|Android|Bitrep|2017-01-11 05:26:12|news.apk|
+|[89850b1049288d5f2c1fda42a3935d08](https://www.virustotal.com/gui/file/89850b1049288d5f2c1fda42a3935d08)|XLSX||2021-06-10 08:59:22| |
+|[fca3ce656e9f51c4d1f4d755ba6b5aa2](https://www.virustotal.com/gui/file/fca3ce656e9f51c4d1f4d755ba6b5aa2)|Win32 EXE|occamy|2020-03-30 20:15:42|Submit%20feedback%20form.exe|
+|[d22c62db5eee2f18aeb969a2389a0ab6](https://www.virustotal.com/gui/file/d22c62db5eee2f18aeb969a2389a0ab6)|Win64 EXE|Wacatac|2020-03-30 20:14:43|WindowsUpdateAssistance.exe|
+|[386d4846a79aef927d317326f6f699a2](https://www.virustotal.com/gui/file/386d4846a79aef927d317326f6f699a2)|Win64 EXE||2020-03-30 08:34:50|certificate_generation.exe|
+|[cba58c1e1e2472ae89ab067d3e345c8f](https://www.virustotal.com/gui/file/cba58c1e1e2472ae89ab067d3e345c8f)|Win64 EXE||2019-05-22 08:56:39|Invoice_Generation.exe|

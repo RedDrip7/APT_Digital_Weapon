@@ -541,3 +541,5 @@
 |[84d77a3b76ac690ce7a60199c88ceeb5](https://www.virustotal.com/gui/file/84d77a3b76ac690ce7a60199c88ceeb5)|TXT|Nemucod|2020-03-02 19:44:07|prada.txt|
 |[718bc1dd6e993208bdaf3d2062e29871](https://www.virustotal.com/gui/file/718bc1dd6e993208bdaf3d2062e29871)|Win64 DLL||2018-06-11 02:07:15|f59e443dcaa2d92277d403ffe57a639cadf46932e61f33297a68be025ec5a137.bin|
 |[06cb2cc66d51f35033977a99cc30c12c](https://www.virustotal.com/gui/file/06cb2cc66d51f35033977a99cc30c12c)|Win32 EXE||2020-07-19 15:10:02|dttcodexgigas.623980449b8ab76d2fcbaa0a910a6d8be55a39ba|
+|[79e65257425ef04267d1e35fcccd8fb7](https://www.virustotal.com/gui/file/79e65257425ef04267d1e35fcccd8fb7)|TXT|EmoDldr|2021-02-16 17:16:33|sc.js|
+|[122cb55f1352b9a1aeafc83a85bfb165](https://www.virustotal.com/gui/file/122cb55f1352b9a1aeafc83a85bfb165)|Win32 EXE|Skeeyah|2020-01-06 02:04:25|JsrW.exe|

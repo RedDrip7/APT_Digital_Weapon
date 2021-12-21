@@ -209,3 +209,7 @@
 |[8a1440dbbcb5ed848de46e70005cd128](https://www.virustotal.com/gui/file/8a1440dbbcb5ed848de46e70005cd128)|DOCM|Valyria|2020-12-01 12:18:30|2020.11.26.doc|
 |[cef58328beeaee8db8a34d421dc09b0c](https://www.virustotal.com/gui/file/cef58328beeaee8db8a34d421dc09b0c)|DOTM|o97m|2020-10-06 07:53:38|d88c5695ccd83dce6729b84c8c43e8a804938a7ab7cfeccaa0699d6b1f81c95c.bin|
 |[4410cc7bc993d75f9c073798f23f4ccf](https://www.virustotal.com/gui/file/4410cc7bc993d75f9c073798f23f4ccf)|DOTM|o97m|2021-03-30 01:18:45|normal.x|
+|[6ae81464fa07cbe9ff288b05f3aefe50](https://www.virustotal.com/gui/file/6ae81464fa07cbe9ff288b05f3aefe50)|Win32 DLL|Stealer|2021-11-07 15:53:12|c:\windows\system32\fbeuh99bi.dll|
+|[be14ced87e2203ad5896754273511a14](https://www.virustotal.com/gui/file/be14ced87e2203ad5896754273511a14)|Win64 DLL||2021-06-07 16:34:44|tvnserver|
+|[db4ff347151c7aa1400a6b239f336375](https://www.virustotal.com/gui/file/db4ff347151c7aa1400a6b239f336375)|Win64 DLL||2021-06-02 13:18:19|tvnserver|
+|[535827d41b144614e582167813fbbc4c](https://www.virustotal.com/gui/file/535827d41b144614e582167813fbbc4c)|Win32 DLL|Vigorf|2020-05-25 09:09:51|lensk.dat|

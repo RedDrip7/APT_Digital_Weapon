@@ -20,3 +20,4 @@
 |[5a68f149c193715d13a361732f5adaa1](https://www.virustotal.com/gui/file/5a68f149c193715d13a361732f5adaa1)|Win32 EXE|neshta|2016-01-19 01:11:58|javaj.exe|
 |[aaee8ba81bee3deb1c95bd3aaa6b13d7](https://www.virustotal.com/gui/file/aaee8ba81bee3deb1c95bd3aaa6b13d7)|Win32 EXE||2016-01-04 16:17:29|v.exe|
 |[5a97d62dc84ede64846ea4f3ad4d2f93](https://www.virustotal.com/gui/file/5a97d62dc84ede64846ea4f3ad4d2f93)|Win32 EXE|Alina|2015-12-08 22:21:33|java.exe|
+|[fc8da575077ae3db4f9b5991ae67dab1](https://www.virustotal.com/gui/file/fc8da575077ae3db4f9b5991ae67dab1)|Win32 EXE|Injecto|2016-06-08 12:47:32|Project|

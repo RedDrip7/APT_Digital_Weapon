@@ -1318,3 +1318,7 @@
 |[9f2b921462fd6edc4bf5985e3279c687](https://www.virustotal.com/gui/file/9f2b921462fd6edc4bf5985e3279c687)|Android|androidos|2013-01-07 10:03:59|/home/sanal/Desktop/tobe/ETSdialer_Server.apk|
 |[405f129dca1806c80a413beccb4d2b23](https://www.virustotal.com/gui/file/405f129dca1806c80a413beccb4d2b23)|Android||2012-09-20 09:36:55|405F129DCA1806C80A413BECCB4D2B23.32C05165|
 |[ded31f723e456a49345d42ee3d5cb32a](https://www.virustotal.com/gui/file/ded31f723e456a49345d42ee3d5cb32a)|Android|androidos|2011-09-05 01:11:00|3e2818bc2ee69eb29bc7b42389956f4cedd8c5d3bb86362a704bd849fed954b5.apk|
+|[f92da35acca01285e3631ad6b619a8f8](https://www.virustotal.com/gui/file/f92da35acca01285e3631ad6b619a8f8)|Win32 EXE||2019-01-15 09:01:01|Wmiprvse|
+|[62fae418aff5ac4f7286c5ee9b4cfc36](https://www.virustotal.com/gui/file/62fae418aff5ac4f7286c5ee9b4cfc36)|Win32 EXE||2016-05-16 13:55:17|3bac2e459c69fcef8c1c93c18e5f4f3e3102d8d0f54a63e0650072aeb2a5fa65.bin|
+|[9d05c93a6e5066883f2e6fab7ce7c1f0](https://www.virustotal.com/gui/file/9d05c93a6e5066883f2e6fab7ce7c1f0)|Win32 EXE||2015-09-29 20:38:22|nete.exe|
+|[f2ae2a1dfe9668244b4c243567707450](https://www.virustotal.com/gui/file/f2ae2a1dfe9668244b4c243567707450)|Win64 EXE||2014-09-05 11:26:23|Get.exe|
