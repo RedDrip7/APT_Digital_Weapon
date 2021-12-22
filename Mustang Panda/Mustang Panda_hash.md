@@ -60,7 +60,6 @@
 |[405f2f6fa2077552fa848bb740bd5ffd](https://www.virustotal.com/gui/file/405f2f6fa2077552fa848bb740bd5ffd)|Win32 EXE|Kryptik|2020-03-11 14:20:20|Official communication by Ferribiella Italy-CORONAVIRUS 11.03.2020_EN.exe|
 |[4efc395c3cd44646e2bfb9680932b811](https://www.virustotal.com/gui/file/4efc395c3cd44646e2bfb9680932b811)|RTF|Sagent|2020-03-11 07:36:13|CORONA TREATMENT.doc|
 |[8ff6621ecf76a5632dc7ca459f3e5a89](https://www.virustotal.com/gui/file/8ff6621ecf76a5632dc7ca459f3e5a89)|DOCM|Sagent|2020-03-10 03:11:48|C:\Users\ttzaf\Google Drive\M.Sc\Jupiter_N_Projects\Research\Paper_02\2nd_paper_Data\DOCX\Malicious\Malicious_DOCX_14916_Merged_on_18_06_2020\Malicious_Raw_Attachments\1\114c8e5626d3ed69b21e3760eb61bd6764e4284bc617fca275e056705507bae6|
-|[faf5ef01f4a9bf2aba7ede67dcc5a2d4](https://www.virustotal.com/gui/file/faf5ef01f4a9bf2aba7ede67dcc5a2d4)|PDF||2020-03-08 21:33:52|faf5ef01f4a9bf2aba7ede67dcc5a2d4.virus|
 |[13d61974d2db537bdb0504cfc53b74a7](https://www.virustotal.com/gui/file/13d61974d2db537bdb0504cfc53b74a7)|FPX||2020-03-06 08:37:06|e3556d6ba5e705b85599b70422928165c8d4130074029a8dcd04a33f4d1aa858.bin|
 |[415591d11cf6aeb940ac92c904a1f26a](https://www.virustotal.com/gui/file/415591d11cf6aeb940ac92c904a1f26a)|Win32 DLL|Zbot|2020-03-06 04:28:31|79375c0c05243354f8ba2735bcd086dc8b53af709d87da02f9206685095bb035.bin|
 |[0de06292c0010a4e8f453806373e68d4](https://www.virustotal.com/gui/file/0de06292c0010a4e8f453806373e68d4)|unknown||2020-03-06 04:24:38|b62d35d8edae874a994fff12ec085a0bf879c66b3c97fd13fe0a335b497342e5.bin|

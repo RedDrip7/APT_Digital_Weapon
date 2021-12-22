@@ -1010,7 +1010,6 @@
 |[210eda363d5f77b5ebc2b9f31944871a](https://www.virustotal.com/gui/file/210eda363d5f77b5ebc2b9f31944871a)|TXT||2019-07-21 11:29:03|ransonware.txt|
 |[b5e2243d3d4ff840c82f74d4a16bf5b8](https://www.virustotal.com/gui/file/b5e2243d3d4ff840c82f74d4a16bf5b8)|RAR|Filecoder|2019-07-18 12:22:55|trg.rar|
 |[5cce7fc7596747b1e0b5c81c1a032b36](https://www.virustotal.com/gui/file/5cce7fc7596747b1e0b5c81c1a032b36)|ISO||2019-07-18 12:20:36|e87e1b21fd2a93d96cc68f4ff8947836fa55dbd1e0d0e9f109efd7a0f42d3315.bin|
-|[3f9a5c8e5e2a6de9f86f26bf1c877047](https://www.virustotal.com/gui/file/3f9a5c8e5e2a6de9f86f26bf1c877047)|Win32 EXE||2019-07-10 18:42:15|sqlite3|
 |[a3de2061c4b0bf6909479e08b75ca93d](https://www.virustotal.com/gui/file/a3de2061c4b0bf6909479e08b75ca93d)|TXT||2019-06-14 01:03:22|bcb090c3138c54479722a38a8391da2296d5c6521b1354176a848439ae3b66be|
 |[1bc5f648f5328052e25be4bcc2d9f4fd](https://www.virustotal.com/gui/file/1bc5f648f5328052e25be4bcc2d9f4fd)|LNK|Filecoder|2019-06-13 12:34:07|lebenslauf_2019_5_6.img.lnk|
 |[359c2a7a47821aa531403f64f43082c8](https://www.virustotal.com/gui/file/359c2a7a47821aa531403f64f43082c8)|JPEG||2019-06-13 11:35:19|lebenslauf_2019_5_6.jpe|

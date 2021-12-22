@@ -23,7 +23,6 @@
 |[58458a529d4ff6848be58ba26349749d](https://www.virustotal.com/gui/file/58458a529d4ff6848be58ba26349749d)|Win32 EXE|Virut|2018-09-24 18:08:06| |
 |[03093a21dd46c916c846d2244dbf2bcb](https://www.virustotal.com/gui/file/03093a21dd46c916c846d2244dbf2bcb)|Win32 DLL|Parite|2018-09-24 15:19:07|myfile.exe|
 |[d1e675aff0d308fece6194a7b629a6bd](https://www.virustotal.com/gui/file/d1e675aff0d308fece6194a7b629a6bd)|Win32 EXE|Virut|2018-09-24 08:19:43|102|
-|[4ce12bbc292b9dd3a641b7e0483e8193](https://www.virustotal.com/gui/file/4ce12bbc292b9dd3a641b7e0483e8193)|Win64 EXE||2018-09-24 04:42:50|SecConfig.efi|
 |[bc25bbf8a5bb344da9aef282fdab57cf](https://www.virustotal.com/gui/file/bc25bbf8a5bb344da9aef282fdab57cf)|Win32 EXE|Virut|2018-09-23 17:45:43|server|
 |[d999a22ff6b541817221bd74e1d55f9f](https://www.virustotal.com/gui/file/d999a22ff6b541817221bd74e1d55f9f)|Win32 DLL|virtob|2018-09-23 12:51:01|d999a22ff6b541817221bd74e1d55f9f.virus|
 |[f443b38ba80c228bf0d7defc9d8c18c5](https://www.virustotal.com/gui/file/f443b38ba80c228bf0d7defc9d8c18c5)|Win32 EXE|Virut|2018-09-23 12:44:08|server|

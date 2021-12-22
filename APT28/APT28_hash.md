@@ -471,7 +471,6 @@
 |[595aff5212df3534fb8af6a587c6038e](https://www.virustotal.com/gui/file/595aff5212df3534fb8af6a587c6038e)|Win32 EXE||2017-03-21 11:35:09|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/APT28,FancyBear/LoJaxSmallAgent.exe|
 |[a24d2f5258f8a0c3bddd1b5636b0ec57](https://www.virustotal.com/gui/file/a24d2f5258f8a0c3bddd1b5636b0ec57)|RTF||2017-02-21 14:01:01|D0AA4F3229FCD9A57E9E4F08860F3CC48C983ADDml.rtf|
 |[4fe4b9560e99e33dabca553e2eeee510](https://www.virustotal.com/gui/file/4fe4b9560e99e33dabca553e2eeee510)|Mach-O executable||2017-02-08 19:01:00|4fe4b9560e99e33dabca553e2eeee510_70A1C4ED3A09A44A41D54C4FD4B409A5FC3159F6_XAgent_OSX|
-|[a7b4e01335aac544a12c6f88aab80cd9](https://www.virustotal.com/gui/file/a7b4e01335aac544a12c6f88aab80cd9)|PDF||2017-01-30 14:55:04|eset-sednit-part3.pdf|
 |[e228cd74103dc069663bb87d4f22d7d5](https://www.virustotal.com/gui/file/e228cd74103dc069663bb87d4f22d7d5)|DOCX||2017-01-30 11:10:42|/home/virustotal/sample/E228CD74103DC069663BB87D4F22D7D5|
 |[62deab0e5d61d6bf9e0ba83d9e1d7e2b](https://www.virustotal.com/gui/file/62deab0e5d61d6bf9e0ba83d9e1d7e2b)|RTF||2016-12-27 15:07:07|/home/virustotal/sample/62DEAB0E5D61D6BF9E0BA83D9E1D7E2B|
 |[f6b2ef4daf1b78802548d3e6d4de7ba7](https://www.virustotal.com/gui/file/f6b2ef4daf1b78802548d3e6d4de7ba7)|RTF||2016-12-27 14:45:12|/home/virustotal/sample/F6B2EF4DAF1B78802548D3E6D4DE7BA7|
@@ -497,7 +496,6 @@
 |[607a7401962eaf78b93676c9f5ca6a26](https://www.virustotal.com/gui/file/607a7401962eaf78b93676c9f5ca6a26)|Win32 EXE||2016-10-27 00:57:12|516EC3584073A1C05C0D909B8B6C15ECB10933F1.exe_|
 |[23ae20329174d44ebc8dbfa9891c6260](https://www.virustotal.com/gui/file/23ae20329174d44ebc8dbfa9891c6260)|Win32 EXE||2016-10-27 00:57:11|49ACBA812894444C634B034962D46F986E0257CF.exe_|
 |[0eefeaf2fb78ebc49e7beba505da273d](https://www.virustotal.com/gui/file/0eefeaf2fb78ebc49e7beba505da273d)|Win32 EXE||2016-10-27 00:56:30|/home/vega/CONTAGIO/apt/APT28/APT28_2016-10_ESET_Sednit A Mysterious Downloader/4C9C7C4FD83EDAF7EC80687A7A957826DE038DD7.exe_|
-|[c3c278991ad051fbace1e2f3a4c20998](https://www.virustotal.com/gui/file/c3c278991ad051fbace1e2f3a4c20998)|PDF||2016-10-25 16:33:24|eset-sednit-part-2.pdf|
 |[cd1c521b6ae08fc97e3d69f242f00f9e](https://www.virustotal.com/gui/file/cd1c521b6ae08fc97e3d69f242f00f9e)|Win32 EXE||2016-10-25 02:51:49|/home/vega/CONTAGIO/apt/APT28/APT28_2016-10_ESET_Observing the Comings and Goings/Xtunnel/E945DE27EBFD1BAF8E8D2A81F4FB0D4523D85D6A|
 |[404eb3f7554392e85e56aed414db8455](https://www.virustotal.com/gui/file/404eb3f7554392e85e56aed414db8455)|Win32 DLL|ursu|2016-10-25 02:51:48|NvdSac.dll|
 |[34651f2df01b956f1989da4b3ea40338](https://www.virustotal.com/gui/file/34651f2df01b956f1989da4b3ea40338)|Win32 EXE||2016-10-25 02:49:30|/home/vega/CONTAGIO/apt/APT28/APT28_2016-10_ESET_Observing the Comings and Goings/Xtunnel/DB731119FCA496064F8045061033A5976301770D|
@@ -517,7 +515,6 @@
 |[409848dabfd110f4d373dd0a97ff708e](https://www.virustotal.com/gui/file/409848dabfd110f4d373dd0a97ff708e)|Win32 EXE||2016-10-25 02:02:54|NvdSac.dll|
 |[8b6d824619e993f74973eedfaf18be78](https://www.virustotal.com/gui/file/8b6d824619e993f74973eedfaf18be78)|Win32 EXE||2016-10-25 02:02:51|/home/vega/CONTAGIO/apt/APT28/APT28_2016-10_ESET_Observing the Comings and Goings/XAgent-WIN/0F04DAD5194F97BB4F1808DF19196B04B4AEE1B8|
 |[20ff290b8393f006eaf4358f09f13e99](https://www.virustotal.com/gui/file/20ff290b8393f006eaf4358f09f13e99)|RTF||2016-10-24 17:44:38|/home/virustotal/sample/20FF290B8393F006EAF4358F09F13E99|
-|[bae0221feefb37e6b81f5ca893864743](https://www.virustotal.com/gui/file/bae0221feefb37e6b81f5ca893864743)|PDF||2016-10-20 18:34:12|eset-sednit-part1.pdf|
 |[f7ee38ca49cd4ae35824ce5738b6e587](https://www.virustotal.com/gui/file/f7ee38ca49cd4ae35824ce5738b6e587)|Win32 EXE|graftor|2016-10-20 00:56:47|/home/vega/CONTAGIO/apt/APT28/APT28_2016-10_ESET_Sednit Approaching the Target/6FB3FD8C2580C84314B14510944700144A9E31DF|
 |[7b1bfd7c1866040e8f618fe67b93bea5](https://www.virustotal.com/gui/file/7b1bfd7c1866040e8f618fe67b93bea5)|Win32 DLL|graftor|2016-10-20 00:44:24|msdtckrn.dll|
 |[f1d3447a2bff56646478b0adb7d0451c](https://www.virustotal.com/gui/file/f1d3447a2bff56646478b0adb7d0451c)|Win32 DLL|sednit|2016-10-20 00:42:41|mgswizap.dll|

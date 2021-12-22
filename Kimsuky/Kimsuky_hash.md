@@ -157,8 +157,6 @@
 |[874c0ec36be15fe3403f3abad6ecea75](https://www.virustotal.com/gui/file/874c0ec36be15fe3403f3abad6ecea75)|Win32 DLL||2017-06-19 01:49:46|1.dll|
 |[750924d47a75cc3310a4fea02c94a1ea](https://www.virustotal.com/gui/file/750924d47a75cc3310a4fea02c94a1ea)|Win32 DLL|Bublik|2017-06-09 02:14:01|750924d47a75cc3310a4fea02c94a1ea.virus|
 |[750924d47a75cc3310a4fea02c94a1ea](https://www.virustotal.com/gui/file/750924d47a75cc3310a4fea02c94a1ea)|Win32 DLL|Bublik|2017-06-09 02:14:01|750924d47a75cc3310a4fea02c94a1ea.virus|
-|[b417238213efb0d2a23562674406cdf9](https://www.virustotal.com/gui/file/b417238213efb0d2a23562674406cdf9)|Win64 EXE||2016-05-23 15:02:02|NirCmd|
-|[b417238213efb0d2a23562674406cdf9](https://www.virustotal.com/gui/file/b417238213efb0d2a23562674406cdf9)|Win64 EXE||2016-05-23 15:02:02|NirCmd|
 |[54783422cfd7029a26a3f3f5e9087d8a](https://www.virustotal.com/gui/file/54783422cfd7029a26a3f3f5e9087d8a)|FPX||2015-09-04 09:28:44|54783422cfd7029a26a3f3f5e9087d8a.virus|
 |[b02f3881321f0912b2ae3f27498c448f](https://www.virustotal.com/gui/file/b02f3881321f0912b2ae3f27498c448f)|Win32 EXE|Zbot|2014-03-25 01:00:32|wscript.exe|
 |[11fc4829c2fff9fb240acbd71c60fc67](https://www.virustotal.com/gui/file/11fc4829c2fff9fb240acbd71c60fc67)|Win32 EXE||2014-03-25 00:55:23|xpsp2.exe|

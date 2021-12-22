@@ -518,9 +518,6 @@
 |[155837e476b50c93b6522b310a684a33](https://www.virustotal.com/gui/file/155837e476b50c93b6522b310a684a33)|Win32 EXE|rozena|2017-12-11 14:45:29|ConsoleApplication5.exe|
 |[475f89de6031db2158231eafa07b8b72](https://www.virustotal.com/gui/file/475f89de6031db2158231eafa07b8b72)|Win32 EXE||2017-12-11 14:22:18|cs|
 |[836d61745e087e6017832233701218a4](https://www.virustotal.com/gui/file/836d61745e087e6017832233701218a4)|TXT||2017-05-03 19:53:01|Invoke-TheHash.psd1|
-|[366aeab3b8ae90a98eeaed68ccfdef00](https://www.virustotal.com/gui/file/366aeab3b8ae90a98eeaed68ccfdef00)|Win32 DLL||2017-03-31 01:35:35|shell.pyd|
-|[46fdb64ce8324bdc49fbd1ccc2c5cc3b](https://www.virustotal.com/gui/file/46fdb64ce8324bdc49fbd1ccc2c5cc3b)|Win32 DLL||2017-03-31 01:35:34|win32pipe.pyd|
-|[285a796650d360081fd415edfbff8511](https://www.virustotal.com/gui/file/285a796650d360081fd415edfbff8511)|Win32 DLL||2017-03-31 01:35:34|f9b82d9e7781304f__win32sysloader.pyd|
 |[41cda77c69614a0fbfcc4a38ebae659b](https://www.virustotal.com/gui/file/41cda77c69614a0fbfcc4a38ebae659b)|TXT||2013-09-02 06:11:35|37a2494de2689be02bb0e6185dcf0248001e90d2b049a32bb907e1025e550748.bin|
 |[1f137ac28556d4507f97f736b0ac7d45](https://www.virustotal.com/gui/file/1f137ac28556d4507f97f736b0ac7d45)|Win64 DLL||2011-03-10 17:00:10|aeinv.dll|
 |[4b78b431f225fd8624c5655cb1de7b61](https://www.virustotal.com/gui/file/4b78b431f225fd8624c5655cb1de7b61)|Win64 DLL||2009-09-12 16:14:01|aelupsvc.dll|

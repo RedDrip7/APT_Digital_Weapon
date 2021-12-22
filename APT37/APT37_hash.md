@@ -92,7 +92,6 @@
 |[9cf931c33319f2a23d0b49cb805a4a34](https://www.virustotal.com/gui/file/9cf931c33319f2a23d0b49cb805a4a34)|Win32 EXE||2017-11-02 07:31:08|9cf931c33319f2a23d0b49cb805a4a34.virus|
 |[7ca1e08fc07166a440576d1af0a15bb1](https://www.virustotal.com/gui/file/7ca1e08fc07166a440576d1af0a15bb1)|FPX|injector|2017-11-01 06:57:51|7ca1e08fc07166a440576d1af0a15bb1.virus|
 |[bdbabe7d5605c00d24d15e3fac6eda1e](https://www.virustotal.com/gui/file/bdbabe7d5605c00d24d15e3fac6eda1e)|Win32 EXE||2017-11-01 04:55:42|bdbabe7d5605c00d24d15e3fac6eda1e.virus|
-|[fa39b3b422dc4232ef24e3f27fa8d69e](https://www.virustotal.com/gui/file/fa39b3b422dc4232ef24e3f27fa8d69e)|Win32 EXE||2017-09-30 11:12:48|360Installer|
 |[9d5059aa920839a74115607d17137e3a](https://www.virustotal.com/gui/file/9d5059aa920839a74115607d17137e3a)|FPX|CVE-2015-2545|2017-08-29 16:53:48|9d5059aa920839a74115607d17137e3a.bin|
 |[d00e3196bc847e63fc4b255e8ab06d1c](https://www.virustotal.com/gui/file/d00e3196bc847e63fc4b255e8ab06d1c)|Win32 EXE||2017-08-28 05:33:57|IBSheet3_3.4.0.64.exe|
 |[3adcee3cdb6e21ca3427fade92a4840f](https://www.virustotal.com/gui/file/3adcee3cdb6e21ca3427fade92a4840f)|Win32 EXE||2017-08-18 03:34:06|C:/Users/seongmin/Documents/VT2/malware/20170827/3adcee3cdb6e21ca3427fade92a4840f.vir|
