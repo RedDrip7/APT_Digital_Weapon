@@ -669,3 +669,4 @@
 |[4b96fecd0c6451b30619e6e836fe7ffa](https://www.virustotal.com/gui/file/4b96fecd0c6451b30619e6e836fe7ffa)|Win32 EXE|Zbot|2020-10-08 17:47:22|c:\users\admini~1\appdata\local\temp\general secretariat for the council of ministers 1839-2021.exe|
 |[1d18df7ac9184fea0afe26981e57c6a7](https://www.virustotal.com/gui/file/1d18df7ac9184fea0afe26981e57c6a7)|HTML||2015-02-01 18:01:16|/home/virustotal/sample/1D18DF7AC9184FEA0AFE26981E57C6A7|
 |[57ab5f60198d311226cdc246598729ea](https://www.virustotal.com/gui/file/57ab5f60198d311226cdc246598729ea)|TXT||2014-12-30 17:27:45|/home/virustotal/sample/57AB5F60198D311226CDC246598729EA|
+|[f4d70ad2e247123db47bb6bfcddf6333](https://www.virustotal.com/gui/file/f4d70ad2e247123db47bb6bfcddf6333)|Win32 EXE|TrickBot|2020-10-08 14:59:16|Printer_exe|

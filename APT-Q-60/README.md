@@ -1,8 +1,8 @@
 **NAME:**  
-Molerats  
+APT-Q-60  
   
 **Alias**  
-Gaza Hackers Team, Gaza cybergang, Operation Molerats, Extreme Jackal, Moonlight, Hamas, Gaza, Molerats  
+Gaza Hackers Team, Gaza cybergang, Operation Molerats, Extreme Jackal, Moonlight, Hamas, Gaza, Molerats, ˫βЫ, 灵猫, 月光鼠
 
 **Description**:   
 Molerats, also known as Gaza Cybergang, is a politically-motivated threat group that has been operating since 2012. The group's victims are primarily in the Middle East, Europe, and the United States. In mid-2017, related attacks are discovered inside an oil and gas organization in the MENA region, infiltrating systems and pilfering data, apparently for more than a year. Clearsky pointed out the attack group may link to Hamas in a public report.

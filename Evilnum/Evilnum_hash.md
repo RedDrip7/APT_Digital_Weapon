@@ -54,3 +54,17 @@
 |[f226dbe5dc77fe071ffc8c5d3c82e424](https://www.virustotal.com/gui/file/f226dbe5dc77fe071ffc8c5d3c82e424)|TXT||2019-02-18 09:19:03|Assistance.js|
 |[219dedb53da6b1dce0d6c071af59b45c](https://www.virustotal.com/gui/file/219dedb53da6b1dce0d6c071af59b45c)|LNK||2018-12-03 13:26:00|200_Germany.lnk|
 |[a234deb636d76b7eb0cf88a305b4acf3](https://www.virustotal.com/gui/file/a234deb636d76b7eb0cf88a305b4acf3)|unknown||2013-07-16 17:34:28|MSCERT02.CER|
+|[7873c11be22f3038c416cb6138a419df](https://www.virustotal.com/gui/file/7873c11be22f3038c416cb6138a419df)|Win32 EXE|Vigorf|2020-12-29 03:35:11|InstNT|
+|[97dec820bc0f0bc306e3500c70dddb60](https://www.virustotal.com/gui/file/97dec820bc0f0bc306e3500c70dddb60)|LNK||2020-12-28 20:33:59|onboardingdocuments.jpg.lnk|
+|[b530f07a762f1564b8e9b03119cd819b](https://www.virustotal.com/gui/file/b530f07a762f1564b8e9b03119cd819b)|ZIP||2020-12-28 17:06:39|OnboardingDocs.zip|
+|[e1b17e3ed49f8b4f08c9bef6e17c4a47](https://www.virustotal.com/gui/file/e1b17e3ed49f8b4f08c9bef6e17c4a47)|Win32 EXE||2020-12-23 03:08:32|Google Update|
+|[d1f069c6021aba84d1fa010295312315](https://www.virustotal.com/gui/file/d1f069c6021aba84d1fa010295312315)|LNK|Vigorf|2020-12-22 13:32:09|CopyIdentityLicense.jpg.lnk|
+|[a4d0ec4e5270b3724c64e4a9878d2c19](https://www.virustotal.com/gui/file/a4d0ec4e5270b3724c64e4a9878d2c19)|ZIP|Vigorf|2020-12-22 10:19:41|Attachments-Account compliance.zip|
+|[856e237a3e05d0ef936213ff1593424e](https://www.virustotal.com/gui/file/856e237a3e05d0ef936213ff1593424e)|Win32 EXE||2020-11-26 10:57:54|Tutorial|
+|[e6ee83bdf6b00f066f0bd36a020dafb3](https://www.virustotal.com/gui/file/e6ee83bdf6b00f066f0bd36a020dafb3)|Win32 EXE||2020-11-26 06:37:22|Java(TM) Web Start Launcher|
+|[14e5194d98e72c8ebdc81fb3d683fdb9](https://www.virustotal.com/gui/file/14e5194d98e72c8ebdc81fb3d683fdb9)|Win32 EXE|program|2020-11-25 23:39:29|Java(TM) Web Start Launcher|
+|[279a4b8045fe9d343fc71e127771d249](https://www.virustotal.com/gui/file/279a4b8045fe9d343fc71e127771d249)|Win32 EXE||2020-11-23 12:22:44|NvStreaming.exe|
+|[524909cb66848b1ee2987fdc0b69b451](https://www.virustotal.com/gui/file/524909cb66848b1ee2987fdc0b69b451)|Win32 EXE||2020-11-23 12:21:55|nvAppBar|
+|[b462d0915b565f11f9963641c1102d16](https://www.virustotal.com/gui/file/b462d0915b565f11f9963641c1102d16)|Win32 EXE||2020-11-23 12:19:20|NVUnistall|
+|[919d5caa8dc19df3fee7dd888a6eefe2](https://www.virustotal.com/gui/file/919d5caa8dc19df3fee7dd888a6eefe2)|Win32 EXE||2020-11-06 10:48:35|NvStreaming.exe|
+|[fb9a3c2a59c7ff226be7c0518186b8b3](https://www.virustotal.com/gui/file/fb9a3c2a59c7ff226be7c0518186b8b3)|Win32 EXE||2020-11-05 16:42:34|Java(TM) Web Start Launcher|
