@@ -671,3 +671,12 @@
 |[4638220ec2c6bc1406b5725c2d35edc3](https://www.virustotal.com/gui/file/4638220ec2c6bc1406b5725c2d35edc3)|Win64 DLL||2020-10-03 00:49:37|Product Key Helper|
 |[cca46fc64425364774e5d5db782ddf54](https://www.virustotal.com/gui/file/cca46fc64425364774e5d5db782ddf54)|Win64 DLL||2020-10-03 00:49:35|vmtools.dll|
 |[d37964a9f7f56aad9433676a6df9bd19](https://www.virustotal.com/gui/file/d37964a9f7f56aad9433676a6df9bd19)|Win64 DLL||2020-10-02 21:17:47|WINTRUST.DLL|
+|[71350559b82a839011886708dab1dd0e](https://www.virustotal.com/gui/file/71350559b82a839011886708dab1dd0e)|Win64 DLL|Wacatac|2021-12-16 09:16:17|jli.dll|
+|[cb39a7a69949a34df801d5035628e1b4](https://www.virustotal.com/gui/file/cb39a7a69949a34df801d5035628e1b4)|Win64 DLL|Wacatac|2021-12-13 13:08:52|c0ed7939945726b61100009b926917723fdc5f9b2df0be070f2a500b6edf161c.sample|
+|[c4b78cb3841eb56f217541240233fae0](https://www.virustotal.com/gui/file/c4b78cb3841eb56f217541240233fae0)|Win64 DLL||2021-12-09 06:43:12|SbieDll.dll|
+|[8f28b7c80d7f36b4500dc180a202be0c](https://www.virustotal.com/gui/file/8f28b7c80d7f36b4500dc180a202be0c)|Win64 DLL|program|2021-12-01 09:34:24|LIBCRYPTO-1_1-X64.DLL|
+|[948b9030c4886dc86b6c446e1776808a](https://www.virustotal.com/gui/file/948b9030c4886dc86b6c446e1776808a)|Win64 DLL||2021-12-01 09:29:18|LIBCRYPTO-1_1-X64.DLL|
+|[84b24e8aa584efcb329674a5b40a1173](https://www.virustotal.com/gui/file/84b24e8aa584efcb329674a5b40a1173)|Win64 DLL||2021-05-05 09:56:16|VBoxRT.bin|
+|[be8e40986b3157179cb30de12cd5d305](https://www.virustotal.com/gui/file/be8e40986b3157179cb30de12cd5d305)|Win64 DLL||2021-03-03 19:07:54|SHLWAPI|
+|[e817741543b7a2d3e1b192a64ff6cd9d](https://www.virustotal.com/gui/file/e817741543b7a2d3e1b192a64ff6cd9d)|Win64 DLL||2021-03-03 19:05:53|Hyper-V Host Compute Service Core Client Library|
+|[38467dab95ecf4227c74f36be99adfe6](https://www.virustotal.com/gui/file/38467dab95ecf4227c74f36be99adfe6)|Win32 DLL|Ursu|2015-07-11 18:09:25| |

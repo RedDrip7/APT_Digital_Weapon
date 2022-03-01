@@ -45,3 +45,4 @@
 |[c4f8671c1f00dab30f5f88d684af1927](https://www.virustotal.com/gui/file/c4f8671c1f00dab30f5f88d684af1927)|Win32 EXE|equationdrug|2009-03-07 02:20:28|msndsrv.sys|
 |[c3af66b9ce29efe5ee34e87b6e136e3a](https://www.virustotal.com/gui/file/c3af66b9ce29efe5ee34e87b6e136e3a)|Win32 EXE|equationdrug|2008-04-22 11:05:22|mscfg32.exe|
 |[752af597e6d9fd70396accc0b9013dbe](https://www.virustotal.com/gui/file/752af597e6d9fd70396accc0b9013dbe)|Win32 DLL||2006-08-24 09:48:08|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/EquationGroup/EquationLaserInstaller.bin|
+|[58b6696496450f254b1423ea018716dc](https://www.virustotal.com/gui/file/58b6696496450f254b1423ea018716dc)|ELF executable||2013-12-19 08:55:54|INITSE~1|

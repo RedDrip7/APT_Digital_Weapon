@@ -1758,3 +1758,5 @@
 |[7b81ea543bb57d2b6db1610d8b424e95](https://www.virustotal.com/gui/file/7b81ea543bb57d2b6db1610d8b424e95)|Win64 EXE|Nukesped|2021-06-17 16:55:25| |
 |[5c41cbf8a7620e10f158f6b70963d1cb](https://www.virustotal.com/gui/file/5c41cbf8a7620e10f158f6b70963d1cb)|Win64 EXE|Nukesped|2021-06-17 16:35:23| |
 |[91038ff04bf85c19e377aef3381e47f9](https://www.virustotal.com/gui/file/91038ff04bf85c19e377aef3381e47f9)|Win32 EXE|Graftor|2020-12-22 08:14:32|3817608083|
+|[b3a8c88297daecdb9b0ac54a3c107797](https://www.virustotal.com/gui/file/b3a8c88297daecdb9b0ac54a3c107797)|Win32 DLL|Nukesped|2021-07-01 01:52:58|ComparePlus|
+|[98151ba9f3e0a55bba16c58428b3a178](https://www.virustotal.com/gui/file/98151ba9f3e0a55bba16c58428b3a178)|Win64 DLL|Nukesped|2021-02-04 15:56:22|NppAStyle|
