@@ -103,3 +103,7 @@
 |[43529e54971a2302ae736c40f39d65df](https://www.virustotal.com/gui/file/43529e54971a2302ae736c40f39d65df)|Win32 DLL|PlugX|2020-09-13 22:58:44|C:\Users\<USER>\AppData\Local\Temp\hex.dll|
 |[c43de22826a424b2d24cf1b4b694ce07](https://www.virustotal.com/gui/file/c43de22826a424b2d24cf1b4b694ce07)|Win32 EXE|Graftor|2020-07-02 11:55:31|C:\Users\<USER>\AppData\Local\Temp\AdobeHelp.exe|
 |[c70d8dce46b4551133ecc58aed84bf0e](https://www.virustotal.com/gui/file/c70d8dce46b4551133ecc58aed84bf0e)|Win32 EXE||2016-11-04 11:34:34|Adobe CEF Helper.exe|
+|[69ab42012ddce428c73940dcf343910e](https://www.virustotal.com/gui/file/69ab42012ddce428c73940dcf343910e)|Win32 DLL||2022-02-28 15:21:12|C:\Users\user\AppData\Local\Temp\DocConvDll.dll|
+|[530ed2cbfc57b9e6ae6c3fb3a1ecde9e](https://www.virustotal.com/gui/file/530ed2cbfc57b9e6ae6c3fb3a1ecde9e)|Win32 EXE|agen|2022-01-28 12:15:01|c:\users\admini~1\appdata\local\temp\council conclusions on the european security situation\council conclusions on the european security situation.exe|
+|[2102d225508c1f8f488a3f1574a34759](https://www.virustotal.com/gui/file/2102d225508c1f8f488a3f1574a34759)|Win32 DLL||2022-01-27 12:55:31|C:\Users\user\AppData\Local\Temp\PotPlayer.dll|
+|[3c6173d8693510f6363b608c09feebb1](https://www.virustotal.com/gui/file/3c6173d8693510f6363b608c09feebb1)|Win32 EXE||2022-01-22 12:30:28|C:\Users\zhong\Desktop\XXwL7rv9_2022-03-24\vir\5851043B2C040FB3DCE45C23FB9F3E8AEFFF48E0438DEC7141999062D46C592D.exe|
