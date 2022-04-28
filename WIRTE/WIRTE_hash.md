@@ -25,3 +25,4 @@
 |[6e0faf7c0b6af78aab814ade6ab45508](https://www.virustotal.com/gui/file/6e0faf7c0b6af78aab814ade6ab45508)|XLS||2019-04-18 06:12:12|=?UTF-8?B?2YPYtNmBINij2LPZhdin2KEg2YTZhNiq2LTZitmK2YMueGxz?=|
 |[b2f8cce7b03e7aa70dab4a5d377375b5](https://www.virustotal.com/gui/file/b2f8cce7b03e7aa70dab4a5d377375b5)|TXT||2021-03-18 15:50:29|c:\windows\system32\sj8qwzpue.dll|
 |[a7802c9a4046edbcbe3f5a503de61867](https://www.virustotal.com/gui/file/a7802c9a4046edbcbe3f5a503de61867)|DOC||2021-03-18 09:56:45|تعميم رقم-1803202155.doc|
+|[314c947e3cf6a8d7b96152dcd8e8f9a7](https://www.virustotal.com/gui/file/314c947e3cf6a8d7b96152dcd8e8f9a7)|TXT||2022-04-24 20:20:20|payload_1.bin|

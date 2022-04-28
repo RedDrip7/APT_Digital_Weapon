@@ -744,3 +744,4 @@
 |[573247af55b015d48ab7f6d7d0d6f1db](https://www.virustotal.com/gui/file/573247af55b015d48ab7f6d7d0d6f1db)|Win64 EXE||2020-08-05 09:48:13|explorer|
 |[573247af55b015d48ab7f6d7d0d6f1db](https://www.virustotal.com/gui/file/573247af55b015d48ab7f6d7d0d6f1db)|Win64 EXE||2020-08-05 09:48:13|explorer|
 |[573247af55b015d48ab7f6d7d0d6f1db](https://www.virustotal.com/gui/file/573247af55b015d48ab7f6d7d0d6f1db)|Win64 EXE||2020-08-05 09:48:13|explorer|
+|[453525777e095d888039d9313284219d](https://www.virustotal.com/gui/file/453525777e095d888039d9313284219d)|ZIP||2020-08-19 18:19:14| |

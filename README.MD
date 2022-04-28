@@ -22,13 +22,11 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 
 
-
-
 |Groupname|Total|Update|data|  
 |:--|:--|:--|:--|  
-|Daxin|17|17|2022-03-30|  
-|DragonCastling|23|23|2022-03-30|  
-|Equation Group|47|1|2022-03-30|  
-|Mustang Panda|108|4|2022-03-30|  
-|UAC-0056|5|5|2022-03-30|  
-|UNC1151|14|14|2022-03-30|  
+|APT28|745|1|2022-04-28|  
+|Gamaredon Group|378|8|2022-04-28|  
+|Ghostwriter|9|5|2022-04-28|  
+|LAPSUS|69|69|2022-04-28|  
+|UAC-0056|6|1|2022-04-28|  
+|WIRTE|26|1|2022-04-28|  

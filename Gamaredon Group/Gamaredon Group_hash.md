@@ -370,3 +370,11 @@
 |[ddc38e9b53458ee58504a40fdc41df61](https://www.virustotal.com/gui/file/ddc38e9b53458ee58504a40fdc41df61)|DOC||2021-01-11 16:51:40|KzGdWvmSq.dot|
 |[e9294dcc4c80544efddd8bca7f1ffbe6](https://www.virustotal.com/gui/file/e9294dcc4c80544efddd8bca7f1ffbe6)|PPTX||2011-04-15 23:07:30|CleanGradient.thmx|
 |[5c23e3a3fbd7308d20e343f50e064211](https://www.virustotal.com/gui/file/5c23e3a3fbd7308d20e343f50e064211)|DOC|sLoad|2021-02-19 03:19:50|pretend.dot|
+|[d6fe6243a9b4293db6384f22524ff709](https://www.virustotal.com/gui/file/d6fe6243a9b4293db6384f22524ff709)|LNK||2022-04-07 11:37:52| |
+|[cde5cb3f8bb1d520a52d7e279155fc39](https://www.virustotal.com/gui/file/cde5cb3f8bb1d520a52d7e279155fc39)|RAR||2022-04-07 11:36:42|1275_07.04.2022 (1).rar|
+|[284aab4eada2fd522740315ee90efeed](https://www.virustotal.com/gui/file/284aab4eada2fd522740315ee90efeed)|RAR||2022-04-01 17:09:42|c:\windows\system32\voe0xp7sx.dll|
+|[6ac4153b9ca93b8eefd83e304d2e5f5b](https://www.virustotal.com/gui/file/6ac4153b9ca93b8eefd83e304d2e5f5b)|TXT|Banload|2022-04-01 09:07:14|1648795095-0f33aa52477b940001-v050pF.eml|
+|[7208e37192ad6f1d970a94d29ff02073](https://www.virustotal.com/gui/file/7208e37192ad6f1d970a94d29ff02073)|LNK||2022-04-01 07:10:25| |
+|[e1fe781714ecb763ccd1568f7fa11443](https://www.virustotal.com/gui/file/e1fe781714ecb763ccd1568f7fa11443)|RAR||2022-04-01 06:53:21|c:\windows\system32\aqvbyb994.dll|
+|[ab8bb3c1ff0c19358b5cd9867dbf2206](https://www.virustotal.com/gui/file/ab8bb3c1ff0c19358b5cd9867dbf2206)|LNK||2022-03-30 17:34:57| |
+|[7b20e3ac2a4ebf507f6c8358245d5db5](https://www.virustotal.com/gui/file/7b20e3ac2a4ebf507f6c8358245d5db5)|RAR||2022-03-30 17:32:39|c:\windows\system32\w7981vt9x.dll|
