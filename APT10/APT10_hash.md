@@ -680,3 +680,17 @@
 |[be8e40986b3157179cb30de12cd5d305](https://www.virustotal.com/gui/file/be8e40986b3157179cb30de12cd5d305)|Win64 DLL||2021-03-03 19:07:54|SHLWAPI|
 |[e817741543b7a2d3e1b192a64ff6cd9d](https://www.virustotal.com/gui/file/e817741543b7a2d3e1b192a64ff6cd9d)|Win64 DLL||2021-03-03 19:05:53|Hyper-V Host Compute Service Core Client Library|
 |[38467dab95ecf4227c74f36be99adfe6](https://www.virustotal.com/gui/file/38467dab95ecf4227c74f36be99adfe6)|Win32 DLL|Ursu|2015-07-11 18:09:25| |
+|[d98b1a64359a642458e5a139cb3d1673](https://www.virustotal.com/gui/file/d98b1a64359a642458e5a139cb3d1673)|Win32 DLL|Graftor|2022-03-17 21:31:12|d98b1a64359a642458e5a139cb3d1673.virus|
+|[e3a8cff9b7433f1c9fae085c1508797b](https://www.virustotal.com/gui/file/e3a8cff9b7433f1c9fae085c1508797b)|Win64 DLL|Wacatac|2022-03-15 04:22:51|UnityPlayer.dll|
+|[de8298f71f23715380b10b734cfff5b5](https://www.virustotal.com/gui/file/de8298f71f23715380b10b734cfff5b5)|Win32 DLL||2022-02-25 15:45:16|qbcore.dll|
+|[138534d493c9500dd7f47ccc15b8cae1](https://www.virustotal.com/gui/file/138534d493c9500dd7f47ccc15b8cae1)|Win32 DLL||2022-01-17 03:14:25|libcef.dll|
+|[0aaba9c6e1440e0ff5cf745ccd3fbc99](https://www.virustotal.com/gui/file/0aaba9c6e1440e0ff5cf745ccd3fbc99)|Win64 DLL||2022-01-04 07:11:27|LockDown.dll|
+|[9c484a033c7ccb896b6f3931e8018af5](https://www.virustotal.com/gui/file/9c484a033c7ccb896b6f3931e8018af5)|Win32 DLL|Graftor|2021-09-30 04:46:32|SetupEngine.dll|
+|[6fb6f26946ae00080e7cfe19a0b701df](https://www.virustotal.com/gui/file/6fb6f26946ae00080e7cfe19a0b701df)|Win64 DLL|program|2021-09-10 10:58:44|LockDown.dll.gbz|
+|[39c1b641bd2760d483f6dcaf8cbc96b4](https://www.virustotal.com/gui/file/39c1b641bd2760d483f6dcaf8cbc96b4)|Win32 DLL|Graftor|2020-12-15 17:26:33|39c1b641bd2760d483f6dcaf8cbc96b4.virus|
+|[7fa316f2947456eb2e7b1e4d56fbd30e](https://www.virustotal.com/gui/file/7fa316f2947456eb2e7b1e4d56fbd30e)|Win32 DLL|Zbot|2020-05-28 13:02:40|jli.dll|
+|[bf083eb6fe2e922a1185361c40dd7b53](https://www.virustotal.com/gui/file/bf083eb6fe2e922a1185361c40dd7b53)|Win32 DLL||2019-10-31 04:48:29|SetupEngine.dll|
+|[a7d98a8cc5a43c0f01cdf9cd6d9e558b](https://www.virustotal.com/gui/file/a7d98a8cc5a43c0f01cdf9cd6d9e558b)|Win32 DLL||2019-08-21 09:12:42|40f1d683e554cdd24d50d30c1c4dbe9630ef50ff4313ecc1eb5de94374a4398a.sample|
+|[13ff0529114ac397eb2d828d21df6268](https://www.virustotal.com/gui/file/13ff0529114ac397eb2d828d21df6268)|Win32 DLL||2019-04-04 14:30:14|c75c1a8b581bf144d549d7b0b991cd4631069c2925ade233d558a5173c09ffec.bin|
+|[bd153eedd51023f8c1532e7ca23b2001](https://www.virustotal.com/gui/file/bd153eedd51023f8c1532e7ca23b2001)|Win32 DLL||2019-03-13 02:40:21|7e45cd4c0785ef21ba3b7ee1780c5c5494b599c9bad2924924db2aed2e349483.bin|
+|[a8c1c359b17b3daaa6d5b11db21700d6](https://www.virustotal.com/gui/file/a8c1c359b17b3daaa6d5b11db21700d6)|Win32 DLL|occamy|2019-01-02 20:20:44|bf5d4df9eeb101e3b7b1e2d74c5642d8ea12f83b2d3d47044b8682a716b6cc1c.bin|

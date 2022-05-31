@@ -745,3 +745,5 @@
 |[573247af55b015d48ab7f6d7d0d6f1db](https://www.virustotal.com/gui/file/573247af55b015d48ab7f6d7d0d6f1db)|Win64 EXE||2020-08-05 09:48:13|explorer|
 |[573247af55b015d48ab7f6d7d0d6f1db](https://www.virustotal.com/gui/file/573247af55b015d48ab7f6d7d0d6f1db)|Win64 EXE||2020-08-05 09:48:13|explorer|
 |[453525777e095d888039d9313284219d](https://www.virustotal.com/gui/file/453525777e095d888039d9313284219d)|ZIP||2020-08-19 18:19:14| |
+|[636a4249104acaaf6d76d7409dc3cb2d](https://www.virustotal.com/gui/file/636a4249104acaaf6d76d7409dc3cb2d)|PLIST|sednit|2016-09-27 01:53:44|1f22e8f489abff004a3c47210a9642798e1c53efc9d6f333a1072af4b11d71ef.xml|
+|[368c912ea5463ead2ad4d35e4d3db640](https://www.virustotal.com/gui/file/368c912ea5463ead2ad4d35e4d3db640)|sh script|sednit|2016-09-27 01:51:33|.dat.nosync0420.xDZlxC.1056.dr|
