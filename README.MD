@@ -24,11 +24,19 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 |Groupname|Total|Update|data|  
 |:--|:--|:--|:--|  
-|APT10|694|14|2022-05-30|  
-|APT28|747|2|2022-05-30|  
-|APT33|122|2|2022-05-30|  
-|LAPSUS|70|1|2022-05-30|  
-|Sandworm|5|2|2022-05-30|  
-|SpacePirates|22|22|2022-05-30|  
-|TunnelVision|2|2|2022-05-30|  
-|UAC-0056|8|2|2022-05-30|  
+|APT23|80|20|2022-06-30|  
+|APT33|123|1|2022-06-30|  
+|Cunning Kitten|8|8|2022-06-30|  
+|Equation Group|50|3|2022-06-30|  
+|LAPSUS|80|10|2022-06-30|  
+|ModifiedElephant|79|1|2022-06-30|  
+|MosesStaff|5|1|2022-06-30|  
+|OilRig|112|1|2022-06-30|  
+|Roaming Mantis|5|5|2022-06-30|  
+|SpacePirates|24|2|2022-06-30|  
+|TA505|1132|113|2022-06-30|  
+|ToddyCat|11|11|2022-06-30|  
+|TunnelVision|3|1|2022-06-30|  
+|UAC-0056|10|2|2022-06-30|  
+|UNC3524|1|1|2022-06-30|  
+|WIRTE|27|1|2022-06-30|  

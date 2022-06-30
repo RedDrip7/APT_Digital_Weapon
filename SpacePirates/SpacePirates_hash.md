@@ -22,3 +22,5 @@
 |[823e689e34be362faeddb2bd8d32a05e](https://www.virustotal.com/gui/file/823e689e34be362faeddb2bd8d32a05e)|Win32 DLL||2019-10-29 00:34:23|XLSvcPlatform|
 |[80397808492e12b83e5c9f5467740fd7](https://www.virustotal.com/gui/file/80397808492e12b83e5c9f5467740fd7)|Win32 DLL|PlugX|2018-08-15 04:23:18| |
 |[fff3c03e6c455eaba70ec816a4439b95](https://www.virustotal.com/gui/file/fff3c03e6c455eaba70ec816a4439b95)|Win32 DLL||2017-06-07 09:20:14|9969fc3043ed2917_dat.dll|
+|[d2b60af1360508ca2728f06f45a3f931](https://www.virustotal.com/gui/file/d2b60af1360508ca2728f06f45a3f931)|Win32 EXE|PlugX|2021-11-29 21:44:01|051b08ef35a6122bd9ff75609ccd50d84793e5502a9e428a57f2bf688d21d1e9.bin|
+|[10b52c1ccaba52a52c991b05704bb12e](https://www.virustotal.com/gui/file/10b52c1ccaba52a52c991b05704bb12e)|Win32 DLL|PlugX|2018-08-11 04:53:15|5847c8b8f54c60db939b045d385aba0795880d92b00d28447d7d9293693f622b.bin|

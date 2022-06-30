@@ -126,3 +126,4 @@
 |[3f5329cf2a829f8840ba6a903f17a1bf](https://www.virustotal.com/gui/file/3f5329cf2a829f8840ba6a903f17a1bf)|Win32 EXE|Ursu|2017-01-18 05:50:56|Chrome Update.exe|
 |[eade8e280b5c372989a520e49b4a1aab](https://www.virustotal.com/gui/file/eade8e280b5c372989a520e49b4a1aab)|Win32 EXE|dynamer|2016-08-18 13:55:43| |
 |[710caf14c1417fe866ce084864c11b04](https://www.virustotal.com/gui/file/710caf14c1417fe866ce084864c11b04)|Win32 EXE|Wacatac|2016-08-17 18:51:17|file000_rr.exe|
+|[985797eb1a75f297359bf52aa7c27715](https://www.virustotal.com/gui/file/985797eb1a75f297359bf52aa7c27715)|TXT||2019-06-19 19:56:18|rr28x5ZY.txt|

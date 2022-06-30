@@ -70,3 +70,13 @@
 |[0bec248a61451e9a3fa5cbb6d5e4f8c1](https://www.virustotal.com/gui/file/0bec248a61451e9a3fa5cbb6d5e4f8c1)|Android||2016-11-15 15:54:19| |
 |[63dee4f66cbf66005645043b1b4cb162](https://www.virustotal.com/gui/file/63dee4f66cbf66005645043b1b4cb162)|Android|Bitrep|2015-10-20 15:05:28| |
 |[6484ce306a5fcbbb0e37b6ea41520536](https://www.virustotal.com/gui/file/6484ce306a5fcbbb0e37b6ea41520536)|Win64 DLL||2021-09-11 14:31:36|file#293773.scr|
+|[ac7da7f7d9510f0631ec34e923fe6fe1](https://www.virustotal.com/gui/file/ac7da7f7d9510f0631ec34e923fe6fe1)|Win64 EXE||2022-03-07 13:53:56| |
+|[88822823b9c5bf861fbdcd0f15f8d699](https://www.virustotal.com/gui/file/88822823b9c5bf861fbdcd0f15f8d699)|Win64 EXE|Generickdz|2022-03-07 13:04:35|dropper-v2.exe|
+|[e90568ece2a534b7b7ac96d2e429aa8a](https://www.virustotal.com/gui/file/e90568ece2a534b7b7ac96d2e429aa8a)|Win64 EXE||2022-03-07 13:01:25|dropper-v2.exe|
+|[489547521e5657f050995a5dab008575](https://www.virustotal.com/gui/file/489547521e5657f050995a5dab008575)|Win64 EXE|Generickdz|2022-03-07 13:00:27|dropper-v2.exe|
+|[e2e860102d86b66fca830989d6833a8c](https://www.virustotal.com/gui/file/e2e860102d86b66fca830989d6833a8c)|Win64 EXE|Wacatac|2022-03-07 06:44:16|dropper-v2.exe|
+|[4ba089b88198d0a07813e84c7d53acfb](https://www.virustotal.com/gui/file/4ba089b88198d0a07813e84c7d53acfb)|Win64 EXE|Generickdz|2022-03-07 06:42:45|dropper-v2.exe|
+|[1beceeaea89ad9f4f7b5ad12fce8b56d](https://www.virustotal.com/gui/file/1beceeaea89ad9f4f7b5ad12fce8b56d)|Win64 EXE|Wacatac|2022-03-07 06:42:01|dropper-v2.exe|
+|[9b5260d01aa0b452bed986b44c7749cc](https://www.virustotal.com/gui/file/9b5260d01aa0b452bed986b44c7749cc)|Win64 EXE||2022-03-07 06:12:21|dropper-v2.exe|
+|[78febe039aca9a238b87e82757abe7f8](https://www.virustotal.com/gui/file/78febe039aca9a238b87e82757abe7f8)|Win64 EXE||2022-03-07 01:19:52|new-dropper.exe|
+|[3e7e45cbacac7994232dc37b65fad1b2](https://www.virustotal.com/gui/file/3e7e45cbacac7994232dc37b65fad1b2)|Win64 EXE||2022-03-06 23:28:19|dropper-sample.exe|

@@ -47,3 +47,6 @@
 |[752af597e6d9fd70396accc0b9013dbe](https://www.virustotal.com/gui/file/752af597e6d9fd70396accc0b9013dbe)|Win32 DLL||2006-08-24 09:48:08|/media/freddie/Seagate Expansion Drive/aptmalware/SampleLibraryAUG2019/EquationGroup/EquationLaserInstaller.bin|
 |[58b6696496450f254b1423ea018716dc](https://www.virustotal.com/gui/file/58b6696496450f254b1423ea018716dc)|ELF executable||2013-12-19 08:55:54|INITSE~1|
 |[8f137a9100a9fcc8b512b3729878a373](https://www.virustotal.com/gui/file/8f137a9100a9fcc8b512b3729878a373)|ELF executable||2016-08-15 17:55:39|BUSURPER-2211-611.exe|
+|[6a4461af87371b89d240a34846a7bc64](https://www.virustotal.com/gui/file/6a4461af87371b89d240a34846a7bc64)|Win32 EXE|EquationDrug|2017-01-14 13:27:57|msrtdv.sys|
+|[6042ea9707316784fbc77a8b450e0991](https://www.virustotal.com/gui/file/6042ea9707316784fbc77a8b450e0991)|Win32 DLL|Zbot|2017-01-12 19:21:47|processinfo_Implant9x.dll|
+|[bdd2b462e050ef2fa7778526ea4a2a58](https://www.virustotal.com/gui/file/bdd2b462e050ef2fa7778526ea4a2a58)|Win32 DLL|Zbot|2017-01-12 15:31:50|/home/anes/Python-Github-Crawler/Repos/sk26mind/malware/Fuzzbunch/Resources/Ep/Plugins/Files/kill_Implant.dll|

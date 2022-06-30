@@ -60,3 +60,23 @@
 |[f9de4ccd73275eab6251ed0c736fc433](https://www.virustotal.com/gui/file/f9de4ccd73275eab6251ed0c736fc433)|Win32 DLL||2014-05-02 04:09:34|credriver.dll|
 |[1001e79098476cf9f11d35e2d8f6bf11](https://www.virustotal.com/gui/file/1001e79098476cf9f11d35e2d8f6bf11)|Win32 DLL|Banload|2013-11-14 20:39:39|e1480984daab1d275b99b8a2cd4013295b97392a|
 |[dcbc2de64289cd13a2ab3fe49dbb5bca](https://www.virustotal.com/gui/file/dcbc2de64289cd13a2ab3fe49dbb5bca)|Win32 EXE||2013-01-08 11:24:33|626f65d4d638437a_626f65d4d638437aaa8352fe06589165d52a91e0963c988348b00734b0a3419f.exe|
+|[8b7b602e05604f61685a2cbfc16313af](https://www.virustotal.com/gui/file/8b7b602e05604f61685a2cbfc16313af)|Win32 EXE|program|2022-04-01 02:12:28| |
+|[4949147393b623d3f99b858bc6467c06](https://www.virustotal.com/gui/file/4949147393b623d3f99b858bc6467c06)|Win32 DLL||2022-03-28 16:28:37|%TEMP%\1243187.tmp|
+|[64b9cf63f03eaab3959e20a2cd23b704](https://www.virustotal.com/gui/file/64b9cf63f03eaab3959e20a2cd23b704)|Win32 EXE||2022-03-26 20:26:54|D:\kboost\sample\kb_server\64b9cf63f03eaab3959e20a2cd23b704|
+|[7f8b4a962edea1dd9d552fbc907f76bb](https://www.virustotal.com/gui/file/7f8b4a962edea1dd9d552fbc907f76bb)|Win32 EXE||2022-03-26 04:46:09|dbe1cbbcb25acf2e9116a8ceb46b63e3f58ab8eb3231d08da4a5cfc8276830ac.bin|
+|[2a68a55b226abc4e7aa940471088ceab](https://www.virustotal.com/gui/file/2a68a55b226abc4e7aa940471088ceab)|Win64 EXE||2021-12-27 06:30:11|C:\Users\user\AppData\Local\Temp\TH3397.tmp|
+|[68a3198fd77a063f46a1d3cddb266f02](https://www.virustotal.com/gui/file/68a3198fd77a063f46a1d3cddb266f02)|Win64 EXE||2021-12-27 06:24:20|6acc9ece44d4458a43851bd6ee11a9d2b33ba095ad288f7f9140d33d25d25fbc.bin|
+|[87f62453c5b8d5bd8cc6d599f1326c43](https://www.virustotal.com/gui/file/87f62453c5b8d5bd8cc6d599f1326c43)|Win32 DLL||2021-11-08 02:39:42|8d4780b93a4ae808e73745ce99b18e1d5e867845e373bcfbafb6a87bda48cd34.bin|
+|[8ee94c4d4e13bf59524e1d3eb9c8c846](https://www.virustotal.com/gui/file/8ee94c4d4e13bf59524e1d3eb9c8c846)|Win32 EXE||2021-11-07 06:10:30|d93cf412dd78621d5eb877ac65ec18c0cb60a6a235598078ee0ea454eb245b8c.bin|
+|[fa9b9fbaf58ad3a1b83c6f98e67446c7](https://www.virustotal.com/gui/file/fa9b9fbaf58ad3a1b83c6f98e67446c7)|Win64 EXE||2021-04-21 12:44:52|9fdc678b76cec3189f1d0ad32f838de1c3a5ec1b0aca4ee9df4aa1c65ebe6c94.bin|
+|[fc7b582befae6a03830c47fa2a5a8a27](https://www.virustotal.com/gui/file/fc7b582befae6a03830c47fa2a5a8a27)|Win64 EXE|Razy|2021-04-21 11:41:25|C:\Users\home\Downloads\076a70f7bc47237c7c0cd8bd8f8644202007465f48ae769b0931984b40821be6|
+|[ca88c5d5f4409179b3820db7ce6b68fb](https://www.virustotal.com/gui/file/ca88c5d5f4409179b3820db7ce6b68fb)|Win64 EXE|Razy|2021-04-21 08:32:05|飞书文档解密器.exe|
+|[3de8c5952bf1147839399dde1eb05ce4](https://www.virustotal.com/gui/file/3de8c5952bf1147839399dde1eb05ce4)|Win64 DLL|Emotet|2021-04-17 04:38:56|c:\windows\system32\qstnbzg14.dll|
+|[2e8a8e03e82649d46c5deee2f54ce470](https://www.virustotal.com/gui/file/2e8a8e03e82649d46c5deee2f54ce470)|Win64 DLL||2021-04-16 07:01:13|c:\windows\system32\jzo5e4hgv.dll|
+|[760a41f6d3cac656d72d8f3d198ab9dd](https://www.virustotal.com/gui/file/760a41f6d3cac656d72d8f3d198ab9dd)|Win64 DLL||2021-04-16 05:37:10|123 - 副本.exe-|
+|[1e7df4685b1d4a6886215d2b0a8d9370](https://www.virustotal.com/gui/file/1e7df4685b1d4a6886215d2b0a8d9370)|Win64 EXE||2021-04-16 02:08:26|94b4387b9e7e715d1e10f11a5aa664e05b5e6989e5168605ddd2f68905dadb24.bin|
+|[87b97be92584f86dc58bf444dfe85f9d](https://www.virustotal.com/gui/file/87b97be92584f86dc58bf444dfe85f9d)|Win64 EXE|CobaltStrike|2021-04-15 13:09:42|update.exe|
+|[560545cddf3cba248702d0edb7fabff3](https://www.virustotal.com/gui/file/560545cddf3cba248702d0edb7fabff3)|Win64 EXE||2021-04-15 06:47:40|446a393266d27961c09217054182bb4003346cc402e62c700ac3e334f9bfa035.bin|
+|[4207445f6cddc36d4a22151db7432158](https://www.virustotal.com/gui/file/4207445f6cddc36d4a22151db7432158)|Win64 EXE|program|2021-04-14 18:20:01|腾讯文档解密器.exe|
+|[916e8b1a9d91f3649b33dd8bc0f09a8d](https://www.virustotal.com/gui/file/916e8b1a9d91f3649b33dd8bc0f09a8d)|Win32 EXE||2020-05-06 00:58:40|IP精灵安装包.exe|
+|[a517859ee63713fa364e960def411433](https://www.virustotal.com/gui/file/a517859ee63713fa364e960def411433)|Win32 EXE||2020-05-05 21:17:33|a517859ee63713fa364e960def411433.virus|

@@ -26,3 +26,4 @@
 |[b2f8cce7b03e7aa70dab4a5d377375b5](https://www.virustotal.com/gui/file/b2f8cce7b03e7aa70dab4a5d377375b5)|TXT||2021-03-18 15:50:29|c:\windows\system32\sj8qwzpue.dll|
 |[a7802c9a4046edbcbe3f5a503de61867](https://www.virustotal.com/gui/file/a7802c9a4046edbcbe3f5a503de61867)|DOC||2021-03-18 09:56:45|تعميم رقم-1803202155.doc|
 |[314c947e3cf6a8d7b96152dcd8e8f9a7](https://www.virustotal.com/gui/file/314c947e3cf6a8d7b96152dcd8e8f9a7)|TXT||2022-04-24 20:20:20|payload_1.bin|
+|[fecaee84b2fb27e9e68e6b9598609706](https://www.virustotal.com/gui/file/fecaee84b2fb27e9e68e6b9598609706)|DOCX|Valyria|2022-05-17 08:48:13|0.ppam|

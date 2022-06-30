@@ -8,3 +8,5 @@
 |[40b42005e9cfc5ea2a7cfc1ced975cbb](https://www.virustotal.com/gui/file/40b42005e9cfc5ea2a7cfc1ced975cbb)|TXT|Emotet|2022-03-29 19:29:21|a3bc72c0-7ab9-438d-6734-08da10dd83d9_55e1e8c0-c152-8f0e-2207-bf6b343db2c5.eml|
 |[eee2f9fab737eef8884e0b9432055edc](https://www.virustotal.com/gui/file/eee2f9fab737eef8884e0b9432055edc)|Win64 EXE||2022-04-24 14:03:56|eee2f9fab737eef8884e0b9432055edc.virus|
 |[1f4233970e9dead730db799b19b1d1f7](https://www.virustotal.com/gui/file/1f4233970e9dead730db799b19b1d1f7)|Win64 EXE||2022-04-22 15:49:06| |
+|[425e69953feda05c25bb5c922f23ac6e](https://www.virustotal.com/gui/file/425e69953feda05c25bb5c922f23ac6e)|Win64 EXE||2022-04-26 07:53:56|aca731d34c3e99d07af79847db369409e92e387520e44285608f18877b3a1d79.sample|
+|[539a3b02f2f29b8c62353f729e636813](https://www.virustotal.com/gui/file/539a3b02f2f29b8c62353f729e636813)|Win64 EXE||2022-04-26 07:37:22|C:\Users\<USER>\AppData\Local\Temp\base_update.exe|
