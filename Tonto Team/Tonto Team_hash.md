@@ -45,3 +45,11 @@
 |[7807036a74b811c28f1fbb167ef545e3](https://www.virustotal.com/gui/file/7807036a74b811c28f1fbb167ef545e3)|Win32 EXE||2012-07-30 02:51:34|004303399|
 |[172d68e10715b915ab3268db2174192b](https://www.virustotal.com/gui/file/172d68e10715b915ab3268db2174192b)|Win32 DLL|Graftor|2012-03-05 06:10:38|SvcHostDLL|
 |[b8fdfee08deee5ccc1794baf9ed553ce](https://www.virustotal.com/gui/file/b8fdfee08deee5ccc1794baf9ed553ce)|Win32 DLL|Graftor|2011-10-05 05:06:38|SvcHostDLL|
+|[2342bdd79ea84c4fa1b59d224f5a534e](https://www.virustotal.com/gui/file/2342bdd79ea84c4fa1b59d224f5a534e)|Win32 EXE||2022-07-15 14:03:43| |
+|[518439fc23cb0b4d21c7fd39484376ff](https://www.virustotal.com/gui/file/518439fc23cb0b4d21c7fd39484376ff)|unknown||2022-06-29 01:18:04|%TEMP%\dcnx18pwh.wmf|
+|[b8387fc571a8e79efab3e2cc343aae24](https://www.virustotal.com/gui/file/b8387fc571a8e79efab3e2cc343aae24)|RTF||2022-06-21 17:03:41|О_формировании_проекта_ПНС_2022_файл_отображен.doc|
+|[53f1c7dfad3925b7bd4c4559d93b34dd](https://www.virustotal.com/gui/file/53f1c7dfad3925b7bd4c4559d93b34dd)|RTF||2022-06-17 15:07:02|Анкетирование Агентства по делам государственной службы.rtf|
+|[83b8d4462566a23298ca38c418eeccde](https://www.virustotal.com/gui/file/83b8d4462566a23298ca38c418eeccde)|unknown||2022-06-17 12:06:09|%TEMP%\dcnx18pwh.wmf|
+|[28c96850223b9b578e2ed7a4b845bf03](https://www.virustotal.com/gui/file/28c96850223b9b578e2ed7a4b845bf03)|TXT|CVE-2018-0802|2022-05-16 11:30:20|1652326785-12b9de6170f5440001-IBffTn.eml|
+|[6560f5f22eb315da41df8652a772dbcd](https://www.virustotal.com/gui/file/6560f5f22eb315da41df8652a772dbcd)|RTF|CVE-2018-0802|2022-05-12 11:19:33|Please help to Check.doc|
+|[97e37999e460fa2f0d10c58d66926890](https://www.virustotal.com/gui/file/97e37999e460fa2f0d10c58d66926890)|Win32 DLL|PlugX|2021-12-18 16:16:11|%ALLUSERSPROFILE%\cannon\lbtserv.dll|

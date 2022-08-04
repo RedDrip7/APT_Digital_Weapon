@@ -378,3 +378,5 @@
 |[e1fe781714ecb763ccd1568f7fa11443](https://www.virustotal.com/gui/file/e1fe781714ecb763ccd1568f7fa11443)|RAR||2022-04-01 06:53:21|c:\windows\system32\aqvbyb994.dll|
 |[ab8bb3c1ff0c19358b5cd9867dbf2206](https://www.virustotal.com/gui/file/ab8bb3c1ff0c19358b5cd9867dbf2206)|LNK||2022-03-30 17:34:57| |
 |[7b20e3ac2a4ebf507f6c8358245d5db5](https://www.virustotal.com/gui/file/7b20e3ac2a4ebf507f6c8358245d5db5)|RAR||2022-03-30 17:32:39|c:\windows\system32\w7981vt9x.dll|
+|[b307698a3b5134ea0708ed2222fb42f2](https://www.virustotal.com/gui/file/b307698a3b5134ea0708ed2222fb42f2)|RAR||2022-07-20 15:08:11|full-decode|
+|[4489ab1c55dd32ea26528d97897e71ba](https://www.virustotal.com/gui/file/4489ab1c55dd32ea26528d97897e71ba)|HTML||2022-07-20 11:45:29|8e61bacc1d524885ea5f0bcdaabbfd56c2234ea62c10a9442d65444cab934847.bin|

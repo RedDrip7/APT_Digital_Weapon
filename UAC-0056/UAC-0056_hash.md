@@ -10,3 +10,14 @@
 |[1f4233970e9dead730db799b19b1d1f7](https://www.virustotal.com/gui/file/1f4233970e9dead730db799b19b1d1f7)|Win64 EXE||2022-04-22 15:49:06| |
 |[425e69953feda05c25bb5c922f23ac6e](https://www.virustotal.com/gui/file/425e69953feda05c25bb5c922f23ac6e)|Win64 EXE||2022-04-26 07:53:56|aca731d34c3e99d07af79847db369409e92e387520e44285608f18877b3a1d79.sample|
 |[539a3b02f2f29b8c62353f729e636813](https://www.virustotal.com/gui/file/539a3b02f2f29b8c62353f729e636813)|Win64 EXE||2022-04-26 07:37:22|C:\Users\<USER>\AppData\Local\Temp\base_update.exe|
+|[169b38e089926371592a5ef66ae5c52b](https://www.virustotal.com/gui/file/169b38e089926371592a5ef66ae5c52b)|Win32 EXE|Tiggre|2022-07-11 23:01:38|SkypeMView.exe|
+|[bcc3a8f3dd5221bb296eecaa2037eafb](https://www.virustotal.com/gui/file/bcc3a8f3dd5221bb296eecaa2037eafb)|XLS||2022-07-11 11:12:29|цСЛЮМЁРЮПМЮ ЙЮРЮЯРПНТЮ сЙПЮ©МХ Г 24 КЧРНЦН 2022 ПНЙС (1).xls|
+|[08ffec637c2cbf33bafe340c3adb782b](https://www.virustotal.com/gui/file/08ffec637c2cbf33bafe340c3adb782b)|XLS||2022-07-09 23:40:20|Report on the humanitarian situation in Ukraine since February 24, 2022.xls|
+|[52c5b5e9a2ec443769dba5f44c83d7de](https://www.virustotal.com/gui/file/52c5b5e9a2ec443769dba5f44c83d7de)|Win32 EXE|Tiggre|2022-07-09 23:15:59|Office.exe|
+|[55c2d318b760e61e6fff271eeb0a19d0](https://www.virustotal.com/gui/file/55c2d318b760e61e6fff271eeb0a19d0)|XLS||2022-06-27 15:22:54|C:\Users\user\Desktop\spreadsheet.xls|
+|[fe5b4ae0ff040c011e9aae7d00263f0e](https://www.virustotal.com/gui/file/fe5b4ae0ff040c011e9aae7d00263f0e)|XLS||2022-06-27 15:14:53|dttcodexgigas.7035154ecc8766c8896bfc4b13aec1a1f50a9aa2|
+|[b8dcde0bd000f4d90ea338b53bfe55f7](https://www.virustotal.com/gui/file/b8dcde0bd000f4d90ea338b53bfe55f7)|XLS||2022-06-27 14:58:29|C:\Users\user\Desktop\accounts.xls|
+|[0ac81d101e267c297916b29724bbf3a7](https://www.virustotal.com/gui/file/0ac81d101e267c297916b29724bbf3a7)|XLS||2022-06-27 13:29:19|C:\Users\user\Desktop\trix.xls|
+|[623b4e71e976539e15f3b4605487a6a2](https://www.virustotal.com/gui/file/623b4e71e976539e15f3b4605487a6a2)|XLS||2022-06-27 13:28:52|C:\Users\user\Desktop\accounts.xls|
+|[865ac7a08e76aeb18be7e5a86514c011](https://www.virustotal.com/gui/file/865ac7a08e76aeb18be7e5a86514c011)|XLS||2022-06-27 10:36:56|fe3bc87b433e51e0713d80e379a61916ceb6007648b0fde1c44491ba44dc1cb3.bin|
+|[d25e91832f81fee791658810a9db28e3](https://www.virustotal.com/gui/file/d25e91832f81fee791658810a9db28e3)|Win32 EXE||2022-06-27 10:11:20|DataSource|

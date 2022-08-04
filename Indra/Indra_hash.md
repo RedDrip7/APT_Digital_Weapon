@@ -14,3 +14,5 @@
 |[6f78d83ef0471cc783e29d8051e24f67](https://www.virustotal.com/gui/file/6f78d83ef0471cc783e29d8051e24f67)|TXT||2020-02-15 12:47:01|647194-tmp5S32.vbs|
 |[685632a50d8c514a09882f24165741c3](https://www.virustotal.com/gui/file/685632a50d8c514a09882f24165741c3)|Win32 EXE||2020-02-15 12:24:49|C:\Users\andre\Desktop\MALWARE TEST\d71cc6337efb5cbbb400d57c8fdeb48d7af12a292fa87a55e8705d18b09f516e.exe|
 |[bd5acbbfc5c2c8b284ec389207af5759](https://www.virustotal.com/gui/file/bd5acbbfc5c2c8b284ec389207af5759)|Win32 EXE||2020-01-14 13:24:42|Indra2_browsingExe.exe|
+|[b86678403d77efbdba3d2b1c93500dfc](https://www.virustotal.com/gui/file/b86678403d77efbdba3d2b1c93500dfc)|Win32 EXE|Tiggre|2022-06-27 09:17:00|29035d871b950988684d76bc2994452c25ccaa0b70c8bfadce0f299c194e0350.exe|
+|[837e9bb07d884385d077d4ea77797df8](https://www.virustotal.com/gui/file/837e9bb07d884385d077d4ea77797df8)|Win32 EXE|Tiggre|2022-06-27 06:34:20|c:\windows\system32\i1b5kobi5.dll|

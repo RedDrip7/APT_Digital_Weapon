@@ -21,22 +21,16 @@ We will keep updating this project and hope this could help the security communi
 If you find an error, please contact us at ti_support@qianxin.com and we’ll try to improve the IOCs.
 
 
-
+ 
 |Groupname|Total|Update|data|  
 |:--|:--|:--|:--|  
-|APT23|80|20|2022-06-30|  
-|APT33|123|1|2022-06-30|  
-|Cunning Kitten|8|8|2022-06-30|  
-|Equation Group|50|3|2022-06-30|  
-|LAPSUS|80|10|2022-06-30|  
-|ModifiedElephant|79|1|2022-06-30|  
-|MosesStaff|5|1|2022-06-30|  
-|OilRig|112|1|2022-06-30|  
-|Roaming Mantis|5|5|2022-06-30|  
-|SpacePirates|24|2|2022-06-30|  
-|TA505|1132|113|2022-06-30|  
-|ToddyCat|11|11|2022-06-30|  
-|TunnelVision|3|1|2022-06-30|  
-|UAC-0056|10|2|2022-06-30|  
-|UNC3524|1|1|2022-06-30|  
-|WIRTE|27|1|2022-06-30|  
+|APT-Q-42|1|1|2022-08-03|  
+|Earth Wendigo|12|12|2022-08-03|  
+|eGobbler|2|2|2022-08-03|  
+|Gamaredon Group|380|2|2022-08-03|  
+|Indra|16|2|2022-08-03|  
+|KNOTWEED|15|15|2022-08-03|  
+|Tonto Team|53|8|2022-08-03|  
+|UAC-0056|21|11|2022-08-03|  
+|UNC2589|2|2|2022-08-03|  
+|WIRTE|32|5|2022-08-03|  

@@ -27,3 +27,8 @@
 |[a7802c9a4046edbcbe3f5a503de61867](https://www.virustotal.com/gui/file/a7802c9a4046edbcbe3f5a503de61867)|DOC||2021-03-18 09:56:45|تعميم رقم-1803202155.doc|
 |[314c947e3cf6a8d7b96152dcd8e8f9a7](https://www.virustotal.com/gui/file/314c947e3cf6a8d7b96152dcd8e8f9a7)|TXT||2022-04-24 20:20:20|payload_1.bin|
 |[fecaee84b2fb27e9e68e6b9598609706](https://www.virustotal.com/gui/file/fecaee84b2fb27e9e68e6b9598609706)|DOCX|Valyria|2022-05-17 08:48:13|0.ppam|
+|[b33f01b84da89d121b349e66e78256c2](https://www.virustotal.com/gui/file/b33f01b84da89d121b349e66e78256c2)|TXT||2022-07-02 21:33:40|payload_1.bin|
+|[5d7383ac11b0a53051c93c41a7be7f8d](https://www.virustotal.com/gui/file/5d7383ac11b0a53051c93c41a7be7f8d)|FPX|Valyria|2022-07-02 19:15:23| |
+|[8ba9ed3005407fc8a85b4db88c7e1c0a](https://www.virustotal.com/gui/file/8ba9ed3005407fc8a85b4db88c7e1c0a)|DOCX|Valyria|2022-06-17 01:38:00| |
+|[4e029394bb0ce6fdeedaf90487ea7434](https://www.virustotal.com/gui/file/4e029394bb0ce6fdeedaf90487ea7434)|FPX|Valyria|2022-03-23 11:05:31| |
+|[355707f02ca7900f12d58b72f80096ca](https://www.virustotal.com/gui/file/355707f02ca7900f12d58b72f80096ca)|DOCX|Valyria|2022-03-23 11:02:50|%D8%A7%D9%84%D9%88%D8%B6%D8%B9%20%D8%A7%D9%84%D8%B1%D8%A7%D9%87%D9%86%20%D9%88%D8%A7%D8%AA%D8%AC%D8%A7%D9%87%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84.ppam|
