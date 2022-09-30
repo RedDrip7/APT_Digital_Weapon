@@ -80,3 +80,7 @@
 |[9b5260d01aa0b452bed986b44c7749cc](https://www.virustotal.com/gui/file/9b5260d01aa0b452bed986b44c7749cc)|Win64 EXE||2022-03-07 06:12:21|dropper-v2.exe|
 |[78febe039aca9a238b87e82757abe7f8](https://www.virustotal.com/gui/file/78febe039aca9a238b87e82757abe7f8)|Win64 EXE||2022-03-07 01:19:52|new-dropper.exe|
 |[3e7e45cbacac7994232dc37b65fad1b2](https://www.virustotal.com/gui/file/3e7e45cbacac7994232dc37b65fad1b2)|Win64 EXE||2022-03-06 23:28:19|dropper-sample.exe|
+|[461e8a6b49593dc2734a2778d1e750b5](https://www.virustotal.com/gui/file/461e8a6b49593dc2734a2778d1e750b5)|Win64 EXE||2022-08-25 12:06:18|461e8a6b49593dc2734a2778d1e750b5.virus|
+|[5f5874a362997605c95dd5c0c4a257aa](https://www.virustotal.com/gui/file/5f5874a362997605c95dd5c0c4a257aa)|Win64 EXE||2022-08-25 12:05:44|5f5874a362997605c95dd5c0c4a257aa.virus|
+|[5f482e859ad552d677a7b141b951fb59](https://www.virustotal.com/gui/file/5f482e859ad552d677a7b141b951fb59)|Win64 EXE||2022-08-25 12:05:43|5f482e859ad552d677a7b141b951fb59.virus|
+|[d73b3d865405bc7f8bfbdf91635f6a05](https://www.virustotal.com/gui/file/d73b3d865405bc7f8bfbdf91635f6a05)|Win64 EXE||2022-08-25 12:05:22|exploit_64_exe|

@@ -53,3 +53,4 @@
 |[28c96850223b9b578e2ed7a4b845bf03](https://www.virustotal.com/gui/file/28c96850223b9b578e2ed7a4b845bf03)|TXT|CVE-2018-0802|2022-05-16 11:30:20|1652326785-12b9de6170f5440001-IBffTn.eml|
 |[6560f5f22eb315da41df8652a772dbcd](https://www.virustotal.com/gui/file/6560f5f22eb315da41df8652a772dbcd)|RTF|CVE-2018-0802|2022-05-12 11:19:33|Please help to Check.doc|
 |[97e37999e460fa2f0d10c58d66926890](https://www.virustotal.com/gui/file/97e37999e460fa2f0d10c58d66926890)|Win32 DLL|PlugX|2021-12-18 16:16:11|%ALLUSERSPROFILE%\cannon\lbtserv.dll|
+|[341b5b4c5250098421d16030386caf98](https://www.virustotal.com/gui/file/341b5b4c5250098421d16030386caf98)|RTF||2022-05-17 13:53:29|zbetcheckin_tracker_Application-form-Sixmonth-workshop-2022V1.doc|

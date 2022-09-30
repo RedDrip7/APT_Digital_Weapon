@@ -378,3 +378,6 @@
 |[386091b299cfbe9b95034b21be7aa44c](https://www.virustotal.com/gui/file/386091b299cfbe9b95034b21be7aa44c)|Win32 EXE|Injecto|2015-02-25 03:19:03|libgmodule-2.0-0|
 |[26e0b9a97a9448f2c6cccfd1003e0cb0](https://www.virustotal.com/gui/file/26e0b9a97a9448f2c6cccfd1003e0cb0)|Win32 EXE|Injecto|2015-02-09 06:52:41|libgmodule-2.0-0|
 |[05f34b09b28e771c99b8578f8a4324ce](https://www.virustotal.com/gui/file/05f34b09b28e771c99b8578f8a4324ce)|Win32 EXE|Injecto|2015-01-29 05:52:50|libgmodule-2.0-0|
+|[90064458c8f1a9aed5a8130e081c0d9e](https://www.virustotal.com/gui/file/90064458c8f1a9aed5a8130e081c0d9e)|ELF executable||2022-05-19 08:12:48|/a.out|
+|[71dace2815f4ef293d58ebf00057bbe6](https://www.virustotal.com/gui/file/71dace2815f4ef293d58ebf00057bbe6)|ELF executable||2022-05-19 08:09:25|/ttl|
+|[c47251800c76be5973823d982c52ea4f](https://www.virustotal.com/gui/file/c47251800c76be5973823d982c52ea4f)|ELF executable||2022-03-08 19:37:18|dropped.elf|

@@ -42,3 +42,10 @@
 |[bd0a6fe7a852fdd61c1da37cf99103d2](https://www.virustotal.com/gui/file/bd0a6fe7a852fdd61c1da37cf99103d2)|Win32 EXE||2015-09-01 22:46:15|Wextract|
 |[3d67ce57aab4f7f917cf87c724ed7dab](https://www.virustotal.com/gui/file/3d67ce57aab4f7f917cf87c724ed7dab)|Win32 EXE||2019-10-03 11:00:25|%APPDATA%\pdfreader\pdfreader.exe|
 |[542128ab98bda5ea139b169200a50bce](https://www.virustotal.com/gui/file/542128ab98bda5ea139b169200a50bce)|ZIP||2019-10-03 07:14:22|pdfreader.zip|
+|[7dcfaab9dc2266356739ec30b2f0d0b2](https://www.virustotal.com/gui/file/7dcfaab9dc2266356739ec30b2f0d0b2)|Win32 DLL||2022-08-15 17:52:09|LiveLib.dll|
+|[ccfb3ba3329e02641c2ed075eb88070a](https://www.virustotal.com/gui/file/ccfb3ba3329e02641c2ed075eb88070a)|Win32 EXE||2022-02-07 08:17:33|EmailDownloader.exe|
+|[a1d378111335d450769049446df79983](https://www.virustotal.com/gui/file/a1d378111335d450769049446df79983)|Win32 EXE||2022-02-07 08:14:47|EmailDownloader.exe|
+|[3a62b26311583a23767c35d56b95175d](https://www.virustotal.com/gui/file/3a62b26311583a23767c35d56b95175d)|Win32 EXE||2021-11-01 07:35:31|EmailDownloader.exe|
+|[10f5561b7515bc0d66916bef04b63dae](https://www.virustotal.com/gui/file/10f5561b7515bc0d66916bef04b63dae)|Win32 EXE||2021-02-07 09:56:57|EmailDownloader.exe|
+|[5c91c1d833173f6ae599ef1d4133f235](https://www.virustotal.com/gui/file/5c91c1d833173f6ae599ef1d4133f235)|Win32 EXE||2021-01-26 05:35:31|EmailDownloader.exe|
+|[45c3592373ba9e5f8f23c6b30fb4d2e4](https://www.virustotal.com/gui/file/45c3592373ba9e5f8f23c6b30fb4d2e4)|Win32 EXE||2021-01-12 09:59:14|EmailDownloader.exe|

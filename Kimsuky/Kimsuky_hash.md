@@ -247,3 +247,8 @@
 |[b3ed33cf6d37e45b013afc4c6bbb84d9](https://www.virustotal.com/gui/file/b3ed33cf6d37e45b013afc4c6bbb84d9)|Win32 EXE|Zbot|2017-05-23 06:06:49|igfxpm.exe|
 |[bb9641441dbc300939077bc3a0b60846](https://www.virustotal.com/gui/file/bb9641441dbc300939077bc3a0b60846)|Win32 EXE|Nukesped|2016-11-02 21:36:03|bb9641441dbc300939077bc3a0b60846.virus|
 |[c78523f37f856d9743638ce1b0128fcd](https://www.virustotal.com/gui/file/c78523f37f856d9743638ce1b0128fcd)|Win32 EXE|Nukesped|2016-10-01 02:06:12| |
+|[dae0efd29230feab95f46ee20030a425](https://www.virustotal.com/gui/file/dae0efd29230feab95f46ee20030a425)|DOCX||2022-08-18 06:41:13|1.pptx|
+|[9c2434cbfa7e6ff49c67bfc74a6bf7bc](https://www.virustotal.com/gui/file/9c2434cbfa7e6ff49c67bfc74a6bf7bc)|FPX||2022-08-09 15:40:51|unknown|
+|[80e5fc84e30c208fb4d0e71046c26b11](https://www.virustotal.com/gui/file/80e5fc84e30c208fb4d0e71046c26b11)|FPX||2022-08-09 15:37:18|unknown|
+|[36e6f04777e1bbdc719a3adc7d842586](https://www.virustotal.com/gui/file/36e6f04777e1bbdc719a3adc7d842586)|FPX||2022-08-09 15:35:38|unknown|
+|[a7a6a36e6dbe3816209786f4e04a2936](https://www.virustotal.com/gui/file/a7a6a36e6dbe3816209786f4e04a2936)|FPX||2022-08-09 15:33:20|unknown|
