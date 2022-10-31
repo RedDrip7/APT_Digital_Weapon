@@ -22,25 +22,10 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 
 
+
 |Groupname|Total|Update|data|  
-|:--|:--|:--|:--|  
-|APT-Q-42|2|1|2022-09-29|  
-|APT31|14|7|2022-09-29|  
-|APT42|5|5|2022-09-29|  
-|BlackTech|381|3|2022-09-29|  
-|Charming Kitten|49|7|2022-09-29|  
-|DEV-0861|1|1|2022-09-29|  
-|FIN13|15|3|2022-09-29|  
-|IceFog|145|23|2022-09-29|  
-|Kasablanka|9|9|2022-09-29|  
-|Kimsuky|254|5|2022-09-29|  
-|LAPSUS|84|4|2022-09-29|  
-|murenshark|7|7|2022-09-29|  
-|SpacePirates|27|3|2022-09-29|  
-|TA423|10|10|2022-09-29|  
-|Tonto Team|54|1|2022-09-29|  
-|TunnelVision|4|1|2022-09-29|  
-|UNC2596|12|12|2022-09-29|  
-|UNC3890|15|15|2022-09-29|  
-|WIRTE|33|1|2022-09-29|  
-|worok|1|1|2022-09-29|  
+|:--|:--|:--|:--| 
+|APT42|6|1|2022-10-31|  
+|POLONIUM|1|1|2022-10-31|  
+|Taidoor|849|838|2022-10-31|  
+|Witchetty|11|11|2022-10-31|  

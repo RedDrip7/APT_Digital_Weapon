@@ -5,3 +5,4 @@
 |[df02a8a7cb2afb80cc2b789d96f02715](https://www.virustotal.com/gui/file/df02a8a7cb2afb80cc2b789d96f02715)|Win32 EXE||2017-10-13 16:17:08|diag.exe|
 |[da7d37bfb899a0094995944d4c5e2f21](https://www.virustotal.com/gui/file/da7d37bfb899a0094995944d4c5e2f21)|Win32 EXE||2017-10-12 19:24:49|diag.exe|
 |[335849d8fb13a4a189ba92af9bdf5d1d](https://www.virustotal.com/gui/file/335849d8fb13a4a189ba92af9bdf5d1d)|Win32 EXE||2017-10-12 07:21:20|/|
+|[9dd30569aaf57d6115e1d181b78df6b5](https://www.virustotal.com/gui/file/9dd30569aaf57d6115e1d181b78df6b5)|Win32 DLL||2016-04-25 06:05:48|SilentUploader.dll|
