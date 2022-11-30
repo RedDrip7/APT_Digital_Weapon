@@ -22,10 +22,9 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 
 
-
+ 
 |Groupname|Total|Update|data|  
-|:--|:--|:--|:--| 
-|APT42|6|1|2022-10-31|  
-|POLONIUM|1|1|2022-10-31|  
-|Taidoor|849|838|2022-10-31|  
-|Witchetty|11|11|2022-10-31|  
+|:--|:--|:--|:--|  
+|OPERA1ER|13|13|2022-11-30|  
+|UNC3524|2|1|2022-11-30|  
+|UNC4034|4|4|2022-11-30|  
