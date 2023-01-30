@@ -534,3 +534,13 @@
 |[d2a9b362fdf56c10bb89c8164a779601](https://www.virustotal.com/gui/file/d2a9b362fdf56c10bb89c8164a779601)|Android||2020-09-06 04:47:06|d2a9b362fdf56c10bb89c8164a779601.virus|
 |[f6b028ccc8a872ad5eb3d9a36020adac](https://www.virustotal.com/gui/file/f6b028ccc8a872ad5eb3d9a36020adac)|Android||2020-09-15 16:28:06| |
 |[2d73bb3ac2625fda94e5da8d8e79cae3](https://www.virustotal.com/gui/file/2d73bb3ac2625fda94e5da8d8e79cae3)|Android|Wacatac|2020-09-15 16:26:20| |
+|[f17972f11a9208c27157b8b0444bd5cd](https://www.virustotal.com/gui/file/f17972f11a9208c27157b8b0444bd5cd)|Win32 EXE||2022-12-10 05:18:42|solaris1.exe|
+|[3c1e58aa82a4c852dd9d1ae65b3deea2](https://www.virustotal.com/gui/file/3c1e58aa82a4c852dd9d1ae65b3deea2)|LNK||2022-12-08 07:22:59| |
+|[6fcd88bf85f8f37d46554ececf0ee457](https://www.virustotal.com/gui/file/6fcd88bf85f8f37d46554ececf0ee457)|ZIP||2022-12-08 07:22:03|11222022.zip|
+|[9e0ada7e94c77f8ea1859a9d9bf358cb](https://www.virustotal.com/gui/file/9e0ada7e94c77f8ea1859a9d9bf358cb)|Win32 EXE||2022-12-06 02:39:15|solaris.exe|
+|[cdc05945a7ea412d925a85bfd2a1516d](https://www.virustotal.com/gui/file/cdc05945a7ea412d925a85bfd2a1516d)|Win32 EXE||2022-11-26 22:27:35|solaris.exe|
+|[83757817e67dea0d083c7952a94b161d](https://www.virustotal.com/gui/file/83757817e67dea0d083c7952a94b161d)|Win32 EXE||2022-11-26 21:38:47|solaris1.exe|
+|[0f8325222579a7adfc56d8dd3f6db6d7](https://www.virustotal.com/gui/file/0f8325222579a7adfc56d8dd3f6db6d7)|Win32 EXE||2022-11-23 20:10:05|sigma.exe|
+|[af6b7d55b63af0675991843dc380af39](https://www.virustotal.com/gui/file/af6b7d55b63af0675991843dc380af39)|Win32 EXE||2022-11-23 19:55:29|system.exe|
+|[06a0ab682e17eefb8d938a99d893470f](https://www.virustotal.com/gui/file/06a0ab682e17eefb8d938a99d893470f)|Win32 EXE||2022-11-22 17:42:06|solaris.exe|
+|[81853396507d34d5e796c33a228ccae7](https://www.virustotal.com/gui/file/81853396507d34d5e796c33a228ccae7)|Win32 EXE||2022-03-29 10:33:40|imeg.exe|

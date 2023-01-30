@@ -23,8 +23,16 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 
  
+
+
 |Groupname|Total|Update|data|  
 |:--|:--|:--|:--|  
-|OPERA1ER|13|13|2022-11-30|  
-|UNC3524|2|1|2022-11-30|  
-|UNC4034|4|4|2022-11-30|  
+|C-Major|550|10|2023-01-29|  
+|FIN7|548|4|2023-01-29|  
+|Gamaredon Group|520|140|2023-01-29|  
+|NoName057|9|9|2023-01-29|  
+|OPERA1ER|30|17|2023-01-29|  
+|Saaiwc|2|2|2023-01-29|  
+|TA505|1149|17|2023-01-29|  
+|TunnelVision|7|3|2023-01-29|  
+|UNC4166|1|1|2023-01-29|  

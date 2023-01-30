@@ -13,3 +13,20 @@
 |[cfbac2be66ebfe0a9324d188199c0de2](https://www.virustotal.com/gui/file/cfbac2be66ebfe0a9324d188199c0de2)|Win64 EXE||2019-04-15 07:55:27|mimikatz|
 |[52e666a32d0847b416b66ad9aa98bbed](https://www.virustotal.com/gui/file/52e666a32d0847b416b66ad9aa98bbed)|Win32 EXE||2019-03-28 14:57:50|C:\Users\h-dah\Desktop\Advanced_IP_Scanner_2.5.3850.exe|
 |[ce5ac0502ff412be598914c12babfb03](https://www.virustotal.com/gui/file/ce5ac0502ff412be598914c12babfb03)|Win32 EXE||2015-12-03 23:07:45|rkfree_setup|
+|[55e3025122ba322bb9c5fc881ad05a92](https://www.virustotal.com/gui/file/55e3025122ba322bb9c5fc881ad05a92)|Win32 EXE||2022-10-27 13:17:05|SophosSetup.exe|
+|[323a7cd777a42a039dbed33327b9aa81](https://www.virustotal.com/gui/file/323a7cd777a42a039dbed33327b9aa81)|Win32 EXE||2022-10-27 13:05:20|ca1.exe|
+|[0d0d400fbe0a573e864effaa4a119695](https://www.virustotal.com/gui/file/0d0d400fbe0a573e864effaa4a119695)|Win32 EXE||2022-10-25 11:31:19|ca1.exe|
+|[0e25c80720d1ecfcd800c665c5c1e5bd](https://www.virustotal.com/gui/file/0e25c80720d1ecfcd800c665c5c1e5bd)|Win32 EXE||2022-08-22 16:26:00|0e25c80720d1ecfcd800c665c5c1e5bd.virus|
+|[a87790823aa81b4a6b79cbf314f59877](https://www.virustotal.com/gui/file/a87790823aa81b4a6b79cbf314f59877)|Win32 EXE||2022-08-19 20:25:31|a87790823aa81b4a6b79cbf314f59877.virus|
+|[4dcc8b1dd2b3895dd93526c6c9f3ac47](https://www.virustotal.com/gui/file/4dcc8b1dd2b3895dd93526c6c9f3ac47)|Win32 EXE||2022-08-19 14:47:04|delfunktionerne.exe|
+|[414711bb7346e89ba0b8c05953291926](https://www.virustotal.com/gui/file/414711bb7346e89ba0b8c05953291926)|Win32 EXE||2022-08-10 21:00:18|414711bb7346e89ba0b8c05953291926.virus|
+|[0338d954b180e1af47132324cc34d0a5](https://www.virustotal.com/gui/file/0338d954b180e1af47132324cc34d0a5)|Win32 EXE||2022-08-04 03:00:19|ca1.exe|
+|[84ca1a201ac9915bd6b675ba7d249141](https://www.virustotal.com/gui/file/84ca1a201ac9915bd6b675ba7d249141)|Win32 EXE||2022-08-03 15:14:14|ca1.exe|
+|[7f03610634acbccec9eb7d7073f612a7](https://www.virustotal.com/gui/file/7f03610634acbccec9eb7d7073f612a7)|Win32 EXE||2022-08-02 21:28:59|f276c6a25d6b865c6202978f1d409e8b74e063263eab517f249cf6d3ad3fae4a.exe|
+|[8b19797280e59af40394305c5d722b12](https://www.virustotal.com/gui/file/8b19797280e59af40394305c5d722b12)|Win32 EXE||2022-08-02 17:30:09|unknown|
+|[bf779d78848fc2a2f7e5647e863ab4d5](https://www.virustotal.com/gui/file/bf779d78848fc2a2f7e5647e863ab4d5)|Win32 EXE||2022-08-02 04:34:49|ca1.exe|
+|[f50cf1be6ef5f9e0e62256764a465afb](https://www.virustotal.com/gui/file/f50cf1be6ef5f9e0e62256764a465afb)|Win32 EXE||2022-08-01 04:21:31|ca1.exe|
+|[1c729949d01e8053165f1f077ffed830](https://www.virustotal.com/gui/file/1c729949d01e8053165f1f077ffed830)|Win32 EXE||2022-07-19 23:30:59|a257eeebba15afecf76b89a379e066e5ed79a2bb9da349c1fdb5a24316abc753.exe|
+|[d657568f8e43f34111509a5e8df9f8c7](https://www.virustotal.com/gui/file/d657568f8e43f34111509a5e8df9f8c7)|Win32 EXE||2020-03-16 23:49:24|%HOMEPATH%\udtrkningen\fishlessu.exe|
+|[1606be43d7483c6f0d7e0e624bea6965](https://www.virustotal.com/gui/file/1606be43d7483c6f0d7e0e624bea6965)|ZIP||2020-03-16 21:20:27|Fiche de Candidature.zip";filename*=UTF-8''Fiche%20de%20Candidature.zip|
+|[8a76256b277690e3212efaeb76c42c21](https://www.virustotal.com/gui/file/8a76256b277690e3212efaeb76c42c21)|Win32 EXE||2020-02-06 05:24:33|FakeLogonScreen.exe|

@@ -380,3 +380,143 @@
 |[7b20e3ac2a4ebf507f6c8358245d5db5](https://www.virustotal.com/gui/file/7b20e3ac2a4ebf507f6c8358245d5db5)|RAR||2022-03-30 17:32:39|c:\windows\system32\w7981vt9x.dll|
 |[b307698a3b5134ea0708ed2222fb42f2](https://www.virustotal.com/gui/file/b307698a3b5134ea0708ed2222fb42f2)|RAR||2022-07-20 15:08:11|full-decode|
 |[4489ab1c55dd32ea26528d97897e71ba](https://www.virustotal.com/gui/file/4489ab1c55dd32ea26528d97897e71ba)|HTML||2022-07-20 11:45:29|8e61bacc1d524885ea5f0bcdaabbfd56c2234ea62c10a9442d65444cab934847.bin|
+|[a92725505b8c44cd167ad1c3c8b122ab](https://www.virustotal.com/gui/file/a92725505b8c44cd167ad1c3c8b122ab)|LNK||2022-12-19 07:43:46| |
+|[3a5278cb1e22d8ef2a95d47d7614d060](https://www.virustotal.com/gui/file/3a5278cb1e22d8ef2a95d47d7614d060)|TAR||2022-12-19 07:40:04|=?utf-8?B?0JfQsNC/0LjRgl8xNS0zLTIxNjcudGFy?=|
+|[9b5866c83231e86d84d6d25845cad3af](https://www.virustotal.com/gui/file/9b5866c83231e86d84d6d25845cad3af)|LNK||2022-12-16 12:46:20| |
+|[38e479f542fb699e2269ce66cd5ae812](https://www.virustotal.com/gui/file/38e479f542fb699e2269ce66cd5ae812)|7ZIP||2022-12-16 12:46:02|15-3-2167_15.12.2022.7z|
+|[fe590c56c2d68817b8c6b4ebe7111122](https://www.virustotal.com/gui/file/fe590c56c2d68817b8c6b4ebe7111122)|LNK||2022-12-16 09:00:47|C:\Users\user\AppData\Local\Temp\vtaj3bfq.njw\15-3-2167_15.12.2022\????? ?????? ??????? ??????? 15-3-2167 ??? 15.12.2022 (?? ??? ? ???????).lnk|
+|[2900cabd26068b3715f5043091917085](https://www.virustotal.com/gui/file/2900cabd26068b3715f5043091917085)|ZIP||2022-12-16 09:00:20|15-3-2167_15.12.2022.zip|
+|[ae2f35e2bcc863cea728fbb2642a084e](https://www.virustotal.com/gui/file/ae2f35e2bcc863cea728fbb2642a084e)|LNK||2022-12-14 11:02:37|Розпорядження 2_2_1_6237 від 13.12.2022 (НЕВІДКЛАДНО Передати засобами АСУ Дніпро).lnk|
+|[c80e0d2fb1b9f44309ab8a61a830b9ba](https://www.virustotal.com/gui/file/c80e0d2fb1b9f44309ab8a61a830b9ba)|LNK||2022-12-07 13:47:18|2.lnk|
+|[99027f9e62dfd72ac41d47fd3ab151bd](https://www.virustotal.com/gui/file/99027f9e62dfd72ac41d47fd3ab151bd)|DOC||2022-12-05 10:56:36| |
+|[36766ad6e59a2d4802a126a33ee179bc](https://www.virustotal.com/gui/file/36766ad6e59a2d4802a126a33ee179bc)|TXT||2022-12-05 09:20:01|jump.jpeg|
+|[5bbef64b1c10d27a1d10c9f6913573ee](https://www.virustotal.com/gui/file/5bbef64b1c10d27a1d10c9f6913573ee)|HTML||2022-12-01 11:41:04|presented.rtf|
+|[7d112ee676d795c79de160e1eb706660](https://www.virustotal.com/gui/file/7d112ee676d795c79de160e1eb706660)|DOC||2022-11-30 17:06:29| |
+|[9b25ac0248cfd14ddcb19a18cca9ff00](https://www.virustotal.com/gui/file/9b25ac0248cfd14ddcb19a18cca9ff00)|RAR||2022-11-29 19:30:53|15.10.2022.rar|
+|[f90f41386d88ce25b9b267291831eabc](https://www.virustotal.com/gui/file/f90f41386d88ce25b9b267291831eabc)|RAR||2022-11-28 20:17:01|25.10.2022.rar|
+|[5c1d61ecae84008164bf388712c6b93c](https://www.virustotal.com/gui/file/5c1d61ecae84008164bf388712c6b93c)|TAR||2022-11-24 07:22:18|125-8-342.tar|
+|[a73b0a556563b6d285b12f03c79ffa05](https://www.virustotal.com/gui/file/a73b0a556563b6d285b12f03c79ffa05)|Win32 EXE||2022-11-17 06:02:40|a73b0a556563b6d285b12f03c79ffa05.virus|
+|[884290338ca1ed333d8d09964861ce6d](https://www.virustotal.com/gui/file/884290338ca1ed333d8d09964861ce6d)|Win32 EXE||2022-11-17 05:25:16|myfile.exe|
+|[6a228d9b6d22c87b0a894d08b1eac926](https://www.virustotal.com/gui/file/6a228d9b6d22c87b0a894d08b1eac926)|Win32 EXE||2022-11-17 02:00:17|myfile.exe|
+|[1af530c3daa10a6a9ad973bd7e1904ed](https://www.virustotal.com/gui/file/1af530c3daa10a6a9ad973bd7e1904ed)|ZIP||2022-11-14 08:14:56|C:\Users\user\Downloads\43c94373-2516-4c63-bafb-868b7f1a2ffe.tmp|
+|[a3ef0beb3fe16fd0118b528ea5d628fd](https://www.virustotal.com/gui/file/a3ef0beb3fe16fd0118b528ea5d628fd)|TAR||2022-11-13 11:40:26|s172rZq3QeOc|
+|[0ede5c6f925b4ef08446c063c4805ff9](https://www.virustotal.com/gui/file/0ede5c6f925b4ef08446c063c4805ff9)|HTML||2022-11-12 00:47:13|08.11.2022.arhiv|
+|[fd6dfe6c29042a86d7259c7dad9691ac](https://www.virustotal.com/gui/file/fd6dfe6c29042a86d7259c7dad9691ac)|Win32 EXE||2022-11-11 17:20:20|7ZSfxMod|
+|[5930a187aacef1f3e27a0c5fd9cffc42](https://www.virustotal.com/gui/file/5930a187aacef1f3e27a0c5fd9cffc42)|TXT||2022-11-11 14:46:05|get.php|
+|[11475e0cb3b045c0570d5af08ec00f93](https://www.virustotal.com/gui/file/11475e0cb3b045c0570d5af08ec00f93)|Win32 EXE||2022-11-11 13:25:40|11475e0cb3b045c0570d5af08ec00f93.virus|
+|[e592e175ca9bc50eca2513c715e7f2a9](https://www.virustotal.com/gui/file/e592e175ca9bc50eca2513c715e7f2a9)|DOC||2022-11-11 10:59:29| |
+|[4a3c2c236d35ce50dda14f4748a1896b](https://www.virustotal.com/gui/file/4a3c2c236d35ce50dda14f4748a1896b)|ZIP||2022-11-11 09:09:44|2-175_10.10.2022 (2).rar|
+|[4916b0776b10a3990259b131d8c38d2e](https://www.virustotal.com/gui/file/4916b0776b10a3990259b131d8c38d2e)|TXT||2022-11-10 16:12:59|27957.ico|
+|[c7d81105b6f178ffb0a0a69b07d97320](https://www.virustotal.com/gui/file/c7d81105b6f178ffb0a0a69b07d97320)|TXT||2022-11-10 16:12:37|22772.ico|
+|[c00c53158a37360a17e202ebeb86793f](https://www.virustotal.com/gui/file/c00c53158a37360a17e202ebeb86793f)|TXT||2022-11-10 16:12:07|21769.ico|
+|[b12e39895d98e6f02d48ab53a1845d1d](https://www.virustotal.com/gui/file/b12e39895d98e6f02d48ab53a1845d1d)|TXT||2022-11-10 16:10:05|20570.ico|
+|[e50a9736e8273fd5c7c2016a55cb009c](https://www.virustotal.com/gui/file/e50a9736e8273fd5c7c2016a55cb009c)|TXT||2022-11-10 16:09:45|19442.ico|
+|[d3589b522aecb324a730e05d0ef6046b](https://www.virustotal.com/gui/file/d3589b522aecb324a730e05d0ef6046b)|TXT||2022-11-10 16:08:59|19212.ico|
+|[fc85f1aa84b9264a30dccbf45e9df733](https://www.virustotal.com/gui/file/fc85f1aa84b9264a30dccbf45e9df733)|TXT||2022-11-10 16:07:10|13144.ico|
+|[afd6b0fbe9bf99850be1b608a59014d1](https://www.virustotal.com/gui/file/afd6b0fbe9bf99850be1b608a59014d1)|TXT||2022-11-10 16:04:21|7818.ico|
+|[569aadb54b42abf0fec5a41599767b71](https://www.virustotal.com/gui/file/569aadb54b42abf0fec5a41599767b71)|TXT||2022-11-10 16:01:48|2774.ico|
+|[4ec57d64d1add08f8c6ff9f4846eee0e](https://www.virustotal.com/gui/file/4ec57d64d1add08f8c6ff9f4846eee0e)|TXT||2022-11-10 16:00:42|497.ico|
+|[08042ccfdf7949ab10ad9fc18b161dc2](https://www.virustotal.com/gui/file/08042ccfdf7949ab10ad9fc18b161dc2)|TXT||2022-11-10 15:59:21|23.ico|
+|[7292a49a6c46f8900fb864c1e8d06abd](https://www.virustotal.com/gui/file/7292a49a6c46f8900fb864c1e8d06abd)|DOCX||2022-11-10 11:37:33| |
+|[da84f8b5c335deaef354958c62b8dafd](https://www.virustotal.com/gui/file/da84f8b5c335deaef354958c62b8dafd)|DOC||2022-11-10 11:20:37| |
+|[5320985fb9815f7ed0209726b3a9e659](https://www.virustotal.com/gui/file/5320985fb9815f7ed0209726b3a9e659)|DOCX||2022-11-10 10:04:18|C:\Users\<USER>\AppData\Local\Temp\5320985fb9815f7ed0209726b3a9e659.docx|
+|[8d94f7ce3b66529856da8c73e4facedd](https://www.virustotal.com/gui/file/8d94f7ce3b66529856da8c73e4facedd)|TXT||2022-11-09 06:11:17|260735498dfe560071b9302de5744229e07d163ab4830b2969417ab1e5851871.js|
+|[7c61b74ffbe8b98a786d0ac9cbaef504](https://www.virustotal.com/gui/file/7c61b74ffbe8b98a786d0ac9cbaef504)|DOCX||2022-11-09 03:00:54|b93ca39a48c403396b551d04c7a52fc6c6b86a40da82e1224da27dc45ed29933.docx|
+|[5f2d3f456eb549f31afa372d1a877152](https://www.virustotal.com/gui/file/5f2d3f456eb549f31afa372d1a877152)|ZIP||2022-11-08 20:59:02|C:\Users\user\Downloads\4646ca51-2c89-4e74-8601-4ec4edf5b290.tmp|
+|[146694cdc0e529bb175741c8331fcbda](https://www.virustotal.com/gui/file/146694cdc0e529bb175741c8331fcbda)|HTML||2022-11-07 14:32:15|07_11_2022.xhtml|
+|[636b5f0398d4c8a8c59936f6ea8b7dcc](https://www.virustotal.com/gui/file/636b5f0398d4c8a8c59936f6ea8b7dcc)|Win32 EXE||2022-11-07 13:45:51|636b5f0398d4c8a8c59936f6ea8b7dcc.virus|
+|[54c20281d74df35f625925d9c941e25b](https://www.virustotal.com/gui/file/54c20281d74df35f625925d9c941e25b)|DOCX||2022-11-07 12:07:19|Бас по Род. славе.docx|
+|[0bb8e1dd16d7ca9fea22d1ca758bc1e2](https://www.virustotal.com/gui/file/0bb8e1dd16d7ca9fea22d1ca758bc1e2)|DOCX||2022-11-07 08:29:51|Бас по 3 летним.docx|
+|[a2c7023bb49e1c9b08f7f6b43d092727](https://www.virustotal.com/gui/file/a2c7023bb49e1c9b08f7f6b43d092727)|Win32 EXE||2022-11-06 12:35:56|a2c7023bb49e1c9b08f7f6b43d092727.virus|
+|[d06442612ea815632f5c3a6d116f0dde](https://www.virustotal.com/gui/file/d06442612ea815632f5c3a6d116f0dde)|Win32 EXE||2022-11-01 12:21:44|d06442612ea815632f5c3a6d116f0dde.virus|
+|[5f4830221d631159e9c2beaac5f674ad](https://www.virustotal.com/gui/file/5f4830221d631159e9c2beaac5f674ad)|RAR||2022-10-31 06:44:44|21.10.2022.rar|
+|[083009e75f8001de99851daba0f892eb](https://www.virustotal.com/gui/file/083009e75f8001de99851daba0f892eb)|HTML||2022-10-26 18:31:38| |
+|[a27718f1c634edcb19ce50023f004eec](https://www.virustotal.com/gui/file/a27718f1c634edcb19ce50023f004eec)|HTML||2022-10-25 14:41:29|111.xhtml|
+|[2d2b658ba19196327d5354f6bfcd5223](https://www.virustotal.com/gui/file/2d2b658ba19196327d5354f6bfcd5223)|Win32 EXE||2022-10-23 17:32:54|2d2b658ba19196327d5354f6bfcd5223.virus|
+|[2bc17039f0e498f1fde6d20bc5eb95cc](https://www.virustotal.com/gui/file/2bc17039f0e498f1fde6d20bc5eb95cc)|Win32 EXE||2022-10-22 16:20:40|2bc17039f0e498f1fde6d20bc5eb95cc.virus|
+|[9eddb0851dca1f9b922c8736d41a289e](https://www.virustotal.com/gui/file/9eddb0851dca1f9b922c8736d41a289e)|Win32 EXE||2022-10-22 01:26:24| |
+|[c55bb2dce68d490556af2ace75512fbe](https://www.virustotal.com/gui/file/c55bb2dce68d490556af2ace75512fbe)|Win32 EXE||2022-10-21 12:21:38|c55bb2dce68d490556af2ace75512fbe.virus|
+|[b35d924d97aea60a0dbefb0611f479c5](https://www.virustotal.com/gui/file/b35d924d97aea60a0dbefb0611f479c5)|Win32 EXE||2022-10-21 08:25:18|b35d924d97aea60a0dbefb0611f479c5.virus|
+|[91f7d4b81f81d42eadfeee498c800c58](https://www.virustotal.com/gui/file/91f7d4b81f81d42eadfeee498c800c58)|Win32 EXE||2022-10-20 18:43:34| |
+|[d00e962cc92f71ff08b96acdc6e4efe8](https://www.virustotal.com/gui/file/d00e962cc92f71ff08b96acdc6e4efe8)|Win32 EXE||2022-10-20 16:51:27|myfile.exe|
+|[0f547849fc9d3bab1a35fae4f6af23c1](https://www.virustotal.com/gui/file/0f547849fc9d3bab1a35fae4f6af23c1)|Win32 EXE||2022-10-20 12:35:31|0f547849fc9d3bab1a35fae4f6af23c1.virus|
+|[dfc0a03230dc0fc173cef7397ad446d5](https://www.virustotal.com/gui/file/dfc0a03230dc0fc173cef7397ad446d5)|Win32 EXE||2022-10-20 08:22:23|dfc0a03230dc0fc173cef7397ad446d5.virus|
+|[cccb0a4d912489a03edfcf119032bef8](https://www.virustotal.com/gui/file/cccb0a4d912489a03edfcf119032bef8)|Win32 EXE||2022-10-19 20:33:12|cccb0a4d912489a03edfcf119032bef8.virus|
+|[78f25d7b76944b940a92ef0e744841a9](https://www.virustotal.com/gui/file/78f25d7b76944b940a92ef0e744841a9)|Win32 EXE||2022-10-19 16:50:56|78f25d7b76944b940a92ef0e744841a9.virus|
+|[c9f850cfbb27e8258b25b98ef158bf67](https://www.virustotal.com/gui/file/c9f850cfbb27e8258b25b98ef158bf67)|RAR||2022-10-17 18:09:45|file.rar|
+|[6c6fb946f9118c0fbede776838e623db](https://www.virustotal.com/gui/file/6c6fb946f9118c0fbede776838e623db)|Win32 EXE||2022-10-17 05:54:51| |
+|[36cad67b93dcffd676e74c8474d0678b](https://www.virustotal.com/gui/file/36cad67b93dcffd676e74c8474d0678b)|Win32 EXE||2022-10-16 16:50:17|36cad67b93dcffd676e74c8474d0678b.virus|
+|[9c753b6b2ced2d9218ece0fb58bb099f](https://www.virustotal.com/gui/file/9c753b6b2ced2d9218ece0fb58bb099f)|Win32 EXE||2022-10-16 12:25:49|myfile.exe|
+|[3c29a13a0469b3b79987baaa2e398657](https://www.virustotal.com/gui/file/3c29a13a0469b3b79987baaa2e398657)|Win32 EXE||2022-10-16 01:06:11|3c29a13a0469b3b79987baaa2e398657.virus|
+|[72bc1ff4c7533a05d3a3ec154a2c7cf7](https://www.virustotal.com/gui/file/72bc1ff4c7533a05d3a3ec154a2c7cf7)|TXT||2022-10-15 20:51:41|C:\Users\User\Downloads\Терористична_загроза\Терористична_загроза.htm|
+|[c99a2776f7f3cf9d60f660b353ab5e60](https://www.virustotal.com/gui/file/c99a2776f7f3cf9d60f660b353ab5e60)|Win32 EXE||2022-10-15 20:08:07|myfile.exe|
+|[f407a39bd7d05480ac4c7f934e6d519c](https://www.virustotal.com/gui/file/f407a39bd7d05480ac4c7f934e6d519c)|Win32 EXE||2022-10-14 13:50:17|f407a39bd7d05480ac4c7f934e6d519c.virus|
+|[8cbc6c61e5331432d070dabd84e4e060](https://www.virustotal.com/gui/file/8cbc6c61e5331432d070dabd84e4e060)|Win32 EXE||2022-10-14 12:55:57|8cbc6c61e5331432d070dabd84e4e060.virus|
+|[150c3cb65f22a5b3438222a53e97226b](https://www.virustotal.com/gui/file/150c3cb65f22a5b3438222a53e97226b)|Win32 EXE||2022-10-13 16:25:38|myfile.exe|
+|[f3e18dfcafa8d34858a57a0b1e7928ed](https://www.virustotal.com/gui/file/f3e18dfcafa8d34858a57a0b1e7928ed)|Win32 EXE||2022-10-12 17:12:11| |
+|[ea7de5b8af4b00b2e790b4d29ca45ba9](https://www.virustotal.com/gui/file/ea7de5b8af4b00b2e790b4d29ca45ba9)|Win32 EXE||2022-10-12 05:02:00|myfile.exe|
+|[387a7091aa1acf0cfe80a7e763466ee6](https://www.virustotal.com/gui/file/387a7091aa1acf0cfe80a7e763466ee6)|TXT||2022-10-08 12:05:27|Терористична_загроза.htm|
+|[17e0fde738e245dad6d1aaad595c2010](https://www.virustotal.com/gui/file/17e0fde738e245dad6d1aaad595c2010)|Win32 EXE||2022-10-05 06:23:33| |
+|[c76dec4a7337231c44b2a0d883b07381](https://www.virustotal.com/gui/file/c76dec4a7337231c44b2a0d883b07381)|7ZIP||2022-10-04 05:25:48| |
+|[846ea089a93ffb9d88c478553a4560fa](https://www.virustotal.com/gui/file/846ea089a93ffb9d88c478553a4560fa)|TXT||2022-10-04 05:23:42|Щодо_колаборантів_04.10.2022.htm|
+|[25386348beb9a15dad1d0b102a1d5269](https://www.virustotal.com/gui/file/25386348beb9a15dad1d0b102a1d5269)|Win32 EXE||2022-09-29 11:23:06|7ZSfxMod|
+|[4021c86bb38ac0f0b657e1e96c6fbfe4](https://www.virustotal.com/gui/file/4021c86bb38ac0f0b657e1e96c6fbfe4)|TXT||2022-09-29 06:17:35|8437.ico|
+|[8d0d1be8d63e67c81cdbd74533a56563](https://www.virustotal.com/gui/file/8d0d1be8d63e67c81cdbd74533a56563)|Win32 EXE||2022-09-28 12:52:24|7ZSfxMod|
+|[7d1fc28982cd9906308045806ee38416](https://www.virustotal.com/gui/file/7d1fc28982cd9906308045806ee38416)|Win32 EXE||2022-09-28 12:23:01|7ZSfxMod|
+|[d8a79a528ee1d19dc7206ea913400869](https://www.virustotal.com/gui/file/d8a79a528ee1d19dc7206ea913400869)|Win32 EXE||2022-09-26 16:28:08|7ZSfxMod|
+|[6286657885050cb1392cf3499f775f64](https://www.virustotal.com/gui/file/6286657885050cb1392cf3499f775f64)|TXT||2022-09-26 13:13:15|26.09.2022.htm|
+|[070b2ec06136cd718c974598e470501e](https://www.virustotal.com/gui/file/070b2ec06136cd718c974598e470501e)|TXT||2022-09-26 06:02:39|24.09.2022.htm|
+|[ac8840e84bb438203194e6f4d94c520e](https://www.virustotal.com/gui/file/ac8840e84bb438203194e6f4d94c520e)|TXT||2022-09-26 02:45:49|11916.ico|
+|[a7369742e09707f94c9e4054be133097](https://www.virustotal.com/gui/file/a7369742e09707f94c9e4054be133097)|Win32 EXE||2022-09-25 12:53:12|7ZSfxMod|
+|[d62d55566e85add0bb9734f71eca8cdb](https://www.virustotal.com/gui/file/d62d55566e85add0bb9734f71eca8cdb)|Win32 EXE||2022-09-24 20:32:38|7ZSfxMod|
+|[5c645e5dcb6bec4ab1bcb3f68421445a](https://www.virustotal.com/gui/file/5c645e5dcb6bec4ab1bcb3f68421445a)|Win32 EXE||2022-09-24 01:25:50|7ZSfxMod|
+|[0155514d07c946140f32660e13fcdb98](https://www.virustotal.com/gui/file/0155514d07c946140f32660e13fcdb98)|Win32 EXE||2022-09-23 16:37:46|b9c8ec91559a62baf87305e0ee387bb777da7830a6d9fc72c630e873858ec465.bin|
+|[53db8d539dd1b8f61840812cc8fd0982](https://www.virustotal.com/gui/file/53db8d539dd1b8f61840812cc8fd0982)|Win32 EXE||2022-09-22 16:50:49|ac862717600c531846895f8884841d23e52c8332e708ca11c17a5c162ce43432.bin|
+|[24b2a67f99cd8b0f2b8034555259257c](https://www.virustotal.com/gui/file/24b2a67f99cd8b0f2b8034555259257c)|TXT||2022-09-20 14:39:23|Мінування_08.09.2022.html|
+|[f636a2de43302a6defef0fff0919e0ff](https://www.virustotal.com/gui/file/f636a2de43302a6defef0fff0919e0ff)|TXT||2022-09-19 18:53:22|afe00c934b345f6a6140b5a6cb660855415f5280865eaafceb1380c014837f37.sample|
+|[12bea528668a1b3756b0515a3f85bfc4](https://www.virustotal.com/gui/file/12bea528668a1b3756b0515a3f85bfc4)|TXT||2022-09-19 14:34:48|06.09.2022.html|
+|[072873ab7f24391b971a6ccaeeebad60](https://www.virustotal.com/gui/file/072873ab7f24391b971a6ccaeeebad60)|TXT||2022-09-17 06:43:31|Зрадники_16.09.2022.htm|
+|[3954285f45e4367e41b4b020c5c935d3](https://www.virustotal.com/gui/file/3954285f45e4367e41b4b020c5c935d3)|TXT||2022-09-13 14:39:11|13.09.2022.htm|
+|[82c1d9e9ab20b5bc6b1890cbf087b756](https://www.virustotal.com/gui/file/82c1d9e9ab20b5bc6b1890cbf087b756)|TXT||2022-09-13 07:36:57|02.09.2022.htm|
+|[602eedb774b158c1517a9269d4e1adb1](https://www.virustotal.com/gui/file/602eedb774b158c1517a9269d4e1adb1)|TXT||2022-09-08 08:38:38|Замінування_08.09.2022.html|
+|[c279fec67f81ac5fa333e0660f0d2b3a](https://www.virustotal.com/gui/file/c279fec67f81ac5fa333e0660f0d2b3a)|TXT||2022-09-07 12:12:23|06.09.2022.htm|
+|[e35e793fb473f13b404b3837877978ef](https://www.virustotal.com/gui/file/e35e793fb473f13b404b3837877978ef)|LNK||2022-09-07 07:49:47| |
+|[513f77c9a52bba58fc3c1b37c5f9f74a](https://www.virustotal.com/gui/file/513f77c9a52bba58fc3c1b37c5f9f74a)|TXT||2022-09-07 07:39:25| |
+|[40ad11e2d90cdaf52d1be6739f6e38c5](https://www.virustotal.com/gui/file/40ad11e2d90cdaf52d1be6739f6e38c5)|Win32 EXE||2022-09-07 01:21:10|40ad11e2d90cdaf52d1be6739f6e38c5.virus|
+|[2bdce4dd02f6fe4497c7701b47ab6274](https://www.virustotal.com/gui/file/2bdce4dd02f6fe4497c7701b47ab6274)|TXT||2022-09-06 11:11:03|06.09.2022.htm|
+|[1b568ea1644bffb30c27d7b99c8c22ef](https://www.virustotal.com/gui/file/1b568ea1644bffb30c27d7b99c8c22ef)|TXT||2022-09-05 07:11:00|42022110000000065.htm|
+|[9701b90e82706110dc4f210a8835400a](https://www.virustotal.com/gui/file/9701b90e82706110dc4f210a8835400a)|TXT||2022-09-02 13:40:16|02.09.2022.htm|
+|[35b67a74d4fc772db906c6d7f076ff6c](https://www.virustotal.com/gui/file/35b67a74d4fc772db906c6d7f076ff6c)|TXT||2022-09-02 11:31:19|01.09.2022.htm|
+|[072c2a4cff9cf4f35778b471b8dc10e7](https://www.virustotal.com/gui/file/072c2a4cff9cf4f35778b471b8dc10e7)|TXT||2022-09-01 13:31:42|01.09.2022.htm|
+|[469183382c36b1c7e7fe1be67da0807f](https://www.virustotal.com/gui/file/469183382c36b1c7e7fe1be67da0807f)|TXT||2022-08-31 09:51:56|delicacy.ff|
+|[b9313d8de176221f5f2162c9d07c6fcb](https://www.virustotal.com/gui/file/b9313d8de176221f5f2162c9d07c6fcb)|TXT||2022-08-31 07:27:32|29.08.2022 (2).html|
+|[4771127a37c4d84163cd9d34f42bf99b](https://www.virustotal.com/gui/file/4771127a37c4d84163cd9d34f42bf99b)|TXT||2022-08-31 06:53:15|12022111050001518.html|
+|[9741b396ef71d382c4f6dcc7d1198d5c](https://www.virustotal.com/gui/file/9741b396ef71d382c4f6dcc7d1198d5c)|LNK||2022-08-30 02:44:18|890104bff9ce28d79eac2b86745609d7 (1).bin|
+|[1e02b923eb1cb736b95301f98f55d961](https://www.virustotal.com/gui/file/1e02b923eb1cb736b95301f98f55d961)|TXT||2022-08-27 09:02:08|26.08.2022.htm|
+|[71bca50d533754d74c4c7d2e04f2abc5](https://www.virustotal.com/gui/file/71bca50d533754d74c4c7d2e04f2abc5)|LNK||2022-08-26 14:20:24| |
+|[24276916656eb320c0fb396daaeb16e5](https://www.virustotal.com/gui/file/24276916656eb320c0fb396daaeb16e5)|TXT||2022-08-26 14:07:43|764_25.08.2022.htm|
+|[4663757a7c3240acfcf684cf9abcfc58](https://www.virustotal.com/gui/file/4663757a7c3240acfcf684cf9abcfc58)|TXT||2022-08-26 08:15:52|25.08.2022.htm|
+|[efbdde7c605348e550dfab9d1ed39b6f](https://www.virustotal.com/gui/file/efbdde7c605348e550dfab9d1ed39b6f)|TXT||2022-08-17 14:31:30|17.08.2022.htm|
+|[1faf267d468c8934ed92df4fbe9a9c3c](https://www.virustotal.com/gui/file/1faf267d468c8934ed92df4fbe9a9c3c)|TXT||2022-08-17 09:35:16| |
+|[c39e1fa9e0178868d349207a6b98d6f7](https://www.virustotal.com/gui/file/c39e1fa9e0178868d349207a6b98d6f7)|TXT||2022-08-16 12:27:14| |
+|[52d965dfa4d9605db9ef643d41f5ab9a](https://www.virustotal.com/gui/file/52d965dfa4d9605db9ef643d41f5ab9a)|TXT||2022-08-16 10:57:56|16.08.2022.htm|
+|[77ee8a9d3a770a83b0872081f184b589](https://www.virustotal.com/gui/file/77ee8a9d3a770a83b0872081f184b589)|TXT||2022-08-16 04:33:51|15.08.2022.htm|
+|[7e697e8a6deda373b76873a5983be232](https://www.virustotal.com/gui/file/7e697e8a6deda373b76873a5983be232)|TXT||2022-08-12 08:02:45|Розвідувальне зведення.html|
+|[47d32ef16f049bf60b50ba03018ecb37](https://www.virustotal.com/gui/file/47d32ef16f049bf60b50ba03018ecb37)|TXT||2022-08-12 06:46:03|11.08.2022.htm|
+|[3ffc89c643d0c544b81a545b96df129a](https://www.virustotal.com/gui/file/3ffc89c643d0c544b81a545b96df129a)|TXT||2022-08-11 12:34:13|11.08.2022.htm|
+|[b51c49b442e41917f8d8758a14d842e9](https://www.virustotal.com/gui/file/b51c49b442e41917f8d8758a14d842e9)|TXT||2022-08-11 06:45:53|10.08.2022.htm|
+|[617956fb5fd1423381d230383666c4be](https://www.virustotal.com/gui/file/617956fb5fd1423381d230383666c4be)|TXT||2022-08-11 06:35:22|10.08.2022.htm|
+|[1d8e219bd0b59e2b6a0795116a802b98](https://www.virustotal.com/gui/file/1d8e219bd0b59e2b6a0795116a802b98)|TXT||2022-08-09 14:53:06|Довідка_09.08.2022.htm|
+|[67901d9f1c0846bcf048f2e229d3bdb0](https://www.virustotal.com/gui/file/67901d9f1c0846bcf048f2e229d3bdb0)|TXT||2022-08-09 13:25:38|Пропозиції(нарада).htm|
+|[b182bf6f3f7214c089b9dac4f6899d25](https://www.virustotal.com/gui/file/b182bf6f3f7214c089b9dac4f6899d25)|TXT||2022-08-09 09:14:54|Зведення_08.08.2022.htm|
+|[c756d4a06c38fe5cdd5308826178aae0](https://www.virustotal.com/gui/file/c756d4a06c38fe5cdd5308826178aae0)|TXT||2022-08-09 08:19:42|Пропозиції(нарада).htm|
+|[9f47c6d81215b24ad382b322fadf24a0](https://www.virustotal.com/gui/file/9f47c6d81215b24ad382b322fadf24a0)|TXT||2022-08-09 07:02:42|Зведення_06.08.2022.htm|
+|[cdce4e5deb791372ac841705819a01dd](https://www.virustotal.com/gui/file/cdce4e5deb791372ac841705819a01dd)|TXT||2022-08-09 06:35:52|Зведення_УСБУ_08.08.2022.htm|
+|[2878b3b1932ab5a1579852c091b7918a](https://www.virustotal.com/gui/file/2878b3b1932ab5a1579852c091b7918a)|TXT||2022-08-08 11:55:48|3bdbd4285e597db2cfed97c67768231480e65e4184edd9b1563e183fb9449be5.sample|
+|[283138d4280deb6f8beeed6a6d2e7524](https://www.virustotal.com/gui/file/283138d4280deb6f8beeed6a6d2e7524)|TXT||2022-08-05 15:53:02|Розвідувальне зведення.htm|
+|[ea505d8ed1afff1b87e8ae6e22d62b9c](https://www.virustotal.com/gui/file/ea505d8ed1afff1b87e8ae6e22d62b9c)|Win32 EXE||2022-07-21 12:52:19|ea505d8ed1afff1b87e8ae6e22d62b9c.virus|
+|[2a814cefda8663bce70e7f635fc3d597](https://www.virustotal.com/gui/file/2a814cefda8663bce70e7f635fc3d597)|Win32 EXE||2022-07-13 06:52:45| |
+|[dff472c5c36de4c20dbd1a2deb03579b](https://www.virustotal.com/gui/file/dff472c5c36de4c20dbd1a2deb03579b)|Win32 EXE||2022-05-30 03:35:57|7ZSfxMod|
+|[1c8dff4e1a476bcd4619eccce204482c](https://www.virustotal.com/gui/file/1c8dff4e1a476bcd4619eccce204482c)|LNK||2022-05-18 00:52:21|K-on!.lnk|
+|[7b6f37d6d4d79895dd0db44a60a85a02](https://www.virustotal.com/gui/file/7b6f37d6d4d79895dd0db44a60a85a02)|Win32 EXE||2022-03-03 10:44:40|7ZSfxMod|
+|[138be57ff943bda1dfb8db1c9eb62615](https://www.virustotal.com/gui/file/138be57ff943bda1dfb8db1c9eb62615)|Win32 EXE||2022-03-03 10:38:23|7ZSfxMod|

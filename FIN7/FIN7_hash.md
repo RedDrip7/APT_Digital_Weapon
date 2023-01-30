@@ -543,3 +543,7 @@
 |[06cb2cc66d51f35033977a99cc30c12c](https://www.virustotal.com/gui/file/06cb2cc66d51f35033977a99cc30c12c)|Win32 EXE||2020-07-19 15:10:02|dttcodexgigas.623980449b8ab76d2fcbaa0a910a6d8be55a39ba|
 |[79e65257425ef04267d1e35fcccd8fb7](https://www.virustotal.com/gui/file/79e65257425ef04267d1e35fcccd8fb7)|TXT|EmoDldr|2021-02-16 17:16:33|sc.js|
 |[122cb55f1352b9a1aeafc83a85bfb165](https://www.virustotal.com/gui/file/122cb55f1352b9a1aeafc83a85bfb165)|Win32 EXE|Skeeyah|2020-01-06 02:04:25|JsrW.exe|
+|[2efd74092734c78ff453a03da0e4c65e](https://www.virustotal.com/gui/file/2efd74092734c78ff453a03da0e4c65e)|TXT||2022-03-19 18:14:38|64.ps1|
+|[d71f644e8b71ac64d0cf7117d5fb5326](https://www.virustotal.com/gui/file/d71f644e8b71ac64d0cf7117d5fb5326)|TXT||2021-12-30 07:33:36|78.html|
+|[329343dda1c1c9fbbc16b606dc2c5cc0](https://www.virustotal.com/gui/file/329343dda1c1c9fbbc16b606dc2c5cc0)|TXT||2021-12-13 06:48:20| |
+|[ad27e09917b51e8436da8e72b0c515eb](https://www.virustotal.com/gui/file/ad27e09917b51e8436da8e72b0c515eb)|TXT||2021-04-21 02:53:23|AA16.ps1.Txt|
