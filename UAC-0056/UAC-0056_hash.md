@@ -21,3 +21,8 @@
 |[623b4e71e976539e15f3b4605487a6a2](https://www.virustotal.com/gui/file/623b4e71e976539e15f3b4605487a6a2)|XLS||2022-06-27 13:28:52|C:\Users\user\Desktop\accounts.xls|
 |[865ac7a08e76aeb18be7e5a86514c011](https://www.virustotal.com/gui/file/865ac7a08e76aeb18be7e5a86514c011)|XLS||2022-06-27 10:36:56|fe3bc87b433e51e0713d80e379a61916ceb6007648b0fde1c44491ba44dc1cb3.bin|
 |[d25e91832f81fee791658810a9db28e3](https://www.virustotal.com/gui/file/d25e91832f81fee791658810a9db28e3)|Win32 EXE||2022-06-27 10:11:20|DataSource|
+|[ef81f74875718d370876289088c93150](https://www.virustotal.com/gui/file/ef81f74875718d370876289088c93150)|Win64 EXE||2022-11-16 03:46:16|C:\ProgramData\MicrosoftOffice2000\OfficeTemplate.exe|
+|[ec18353f05c0ec9c014d4eb57f35dd40](https://www.virustotal.com/gui/file/ec18353f05c0ec9c014d4eb57f35dd40)|Win64 EXE||2022-10-09 11:07:58|C:\ProgramData\MicrosoftOffice2000\MicrosoftOfficeDashboard.exe|
+|[89eb4a35ea3122f01f47abe5e8b4982a](https://www.virustotal.com/gui/file/89eb4a35ea3122f01f47abe5e8b4982a)|Win64 EXE||2022-10-08 09:49:57|MicrosoftOfficeDashboard.exe|
+|[aa6f5570b814e336cc91e57f1dbbf22c](https://www.virustotal.com/gui/file/aa6f5570b814e336cc91e57f1dbbf22c)|Win64 EXE||2022-10-08 09:49:56|C:\ProgramData\MicrosoftOffice2000\MicrosoftOfficeDashboard.exe|
+|[beaed555048e1074fc13cdf8431abd49](https://www.virustotal.com/gui/file/beaed555048e1074fc13cdf8431abd49)|Win64 EXE||2022-10-08 09:44:40|C:\ProgramData\MicrosoftOffice2000\OfficeTemplate.exe|

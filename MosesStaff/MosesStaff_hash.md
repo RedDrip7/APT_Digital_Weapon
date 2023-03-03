@@ -5,3 +5,4 @@
 |[63c4c31965ed08a3207d44e885ebd5e4](https://www.virustotal.com/gui/file/63c4c31965ed08a3207d44e885ebd5e4)|Win64 EXE||2021-01-03 15:16:14|calc.exe|
 |[a70d6bbf2acb62e257c98cb0450f4fec](https://www.virustotal.com/gui/file/a70d6bbf2acb62e257c98cb0450f4fec)|Win64 EXE||2020-12-27 13:27:36|agent4.exe|
 |[d738e7c86f3b6b541f98951cf4f9dc02](https://www.virustotal.com/gui/file/d738e7c86f3b6b541f98951cf4f9dc02)|TXT|sLoad|2022-05-31 14:30:29|content.23327.7530.21151.12230.7944|
+|[aba68c4b4482e475e2d4b9bf54761b95](https://www.virustotal.com/gui/file/aba68c4b4482e475e2d4b9bf54761b95)|Win64 EXE||2022-02-02 12:04:11|broker.exe|

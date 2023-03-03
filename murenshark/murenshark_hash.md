@@ -7,3 +7,5 @@
 |[468b3eaf031b5aef98b34b5ce39facad](https://www.virustotal.com/gui/file/468b3eaf031b5aef98b34b5ce39facad)|XLSX||2022-08-02 08:22:22|B7460000|
 |[18b2db7eefc281e33aa980bcf611caf3](https://www.virustotal.com/gui/file/18b2db7eefc281e33aa980bcf611caf3)|Win64 EXE||2021-04-29 20:45:05|LetMeOut|
 |[32704a3fb28508e3b15bbbd28716ec76](https://www.virustotal.com/gui/file/32704a3fb28508e3b15bbbd28716ec76)|Win64 DLL||2021-04-23 18:25:10|FileSyncShell64|
+|[059f01038dfc4c084cb3b9c847c8eab9](https://www.virustotal.com/gui/file/059f01038dfc4c084cb3b9c847c8eab9)|FPX||2023-02-04 10:21:55|~DF2585BF00D1076235.TMP|
+|[378ed43137e00a12c3cf013f98c3d653](https://www.virustotal.com/gui/file/378ed43137e00a12c3cf013f98c3d653)|FPX||2023-02-04 10:21:55|~DF5F6A06D92A822BC3.TMP|

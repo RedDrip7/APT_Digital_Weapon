@@ -1148,3 +1148,4 @@
 |[f129c12b1bda7426f6b31682b42ee4b0](https://www.virustotal.com/gui/file/f129c12b1bda7426f6b31682b42ee4b0)|Win32 DLL||2022-09-17 16:32:32|DNSCheckDRV.exe|
 |[54b2d6f2662793dbcf6614fb9ba265f7](https://www.virustotal.com/gui/file/54b2d6f2662793dbcf6614fb9ba265f7)|Win32 DLL||2022-09-14 11:26:24|58b671915e239e9682d50a026e46db0d775624a61a56199f7fd576b0cef4564d.dll|
 |[587acecdb9491e0897d1067eb02e7c8d](https://www.virustotal.com/gui/file/587acecdb9491e0897d1067eb02e7c8d)|Win32 DLL||2022-09-11 00:41:49|55d1480cd023b74f10692c689b56e7fd6cc8139fb6322762181daead55a62b9e.dll|
+|[8c1fcfa6432b1e8a9b4da2d159c7e47d](https://www.virustotal.com/gui/file/8c1fcfa6432b1e8a9b4da2d159c7e47d)|Win32 DLL||2022-12-11 16:17:52| |

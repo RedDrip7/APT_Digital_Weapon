@@ -104,3 +104,6 @@
 |[363df0b3c8b7b390573d3a9f09953feb](https://www.virustotal.com/gui/file/363df0b3c8b7b390573d3a9f09953feb)|Win32 EXE|occamy|2020-02-27 14:31:09|service.exe|
 |[800060b75675493f2df6d9e0f81474fd](https://www.virustotal.com/gui/file/800060b75675493f2df6d9e0f81474fd)|Win32 EXE|Silence|2020-02-27 14:27:37|services.exe|
 |[ce04972114bbd5844aa2f63d83cdd333](https://www.virustotal.com/gui/file/ce04972114bbd5844aa2f63d83cdd333)|Win32 EXE|occamy|2020-02-27 14:21:32|antrem.exe|
+|[82d4025b84cf569ec82d21918d641540](https://www.virustotal.com/gui/file/82d4025b84cf569ec82d21918d641540)|Win64 DLL||2023-02-03 10:24:10|kpdphhajHbFerUr.exe|
+|[ee1ccb6a0e38bf95e44b73c3c46268c5](https://www.virustotal.com/gui/file/ee1ccb6a0e38bf95e44b73c3c46268c5)|Win64 DLL||2023-01-20 16:23:32|larabqFa.exe|
+|[dbecfe9d5421d319534e0bfa5a6ac162](https://www.virustotal.com/gui/file/dbecfe9d5421d319534e0bfa5a6ac162)|Win64 DLL||2023-01-17 17:25:37|dnSjujahur.exe|
