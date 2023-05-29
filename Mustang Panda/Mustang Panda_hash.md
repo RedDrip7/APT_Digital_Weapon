@@ -107,3 +107,9 @@
 |[530ed2cbfc57b9e6ae6c3fb3a1ecde9e](https://www.virustotal.com/gui/file/530ed2cbfc57b9e6ae6c3fb3a1ecde9e)|Win32 EXE|agen|2022-01-28 12:15:01|c:\users\admini~1\appdata\local\temp\council conclusions on the european security situation\council conclusions on the european security situation.exe|
 |[2102d225508c1f8f488a3f1574a34759](https://www.virustotal.com/gui/file/2102d225508c1f8f488a3f1574a34759)|Win32 DLL||2022-01-27 12:55:31|C:\Users\user\AppData\Local\Temp\PotPlayer.dll|
 |[3c6173d8693510f6363b608c09feebb1](https://www.virustotal.com/gui/file/3c6173d8693510f6363b608c09feebb1)|Win32 EXE||2022-01-22 12:30:28|C:\Users\zhong\Desktop\XXwL7rv9_2022-03-24\vir\5851043B2C040FB3DCE45C23FB9F3E8AEFFF48E0438DEC7141999062D46C592D.exe|
+|[ce34a0725360727c156cd7efc873ba1a](https://www.virustotal.com/gui/file/ce34a0725360727c156cd7efc873ba1a)|ELF executable||2023-05-16 13:58:54|7985f992dcc6fcce76ee2892700c8538af075bd991625156bf2482dbfebd5a5a.elf|
+|[9b5bb37fd2c1be54b433676fe5793d17](https://www.virustotal.com/gui/file/9b5bb37fd2c1be54b433676fe5793d17)|ELF executable||2023-05-16 13:58:48|ed3d667a4fa92d78a0a54f696f4e8ff254def8d6f3208e6fe426dbe7fb3f3dd0.elf|
+|[5a5a0d8b61bc950f573cd349badb4200](https://www.virustotal.com/gui/file/5a5a0d8b61bc950f573cd349badb4200)|ELF executable||2023-05-16 13:56:31|66cc81a7d865941cb32ed7b1b84b20270d7d667b523cab28b856cd4e85f135b6.elf|
+|[6a3e858557ea570efdd9a6e81d602d93](https://www.virustotal.com/gui/file/6a3e858557ea570efdd9a6e81d602d93)|ELF executable||2023-05-16 13:55:36|998788472cb1502c03675a15a9f09b12f3877a5aeb687f891458a414b8e0d66c.elf|
+|[35127fcd82a35688c38547548c87c8a9](https://www.virustotal.com/gui/file/35127fcd82a35688c38547548c87c8a9)|unknown||2023-03-02 02:35:43|v6.dat|
+|[72eea52244f6c47a53016e49c6599804](https://www.virustotal.com/gui/file/72eea52244f6c47a53016e49c6599804)|unknown||2023-03-02 02:34:39|9404.bin|

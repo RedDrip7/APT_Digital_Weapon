@@ -84,3 +84,4 @@
 |[5f5874a362997605c95dd5c0c4a257aa](https://www.virustotal.com/gui/file/5f5874a362997605c95dd5c0c4a257aa)|Win64 EXE||2022-08-25 12:05:44|5f5874a362997605c95dd5c0c4a257aa.virus|
 |[5f482e859ad552d677a7b141b951fb59](https://www.virustotal.com/gui/file/5f482e859ad552d677a7b141b951fb59)|Win64 EXE||2022-08-25 12:05:43|5f482e859ad552d677a7b141b951fb59.virus|
 |[d73b3d865405bc7f8bfbdf91635f6a05](https://www.virustotal.com/gui/file/d73b3d865405bc7f8bfbdf91635f6a05)|Win64 EXE||2022-08-25 12:05:22|exploit_64_exe|
+|[bbf47d9fc54dc4a6f681e1a219000b2b](https://www.virustotal.com/gui/file/bbf47d9fc54dc4a6f681e1a219000b2b)|Win32 EXE||2022-04-09 20:17:43|StartGame.exe|

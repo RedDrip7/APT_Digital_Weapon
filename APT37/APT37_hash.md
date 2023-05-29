@@ -144,3 +144,5 @@
 |[b100f0ab63a2b74a5d5ff54d533fc60f](https://www.virustotal.com/gui/file/b100f0ab63a2b74a5d5ff54d533fc60f)|Win32 EXE||2020-12-09 07:12:44|C:\users\public\documents\idmhelpassist.exe|
 |[2c98cbb1a8eb04aeadb1be235ebb7231](https://www.virustotal.com/gui/file/2c98cbb1a8eb04aeadb1be235ebb7231)|FPX||2020-12-08 06:14:13|붙임 1_참가신청서.hwp|
 |[f5cae9fcc8bad42b3dddb71ce68dbd92](https://www.virustotal.com/gui/file/f5cae9fcc8bad42b3dddb71ce68dbd92)|JPEG||2017-05-23 13:37:51|f5cae9fcc8bad42b3dddb71ce68dbd92.virus|
+|[f7a63c88deedc11b8601ce5ace962bbe](https://www.virustotal.com/gui/file/f7a63c88deedc11b8601ce5ace962bbe)|Win32 DLL||2023-03-16 01:29:43|MFCDLL|
+|[f6292a25ab8a391cb6cbcc13f8959f95](https://www.virustotal.com/gui/file/f6292a25ab8a391cb6cbcc13f8959f95)|Win32 DLL||2023-02-19 05:42:49|f6292a25ab8a391cb6cbcc13f8959f95.virus|

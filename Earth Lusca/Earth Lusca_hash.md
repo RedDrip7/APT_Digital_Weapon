@@ -14,3 +14,8 @@
 |[0b4f4dee8b709ee6237032b536544af9](https://www.virustotal.com/gui/file/0b4f4dee8b709ee6237032b536544af9)|TXT||2019-03-28 08:03:16|680.jpg|
 |[98790e987f992fd389e7c2d88ace6a7a](https://www.virustotal.com/gui/file/98790e987f992fd389e7c2d88ace6a7a)|TXT||2016-10-15 16:19:27|unknown|
 |[50967de7cce2b5fb495842d5f5be8e06](https://www.virustotal.com/gui/file/50967de7cce2b5fb495842d5f5be8e06)|TXT||2016-05-23 13:04:16|60b4d23d41707ef7fc09e01f1864cb0d8c8a4f5d180fc97e559356780efcd54b.bin|
+|[649e0e1131665225a152ca1f982f85c7](https://www.virustotal.com/gui/file/649e0e1131665225a152ca1f982f85c7)|CAB||2023-04-25 07:09:30|2.cab|
+|[b4213d775fe76a0b43f2f72ab09a267a](https://www.virustotal.com/gui/file/b4213d775fe76a0b43f2f72ab09a267a)|LNK||2023-04-24 13:07:56| |
+|[df15752a495a4dfd64006011cc359b55](https://www.virustotal.com/gui/file/df15752a495a4dfd64006011cc359b55)|LNK||2023-04-24 13:07:56| |
+|[e2c58ac47e026b45aa90d7b3217c761b](https://www.virustotal.com/gui/file/e2c58ac47e026b45aa90d7b3217c761b)|LNK||2023-04-24 13:07:56| |
+|[a2dd30f40344ecb0def48de1fe63fe0c](https://www.virustotal.com/gui/file/a2dd30f40344ecb0def48de1fe63fe0c)|Win64 DLL||2021-12-03 10:57:30|mcvsocfg.dll|
