@@ -113,3 +113,4 @@
 |[6a3e858557ea570efdd9a6e81d602d93](https://www.virustotal.com/gui/file/6a3e858557ea570efdd9a6e81d602d93)|ELF executable||2023-05-16 13:55:36|998788472cb1502c03675a15a9f09b12f3877a5aeb687f891458a414b8e0d66c.elf|
 |[35127fcd82a35688c38547548c87c8a9](https://www.virustotal.com/gui/file/35127fcd82a35688c38547548c87c8a9)|unknown||2023-03-02 02:35:43|v6.dat|
 |[72eea52244f6c47a53016e49c6599804](https://www.virustotal.com/gui/file/72eea52244f6c47a53016e49c6599804)|unknown||2023-03-02 02:34:39|9404.bin|
+|[f0b081ca58b6c253aa0014847c62dbad](https://www.virustotal.com/gui/file/f0b081ca58b6c253aa0014847c62dbad)|Win32 EXE||2023-02-13 13:28:33|C:\Users\user\AppData\Local\Temp\a3o2ggvj.2ak\5DbUb.exe|

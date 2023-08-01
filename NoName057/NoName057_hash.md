@@ -9,3 +9,9 @@
 |[5a6de749fc5bfa9afffd79263b3f85ef](https://www.virustotal.com/gui/file/5a6de749fc5bfa9afffd79263b3f85ef)|TXT||2022-12-06 17:01:27|Dosia.txt|
 |[1afa90293565a1e2a72d5062c1674451](https://www.virustotal.com/gui/file/1afa90293565a1e2a72d5062c1674451)|TXT||2022-10-14 10:07:16|Dosia_original.txt|
 |[21be396619d3ab2efa6a70387180e58f](https://www.virustotal.com/gui/file/21be396619d3ab2efa6a70387180e58f)|Win32 EXE||2022-09-15 22:50:52|Dosia.exe|
+|[9a7ec372e914364828883ab84a85d80f](https://www.virustotal.com/gui/file/9a7ec372e914364828883ab84a85d80f)|Mach-O executable||2023-04-19 14:23:25| |
+|[b2a521a372b94d1d2bd3bd2703f862f3](https://www.virustotal.com/gui/file/b2a521a372b94d1d2bd3bd2703f862f3)|ELF executable||2023-04-19 14:23:25|d_linux_amd64|
+|[3725aee958df5c00797c44df003d4b70](https://www.virustotal.com/gui/file/3725aee958df5c00797c44df003d4b70)|Win64 EXE||2023-04-19 14:23:24|d_windows_amd64.exe|
+|[8adb736561b39d384ffc6387e15b3e25](https://www.virustotal.com/gui/file/8adb736561b39d384ffc6387e15b3e25)|Mach-O executable||2023-04-19 14:23:24|d_mac_arm64|
+|[d541c7a38b840376feb38af5ac9e18dc](https://www.virustotal.com/gui/file/d541c7a38b840376feb38af5ac9e18dc)|Win32 EXE||2023-04-19 14:23:24|C:\Users\user\AppData\Local\Temp\osatuarr.njc\7e12ec75f0f2324464d473128ae04d447d497c2da46c1ae699d8163080817d38.exe|
+|[f17dea1488cf9b3aa50c0b0deea1d4c6](https://www.virustotal.com/gui/file/f17dea1488cf9b3aa50c0b0deea1d4c6)|ELF executable||2023-04-19 14:23:24|d_linux_arm|

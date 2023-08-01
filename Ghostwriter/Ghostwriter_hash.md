@@ -21,3 +21,5 @@
 |[18e73cc3d5eda742530ba3fef59e3943](https://www.virustotal.com/gui/file/18e73cc3d5eda742530ba3fef59e3943)|Win32 EXE|Shelma|2022-03-23 07:51:21|eowijvpjipojewpjeorgk.exe|
 |[bcdab4ae622811f699765bfb9cb909d2](https://www.virustotal.com/gui/file/bcdab4ae622811f699765bfb9cb909d2)|Win32 EXE||2022-03-23 07:42:35|%HOME%\unpack\825@A0=B8 file..rar.scr|
 |[4a78df33d4f987103dc0c0f3a302b8cb](https://www.virustotal.com/gui/file/4a78df33d4f987103dc0c0f3a302b8cb)|RAR|Shelma|2022-03-23 07:38:21| |
+|[adf00c9e47cc724dd4ff1f9af14401b5](https://www.virustotal.com/gui/file/adf00c9e47cc724dd4ff1f9af14401b5)|Win32 DLL||2023-06-14 16:17:51|jhkl;670jkh,56k0j05.dll|
+|[6e556f6d3f74a4d70b934a0b9a8e3f5f](https://www.virustotal.com/gui/file/6e556f6d3f74a4d70b934a0b9a8e3f5f)|PPT||2023-06-14 12:52:00|daewdfq342r.ppt|

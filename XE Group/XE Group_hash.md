@@ -45,3 +45,6 @@
 |[d26e32be398a38a24b797cc914ea5383](https://www.virustotal.com/gui/file/d26e32be398a38a24b797cc914ea5383)|Win32 EXE|AutoIt|2017-11-11 00:04:19|0c5b4b687b1e578b82f292c7c0ee8728bce1a168|
 |[aa2b3f3609483d534822b88ec0ad240f](https://www.virustotal.com/gui/file/aa2b3f3609483d534822b88ec0ad240f)|Win32 EXE||2017-08-24 16:34:18|3d76e41c270fc5d9f5409194195ad3172d80105cce8c8959273d4532f656f9db.bin|
 |[7a15cdb53c6c2a8e40a03dcf15195aef](https://www.virustotal.com/gui/file/7a15cdb53c6c2a8e40a03dcf15195aef)|Win32 EXE|AutoIt|2014-12-01 19:51:02|c:\windows\system32\ifxraaky2.dll|
+|[edf2fd003231ad4e22e35c23c8f4a556](https://www.virustotal.com/gui/file/edf2fd003231ad4e22e35c23c8f4a556)|Win32 EXE||2022-02-26 07:33:50|test.exe|
+|[31cb8baa6e251da6a1fa40e586d35529](https://www.virustotal.com/gui/file/31cb8baa6e251da6a1fa40e586d35529)|unknown||2020-05-08 17:33:10|da.aspx|
+|[bce80eed52175442fc41bec011dc08a8](https://www.virustotal.com/gui/file/bce80eed52175442fc41bec011dc08a8)|Win32 EXE||2010-06-26 05:27:48|c:/aa/aa|

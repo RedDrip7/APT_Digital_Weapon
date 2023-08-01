@@ -425,3 +425,5 @@
 |[510f97947897b8323b1f44a3754e18f4](https://www.virustotal.com/gui/file/510f97947897b8323b1f44a3754e18f4)|XLS|Valyria|2017-11-09 06:53:55|Circullar_Nov_2017.xls|
 |[1c8988c44adcc9a06f37323a284916c2](https://www.virustotal.com/gui/file/1c8988c44adcc9a06f37323a284916c2)|Win32 EXE|Wacatac|2021-01-21 01:04:21|jaca.exe|
 |[82e3981303bee2eff6d1af17ad51eb32](https://www.virustotal.com/gui/file/82e3981303bee2eff6d1af17ad51eb32)|RTF|EmoDldr|2021-04-05 11:15:37|Defence proposal 2021-2022.doc|
+|[94b5882f223a4ad4fdfbc52994a6f5cd](https://www.virustotal.com/gui/file/94b5882f223a4ad4fdfbc52994a6f5cd)|Android||2023-06-18 03:51:25|nsure.apk|
+|[ae650b714c0807c96b0a31053eef61d2](https://www.virustotal.com/gui/file/ae650b714c0807c96b0a31053eef61d2)|Android||2023-06-18 03:51:05|iKHfaa_base.apk|
