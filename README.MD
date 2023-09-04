@@ -27,22 +27,16 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 
  
+ 
 |Groupname|Total|Update|data|  
-|:--|:--|:--|:--|  
-|AsylumAmbuscade|2|2|2023-07-30|  
-|Cadet Blizzard|4|4|2023-07-30|  
-|ChamelGang|3|1|2023-07-30|  
-|CL-STA-0043|6|6|2023-07-30|  
-|Donot|428|2|2023-07-30|  
-|Equation Group|454|404|2023-07-30|  
-|FaceDuck Group|10|10|2023-07-30|  
-|Ghostwriter|11|2|2023-07-30|  
-|Manic Menagerie|22|22|2023-07-30|  
-|MuddyWater|306|8|2023-07-30|  
-|Mustang Panda|115|1|2023-07-30|  
-|NoName057|15|6|2023-07-30|  
-|Saaiwc|8|4|2023-07-30|  
-|SpacePirates|48|21|2023-07-30|  
-|Storm-0978|9|9|2023-07-30|  
-|UNC1151|61|47|2023-07-30|  
-|XE Group|48|3|2023-07-30|  
+|:--|:--|:--|:--|
+|BadMagic|29|4|2023-08-31|  
+|Carderbee|6|6|2023-08-31|  
+|ChamelGang|5|2|2023-08-31|  
+|Earth Lusca|31|12|2023-08-31|  
+|EarthEstries|9|9|2023-08-31|  
+|FaceDuck Group|48|38|2023-08-31|  
+|goldenjackal|6|1|2023-08-31|  
+|MoustachedBouncer|7|7|2023-08-31|  
+|Saaiwc|9|1|2023-08-31|  
+|UNC3347|9|9|2023-08-31|  

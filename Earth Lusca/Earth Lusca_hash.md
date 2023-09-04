@@ -19,3 +19,15 @@
 |[df15752a495a4dfd64006011cc359b55](https://www.virustotal.com/gui/file/df15752a495a4dfd64006011cc359b55)|LNK||2023-04-24 13:07:56| |
 |[e2c58ac47e026b45aa90d7b3217c761b](https://www.virustotal.com/gui/file/e2c58ac47e026b45aa90d7b3217c761b)|LNK||2023-04-24 13:07:56| |
 |[a2dd30f40344ecb0def48de1fe63fe0c](https://www.virustotal.com/gui/file/a2dd30f40344ecb0def48de1fe63fe0c)|Win64 DLL||2021-12-03 10:57:30|mcvsocfg.dll|
+|[dee0afd9ea819cc1991c5c1aa921ed46](https://www.virustotal.com/gui/file/dee0afd9ea819cc1991c5c1aa921ed46)|Win64 EXE||2023-02-24 13:25:40|aeceaa7a806468766923a00e8c4eb48349f10d069464b53674eeb150e0a59123.sample|
+|[b8e19521173e895cfc89a7d659eeed96](https://www.virustotal.com/gui/file/b8e19521173e895cfc89a7d659eeed96)|DOS EXE||2022-11-07 06:41:54|c00991cfeafc055447d7553a14be2303e105b6a97ab35ecf820b9dbd42826f9d.bin|
+|[dba8d19b089a28e66fc63879eca6b9fa](https://www.virustotal.com/gui/file/dba8d19b089a28e66fc63879eca6b9fa)|Win64 EXE||2022-11-07 06:37:28|6e3c3045bb9d0db4817ad0441ee3c95b8fe3e087388d1ceefb9ebbd2608aef16.bin|
+|[7285328db539c10c4e6e0bc4d02871ac](https://www.virustotal.com/gui/file/7285328db539c10c4e6e0bc4d02871ac)|ELF shared library||2022-03-30 04:56:04|libxselinux.so|
+|[5159a5ac6429af8828f3d6988847b1d8](https://www.virustotal.com/gui/file/5159a5ac6429af8828f3d6988847b1d8)|ELF executable||2022-03-30 02:40:03|2f1321c6cf0bc3cf955e86692bfc4ba836f5580c8b1469ce35aa250c97f0076e.bin|
+|[f22a181e78aec56fed11ab5d6197f126](https://www.virustotal.com/gui/file/f22a181e78aec56fed11ab5d6197f126)|Win32 DLL||2021-12-11 04:51:26|9eb0124d822d6b0fab6572b2a4445546e8029ad6bd490725015d49755b5845a4.sample|
+|[df9c5a67a15ea55df84517acbf26da4d](https://www.virustotal.com/gui/file/df9c5a67a15ea55df84517acbf26da4d)|Win64 DLL||2021-11-22 15:38:10|7056e9b69cc2fbc79ba7a492906bcc84dabc6ea95383dff3844dfde5278d9c7a.bin|
+|[08b38b91b9ff6378028a1c7a97105890](https://www.virustotal.com/gui/file/08b38b91b9ff6378028a1c7a97105890)|Win64 DLL||2021-10-27 01:18:06|24d4089f74672bc00c897a74664287fe14d63a9b78a8fe2bdbbf9b870b40d85c.bin|
+|[994c90735df4be2eeb526c8fa5631a8a](https://www.virustotal.com/gui/file/994c90735df4be2eeb526c8fa5631a8a)|Win64 DLL||2021-10-26 20:50:07|5d3a6f5bd0a72ee653c6bdad68275df730b836d6f9325ee57ec7d32997d5dcef.bin.sample|
+|[f060c97e3b818cc0676356ee53660343](https://www.virustotal.com/gui/file/f060c97e3b818cc0676356ee53660343)|Win64 EXE||2021-10-26 20:47:41|f060c97e3b818cc0676356ee53660343.virus|
+|[0590768d6120036f1d0c7a0e434e0b07](https://www.virustotal.com/gui/file/0590768d6120036f1d0c7a0e434e0b07)|Win64 DLL||2021-10-26 13:05:46|e053ca5888fb0d5099efed76e68a1af0020aaaa34ca610e7a1ac0ae9ffe36f6e.bin|
+|[129fcd2f76fa8c7e142abda7f39d9941](https://www.virustotal.com/gui/file/129fcd2f76fa8c7e142abda7f39d9941)|Win64 DLL||2021-10-11 12:12:32|ede0c1f0d6c3d982f63abbdd5f10648948a44e5fa0d948a89244a06abaf2ecfe.bin|

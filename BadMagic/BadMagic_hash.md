@@ -25,3 +25,7 @@
 |[139c2eca4e389032d4d004fd2e65d3c1](https://www.virustotal.com/gui/file/139c2eca4e389032d4d004fd2e65d3c1)|FPX||2020-12-10 01:47:38|update.msi|
 |[2d6b1336a86cba1f0546a7aa5f522677](https://www.virustotal.com/gui/file/2d6b1336a86cba1f0546a7aa5f522677)|LNK||2020-12-10 01:46:08|41589c4e712690af11f6d12efc6cca2d584a53142782e5f2c677b4e980fae5bd.bin|
 |[406494bf3cabbd34ff56dcbeec46f5d6](https://www.virustotal.com/gui/file/406494bf3cabbd34ff56dcbeec46f5d6)|Win32 EXE||2018-04-02 08:40:40|C:\ProgramData\Microsoft\WwanSvc\WinBnSvc.exe|
+|[43bcd9a780fef46d49b7ace47b052197](https://www.virustotal.com/gui/file/43bcd9a780fef46d49b7ace47b052197)|Win32 EXE||2023-08-10 16:16:15| |
+|[872fbb6140410e73a871ee5c00138ec6](https://www.virustotal.com/gui/file/872fbb6140410e73a871ee5c00138ec6)|Win32 EXE||2023-08-10 07:50:52|EKSTRENNOE_PREDUPREZHDENIE_KRASNODAR.%D1%80df.exe|
+|[138e5fc87e9de6b4ab2634c0f8c340e2](https://www.virustotal.com/gui/file/138e5fc87e9de6b4ab2634c0f8c340e2)|Win32 EXE||2023-08-05 16:40:12|f7d0e364413ed147b82489045073451c4b0f73076f2c5bd996a3b1abcadf685b.exe|
+|[f8220108b1cfbe52828fb65d7b363895](https://www.virustotal.com/gui/file/f8220108b1cfbe52828fb65d7b363895)|Win32 EXE||2023-08-01 17:57:53| |

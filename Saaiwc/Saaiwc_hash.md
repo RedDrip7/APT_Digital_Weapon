@@ -8,3 +8,4 @@
 |[1e5faf36a70a6c3744aa9cf336e7c713](https://www.virustotal.com/gui/file/1e5faf36a70a6c3744aa9cf336e7c713)|ZIP||2023-03-03 04:23:52|ccc.gif|
 |[a904e16443ea47c4e60de7435ac474a9](https://www.virustotal.com/gui/file/a904e16443ea47c4e60de7435ac474a9)|Win32 DLL||2023-02-07 19:14:22|C:\Users\user\AppData\Local\Temp\xdymp5zs.uac\ccc\ANALYS32.xll|
 |[187435ffa73536096bdb2ab57504f903](https://www.virustotal.com/gui/file/187435ffa73536096bdb2ab57504f903)|Win64 DLL||2023-02-07 19:14:10|C:\Users\user\AppData\Local\Temp\xdymp5zs.uac\ccc\AccHelper.xll|
+|[f4b5f7c7b29f01219c74ab8db007c44d](https://www.virustotal.com/gui/file/f4b5f7c7b29f01219c74ab8db007c44d)|Win32 EXE||2023-07-27 09:37:21|dump1.bin|
