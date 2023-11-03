@@ -31,3 +31,18 @@
 |[f060c97e3b818cc0676356ee53660343](https://www.virustotal.com/gui/file/f060c97e3b818cc0676356ee53660343)|Win64 EXE||2021-10-26 20:47:41|f060c97e3b818cc0676356ee53660343.virus|
 |[0590768d6120036f1d0c7a0e434e0b07](https://www.virustotal.com/gui/file/0590768d6120036f1d0c7a0e434e0b07)|Win64 DLL||2021-10-26 13:05:46|e053ca5888fb0d5099efed76e68a1af0020aaaa34ca610e7a1ac0ae9ffe36f6e.bin|
 |[129fcd2f76fa8c7e142abda7f39d9941](https://www.virustotal.com/gui/file/129fcd2f76fa8c7e142abda7f39d9941)|Win64 DLL||2021-10-11 12:12:32|ede0c1f0d6c3d982f63abbdd5f10648948a44e5fa0d948a89244a06abaf2ecfe.bin|
+|[7d75561cb378e54c5711f077858a4a48](https://www.virustotal.com/gui/file/7d75561cb378e54c5711f077858a4a48)|unknown||2023-10-11 02:44:03|bin.config|
+|[e17dc59fd5673e8d799055e0c24a37d6](https://www.virustotal.com/gui/file/e17dc59fd5673e8d799055e0c24a37d6)|FPX||2023-09-06 05:49:39|evil.msi|
+|[44ee43adc8f423db4a461fc99731cdb9](https://www.virustotal.com/gui/file/44ee43adc8f423db4a461fc99731cdb9)|Win64 EXE||2023-09-06 05:48:01|d.exe|
+|[b5cb7044a189f8752ecdbc799f25ce06](https://www.virustotal.com/gui/file/b5cb7044a189f8752ecdbc799f25ce06)|PDF||2023-08-24 08:51:07|df6dd612643a778dca8879538753b693df04b9cf02169d04183136a848977ce9.bin|
+|[b35c698732f49f998f6e6b6b83cfa9dd](https://www.virustotal.com/gui/file/b35c698732f49f998f6e6b6b83cfa9dd)|Win32 DLL||2023-08-24 08:45:56|VFTRACE.dll|
+|[a79849ffbb30b6f31efab1977b13d229](https://www.virustotal.com/gui/file/a79849ffbb30b6f31efab1977b13d229)|Win64 EXE||2023-08-24 00:32:16|A.exe|
+|[c9bc7fdc82f22d857ef52c62e6ba2d28](https://www.virustotal.com/gui/file/c9bc7fdc82f22d857ef52c62e6ba2d28)|Win64 DLL||2023-07-18 01:41:43|f.dll|
+|[4572d667e12a29b516a7d2b87e6d1c7a](https://www.virustotal.com/gui/file/4572d667e12a29b516a7d2b87e6d1c7a)|ELF shared library||2023-06-13 07:28:14|libxselinux.so|
+|[ac204bc653d6e49eea093b01ba3eaa60](https://www.virustotal.com/gui/file/ac204bc653d6e49eea093b01ba3eaa60)|ELF shared library||2023-04-11 13:35:07|libmonitor.so.2.decrypt|
+|[14bf1dc224b278fc23ca82ca2568d39d](https://www.virustotal.com/gui/file/14bf1dc224b278fc23ca82ca2568d39d)|ELF shared library||2023-04-11 13:34:28|mkmon|
+|[8811b7676610a965a5b2589e98257a5e](https://www.virustotal.com/gui/file/8811b7676610a965a5b2589e98257a5e)|Win64 EXE||2022-11-20 02:47:06|fscan_upx.exe|
+|[da0a7c3b070cfeac919db08fb8a70c9c](https://www.virustotal.com/gui/file/da0a7c3b070cfeac919db08fb8a70c9c)|ELF executable||2022-08-19 01:17:27|da0a7c3b070cfeac919db08fb8a70c9c.virus|
+|[e20930ea5e7bac3f6fa7e016c52fa54e](https://www.virustotal.com/gui/file/e20930ea5e7bac3f6fa7e016c52fa54e)|ELF shared library||2022-03-20 02:50:31|wtmpclean|
+|[d53bb85b5c6ec5a49ecc085c446a969c](https://www.virustotal.com/gui/file/d53bb85b5c6ec5a49ecc085c446a969c)|Win32 DLL||2022-02-24 04:32:12|c:\windows\system32\j0p8dyf6q.dll|
+|[f20d3ea7050ae83c1e0d278425242a38](https://www.virustotal.com/gui/file/f20d3ea7050ae83c1e0d278425242a38)|TXT||2020-12-15 14:28:00|国外牛逼大马.aspx|

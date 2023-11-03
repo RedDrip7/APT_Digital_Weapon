@@ -23,20 +23,21 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 
  
-
-
-
- 
- 
 |Groupname|Total|Update|data|  
-|:--|:--|:--|:--|
-|BadMagic|29|4|2023-08-31|  
-|Carderbee|6|6|2023-08-31|  
-|ChamelGang|5|2|2023-08-31|  
-|Earth Lusca|31|12|2023-08-31|  
-|EarthEstries|9|9|2023-08-31|  
-|FaceDuck Group|48|38|2023-08-31|  
-|goldenjackal|6|1|2023-08-31|  
-|MoustachedBouncer|7|7|2023-08-31|  
-|Saaiwc|9|1|2023-08-31|  
-|UNC3347|9|9|2023-08-31|  
+|:--|:--|:--|:--|  
+|APT-LY-1006|55|20|2023-10-31|  
+|Earth Lusca|46|15|2023-10-31|  
+|FaceDuck Group|1872|1824|2023-10-31|  
+|Grayling|9|9|2023-10-31|  
+|Hive0117|16|16|2023-10-31|  
+|Jacana|24|24|2023-10-31|  
+|Lancefly|14|7|2023-10-31|  
+|LAPSUS|86|1|2023-10-31|  
+|POLONIUM|6|5|2023-10-31|  
+|Redfly|2|2|2023-10-31|  
+|Saaiwc|14|5|2023-10-31|  
+|Sandman|2|2|2023-10-31|  
+|Storm-0324|3|3|2023-10-31|  
+|TA558|12|11|2023-10-31|  
+|ToddyCat|46|35|2023-10-31|  
+|WinterVivern|7|1|2023-10-31|  

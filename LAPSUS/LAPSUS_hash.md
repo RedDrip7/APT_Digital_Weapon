@@ -85,3 +85,4 @@
 |[5f482e859ad552d677a7b141b951fb59](https://www.virustotal.com/gui/file/5f482e859ad552d677a7b141b951fb59)|Win64 EXE||2022-08-25 12:05:43|5f482e859ad552d677a7b141b951fb59.virus|
 |[d73b3d865405bc7f8bfbdf91635f6a05](https://www.virustotal.com/gui/file/d73b3d865405bc7f8bfbdf91635f6a05)|Win64 EXE||2022-08-25 12:05:22|exploit_64_exe|
 |[bbf47d9fc54dc4a6f681e1a219000b2b](https://www.virustotal.com/gui/file/bbf47d9fc54dc4a6f681e1a219000b2b)|Win32 EXE||2022-04-09 20:17:43|StartGame.exe|
+|[a2d12cbba7953c371797803149ab1cd3](https://www.virustotal.com/gui/file/a2d12cbba7953c371797803149ab1cd3)|Win32 EXE||2023-09-29 21:12:57|alohacrypt.exe|
