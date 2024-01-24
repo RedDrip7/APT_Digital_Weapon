@@ -1872,3 +1872,407 @@
 |[7f66963fd668708c9dcba13b27edac49](https://www.virustotal.com/gui/file/7f66963fd668708c9dcba13b27edac49)|Win32 EXE||2022-07-19 06:45:57|DataExtractor.dll|
 |[80a3a055a77696507c935ad47d6a9992](https://www.virustotal.com/gui/file/80a3a055a77696507c935ad47d6a9992)|Win32 EXE||2022-07-18 10:48:54|DataExtractor.dll|
 |[1e4ab9b017cfbaf26df78c9cc1a7790a](https://www.virustotal.com/gui/file/1e4ab9b017cfbaf26df78c9cc1a7790a)|Win32 EXE||2022-07-18 07:20:43|DataExtractor.dll|
+|[c9407bf607c84fa994cbf5988cc75c4a](https://www.virustotal.com/gui/file/c9407bf607c84fa994cbf5988cc75c4a)|LNK||2024-01-16 04:24:24|C:\Users\user\AppData\Local\Temp\h3wae3l5.jzq\Amana\First new video advertisement 1.lnk|
+|[755783421be911fd864bd65ff881e20c](https://www.virustotal.com/gui/file/755783421be911fd864bd65ff881e20c)|LNK||2024-01-16 04:24:24|C:\Users\user\AppData\Local\Temp\h3wae3l5.jzq\Amana\Client objectives.lnk|
+|[543029bd7181bf02d4bec7d59e2cf97c](https://www.virustotal.com/gui/file/543029bd7181bf02d4bec7d59e2cf97c)|LNK||2024-01-16 04:08:11|C:\Users\user\AppData\Local\Temp\h3wae3l5.jzq\Amana\Worker Agreement.lnk|
+|[ed5b95b75c8b8e8e51b4c13a83fab69b](https://www.virustotal.com/gui/file/ed5b95b75c8b8e8e51b4c13a83fab69b)|LNK||2024-01-16 04:08:11|C:\Users\user\AppData\Local\Temp\h3wae3l5.jzq\Amana\First new video advertisement 2.lnk|
+|[2f91a4f41ce447f05ec7a53df7eaca98](https://www.virustotal.com/gui/file/2f91a4f41ce447f05ec7a53df7eaca98)|ZIP||2024-01-16 04:06:59|(new)Amana.zip|
+|[cc9f7c6fb645c1c802fdaa74bad530d1](https://www.virustotal.com/gui/file/cc9f7c6fb645c1c802fdaa74bad530d1)|LNK||2024-01-15 23:17:00|Contract Fastkeys.lnk|
+|[d8dea9800bd2b28bedfd5302d4e7aec6](https://www.virustotal.com/gui/file/d8dea9800bd2b28bedfd5302d4e7aec6)|LNK||2024-01-15 22:57:34|C:\Users\user\AppData\Local\Temp\tbswn3v3.tcg\fastkeys_project\Fastkeys_Project\Plan Develop new features fastkeys.lnk|
+|[188a1c2869056cb91c76cd8d7661a69f](https://www.virustotal.com/gui/file/188a1c2869056cb91c76cd8d7661a69f)|LNK||2024-01-15 22:57:34|C:\Users\user\AppData\Local\Temp\tbswn3v3.tcg\fastkeys_project\Fastkeys_Project\Market Research Fastkeys.lnk|
+|[cf3e61f6bf48dc10156356b8c264b95b](https://www.virustotal.com/gui/file/cf3e61f6bf48dc10156356b8c264b95b)|LNK||2024-01-15 22:57:34|C:\Users\user\AppData\Local\Temp\tbswn3v3.tcg\fastkeys_project\Fastkeys_Project\MARKETING BUDGET Fastkeys.lnk|
+|[71bfa7050eb962a40991aaab415d06dc](https://www.virustotal.com/gui/file/71bfa7050eb962a40991aaab415d06dc)|LNK||2024-01-15 17:04:12|C:\Users\user\AppData\Local\Temp\g0kw4usb.eoy\August-Smart-Lock-Job-Details-Salary-Marketing-Budget\August Smart Lock + _ August Home 1.lnk|
+|[aea7ca12ed6a5223cf5b13fe1dd48570](https://www.virustotal.com/gui/file/aea7ca12ed6a5223cf5b13fe1dd48570)|ZIP||2024-01-15 16:53:49|August-Smart-Lock-Job-Details-Salary-Marketing-Budget.zip|
+|[41cda221cd99696757685109426605c2](https://www.virustotal.com/gui/file/41cda221cd99696757685109426605c2)|Win64 EXE||2024-01-15 16:51:15|a0716824ccd779bdb3bebdd4ca5bab72199ba10565bd7b2d1b28cd74b06569f5.exe|
+|[cbc118a04206131371bedf850b8950f7](https://www.virustotal.com/gui/file/cbc118a04206131371bedf850b8950f7)|LNK||2024-01-15 16:51:08|C:\Users\user\AppData\Local\Temp\1hrjnx3t.12g\Job Description Plan - Uniqlo 2024\New Product Project Budget - Uniqlo 2024.lnk|
+|[65a8c96d2fb4edcff091826e2a4c31fa](https://www.virustotal.com/gui/file/65a8c96d2fb4edcff091826e2a4c31fa)|LNK||2024-01-15 16:40:35|C:\Users\user\AppData\Local\Temp\1hrjnx3t.12g\Job Description Plan - Uniqlo 2024\Roles & Responsibilities Uniqlo 2024.lnk|
+|[e4d04ced10c86abe6b67cf291e498e86](https://www.virustotal.com/gui/file/e4d04ced10c86abe6b67cf291e498e86)|LNK||2024-01-15 16:40:35|C:\Users\user\AppData\Local\Temp\1hrjnx3t.12g\Job Description Plan - Uniqlo 2024\Income & Benefits - Uniqlo 2024.lnk|
+|[d2730cde1298e3fecad0e5e750c88236](https://www.virustotal.com/gui/file/d2730cde1298e3fecad0e5e750c88236)|ZIP||2024-01-15 16:39:52|Job Description Plan - Uniqlo 2024.zip|
+|[f5d93cb7c6d27398b5b2813e42fccb8f](https://www.virustotal.com/gui/file/f5d93cb7c6d27398b5b2813e42fccb8f)|LNK||2024-01-15 08:00:24|European-online-fashion-market-report-2021-2025.lnk|
+|[5272daca12ee17be3edded2adee88485](https://www.virustotal.com/gui/file/5272daca12ee17be3edded2adee88485)|Win64 EXE||2024-01-11 23:39:02|05386f3b8d8c87bf3609a65d5306483f65529ed355aedc2c62d52847dd12ec6e.exe|
+|[6aa6a23f7d56cc479920fec24b5d3cf9](https://www.virustotal.com/gui/file/6aa6a23f7d56cc479920fec24b5d3cf9)|ZIP||2024-01-11 18:15:38|Document detailing Digital Marketing recruitment.zip|
+|[fdd4912721d70ee0a2c6caf9671ff004](https://www.virustotal.com/gui/file/fdd4912721d70ee0a2c6caf9671ff004)|TXT||2024-01-11 02:33:11|fdd4912721d70ee0a2c6caf9671ff004.jpg|
+|[755f6227ddcfb7097eb1fce21b87fe78](https://www.virustotal.com/gui/file/755f6227ddcfb7097eb1fce21b87fe78)|LNK||2024-01-10 23:44:34|C:\Users\user\AppData\Local\Temp\u5hdyekw.02o\Hometown-Digital-Marketing-Agency-Job-Details-and-Salary-Marketing-Budget\Hometown Digital Marketing Agency 4.lnk|
+|[6480ce19d1d1b4f4533ff7453d364b9c](https://www.virustotal.com/gui/file/6480ce19d1d1b4f4533ff7453d364b9c)|ZIP||2024-01-10 23:33:46|Hometown-Digital-Marketing-Agency-Job-Details-and-Salary-Marketing-Budget.zip|
+|[113f72b8d92545086cef9a0aafa83225](https://www.virustotal.com/gui/file/113f72b8d92545086cef9a0aafa83225)|TXT||2024-01-10 19:11:33|110120240010113f72b8d92545086cef9a0aafa83225jpgps1.ps1|
+|[c63d8d9b9e23b92b2cb39edfd7c8975f](https://www.virustotal.com/gui/file/c63d8d9b9e23b92b2cb39edfd7c8975f)|TXT||2024-01-10 17:05:44|c63d8d9b9e23b92b2cb39edfd7c8975f.jpg|
+|[7e85db820643c1a2157b4aa934333d76](https://www.virustotal.com/gui/file/7e85db820643c1a2157b4aa934333d76)|TXT||2024-01-10 05:26:37|7e85db820643c1a2157b4aa934333d76.jpg|
+|[f8ce3f238380a9d83fe10dc1c779f6f3](https://www.virustotal.com/gui/file/f8ce3f238380a9d83fe10dc1c779f6f3)|LNK||2024-01-09 10:01:06|Milwaukee M18.lnk|
+|[847734e9ede0aa2fca9bf6408dec9965](https://www.virustotal.com/gui/file/847734e9ede0aa2fca9bf6408dec9965)|LNK||2024-01-08 09:15:54|Meta Ads Project Cost Budget-Sheraton Grande Tokyo Bay Hotel.docx|
+|[f59f6a868053a7d0504ea5ffc1e1c4cd](https://www.virustotal.com/gui/file/f59f6a868053a7d0504ea5ffc1e1c4cd)|LNK||2024-01-08 09:10:09|Wedding space decore-Sheraton Grande Tokyo Bay Hotel (mkt pic 5).png.lnk|
+|[b424485135861b3866222f12b80cfc78](https://www.virustotal.com/gui/file/b424485135861b3866222f12b80cfc78)|LNK||2024-01-07 13:47:24|C:\Users\user\AppData\Local\Temp\einlnlw3.lqh\Power_Digital_Marketing_Agency\1 _ Project information records and working contracts..lnk|
+|[2b5cb29e1c13b9947558b764bb1fe6d3](https://www.virustotal.com/gui/file/2b5cb29e1c13b9947558b764bb1fe6d3)|ZIP||2024-01-07 13:32:54|Power_Digital_Marketing_Agency 2.zip|
+|[366cb94cb1da8f7c50345dfaa021faf2](https://www.virustotal.com/gui/file/366cb94cb1da8f7c50345dfaa021faf2)|TXT||2024-01-05 04:38:35|366cb94cb1da8f7c50345dfaa021faf2.jpg|
+|[1753ea83c2e9fd3df08e44087140df6c](https://www.virustotal.com/gui/file/1753ea83c2e9fd3df08e44087140df6c)|TXT||2024-01-05 04:31:13|1753ea83c2e9fd3df08e44087140df6c.jpg|
+|[34b482fc1ffc400e7dd6cac247949c57](https://www.virustotal.com/gui/file/34b482fc1ffc400e7dd6cac247949c57)|TXT||2024-01-05 04:11:46|34b482fc1ffc400e7dd6cac247949c57.jpg|
+|[91d8fdf302a369f60e11f3587b4338b2](https://www.virustotal.com/gui/file/91d8fdf302a369f60e11f3587b4338b2)|TXT||2024-01-04 22:29:39|91d8fdf302a369f60e11f3587b4338b2.jpg|
+|[efa5dfc4e3336b9575adb0fb81c58a46](https://www.virustotal.com/gui/file/efa5dfc4e3336b9575adb0fb81c58a46)|TXT||2024-01-04 18:23:55|efa5dfc4e3336b9575adb0fb81c58a46.jpg|
+|[b3be90e15ad46cc0473ede5138328471](https://www.virustotal.com/gui/file/b3be90e15ad46cc0473ede5138328471)|TXT||2024-01-04 17:42:42|b3be90e15ad46cc0473ede5138328471.jpg|
+|[181cbcb8783d637b7e9a75b7b0a417cb](https://www.virustotal.com/gui/file/181cbcb8783d637b7e9a75b7b0a417cb)|TXT||2024-01-04 17:42:41|181cbcb8783d637b7e9a75b7b0a417cb.jpg|
+|[aa46a16a1b35a4df6ca13915a358f946](https://www.virustotal.com/gui/file/aa46a16a1b35a4df6ca13915a358f946)|TXT||2024-01-04 17:41:52|aa46a16a1b35a4df6ca13915a358f946.jpg|
+|[d5c89d21dad0c91c28bdc03c7faf830a](https://www.virustotal.com/gui/file/d5c89d21dad0c91c28bdc03c7faf830a)|TXT||2024-01-04 17:41:50|d5c89d21dad0c91c28bdc03c7faf830a.jpg|
+|[aef0214ea57f407861a67d7efabdee35](https://www.virustotal.com/gui/file/aef0214ea57f407861a67d7efabdee35)|TXT||2024-01-04 17:32:33|aef0214ea57f407861a67d7efabdee35.jpg|
+|[dae2735566d4b871a1dfbb935f8894f5](https://www.virustotal.com/gui/file/dae2735566d4b871a1dfbb935f8894f5)|TXT||2024-01-04 17:31:28|dae2735566d4b871a1dfbb935f8894f5.jpg|
+|[7a3df59dd02a77afc34e64600458ffdd](https://www.virustotal.com/gui/file/7a3df59dd02a77afc34e64600458ffdd)|TXT||2024-01-04 16:56:20|7a3df59dd02a77afc34e64600458ffdd.jpg|
+|[0d5b4f026f2ca86a39b82c4fd1a4f95a](https://www.virustotal.com/gui/file/0d5b4f026f2ca86a39b82c4fd1a4f95a)|TXT||2024-01-03 07:45:07|0d5b4f026f2ca86a39b82c4fd1a4f95a.jpg|
+|[705a87918d900cd15dbc509b4454752d](https://www.virustotal.com/gui/file/705a87918d900cd15dbc509b4454752d)|LNK||2024-01-03 07:24:27|C:\Users\user\AppData\Local\Temp\jeoc2x3m.2lu\Survey Questions and Online Meeting Schedule-Sheraton Grande Tokyo Bay Hotel.docx.lnk|
+|[abb1f1457a5129804977322bd9177603](https://www.virustotal.com/gui/file/abb1f1457a5129804977322bd9177603)|LNK||2024-01-03 07:24:25|C:\Users\user\AppData\Local\Temp\jeoc2x3m.2lu\Panoramic view of the hotel-Sheraton Grande Tokyo Bay Hotel 2.png.lnk|
+|[27d82702d786807c4e271fc8058b2573](https://www.virustotal.com/gui/file/27d82702d786807c4e271fc8058b2573)|LNK||2024-01-03 07:24:25|C:\Users\user\AppData\Local\Temp\jeoc2x3m.2lu\Wedding space decore-Sheraton Grande Tokyo Bay Hotel (mkt pic 5).png.lnk|
+|[b62402bad48e82e0fd00e7d29acf1ff2](https://www.virustotal.com/gui/file/b62402bad48e82e0fd00e7d29acf1ff2)|LNK||2024-01-03 07:24:25| |
+|[76290ba08ec0864d45d1d67c723a2517](https://www.virustotal.com/gui/file/76290ba08ec0864d45d1d67c723a2517)|LNK||2024-01-03 07:24:25|C:\Users\user\AppData\Local\Temp\jeoc2x3m.2lu\Wedding space decore-Sheraton Grande Tokyo Bay Hotel (mkt pic 4).png.lnk|
+|[db93a974ee653c33d55cdaa99d8cf714](https://www.virustotal.com/gui/file/db93a974ee653c33d55cdaa99d8cf714)|LNK||2024-01-03 07:24:25| |
+|[2bc4fd3f863cc0bf4805b48675fdc606](https://www.virustotal.com/gui/file/2bc4fd3f863cc0bf4805b48675fdc606)|LNK||2024-01-03 07:24:24|C:\Users\user\AppData\Local\Temp\jeoc2x3m.2lu\Meta Ads Project Cost Budget-Sheraton Grande Tokyo Bay Hotel.docx.lnk|
+|[9a04bd024f2348e15f780535ae681694](https://www.virustotal.com/gui/file/9a04bd024f2348e15f780535ae681694)|LNK||2024-01-03 07:24:24|C:\Users\user\AppData\Local\Temp\jeoc2x3m.2lu\Teppanyaki - Sheraton Grande Tokyo Bay Hotel (Mkt pic 3).png.lnk|
+|[7201d7e689b9daffceb59c4ad17230f3](https://www.virustotal.com/gui/file/7201d7e689b9daffceb59c4ad17230f3)|LNK||2024-01-03 07:24:24| |
+|[77c0429848e0b4d668c3710bb221a068](https://www.virustotal.com/gui/file/77c0429848e0b4d668c3710bb221a068)|LNK||2024-01-03 07:24:24|C:\Users\user\AppData\Local\Temp\jeoc2x3m.2lu\Teppanyaki - Sheraton Grande Tokyo Hotel (Mkt pic 7).png.lnk|
+|[3148b8aa4e3a650f68903c1f489c5550](https://www.virustotal.com/gui/file/3148b8aa4e3a650f68903c1f489c5550)|LNK||2024-01-03 07:24:24|C:\Users\user\AppData\Local\Temp\jeoc2x3m.2lu\Teppanyaki - Sheraton Grande Tokyo Bay Hotel (Mkt pic 8).png.lnk|
+|[578a1a7770eb5b28df3929754c3f3a1a](https://www.virustotal.com/gui/file/578a1a7770eb5b28df3929754c3f3a1a)|TXT||2024-01-03 04:20:23|578a1a7770eb5b28df3929754c3f3a1a.jpg|
+|[60aba1a2c635e819053f81ebdeb2aeb0](https://www.virustotal.com/gui/file/60aba1a2c635e819053f81ebdeb2aeb0)|TXT||2024-01-03 04:20:20|60aba1a2c635e819053f81ebdeb2aeb0.jpg|
+|[deeae1c1f34f1a21c4ba8364de906878](https://www.virustotal.com/gui/file/deeae1c1f34f1a21c4ba8364de906878)|ZIP||2024-01-03 03:54:44|Milwaukee Project Marketing Facebook.zip|
+|[f04e05c523f3d67eef8f08fb8d6ccbd2](https://www.virustotal.com/gui/file/f04e05c523f3d67eef8f08fb8d6ccbd2)|ZIP||2024-01-01 16:55:47|Project_Digital_Marketing_Hiring.zip|
+|[ddd0034ee48f0e500b1897a6cc34eb2b](https://www.virustotal.com/gui/file/ddd0034ee48f0e500b1897a6cc34eb2b)|ZIP||2024-01-01 15:33:54|Project_Digital_Marketing_Hiring.zip|
+|[197677291e2e2c27c93fb96d7263287c](https://www.virustotal.com/gui/file/197677291e2e2c27c93fb96d7263287c)|ZIP||2024-01-01 07:34:18|Project_Digital_Marketing_Hiring.zip|
+|[6910e92de12806638f709dea0325d042](https://www.virustotal.com/gui/file/6910e92de12806638f709dea0325d042)|ZIP||2023-12-31 14:12:23|Project_Digital_Marketing_Hiring.zip|
+|[e3e5aa3507081808eb01915226e341d1](https://www.virustotal.com/gui/file/e3e5aa3507081808eb01915226e341d1)|ZIP||2023-12-31 06:09:38|August Smart Lock  _ Job Details and Salary Marketing Budget.zip|
+|[36ac8032bcc598917dd404ab62f8e851](https://www.virustotal.com/gui/file/36ac8032bcc598917dd404ab62f8e851)|LNK||2023-12-30 13:24:03|C:\Users\user\AppData\Local\Temp\ypi2a5nw.ygc\Project_Digital_Marketing_Hiring\Advertising Products 01.lnk|
+|[a273d2f1d6ca5f0e2f91ef3d08d6a69a](https://www.virustotal.com/gui/file/a273d2f1d6ca5f0e2f91ef3d08d6a69a)|LNK||2023-12-28 12:10:31|C:\Users\user\AppData\Local\Temp\b5vkkxrz.s5y\Job Description Plan - Valentino\Roles & Responsibilities Valentino.lnk|
+|[fbff28cad5a28f437e606084f6976481](https://www.virustotal.com/gui/file/fbff28cad5a28f437e606084f6976481)|LNK||2023-12-28 12:10:30|C:\Users\user\AppData\Local\Temp\b5vkkxrz.s5y\Job Description Plan - Valentino\Income & Benefits Valentino.lnk|
+|[9c7ea0ba034ec54e2f576b3b833caaf4](https://www.virustotal.com/gui/file/9c7ea0ba034ec54e2f576b3b833caaf4)|LNK||2023-12-28 12:10:30|C:\Users\user\AppData\Local\Temp\b5vkkxrz.s5y\Job Description Plan - Valentino\New Product Project Budget - Valentino.lnk|
+|[89cbc3d9763abdd0ad9b7ae73ffe6537](https://www.virustotal.com/gui/file/89cbc3d9763abdd0ad9b7ae73ffe6537)|ZIP||2023-12-28 12:09:33|Job Description Plan - Valentino.zip|
+|[091a9d08f483b48d9f0598420c73da31](https://www.virustotal.com/gui/file/091a9d08f483b48d9f0598420c73da31)|LNK||2023-12-26 17:11:13|New Product Project Budget - Coach 2023.lnk|
+|[e213ebf902883146f0f05335781c2af4](https://www.virustotal.com/gui/file/e213ebf902883146f0f05335781c2af4)|LNK||2023-12-26 16:56:31|Income & Benefits - Coach 2023.lnk|
+|[b31e76c1c83e9fa5a58d66327e5f6a98](https://www.virustotal.com/gui/file/b31e76c1c83e9fa5a58d66327e5f6a98)|ZIP||2023-12-26 16:53:01|August Smart Lock _ Job Details and Salary_Marketing Budget.zip|
+|[6dc4ea80e2d3fe2a76156212eef95ea3](https://www.virustotal.com/gui/file/6dc4ea80e2d3fe2a76156212eef95ea3)|LNK||2023-12-23 09:54:32|C:\Users\user\AppData\Local\Temp\nojgxeif.fwu\bet365\Target customers.lnk|
+|[5f477ee3ef636223603a571acf5b01f1](https://www.virustotal.com/gui/file/5f477ee3ef636223603a571acf5b01f1)|LNK||2023-12-23 09:54:31|C:\Users\user\AppData\Local\Temp\nojgxeif.fwu\bet365\New promotional video 2.lnk|
+|[f0635948fed4b71296a2b8c8c26376a1](https://www.virustotal.com/gui/file/f0635948fed4b71296a2b8c8c26376a1)|LNK||2023-12-23 09:54:31|C:\Users\user\AppData\Local\Temp\nojgxeif.fwu\bet365\New promotional video 1.lnk|
+|[79b1d9140d2b23a892342182fc9336bc](https://www.virustotal.com/gui/file/79b1d9140d2b23a892342182fc9336bc)|ZIP||2023-12-23 09:53:31|(new)bet365.zip|
+|[90420c55614b2060d386f2baade98242](https://www.virustotal.com/gui/file/90420c55614b2060d386f2baade98242)|ZIP||2023-12-21 13:42:34|MLB-Preview.zip|
+|[51890278a1f76f9d20fe6865e88e47da](https://www.virustotal.com/gui/file/51890278a1f76f9d20fe6865e88e47da)|LNK||2023-12-21 10:58:24|payload_1.lnk|
+|[a1cfaf47f5e59847f061973fd5758907](https://www.virustotal.com/gui/file/a1cfaf47f5e59847f061973fd5758907)|LNK||2023-12-21 10:58:20|payload_1.lnk|
+|[940b6656c150255e64966f582b71b681](https://www.virustotal.com/gui/file/940b6656c150255e64966f582b71b681)|LNK||2023-12-21 10:58:15|payload_1.lnk|
+|[c18113c469a64198995aa07a8dd2cba9](https://www.virustotal.com/gui/file/c18113c469a64198995aa07a8dd2cba9)|LNK||2023-12-21 08:52:39|C:\Users\user\AppData\Local\Temp\gw3k5tpu.rog\Space, interior of double room - family, lover-Sheraton Grande Tokyo Bay Hotel.png.lnk|
+|[c122c3f074e6db59873ccfb02a0c3bd4](https://www.virustotal.com/gui/file/c122c3f074e6db59873ccfb02a0c3bd4)|LNK||2023-12-21 08:52:38|C:\Users\user\AppData\Local\Temp\gw3k5tpu.rog\Panoramic view of the hotel-Sheraton Grande Tokyo Bay Hotel.png.lnk|
+|[c0aa74cfd7153b5456af4e2a9ebf41dd](https://www.virustotal.com/gui/file/c0aa74cfd7153b5456af4e2a9ebf41dd)|LNK||2023-12-21 08:52:38|C:\Users\user\AppData\Local\Temp\gw3k5tpu.rog\Wedding space decore-Sheraton Grande Tokyo Bay Hotel (mkt pic 5).png.lnk|
+|[ace71ab11f73485c7e0841dd16bdf6b4](https://www.virustotal.com/gui/file/ace71ab11f73485c7e0841dd16bdf6b4)|LNK||2023-12-21 08:52:38|C:\Users\user\AppData\Local\Temp\gw3k5tpu.rog\Survey Questions and Online Meeting Schedule-Sheraton Grande Tokyo Bay Hotel.docx.lnk|
+|[fbf7cec1f2ea37b4b71a66c3bec13559](https://www.virustotal.com/gui/file/fbf7cec1f2ea37b4b71a66c3bec13559)|LNK||2023-12-21 08:52:38|C:\Users\user\AppData\Local\Temp\gw3k5tpu.rog\Meta Ads Project Cost Budget-Sheraton Grande Tokyo Bay Hotel.docx.lnk|
+|[89beeff6805d0171d1a7908eb71aaed9](https://www.virustotal.com/gui/file/89beeff6805d0171d1a7908eb71aaed9)|LNK||2023-12-21 08:52:38|C:\Users\user\AppData\Local\Temp\gw3k5tpu.rog\Teppanyaki - Sheraton Grande Tokyo Hotel (Mkt pic 7).png.lnk|
+|[29cdfbd6d8dd07f4c4c34d9db9bc4439](https://www.virustotal.com/gui/file/29cdfbd6d8dd07f4c4c34d9db9bc4439)|LNK||2023-12-21 08:52:38|C:\Users\user\AppData\Local\Temp\gw3k5tpu.rog\Panoramic view of the hotel-Sheraton Grande Tokyo Bay Hotel 2.png.lnk|
+|[ccf16d3f0a7157874d9f9a816ee22d37](https://www.virustotal.com/gui/file/ccf16d3f0a7157874d9f9a816ee22d37)|LNK||2023-12-21 08:52:38|C:\Users\user\AppData\Local\Temp\gw3k5tpu.rog\Teppanyaki - Sheraton Grande Tokyo Bay Hotel (Mkt pic 3).png.lnk|
+|[dbe5959c429d0ff523c0011a335834e2](https://www.virustotal.com/gui/file/dbe5959c429d0ff523c0011a335834e2)|LNK||2023-12-20 05:59:14|C:\Users\user\AppData\Local\Temp\5j0hjluy.o1s\Project for organic fashion\Budget-Report - Video Document Organic Fashion Campaign\Perfect office bag.lnk|
+|[862ad954d1bc92861a3b956c1ac123ae](https://www.virustotal.com/gui/file/862ad954d1bc92861a3b956c1ac123ae)|LNK||2023-12-20 05:59:13|C:\Users\user\AppData\Local\Temp\5j0hjluy.o1s\Project for organic fashion\List new product 2023.lnk|
+|[9948e6fcd7282d3bb5192b2b7faba64b](https://www.virustotal.com/gui/file/9948e6fcd7282d3bb5192b2b7faba64b)|LNK||2023-12-20 05:59:13|C:\Users\user\AppData\Local\Temp\5j0hjluy.o1s\Project for organic fashion\New Arrivals Campaign Contract.lnk|
+|[3306a7f1c385cebf07d6ec66b9e2ebe6](https://www.virustotal.com/gui/file/3306a7f1c385cebf07d6ec66b9e2ebe6)|LNK||2023-12-20 05:59:13|C:\Users\user\AppData\Local\Temp\5j0hjluy.o1s\Project for organic fashion\Budget-Report - Video Document Organic Fashion Campaign\Contract.lnk|
+|[4b4bb65cba22f924495e0a166df3665a](https://www.virustotal.com/gui/file/4b4bb65cba22f924495e0a166df3665a)|LNK||2023-12-20 05:59:13|C:\Users\user\AppData\Local\Temp\5j0hjluy.o1s\Project for organic fashion\Footwear Market Report.lnk|
+|[9a54b13631ae61c297d20a899b2a4a54](https://www.virustotal.com/gui/file/9a54b13631ae61c297d20a899b2a4a54)|LNK||2023-12-20 05:59:12|C:\Users\user\AppData\Local\Temp\5j0hjluy.o1s\Project for organic fashion\Budget-Report - Video Document Organic Fashion Campaign\Facebook Reels Video.lnk|
+|[ad9fe56549ca6129ffdcc0e543d39760](https://www.virustotal.com/gui/file/ad9fe56549ca6129ffdcc0e543d39760)|ZIP||2023-12-19 09:23:27|Agency_Digital_Marketing.zip|
+|[722fd5decccf346972cbfffa034411c1](https://www.virustotal.com/gui/file/722fd5decccf346972cbfffa034411c1)|ZIP||2023-12-18 05:10:15|Power_Digital_Marketing_Agency.zip|
+|[48d9b8e954d5dc625258df061d9da916](https://www.virustotal.com/gui/file/48d9b8e954d5dc625258df061d9da916)|LNK||2023-12-15 18:06:43|C:\Users\user\AppData\Local\Temp\bt1mn2rj.gzs\bet365\New promotional video 1.lnk|
+|[495ec5f61c968ef7181ce7cace5a8bff](https://www.virustotal.com/gui/file/495ec5f61c968ef7181ce7cace5a8bff)|LNK||2023-12-15 18:06:42|C:\Users\user\AppData\Local\Temp\bt1mn2rj.gzs\bet365\Target customers.lnk|
+|[6a154bdb8031dc9e13d4bd19ab8c2649](https://www.virustotal.com/gui/file/6a154bdb8031dc9e13d4bd19ab8c2649)|LNK||2023-12-15 18:06:41|C:\Users\user\AppData\Local\Temp\bt1mn2rj.gzs\bet365\New promotional video 2.lnk|
+|[e34b52620b2707c7792a04ddf3b693d8](https://www.virustotal.com/gui/file/e34b52620b2707c7792a04ddf3b693d8)|ZIP||2023-12-15 18:05:39|(new)bet365.zip|
+|[0a3f7e0834b110a93d60a4745a1e8e95](https://www.virustotal.com/gui/file/0a3f7e0834b110a93d60a4745a1e8e95)|LNK||2023-12-15 05:13:36| |
+|[95809491110a57a4bba4e0780b173bbb](https://www.virustotal.com/gui/file/95809491110a57a4bba4e0780b173bbb)|LNK||2023-12-15 05:13:36|C:\Users\user\AppData\Local\Temp\gyszwrg1.t2n\Survey Questions and Confirming a phone appointment-Sheraton Grande Tokyo Hotel.docx.lnk|
+|[fd0b1ec53846db7feb783f3f24c8b0aa](https://www.virustotal.com/gui/file/fd0b1ec53846db7feb783f3f24c8b0aa)|LNK||2023-12-15 05:13:36|C:\Users\user\AppData\Local\Temp\gyszwrg1.t2n\Wedding space decore-Sheraton Grande Tokyo Bay Hotel (mkt pic 5).png.lnk|
+|[a32792a98a0ca46b2994f7c67afd1dcf](https://www.virustotal.com/gui/file/a32792a98a0ca46b2994f7c67afd1dcf)|LNK||2023-12-15 05:13:35|C:\Users\user\AppData\Local\Temp\gyszwrg1.t2n\Space, interior of double room - family, lover-Sheraton Hotel.png.lnk|
+|[12d58ececffef8fbf52916689d182cb7](https://www.virustotal.com/gui/file/12d58ececffef8fbf52916689d182cb7)|LNK||2023-12-15 05:13:35| |
+|[0e52660b093c1a006b510c32eb3ed13c](https://www.virustotal.com/gui/file/0e52660b093c1a006b510c32eb3ed13c)|LNK||2023-12-15 05:13:35|C:\Users\user\AppData\Local\Temp\gyszwrg1.t2n\Panoramic view of the hotel-Sheraton Grande Tokyo Bay Hotel 2.png.lnk|
+|[ffb4c0ff488b1556b355185881cf263c](https://www.virustotal.com/gui/file/ffb4c0ff488b1556b355185881cf263c)|LNK||2023-12-15 05:13:35|C:\Users\user\AppData\Local\Temp\gyszwrg1.t2n\Sheraton Tokyo Hotel- Meta Ads Project Cost Budget.docx.lnk|
+|[e5b9671300ffd721496f15ca5bdef0fb](https://www.virustotal.com/gui/file/e5b9671300ffd721496f15ca5bdef0fb)|LNK||2023-12-15 05:13:35| |
+|[e67ced437d90b79b1f4007e6d37234a7](https://www.virustotal.com/gui/file/e67ced437d90b79b1f4007e6d37234a7)|LNK||2023-12-15 05:13:35|C:\Users\user\AppData\Local\Temp\gyszwrg1.t2n\Wedding space decore-Sheraton Grande Tokyo Bay Hotel (mkt pic 2).png.lnk|
+|[186accfd12ef4b6a03199d0b9eb0cbf3](https://www.virustotal.com/gui/file/186accfd12ef4b6a03199d0b9eb0cbf3)|LNK||2023-12-15 05:13:35|C:\Users\user\AppData\Local\Temp\gyszwrg1.t2n\Panoramic view of the hotel-Sheraton Grande Tokyo Bay Hotel.png.lnk|
+|[4b1ed66a5dfcb6c53c53a593b86071bf](https://www.virustotal.com/gui/file/4b1ed66a5dfcb6c53c53a593b86071bf)|LNK||2023-12-15 05:13:35|C:\Users\user\AppData\Local\Temp\gyszwrg1.t2n\Teppanyaki - Sheraton Grande Tokyo Bay Hotel (Mkt pic 3).png.lnk|
+|[c13833b5a187bcab00269e83e238f12f](https://www.virustotal.com/gui/file/c13833b5a187bcab00269e83e238f12f)|LNK||2023-12-14 18:18:36|Yale and August- Marketing Budget.pdf.lnk|
+|[2889411d2687849186d61e8ea3971f75](https://www.virustotal.com/gui/file/2889411d2687849186d61e8ea3971f75)|LNK||2023-12-13 05:36:51|C:\Users\user\AppData\Local\Temp\3vlzyuhd.gky\SALES OFF 10% - Mancera Black Gold Eau de Parfum 120ml.png.lnk|
+|[407c303a9a0eccb0f4241ea8ef5f2884](https://www.virustotal.com/gui/file/407c303a9a0eccb0f4241ea8ef5f2884)|LNK||2023-12-13 05:36:50|C:\Users\user\AppData\Local\Temp\3vlzyuhd.gky\MANCERA-Term&Conditions-Target-Audience.docx.lnk|
+|[2e61a32535a9208cff5e66422e4ada3e](https://www.virustotal.com/gui/file/2e61a32535a9208cff5e66422e4ada3e)|LNK||2023-12-13 05:36:50|SALES OFF 10% - Mancera Red Tobacco Eau de Parfum 120ml.png.lnk|
+|[47d6881917d3a9bf5268eac7caf19837](https://www.virustotal.com/gui/file/47d6881917d3a9bf5268eac7caf19837)|LNK||2023-12-13 05:36:49|C:\Users\user\AppData\Local\Temp\3vlzyuhd.gky\Digital-Marketing-Executive-Job-Description-Format.docx.lnk|
+|[bcd1c742777416dc1529ab34c630ccbc](https://www.virustotal.com/gui/file/bcd1c742777416dc1529ab34c630ccbc)|LNK||2023-12-13 05:36:49|C:\Users\user\AppData\Local\Temp\3vlzyuhd.gky\Mancera-Website-Performance-worldwide.docx.lnk|
+|[e8fb18f825ba030d3dc4b8acb407f04a](https://www.virustotal.com/gui/file/e8fb18f825ba030d3dc4b8acb407f04a)|LNK||2023-12-13 05:36:49|C:\Users\user\AppData\Local\Temp\3vlzyuhd.gky\- THG-Unveiling the Magic of Oud_ 3D Animation Commercial for Amir One By Ajmal Perfumes.mp4.lnk|
+|[2a4d47fd5ce29ead4afb9bf45f3392ce](https://www.virustotal.com/gui/file/2a4d47fd5ce29ead4afb9bf45f3392ce)|LNK||2023-12-13 05:36:49|C:\Users\user\AppData\Local\Temp\3vlzyuhd.gky\MANCERA BANNER SALES OFF - 10%   ALL ITEMS 120ML.png.lnk|
+|[3647ace7429f5b5be3a885918b8fdc6e](https://www.virustotal.com/gui/file/3647ace7429f5b5be3a885918b8fdc6e)|LNK||2023-12-13 05:36:49|C:\Users\user\AppData\Local\Temp\3vlzyuhd.gky\SALES OFF 10% - Mancera Cedrat Boise Eau de Parfum 120ml.png.lnk|
+|[152bd6785c4caa27efa6c4d1ebc5ad58](https://www.virustotal.com/gui/file/152bd6785c4caa27efa6c4d1ebc5ad58)|ZIP||2023-12-13 05:21:49|MANCERA- Catalogue-Terms-conditions-Media plan.zip|
+|[6fd13f9356fab1bda5e074e413dcc729](https://www.virustotal.com/gui/file/6fd13f9356fab1bda5e074e413dcc729)|Win64 EXE||2023-12-13 03:42:41|C:\Users\user\AppData\Local\Temp\erzxiiov.y0g\August Smart Lock Project.exe|
+|[bdb47ecca8c6f57c269e0bb5dcd23ae3](https://www.virustotal.com/gui/file/bdb47ecca8c6f57c269e0bb5dcd23ae3)|ZIP||2023-12-13 03:41:28|August-Home-Project-1 (3).zip|
+|[717603cb74411f2f5e43442b01ea6366](https://www.virustotal.com/gui/file/717603cb74411f2f5e43442b01ea6366)|LNK||2023-12-11 14:16:15| |
+|[e69258133f8ca15a83c5c31a4c07cbe2](https://www.virustotal.com/gui/file/e69258133f8ca15a83c5c31a4c07cbe2)|LNK||2023-12-11 14:16:14| |
+|[fb50875cbe32024cba8193ff56d51f47](https://www.virustotal.com/gui/file/fb50875cbe32024cba8193ff56d51f47)|LNK||2023-12-11 14:16:13|C:\Users\user\AppData\Local\Temp\jeu5dfvo.ler\Wedding space decore-Sheraton Tokyo Bay Hotel (mkt pic 5).png.lnk|
+|[8e6c30c5184498e53692eca8c2fbbbe0](https://www.virustotal.com/gui/file/8e6c30c5184498e53692eca8c2fbbbe0)|LNK||2023-12-11 14:16:13|C:\Users\user\AppData\Local\Temp\jeu5dfvo.ler\Space, interior of double room - family, lover-Sheraton Hotel.png.lnk|
+|[feb1fa2a53e5f1735205cdd494ec0065](https://www.virustotal.com/gui/file/feb1fa2a53e5f1735205cdd494ec0065)|LNK||2023-12-11 14:16:13|C:\Users\user\AppData\Local\Temp\jeu5dfvo.ler\Wedding space decore-Sheraton Grande Tokyo Bay Hotel (mkt pic 2).png.lnk|
+|[da3a95423a812332c8040e2462ad6111](https://www.virustotal.com/gui/file/da3a95423a812332c8040e2462ad6111)|LNK||2023-12-11 14:16:13| |
+|[6b6b9161dcc03330f45d837dd3c4515c](https://www.virustotal.com/gui/file/6b6b9161dcc03330f45d837dd3c4515c)|LNK||2023-12-11 14:16:13|C:\Users\user\AppData\Local\Temp\jeu5dfvo.ler\Survey Questions and Confirming the call time-Sheraton Grande Tokyo Bay Hotel.docx.lnk|
+|[f485db3325b2d006de3e255308690402](https://www.virustotal.com/gui/file/f485db3325b2d006de3e255308690402)|LNK||2023-12-11 14:16:13|C:\Users\user\AppData\Local\Temp\jeu5dfvo.ler\Panoramic view of the hotel-Sheraton Grande Tokyo Bay Hotel 2.png.lnk|
+|[65753d7a2943eb6eba550ef6f783bfde](https://www.virustotal.com/gui/file/65753d7a2943eb6eba550ef6f783bfde)|LNK||2023-12-11 14:16:13|C:\Users\user\AppData\Local\Temp\jeu5dfvo.ler\Panoramic view of the hotel-Sheraton Grande Tokyo Bay Hotel.png.lnk|
+|[a6c3100ec43206ceb889db1283f6f5dc](https://www.virustotal.com/gui/file/a6c3100ec43206ceb889db1283f6f5dc)|LNK||2023-12-11 14:16:13|C:\Users\user\AppData\Local\Temp\jeu5dfvo.ler\Teppanyaki - Sheraton Grande Tokyo Bay Hotel (Mkt pic 3).png.lnk|
+|[67c1cad82be07867cb3296ef1b5fb03d](https://www.virustotal.com/gui/file/67c1cad82be07867cb3296ef1b5fb03d)|LNK||2023-12-06 12:53:23|C:\Users\user\AppData\Local\Temp\q0gln2eu.5i0\Job Description Plan & Project - Valentino 2023\New Product Advertising Project Budget - Valentino.lnk|
+|[fbf26a6b8687ab1ca57647071b35e799](https://www.virustotal.com/gui/file/fbf26a6b8687ab1ca57647071b35e799)|ZIP||2023-12-06 12:51:51|Job Description Plan & Project - Valentino 2023.zip|
+|[a299de8e59c571e770255b8c35213800](https://www.virustotal.com/gui/file/a299de8e59c571e770255b8c35213800)|Win64 EXE||2023-12-06 12:49:01|C:\Users\user\AppData\Local\Temp\q0gln2eu.5i0\Job Description Plan & Project - Valentino 2023\Salary & Benefits - Valentino.exe|
+|[575119a6e69b69dbc7c5049064358ab5](https://www.virustotal.com/gui/file/575119a6e69b69dbc7c5049064358ab5)|Win64 EXE||2023-12-06 12:46:19|C:\Users\user\AppData\Local\Temp\q0gln2eu.5i0\Job Description Plan & Project - Valentino 2023\Roles & Responsibilities - Valentino.exe|
+|[ff6ea40802e5441cd141202e7124d720](https://www.virustotal.com/gui/file/ff6ea40802e5441cd141202e7124d720)|LNK||2023-11-27 11:17:30| |
+|[18913813d6d14a176f46fdfd82c97be2](https://www.virustotal.com/gui/file/18913813d6d14a176f46fdfd82c97be2)|LNK||2023-11-27 11:17:28|C:\Users\user\AppData\Local\Temp\okjpn4in.rln\Parrot\New promotional video 2.lnk|
+|[a3da12316944bf6678a8ca7ee11b6f92](https://www.virustotal.com/gui/file/a3da12316944bf6678a8ca7ee11b6f92)|LNK||2023-11-27 11:17:27| |
+|[a21a895adc201a951e920914a6c08146](https://www.virustotal.com/gui/file/a21a895adc201a951e920914a6c08146)|LNK||2023-11-27 11:17:26| |
+|[90a21b23b06fbeacab13b26d1550df7f](https://www.virustotal.com/gui/file/90a21b23b06fbeacab13b26d1550df7f)|ZIP||2023-11-27 11:16:23|(new)Parrot.zip|
+|[259e5529565c40ae1cd30471ecb41cb6](https://www.virustotal.com/gui/file/259e5529565c40ae1cd30471ecb41cb6)|ZIP||2023-11-23 14:45:37|Milwaukee Product Project Profile.zip|
+|[84ff38bd2053c8a3f82c1e92a79c2d5a](https://www.virustotal.com/gui/file/84ff38bd2053c8a3f82c1e92a79c2d5a)|ZIP||2023-11-22 23:50:22|AgencyJET_work_details.zip|
+|[ca07c1970f26d92dc1b7632aec40759d](https://www.virustotal.com/gui/file/ca07c1970f26d92dc1b7632aec40759d)|LNK||2023-11-21 12:43:36| |
+|[91368ea9d1d60d3d15bcbf6524a8db3c](https://www.virustotal.com/gui/file/91368ea9d1d60d3d15bcbf6524a8db3c)|LNK||2023-11-21 12:43:36|C:\Users\user\AppData\Local\Temp\2vdxh1mj.5zj\SALES OFF 10% - Mancera So Blue Eau de Parfum 120ml.png.lnk|
+|[4c671824455362781d91d33b19307021](https://www.virustotal.com/gui/file/4c671824455362781d91d33b19307021)|LNK||2023-11-21 12:43:36| |
+|[4e4e19a179cf7cbf215d27bfe968c5d0](https://www.virustotal.com/gui/file/4e4e19a179cf7cbf215d27bfe968c5d0)|LNK||2023-11-21 12:43:36|C:\Users\user\AppData\Local\Temp\2vdxh1mj.5zj\SALES OFF 10% - Mancera Black Gold Eau de Parfum 120ml.png.lnk|
+|[4c7c222d60d745fa440cdd5e8d137a2e](https://www.virustotal.com/gui/file/4c7c222d60d745fa440cdd5e8d137a2e)|LNK||2023-11-21 12:43:36|C:\Users\user\AppData\Local\Temp\2vdxh1mj.5zj\SALES OFF 10% - Mancera Cedrat Boise Eau de Parfum 120ml.png.lnk|
+|[127e850ee3ae43ec8baaba3d26838387](https://www.virustotal.com/gui/file/127e850ee3ae43ec8baaba3d26838387)|LNK||2023-11-21 12:43:36|C:\Users\user\AppData\Local\Temp\2vdxh1mj.5zj\SALES OFF 10% - Mancera Sicily Eau de Parfum 120ml.png.lnk|
+|[adfabee09fe03f4c57e105434e7e2868](https://www.virustotal.com/gui/file/adfabee09fe03f4c57e105434e7e2868)|LNK||2023-11-21 12:43:36|C:\Users\user\AppData\Local\Temp\2vdxh1mj.5zj\Unveiling the Magic of Oud_ 3D Animation Commercial for Amir One By Ajmal Perfumes 1080p.mp4.lnk|
+|[1b018d96f221059be6b07ade3765f70e](https://www.virustotal.com/gui/file/1b018d96f221059be6b07ade3765f70e)|LNK||2023-11-21 12:43:35|C:\Users\user\AppData\Local\Temp\2vdxh1mj.5zj\SALES OFF 10% - Mancera Red Tobacco Eau de Parfum 120ml.png.lnk|
+|[5b5eca9c1a70f2bef59e2766734d56bb](https://www.virustotal.com/gui/file/5b5eca9c1a70f2bef59e2766734d56bb)|LNK||2023-11-21 12:43:35|C:\Users\user\AppData\Local\Temp\2vdxh1mj.5zj\SALES OFF 10% - Mancera Instant Crush Eau de Parfum 120ml.png (2).lnk|
+|[9c04614d32f3b9aa7519ece1110f4d6f](https://www.virustotal.com/gui/file/9c04614d32f3b9aa7519ece1110f4d6f)|LNK||2023-11-21 12:43:35|C:\Users\user\AppData\Local\Temp\2vdxh1mj.5zj\SALES OFF 10% - Mancera Instant Crush Eau de Parfum 120ml.png.lnk|
+|[f7168b8d237dc9abca96bdf720198ede](https://www.virustotal.com/gui/file/f7168b8d237dc9abca96bdf720198ede)|ZIP||2023-11-21 12:41:41|MANCERA- ALL ITEMS SALES OFF PICTURE & VIDEOS 3D Reels Ads.zip|
+|[410dcc721a0dd53983d02f959bb24b8c](https://www.virustotal.com/gui/file/410dcc721a0dd53983d02f959bb24b8c)|ZIP||2023-11-21 05:27:55|Agency_Digital_Marketing.zip|
+|[f6e4c73d30c3420ccb9c0ea67120210c](https://www.virustotal.com/gui/file/f6e4c73d30c3420ccb9c0ea67120210c)|LNK||2023-11-20 10:47:19| |
+|[22de115059dafec20dd9ec3753cee496](https://www.virustotal.com/gui/file/22de115059dafec20dd9ec3753cee496)|LNK||2023-11-20 10:47:18|C:\Users\user\AppData\Local\Temp\glzwwpn0.nsz\Job Description Plan - Ralph Lauren 2023\Salary and Benefits - Ralph Lauren.lnk|
+|[39a3a5bed833f1276e74e4410508149f](https://www.virustotal.com/gui/file/39a3a5bed833f1276e74e4410508149f)|LNK||2023-11-20 10:47:18|C:\Users\user\AppData\Local\Temp\glzwwpn0.nsz\Job Description Plan - Ralph Lauren 2023\New Arrivals 8.lnk|
+|[e054aaf8c62a3ea9af25357ffac24847](https://www.virustotal.com/gui/file/e054aaf8c62a3ea9af25357ffac24847)|LNK||2023-11-20 10:47:18|C:\Users\user\AppData\Local\Temp\glzwwpn0.nsz\Job Description Plan - Ralph Lauren 2023\New Arrivals 3.lnk|
+|[1a7281c83d2f711f76026afe072f7ef4](https://www.virustotal.com/gui/file/1a7281c83d2f711f76026afe072f7ef4)|LNK||2023-11-20 10:47:18|C:\Users\user\AppData\Local\Temp\glzwwpn0.nsz\Job Description Plan - Ralph Lauren 2023\New Arrivals 5.lnk|
+|[e0a45a59471d6f43cacf34eaca04ddd1](https://www.virustotal.com/gui/file/e0a45a59471d6f43cacf34eaca04ddd1)|LNK||2023-11-20 10:47:18|C:\Users\user\AppData\Local\Temp\glzwwpn0.nsz\Job Description Plan - Ralph Lauren 2023\New Arrivals 6.lnk|
+|[38a32f286565550de46606a4721da1b6](https://www.virustotal.com/gui/file/38a32f286565550de46606a4721da1b6)|LNK||2023-11-20 10:47:18|C:\Users\user\AppData\Local\Temp\glzwwpn0.nsz\Job Description Plan - Ralph Lauren 2023\New Arrivals 7.lnk|
+|[a359ad85920aa05ff5a5d715b7cb504e](https://www.virustotal.com/gui/file/a359ad85920aa05ff5a5d715b7cb504e)|LNK||2023-11-20 10:47:18|C:\Users\user\AppData\Local\Temp\glzwwpn0.nsz\Job Description Plan - Ralph Lauren 2023\Roles and responsibilities - Ralph Lauren.lnk|
+|[929cca5a9fc06fb77b28cfe7f06f480e](https://www.virustotal.com/gui/file/929cca5a9fc06fb77b28cfe7f06f480e)|LNK||2023-11-20 10:47:18|C:\Users\user\AppData\Local\Temp\glzwwpn0.nsz\Job Description Plan - Ralph Lauren 2023\New Arrivals 4.lnk|
+|[3e33c37c52c5a707e581d35d3a7ded17](https://www.virustotal.com/gui/file/3e33c37c52c5a707e581d35d3a7ded17)|LNK||2023-11-20 10:47:17| |
+|[1e66dce437ce5598d06c8d1c5b9d5a51](https://www.virustotal.com/gui/file/1e66dce437ce5598d06c8d1c5b9d5a51)|LNK||2023-11-20 10:47:17| |
+|[7ae547a5270d2872cc08f733ebe6d5f9](https://www.virustotal.com/gui/file/7ae547a5270d2872cc08f733ebe6d5f9)|ZIP||2023-11-20 10:45:53|Job Description Plan - Ralph Lauren 2023 3.zip|
+|[fb9a2c944d4b9bf9d303b3754f5e8d66](https://www.virustotal.com/gui/file/fb9a2c944d4b9bf9d303b3754f5e8d66)|LNK||2023-11-20 09:05:06|C:\Users\user\AppData\Local\Temp\uscwlybf.cjs\Todoist-Plan\Research Customers and Budgets.lnk|
+|[9f2d2c8342eb11e963683813941ce045](https://www.virustotal.com/gui/file/9f2d2c8342eb11e963683813941ce045)|LNK||2023-11-20 09:05:05|C:\Users\user\AppData\Local\Temp\uscwlybf.cjs\Todoist-Plan\Todoist  Working space.lnk|
+|[7d2f0f3348f08ca3536fafe2c55bfac8](https://www.virustotal.com/gui/file/7d2f0f3348f08ca3536fafe2c55bfac8)|LNK||2023-11-20 09:05:04|C:\Users\user\AppData\Local\Temp\uscwlybf.cjs\Todoist-Plan\Market and Target Research.lnk|
+|[23f0f049fe219f1e86f21d43fe3854eb](https://www.virustotal.com/gui/file/23f0f049fe219f1e86f21d43fe3854eb)|LNK||2023-11-20 09:05:04| |
+|[bffd024ca098ef2395697032c8bf540c](https://www.virustotal.com/gui/file/bffd024ca098ef2395697032c8bf540c)|LNK||2023-11-20 09:05:04|C:\Users\user\AppData\Local\Temp\uscwlybf.cjs\Todoist-Plan\Todoist Inbox.lnk|
+|[52f2c5cbf0e9c684e9fbcba976b9fcea](https://www.virustotal.com/gui/file/52f2c5cbf0e9c684e9fbcba976b9fcea)|LNK||2023-11-20 09:05:02|C:\Users\user\AppData\Local\Temp\uscwlybf.cjs\Todoist-Plan\Todoist manager.lnk|
+|[f10a27e91fa71e3887b28d348aa246f2](https://www.virustotal.com/gui/file/f10a27e91fa71e3887b28d348aa246f2)|LNK||2023-11-15 22:52:23|C:\Users\user\AppData\Local\Temp\miuyxphe.3hr\MLB-Preview\VIDEO-MLB-KOREAN-AESPA-PROJECT.mp4.lnk|
+|[f1c4e20d08f1d539d7741a28f9ef46e1](https://www.virustotal.com/gui/file/f1c4e20d08f1d539d7741a28f9ef46e1)|LNK||2023-11-15 22:52:21|C:\Users\user\AppData\Local\Temp\miuyxphe.3hr\MLB-Preview\MLB_PROPOSAL_FOR_MARKETING.pdf.lnk|
+|[9fcea5ddaa37780e9ae0a8415ded4b84](https://www.virustotal.com/gui/file/9fcea5ddaa37780e9ae0a8415ded4b84)|LNK||2023-11-15 22:52:21| |
+|[b274bd7c52830d884532c8f7cfbff386](https://www.virustotal.com/gui/file/b274bd7c52830d884532c8f7cfbff386)|LNK||2023-11-15 22:52:21| |
+|[96dad9fc9ac9376fe53fd3c198817f53](https://www.virustotal.com/gui/file/96dad9fc9ac9376fe53fd3c198817f53)|ZIP||2023-11-15 22:51:20|MLB-Preview.zip|
+|[8272a754e1d4377e638f144587fabe8d](https://www.virustotal.com/gui/file/8272a754e1d4377e638f144587fabe8d)|LNK||2023-11-13 19:29:49| |
+|[b703e4deff72e5029fc3c37875c4b66d](https://www.virustotal.com/gui/file/b703e4deff72e5029fc3c37875c4b66d)|LNK||2023-11-13 19:29:48| |
+|[f22de283a40f415799ca81e6491aa553](https://www.virustotal.com/gui/file/f22de283a40f415799ca81e6491aa553)|LNK||2023-11-13 19:29:47|C:\Users\user\AppData\Local\Temp\2qupisgr.dgk\plans for growth EcoPow\The first video in the product communication series 1.lnk|
+|[0cf6e7854637b4f950b4522b2c440888](https://www.virustotal.com/gui/file/0cf6e7854637b4f950b4522b2c440888)|LNK||2023-11-13 19:29:46|C:\Users\user\AppData\Local\Temp\2qupisgr.dgk\plans for growth EcoPow\The first video in the product communication series 2.lnk|
+|[8f1c5d99fc8549209ce5b63f316b5720](https://www.virustotal.com/gui/file/8f1c5d99fc8549209ce5b63f316b5720)|ZIP||2023-11-13 19:27:24|(new)plans for growth EcoPow.zip|
+|[0e3792566a1ec0b85bc95d1ccd481004](https://www.virustotal.com/gui/file/0e3792566a1ec0b85bc95d1ccd481004)|LNK||2023-11-13 15:57:40| |
+|[bd114fcb5629c803b736db54759ead8f](https://www.virustotal.com/gui/file/bd114fcb5629c803b736db54759ead8f)|LNK||2023-11-13 15:57:40| |
+|[16fc56bace9d0bb68a5468ea3cf153fe](https://www.virustotal.com/gui/file/16fc56bace9d0bb68a5468ea3cf153fe)|LNK||2023-11-13 15:57:40| |
+|[23a55a53f7f92a88994a86cb576d36d3](https://www.virustotal.com/gui/file/23a55a53f7f92a88994a86cb576d36d3)|ZIP||2023-11-13 15:56:37|Job description at UNIQLO 2023.zip|
+|[958e549d83d370b8b43d411ac0a6be14](https://www.virustotal.com/gui/file/958e549d83d370b8b43d411ac0a6be14)|LNK||2023-11-12 16:34:13|C:\Users\user\AppData\Local\Temp\udd31nmj.vtm\New Project 04\Contract new project.lnk|
+|[2424acff9f604a6c2428236a07d09c2a](https://www.virustotal.com/gui/file/2424acff9f604a6c2428236a07d09c2a)|LNK||2023-11-12 16:34:13|C:\Users\user\AppData\Local\Temp\udd31nmj.vtm\New Project 04\List new arrivals.lnk|
+|[c9d3cab3da178309dc3038cf3551183a](https://www.virustotal.com/gui/file/c9d3cab3da178309dc3038cf3551183a)|ZIP||2023-11-12 16:33:25|New Project 04.zip|
+|[da71d83fcba726e573f57c1be005d580](https://www.virustotal.com/gui/file/da71d83fcba726e573f57c1be005d580)|LNK||2023-11-09 07:39:43| |
+|[98b8dcdcac31345c73b4a33603a99d3f](https://www.virustotal.com/gui/file/98b8dcdcac31345c73b4a33603a99d3f)|LNK||2023-11-09 07:39:42|C:\Users\user\AppData\Local\Temp\m2pvpuhc.ddo\SALES OFF 10% - Mancera Hindu Kush Eau de Parfum 120ml.png.lnk|
+|[14b265c80f49f5da3ff2de9a7240953c](https://www.virustotal.com/gui/file/14b265c80f49f5da3ff2de9a7240953c)|LNK||2023-11-09 07:39:42|C:\Users\user\AppData\Local\Temp\m2pvpuhc.ddo\SALES OFF 10% - Mancera Black Gold Eau de Parfum 120ml.png.lnk|
+|[8ebe8a0d95e2c124d79470e43cbe07b0](https://www.virustotal.com/gui/file/8ebe8a0d95e2c124d79470e43cbe07b0)|LNK||2023-11-09 07:39:42|C:\Users\user\AppData\Local\Temp\m2pvpuhc.ddo\SALES OFF 10% - Mancera Red Tobacco Eau de Parfum 120ml.png.lnk|
+|[7b8ecd48e2e828b30a1282b23cb023d1](https://www.virustotal.com/gui/file/7b8ecd48e2e828b30a1282b23cb023d1)|LNK||2023-11-09 07:39:42|C:\Users\user\AppData\Local\Temp\m2pvpuhc.ddo\SALES OFF 10% - Mancera Sicily Eau de Parfum 120ml.png.lnk|
+|[e866c9df1c47b84a24ec973fb94aa760](https://www.virustotal.com/gui/file/e866c9df1c47b84a24ec973fb94aa760)|LNK||2023-11-09 07:39:42| |
+|[f34bf42c470ccc617c2b2f8a0c5b7d38](https://www.virustotal.com/gui/file/f34bf42c470ccc617c2b2f8a0c5b7d38)|LNK||2023-11-09 07:39:42|C:\Users\user\AppData\Local\Temp\m2pvpuhc.ddo\SALES OFF 10% - Mancera Instant Crush Eau de Parfum 120ml.png.lnk|
+|[1aed2fd69e6a8474b179b4916776e9cb](https://www.virustotal.com/gui/file/1aed2fd69e6a8474b179b4916776e9cb)|LNK||2023-11-09 07:39:42|C:\Users\user\AppData\Local\Temp\m2pvpuhc.ddo\SALES OFF 10% - Mancera Cedrat Boise Eau de Parfum 120ml.png.lnk|
+|[3f456470824808adede2b4578ba86f1a](https://www.virustotal.com/gui/file/3f456470824808adede2b4578ba86f1a)|LNK||2023-11-09 07:39:42|C:\Users\user\AppData\Local\Temp\m2pvpuhc.ddo\SALES OFF 10% - Mancera So Blue Eau de Parfum 120ml.png.lnk|
+|[77c83ea768f2cedc58afc3b812246dd2](https://www.virustotal.com/gui/file/77c83ea768f2cedc58afc3b812246dd2)|LNK||2023-11-09 07:39:41| |
+|[06b199147359e769f76bd2c627c332ba](https://www.virustotal.com/gui/file/06b199147359e769f76bd2c627c332ba)|ZIP||2023-11-09 07:37:45|MANCERA- ALL ITEMS SALES OFF PICTURE & VIDEOS 3D ANIMATION.zip|
+|[53ae039ef3a57367ab0e4daa092a0579](https://www.virustotal.com/gui/file/53ae039ef3a57367ab0e4daa092a0579)|ZIP||2023-11-08 17:57:09|AgencyJET_work_details.zip|
+|[171772bcfd5da02813dfedb685ec84df](https://www.virustotal.com/gui/file/171772bcfd5da02813dfedb685ec84df)|LNK||2023-11-07 08:36:09|C:\Users\user\AppData\Local\Temp\33l0lhxt.3gm\New Arrivals UNIQLO 2023 (5).lnk|
+|[ea6054ac8655bdfde93095759352726f](https://www.virustotal.com/gui/file/ea6054ac8655bdfde93095759352726f)|LNK||2023-11-07 08:36:08|C:\Users\user\AppData\Local\Temp\33l0lhxt.3gm\New Arrivals UNIQLO 2023 (3).lnk|
+|[9f89b234266e6eaaf4e3d1cd47b14cd0](https://www.virustotal.com/gui/file/9f89b234266e6eaaf4e3d1cd47b14cd0)|LNK||2023-11-07 08:36:08|C:\Users\user\AppData\Local\Temp\33l0lhxt.3gm\New Arrivals UNIQLO 2023 (4).lnk|
+|[140f96ccb60afc4659cba2285cd00cf8](https://www.virustotal.com/gui/file/140f96ccb60afc4659cba2285cd00cf8)|LNK||2023-11-07 08:36:08|C:\Users\user\AppData\Local\Temp\33l0lhxt.3gm\New Arrivals UNIQLO 2023 (9).lnk|
+|[19846df990cccb8ec9d9ba2d576396bc](https://www.virustotal.com/gui/file/19846df990cccb8ec9d9ba2d576396bc)|LNK||2023-11-07 08:36:08| |
+|[34ed1e7134515513bfc3e375045675c3](https://www.virustotal.com/gui/file/34ed1e7134515513bfc3e375045675c3)|LNK||2023-11-07 08:36:08| |
+|[3625ca2ce1295e37dd85b81db496b691](https://www.virustotal.com/gui/file/3625ca2ce1295e37dd85b81db496b691)|LNK||2023-11-07 08:36:08|C:\Users\user\AppData\Local\Temp\33l0lhxt.3gm\New Arrivals UNIQLO 2023 (6).lnk|
+|[3c02020bf57a8b1e2ba0270b6695e0e4](https://www.virustotal.com/gui/file/3c02020bf57a8b1e2ba0270b6695e0e4)|LNK||2023-11-07 08:36:08|C:\Users\user\AppData\Local\Temp\33l0lhxt.3gm\New Arrivals UNIQLO 2023 (10).lnk|
+|[606ef9060fe3595f86ba6a7f468dcbdc](https://www.virustotal.com/gui/file/606ef9060fe3595f86ba6a7f468dcbdc)|LNK||2023-11-07 08:36:08|C:\Users\user\AppData\Local\Temp\33l0lhxt.3gm\New Arrivals UNIQLO 2023 (2).lnk|
+|[613ae33dea1a347a3697ba77fa5f3b59](https://www.virustotal.com/gui/file/613ae33dea1a347a3697ba77fa5f3b59)|LNK||2023-11-07 08:36:08| |
+|[696dab5b0cf15fd340f33fd99451cbdc](https://www.virustotal.com/gui/file/696dab5b0cf15fd340f33fd99451cbdc)|LNK||2023-11-07 08:36:08|C:\Users\user\AppData\Local\Temp\33l0lhxt.3gm\New Arrivals UNIQLO 2023 (8).lnk|
+|[69f046cbae25eec02e1c386cba239ad2](https://www.virustotal.com/gui/file/69f046cbae25eec02e1c386cba239ad2)|LNK||2023-11-07 08:36:08|C:\Users\user\AppData\Local\Temp\33l0lhxt.3gm\New Arrivals UNIQLO 2023 (7).lnk|
+|[b87ab2eea95d5f44c17650ae070db88b](https://www.virustotal.com/gui/file/b87ab2eea95d5f44c17650ae070db88b)|ZIP||2023-11-07 08:34:36|Director Marketing Manager Job Description Plan - Uniqlo 2023.zip|
+|[371f8c51418294c43c834e5847356953](https://www.virustotal.com/gui/file/371f8c51418294c43c834e5847356953)|Win64 EXE||2023-11-07 05:29:11|C:\Windows\Temp\svczHost.exe|
+|[3b8ab9576f6cc3be471f15a17d28d191](https://www.virustotal.com/gui/file/3b8ab9576f6cc3be471f15a17d28d191)|Win64 EXE||2023-10-03 04:22:21|ABANDONRUNNER.dll|
+|[4fa3a160567fa910d7c722ce5cdf1336](https://www.virustotal.com/gui/file/4fa3a160567fa910d7c722ce5cdf1336)|Win64 EXE||2023-10-03 04:22:19|ABANDONRUNNER.dll|
+|[fd4aa0f54ed4e5cf70307dad981d9742](https://www.virustotal.com/gui/file/fd4aa0f54ed4e5cf70307dad981d9742)|ZIP||2023-10-02 21:18:11|New Arrivals 17.zip|
+|[6d18929cfa9fa08e6b25f0632c9d6965](https://www.virustotal.com/gui/file/6d18929cfa9fa08e6b25f0632c9d6965)|Win64 EXE||2023-10-02 16:28:09|DetailsSalary_ RevenueBonus_Excel_10_2023.exe|
+|[4218d62258b358af732ad9b6d688c691](https://www.virustotal.com/gui/file/4218d62258b358af732ad9b6d688c691)|PDF||2023-09-29 17:42:49|C:\Users\user\AppData\Local\Temp\Job_Description_of_Senior_Manager.pdf|
+|[e2d8f3705a4108edb881bb46d5eb76e8](https://www.virustotal.com/gui/file/e2d8f3705a4108edb881bb46d5eb76e8)|MP4||2023-09-28 17:43:43|Mancera Intense Cedrat Boise FIRST IMPRESSIONS - Absolute Must Own!-(1080p).mp4|
+|[096a8e9851661aec5153954feafc756d](https://www.virustotal.com/gui/file/096a8e9851661aec5153954feafc756d)|LNK||2023-09-27 11:21:37| |
+|[fd998c8a6dd5808c00976c3507ba2c9e](https://www.virustotal.com/gui/file/fd998c8a6dd5808c00976c3507ba2c9e)|LNK||2023-09-20 08:04:46| |
+|[e8b52dae28598f75be233dbe20b21f35](https://www.virustotal.com/gui/file/e8b52dae28598f75be233dbe20b21f35)|PDF||2023-09-19 09:07:55|C:\Users\user\AppData\Local\Temp\Brand_products_10_2023.pdf|
+|[3323bcacba0834d72bafb7cd7030b2cc](https://www.virustotal.com/gui/file/3323bcacba0834d72bafb7cd7030b2cc)|Win64 DLL||2023-09-06 03:48:21|C:\Users\Public\Libraries\libEGL.dll|
+|[017f6cfa19aa01380c32e3ef0ece27bc](https://www.virustotal.com/gui/file/017f6cfa19aa01380c32e3ef0ece27bc)|Win64 EXE||2023-09-06 03:47:37|Policies__and_requirements_for candidates_during_the_term_of_the contract_Salary and _ benefits_list_2023_sa_new_jd.exe|
+|[322ca4ee8b2b81ce664273affd370aee](https://www.virustotal.com/gui/file/322ca4ee8b2b81ce664273affd370aee)|TXT||2023-09-04 20:05:31|C:\Users\user\AppData\Local\Google\Chrome\User Data\fjoaledfpmneenckfbpdfhkmimnjocfa\js\rqf.js|
+|[0a640e4bc6859651fb2ea46f39d96f0b](https://www.virustotal.com/gui/file/0a640e4bc6859651fb2ea46f39d96f0b)|Win64 DLL||2023-09-04 19:49:44|C:\Users\Public\Libraries\libEGL.dll|
+|[72f0c57264a8f1648b489103fe0f3b57](https://www.virustotal.com/gui/file/72f0c57264a8f1648b489103fe0f3b57)|Win64 EXE||2023-09-04 19:48:45|C:\Users\user\AppData\Local\Temp\10mfc3io.hus\Policies__and_requirements_for candidates_during_the_term_of_the contract_Salary and _ benefits_list_2023_LPP_sa.exe|
+|[0ff37ddf8332cf0a8ba98a21405a2376](https://www.virustotal.com/gui/file/0ff37ddf8332cf0a8ba98a21405a2376)|TXT||2023-08-24 23:31:00|%LOCALAPPDATA%\google\chrome\user data\fjoaledfpmneenckfbpdfhkmimnjocfa\js\rqf.js|
+|[7a9c8a203531141d7969508545206afa](https://www.virustotal.com/gui/file/7a9c8a203531141d7969508545206afa)|Win64 DLL||2023-08-24 23:24:19|%PUBLIC%\libraries\libegl.dll|
+|[c50b7dd6fe4225df984409a507eb8cba](https://www.virustotal.com/gui/file/c50b7dd6fe4225df984409a507eb8cba)|Win64 EXE||2023-08-24 23:21:48|C:\Users\user\AppData\Local\Temp\aeg3spmo.eqe\Policies__and_requirements_for candidates_during_the_term_of_the contract_Salary and _ benefits_list_2023_LPP_S.A_GROUP.exe|
+|[f3b9a461910646724df25425205e5b68](https://www.virustotal.com/gui/file/f3b9a461910646724df25425205e5b68)|TXT||2023-08-22 19:35:09|C:\Users\user\AppData\Local\Google\Chrome\User Data\fjoaledfpmneenckfbpdfhkmimnjocfa\js\rqf.js|
+|[301f258bd28783e31bfaea2e825fa963](https://www.virustotal.com/gui/file/301f258bd28783e31bfaea2e825fa963)|Win64 DLL||2023-08-22 19:21:14|C:\Users\Public\Libraries\libEGL.dll|
+|[3b4263545e0bba6fde5993ffa65ec23a](https://www.virustotal.com/gui/file/3b4263545e0bba6fde5993ffa65ec23a)|Win64 EXE||2023-08-22 19:18:33|C:\Users\user\AppData\Local\Temp\nhcgd0hg.sft\Policies__and_requirements_for candidates_during_the_term_of_the contract_Salary and _ benefits_list_2023_LPP.exe|
+|[06de661ee417343127387a4c268a291f](https://www.virustotal.com/gui/file/06de661ee417343127387a4c268a291f)|TXT||2023-08-18 09:09:40|C:\Users\user\AppData\Local\Google\Chrome\User Data\fjoaledfpmneenckfbpdfhkmimnjocfa\js\rqf.js|
+|[f4ca912d73e54c50c6158cf110c4821e](https://www.virustotal.com/gui/file/f4ca912d73e54c50c6158cf110c4821e)|Win64 EXE||2023-08-17 13:48:51|tcbsahddasd.dll|
+|[a1eb0683d13696bf4feef9cb64d8b62a](https://www.virustotal.com/gui/file/a1eb0683d13696bf4feef9cb64d8b62a)|Win64 DLL||2023-08-17 11:31:36|C:\Users\Public\Libraries\libEGL.dll|
+|[570b64e953bc1263ac2f005f53569ac0](https://www.virustotal.com/gui/file/570b64e953bc1263ac2f005f53569ac0)|Win64 EXE||2023-08-17 11:26:30|C:\Users\user\AppData\Local\Temp\sxfejs5x.h0z\Policies__and_requirements_for candidates_during_the_term_of_the contract_Salary and _ benefits_list_2023_lpp_sa.exe|
+|[9c95496b857a6b830e9ffde434d4f1b3](https://www.virustotal.com/gui/file/9c95496b857a6b830e9ffde434d4f1b3)|TXT||2023-08-16 08:33:11|C:\Users\user\AppData\Local\Google\Chrome\User Data\fjoaledfpmneenckfbpdfhkmimnjocfa\js\rqf.js|
+|[dfe5ce49d061c1655d4285810d032586](https://www.virustotal.com/gui/file/dfe5ce49d061c1655d4285810d032586)|Win64 DLL||2023-08-16 08:19:54|C:\Users\Public\Libraries\libEGL.dll|
+|[9a55cc71fdbf468d6fa0ff9e85d5c175](https://www.virustotal.com/gui/file/9a55cc71fdbf468d6fa0ff9e85d5c175)|Win64 EXE||2023-08-16 08:18:52|1.exe|
+|[54418411d4628fd2b6f4c072810dbe27](https://www.virustotal.com/gui/file/54418411d4628fd2b6f4c072810dbe27)|TXT||2023-08-16 07:17:55|C:\Users\user\AppData\Local\Google\Chrome\User Data\fjoaledfpmneenckfbpdfhkmimnjocfa\js\rqf.js|
+|[14cbd4148bbfa2a76ca049bfff28e815](https://www.virustotal.com/gui/file/14cbd4148bbfa2a76ca049bfff28e815)|Win64 DLL||2023-08-15 13:50:11|C:\Users\Public\Libraries\libEGL.dll|
+|[c8c598f4a00c442f3bc7ab944fd601df](https://www.virustotal.com/gui/file/c8c598f4a00c442f3bc7ab944fd601df)|Win64 EXE||2023-08-15 13:47:49|Policies__and_requirements_for candidates_during_the_term_of_the contract_Salary and _ benefits_list_2023_lpp_sa.exe|
+|[435b0bea915585b938905093ab621c91](https://www.virustotal.com/gui/file/435b0bea915585b938905093ab621c91)|XLSX||2023-08-11 11:18:50|36d48444-8aba-497f-a04a-6eaa97e4ba3a.xlsx|
+|[49e913c2174205f601ed77ffccaeeac8](https://www.virustotal.com/gui/file/49e913c2174205f601ed77ffccaeeac8)|TXT||2023-08-09 20:34:15|%PUBLIC%\param.ps1|
+|[0d2694a0cc58c2f2885d200c0378f62b](https://www.virustotal.com/gui/file/0d2694a0cc58c2f2885d200c0378f62b)|PDF||2023-08-02 03:35:57|C:\Users\Public\INDITEX2.pdf|
+|[713c1b8ace65c067a20b15099cfc52e4](https://www.virustotal.com/gui/file/713c1b8ace65c067a20b15099cfc52e4)|Win64 EXE||2023-07-21 16:34:45|tkfgk435jkdgf.dll|
+|[ec53933b2af4ba5479fcd647fcb1d2bd](https://www.virustotal.com/gui/file/ec53933b2af4ba5479fcd647fcb1d2bd)|Win64 EXE||2023-07-19 10:52:49|tkfgk435jkdgf.dll|
+|[ca9dde7b4481b358a34158fb7e956d57](https://www.virustotal.com/gui/file/ca9dde7b4481b358a34158fb7e956d57)|Win64 EXE||2023-07-19 07:58:35|tkfgk435jkdgf.dll|
+|[ba9bba08fb46b8428919fb6ecd5e4085](https://www.virustotal.com/gui/file/ba9bba08fb46b8428919fb6ecd5e4085)|Win64 EXE||2023-07-18 09:45:26|tkfgk435jkdgf.dll|
+|[f530de74730f0c85840bdd913f07dbf3](https://www.virustotal.com/gui/file/f530de74730f0c85840bdd913f07dbf3)|Win64 EXE||2023-07-18 08:48:10|LOUISVUITTON - Responsible Recruitment Policy.exe|
+|[b3e9244d993c8f399e7848ae6b628108](https://www.virustotal.com/gui/file/b3e9244d993c8f399e7848ae6b628108)|Win64 EXE||2023-07-18 07:33:12|tkfgk435jkdgf.dll|
+|[a740a701d6e06a0fad41badc83b99a54](https://www.virustotal.com/gui/file/a740a701d6e06a0fad41badc83b99a54)|Win64 EXE||2023-07-15 13:17:02|jhxcv47asdhg.dll|
+|[fd4a42a6b5c062a0fd3c8d009d109a91](https://www.virustotal.com/gui/file/fd4a42a6b5c062a0fd3c8d009d109a91)|Win64 EXE||2023-07-12 02:44:22|5la2glchb9lvzbvjd.dll|
+|[a0d2cadad26d6be01822bb3d25aa100f](https://www.virustotal.com/gui/file/a0d2cadad26d6be01822bb3d25aa100f)|Win64 EXE||2023-07-10 08:18:52|jhxcv47asdhg.dll|
+|[e7a32884a7662d78a7df4ec666ccba25](https://www.virustotal.com/gui/file/e7a32884a7662d78a7df4ec666ccba25)|Win64 EXE||2023-07-08 17:00:15|jhxcv47asdhg.dll|
+|[330e8bade7d2ce9eb16f64c39cc9e82c](https://www.virustotal.com/gui/file/330e8bade7d2ce9eb16f64c39cc9e82c)|Win64 EXE||2023-07-08 15:32:45|MASTERPRFB.dll|
+|[a08fd70629e3f0f9ad457bbe6e8f74ec](https://www.virustotal.com/gui/file/a08fd70629e3f0f9ad457bbe6e8f74ec)|Win64 EXE||2023-07-08 14:32:29|jhxcv47asdhg.dll|
+|[309c23936d299ceafa0dc9055b1d9405](https://www.virustotal.com/gui/file/309c23936d299ceafa0dc9055b1d9405)|Win64 EXE||2023-07-08 06:03:04|iqren9549mq5fubxkedp.dll|
+|[570c92d9c6709864b24bd4c045522fbd](https://www.virustotal.com/gui/file/570c92d9c6709864b24bd4c045522fbd)|Win64 EXE||2023-07-03 06:35:55|ADAPTERBOOT.dll|
+|[40807356ea6f5da0fdf83e8290846ae3](https://www.virustotal.com/gui/file/40807356ea6f5da0fdf83e8290846ae3)|Win64 EXE||2023-07-03 06:35:54|ADAPTERBOOT.dll|
+|[97a3fe857f9d931ea0768c1b048e8017](https://www.virustotal.com/gui/file/97a3fe857f9d931ea0768c1b048e8017)|Win64 EXE||2023-07-03 05:36:33|ADAPTERBOOT.dll|
+|[f2292c7e85915a62c7e9f26a4ce449f1](https://www.virustotal.com/gui/file/f2292c7e85915a62c7e9f26a4ce449f1)|Win64 EXE||2023-07-03 04:11:39|ADAPTERBOOT.dll|
+|[9dd6b40e4acec104ef50dc5a22897dbb](https://www.virustotal.com/gui/file/9dd6b40e4acec104ef50dc5a22897dbb)|Win64 EXE||2023-07-03 04:11:38|ADAPTERBOOT.dll|
+|[163d123ae328c63c339e0b096558ab95](https://www.virustotal.com/gui/file/163d123ae328c63c339e0b096558ab95)|Win64 EXE||2023-06-29 21:40:07|ADAPTERBOOT.dll|
+|[c63e9bb1af4bc1ee3da20dbeb8afcbb6](https://www.virustotal.com/gui/file/c63e9bb1af4bc1ee3da20dbeb8afcbb6)|Win64 EXE||2023-06-29 21:40:07|ADAPTERBOOT.dll|
+|[60ed92906c63dc958d5b73668908b5e3](https://www.virustotal.com/gui/file/60ed92906c63dc958d5b73668908b5e3)|Win64 EXE||2023-06-28 16:39:44|ADAPTERBOOT.dll|
+|[1a6bbc6abecbe77eaa64b0044a50981b](https://www.virustotal.com/gui/file/1a6bbc6abecbe77eaa64b0044a50981b)|Win64 EXE||2023-06-28 05:28:06|CROSSBOOTLOAD.dll|
+|[56750966c242dea7a444d08540a49985](https://www.virustotal.com/gui/file/56750966c242dea7a444d08540a49985)|Win64 EXE||2023-06-28 05:28:04|CROSSBOOTLOAD.dll|
+|[b400700765dae8f3abf72b6c1f78e223](https://www.virustotal.com/gui/file/b400700765dae8f3abf72b6c1f78e223)|Win64 EXE||2023-06-26 20:10:30|ADAPTERBOOT.dll|
+|[c7e16e714a80a46427580a250df46503](https://www.virustotal.com/gui/file/c7e16e714a80a46427580a250df46503)|Win64 EXE||2023-06-26 20:10:29|ADAPTERBOOT.dll|
+|[03c52085629bbfaf86ec7a44a1f54db7](https://www.virustotal.com/gui/file/03c52085629bbfaf86ec7a44a1f54db7)|Win64 EXE||2023-06-26 17:32:48|Brands_and_some_products_need_advertising_to_increase_sales_2023.exe|
+|[01092b0eb35435b34e5471d078fe5b8a](https://www.virustotal.com/gui/file/01092b0eb35435b34e5471d078fe5b8a)|Win64 EXE||2023-06-26 15:58:04|ADAPTERBOOT.exe|
+|[8c63e90e04433967345e8a2f46d48055](https://www.virustotal.com/gui/file/8c63e90e04433967345e8a2f46d48055)|Win64 EXE||2023-06-25 15:54:51|ADAPTERBOOT.dll|
+|[41145b96b7afebe2cdfe84b926c98f51](https://www.virustotal.com/gui/file/41145b96b7afebe2cdfe84b926c98f51)|Win64 EXE||2023-06-25 15:51:41|ADAPTERBOOT.dll|
+|[b71c390b862e1e9796575ae3dd44c48f](https://www.virustotal.com/gui/file/b71c390b862e1e9796575ae3dd44c48f)|Win64 EXE||2023-06-25 15:50:15|ADAPTERBOOT.dll|
+|[eeed1235673cd475f6f5a5c6455ec09b](https://www.virustotal.com/gui/file/eeed1235673cd475f6f5a5c6455ec09b)|Win64 EXE||2023-06-25 15:47:30|ADAPTERBOOT.exe|
+|[f39f31d7b7e80b824c4ab5a23e86ada2](https://www.virustotal.com/gui/file/f39f31d7b7e80b824c4ab5a23e86ada2)|Win64 EXE||2023-06-23 12:10:55|Trek Bicycle Corporation Application Form(1).exe|
+|[7a29b193ed3fac47b6fcfa83dd1b7af3](https://www.virustotal.com/gui/file/7a29b193ed3fac47b6fcfa83dd1b7af3)|TXT||2023-06-23 08:50:16|jquery-3.3.1.min.js|
+|[f3e60196fe9e2533f38641cab4aac856](https://www.virustotal.com/gui/file/f3e60196fe9e2533f38641cab4aac856)|Win64 EXE||2023-06-22 15:49:48|CROSSBOOTLOAD.dll|
+|[db77dc2c22d2b3687dac7b46e3a9575d](https://www.virustotal.com/gui/file/db77dc2c22d2b3687dac7b46e3a9575d)|Win64 EXE||2023-06-22 15:49:48|CROSSBOOTLOAD.dll|
+|[02fc424081432f9588a11bf683b511c0](https://www.virustotal.com/gui/file/02fc424081432f9588a11bf683b511c0)|Win64 EXE||2023-06-22 09:36:11|CROSSBOOTLOAD.dll|
+|[54ef2dd1771633d225418fd7e6205bcf](https://www.virustotal.com/gui/file/54ef2dd1771633d225418fd7e6205bcf)|Win64 EXE||2023-06-22 09:36:11|CROSSBOOTLOAD.dll|
+|[eb6926b332f92dc08e3e0b3191b0364d](https://www.virustotal.com/gui/file/eb6926b332f92dc08e3e0b3191b0364d)|Win64 EXE||2023-06-21 20:57:04|CROSSBOOTLOAD.dll|
+|[4c705845970ece6ba853e4c992deeda9](https://www.virustotal.com/gui/file/4c705845970ece6ba853e4c992deeda9)|Win64 EXE||2023-06-21 15:30:24|FOLLOWACADEMY.dll|
+|[eda73d701a99780ae57b6657fcb97dd0](https://www.virustotal.com/gui/file/eda73d701a99780ae57b6657fcb97dd0)|Win64 EXE||2023-06-20 11:12:01|Interview Process and Salary for Marketing Manager Guess Inc.exe|
+|[f358c47a8d5fa1d1031d6911d0c0431b](https://www.virustotal.com/gui/file/f358c47a8d5fa1d1031d6911d0c0431b)|Win64 EXE||2023-06-20 07:09:39|FOLLOWACADEMY.dll|
+|[e4df5cecb41e38346d6cc9f2d3be6889](https://www.virustotal.com/gui/file/e4df5cecb41e38346d6cc9f2d3be6889)|Win64 EXE||2023-06-19 10:37:29|EAZYONEZZ.dll|
+|[2d044c4d1cef2b9cb22ac5a838df2b69](https://www.virustotal.com/gui/file/2d044c4d1cef2b9cb22ac5a838df2b69)|Win64 EXE||2023-06-17 15:26:44|FOLLOWACADEMY.dll|
+|[a5fbe3c534fd94323bd927df6c87e5ad](https://www.virustotal.com/gui/file/a5fbe3c534fd94323bd927df6c87e5ad)|Win64 EXE||2023-06-17 09:46:42|Adidas Benefits and Policies..exe|
+|[0960c99578a012c832a0dbbc1033856a](https://www.virustotal.com/gui/file/0960c99578a012c832a0dbbc1033856a)|Win64 EXE||2023-06-08 08:51:34|urzmtcmezqkohcmnmyiz.dll|
+|[0aac63fd41f1a2ec3545ba396f7f523a](https://www.virustotal.com/gui/file/0aac63fd41f1a2ec3545ba396f7f523a)|Win64 EXE||2023-05-25 17:20:40|b9fbz4ec7lkd.dll|
+|[71902074f5bc5443cc340339e91c3e83](https://www.virustotal.com/gui/file/71902074f5bc5443cc340339e91c3e83)|Win64 EXE||2023-05-23 09:32:16|ZipBro1Wal.dll|
+|[35c6bb8b1cebf8cfb9a89ddf7e0e0519](https://www.virustotal.com/gui/file/35c6bb8b1cebf8cfb9a89ddf7e0e0519)|Win64 EXE||2023-05-23 09:32:16|ZipBro1Wal.dll|
+|[90265c1a5ee8abe3b9967db9b7191fa3](https://www.virustotal.com/gui/file/90265c1a5ee8abe3b9967db9b7191fa3)|Win64 EXE||2023-05-23 05:13:49|SDCBundle.dll|
+|[5bd6d1d0128f35d56da72d1e96584fde](https://www.virustotal.com/gui/file/5bd6d1d0128f35d56da72d1e96584fde)|Win64 EXE||2023-05-23 05:13:49|SDCBundle.dll|
+|[c77425a833246d2c18204ee91fc51ac3](https://www.virustotal.com/gui/file/c77425a833246d2c18204ee91fc51ac3)|Win64 EXE||2023-05-23 01:47:40|Interview Process and Salary for Marketing Manager Tom Ford.exe|
+|[e9e66547b6f0d8454b38d1e0a72f8d1e](https://www.virustotal.com/gui/file/e9e66547b6f0d8454b38d1e0a72f8d1e)|Win64 EXE||2023-05-22 21:58:04|Job Details and Salary_Advertising contracts MKT 2023.exe|
+|[30581f2894875ccfe1151e1d3f9b79fa](https://www.virustotal.com/gui/file/30581f2894875ccfe1151e1d3f9b79fa)|LNK||2023-05-22 15:59:05| |
+|[468dcaf14f69b18752512130e927cf19](https://www.virustotal.com/gui/file/468dcaf14f69b18752512130e927cf19)|Win64 EXE||2023-05-21 17:08:50|Marketing Manager at NZXT.exe|
+|[51840efa38deb5798fcb776c010ebdae](https://www.virustotal.com/gui/file/51840efa38deb5798fcb776c010ebdae)|Win64 EXE||2023-05-20 20:57:13|PReadToolManager.dll|
+|[c505d9728d132b09f907e72de3a830f4](https://www.virustotal.com/gui/file/c505d9728d132b09f907e72de3a830f4)|Win64 EXE||2023-05-20 10:06:54|Salary and benefits of Marketing Manager.exe|
+|[2571da6e84e8eeff705ff20a29339ae8](https://www.virustotal.com/gui/file/2571da6e84e8eeff705ff20a29339ae8)|Win64 EXE||2023-05-20 10:01:05|The role of Marketing Manager of NZXT.exe|
+|[ff262610c51ed5680d7ff5ea16f57ea7](https://www.virustotal.com/gui/file/ff262610c51ed5680d7ff5ea16f57ea7)|Win64 EXE||2023-05-19 12:03:29|PReadToolManager.dll|
+|[ae9d19a1599605e27a6b097f48ad76b9](https://www.virustotal.com/gui/file/ae9d19a1599605e27a6b097f48ad76b9)|Win64 EXE||2023-05-18 12:08:51|PADocReadTool.dll|
+|[8ec405aa4c47cc55de3e178f900f1fbe](https://www.virustotal.com/gui/file/8ec405aa4c47cc55de3e178f900f1fbe)|Win64 EXE||2023-05-18 12:08:50|PADocReadTool.dll|
+|[f5dddd900c97582c9970b53580a6d7ea](https://www.virustotal.com/gui/file/f5dddd900c97582c9970b53580a6d7ea)|Win64 EXE||2023-05-16 22:41:06|VPDocumentTool.dll|
+|[9759d3d04f434a26f2e74703ac4ee6c5](https://www.virustotal.com/gui/file/9759d3d04f434a26f2e74703ac4ee6c5)|Win64 EXE||2023-05-16 22:41:06|VPDocumentTool.dll|
+|[dc6ad894c0ba43207201737cfc3cb54e](https://www.virustotal.com/gui/file/dc6ad894c0ba43207201737cfc3cb54e)|Win64 EXE||2023-05-16 21:46:27|VPDocumentTool.dll|
+|[49c948551bb1de119cec08f8753d3dfe](https://www.virustotal.com/gui/file/49c948551bb1de119cec08f8753d3dfe)|Win64 EXE||2023-05-16 21:46:26|VPDocumentTool.dll|
+|[457611941790232da750ba767877a699](https://www.virustotal.com/gui/file/457611941790232da750ba767877a699)|Win64 EXE||2023-05-16 21:46:26|VPDocumentTool.dll|
+|[73bbfa2bf0b12af69e9252581edbf27f](https://www.virustotal.com/gui/file/73bbfa2bf0b12af69e9252581edbf27f)|Win64 EXE||2023-05-16 15:36:54|5xclffb9094mdfri8.dll|
+|[f04597f5fe426223acc0e2bddfc29a92](https://www.virustotal.com/gui/file/f04597f5fe426223acc0e2bddfc29a92)|Win64 EXE||2023-05-15 11:05:57|ylaev7eb.dll|
+|[9fb6342ed31c6b4e18b2d9ba4a6ee009](https://www.virustotal.com/gui/file/9fb6342ed31c6b4e18b2d9ba4a6ee009)|Win64 EXE||2023-05-15 10:04:30|bm1tomcndj0f.dll|
+|[1c1e9ae9513057bd4a7c6d804696bf60](https://www.virustotal.com/gui/file/1c1e9ae9513057bd4a7c6d804696bf60)|Win64 EXE||2023-05-11 18:42:04|vutkhmd.dll|
+|[316ef631868420d4a9113276f9e2d18e](https://www.virustotal.com/gui/file/316ef631868420d4a9113276f9e2d18e)|Win64 EXE||2023-05-11 10:21:49|u5lmnjw5cekpdegsibla.dll|
+|[b8724671cb74b01489afd1cd6b3892cc](https://www.virustotal.com/gui/file/b8724671cb74b01489afd1cd6b3892cc)|Win64 EXE||2023-05-09 02:11:43|EBSDCBRS.dll|
+|[fafd1f605d31a151689962d2a723e5c1](https://www.virustotal.com/gui/file/fafd1f605d31a151689962d2a723e5c1)|Win64 EXE||2023-05-09 02:11:42|EBSDCBRS.dll|
+|[093a77f0db1582ef2456f1ffa1210592](https://www.virustotal.com/gui/file/093a77f0db1582ef2456f1ffa1210592)|Win64 EXE||2023-05-08 18:23:42|sss9fuf650ml2ar33y8w.dll|
+|[e384c2c4f7d7248385b2bf74ac99e1a9](https://www.virustotal.com/gui/file/e384c2c4f7d7248385b2bf74ac99e1a9)|Win64 EXE||2023-05-08 08:50:42|EBSDCBRS.dll|
+|[f77f7e2b1a4d72346d15f2c1ac5113ab](https://www.virustotal.com/gui/file/f77f7e2b1a4d72346d15f2c1ac5113ab)|Win64 EXE||2023-05-08 08:50:42|EBSDCBRS.dll|
+|[497df1dc49bf02537c5aeec08a1a08f0](https://www.virustotal.com/gui/file/497df1dc49bf02537c5aeec08a1a08f0)|Win64 EXE||2023-05-08 07:09:18|EBSDCBRS.dll|
+|[2362109ddcdacc99f7605e0d434f6458](https://www.virustotal.com/gui/file/2362109ddcdacc99f7605e0d434f6458)|Win64 EXE||2023-05-07 16:43:32|EBSDCBRS.dll|
+|[b67beef4826b87fe73fd390bbcdbdf88](https://www.virustotal.com/gui/file/b67beef4826b87fe73fd390bbcdbdf88)|Win64 EXE||2023-05-07 16:43:32|EBSDCBRS.dll|
+|[1fc13450537c5d99944a8eb645ce62bc](https://www.virustotal.com/gui/file/1fc13450537c5d99944a8eb645ce62bc)|Win64 EXE||2023-05-06 19:44:02|THISISFOURAPP.dll|
+|[60a331a9e04dd9e474f483fefea1ec80](https://www.virustotal.com/gui/file/60a331a9e04dd9e474f483fefea1ec80)|Win64 EXE||2023-05-04 20:58:43|BRAND MANAGER JOB IN LI-NING.exe|
+|[731250a85fb39c631ea5284cf5c0cd55](https://www.virustotal.com/gui/file/731250a85fb39c631ea5284cf5c0cd55)|Win64 EXE||2023-05-04 20:50:52|AFXSDBIG.dll|
+|[917c92717de65a3804d849a54c55e506](https://www.virustotal.com/gui/file/917c92717de65a3804d849a54c55e506)|Win64 EXE||2023-05-04 15:47:34|RF0FIG23RVI.dll|
+|[cfb9c7f74c4815cad5507a9b03f9ba72](https://www.virustotal.com/gui/file/cfb9c7f74c4815cad5507a9b03f9ba72)|Win64 EXE||2023-05-02 16:43:15|9046MBBGEPZ.dll|
+|[f28469b061a9de7e9df49852407f74ac](https://www.virustotal.com/gui/file/f28469b061a9de7e9df49852407f74ac)|Win64 EXE||2023-05-02 16:43:14|ERUH579ANSH.dll|
+|[3ab3dd81dc9244ddadff73580b1537c6](https://www.virustotal.com/gui/file/3ab3dd81dc9244ddadff73580b1537c6)|Win64 EXE||2023-05-01 22:27:05|G00KBEIRE79.dll|
+|[9b28ad07db7d00332c42f33f3f16f104](https://www.virustotal.com/gui/file/9b28ad07db7d00332c42f33f3f16f104)|Win64 EXE||2023-05-01 16:54:33|New Project Campaign Budget Fendi 2023.exe|
+|[a36f32686a36b5cf6fc2621e4909378d](https://www.virustotal.com/gui/file/a36f32686a36b5cf6fc2621e4909378d)|Win64 EXE||2023-04-27 14:09:19|Salary & Benefits Director Performance Marketing - PRADA GROUP.exe|
+|[d970a754f9be957b917474384ac085cc](https://www.virustotal.com/gui/file/d970a754f9be957b917474384ac085cc)|Win64 EXE||2023-04-25 12:55:56|U331TET3VEG.dll|
+|[c76214919b0cf1ae910c0fd132a828dd](https://www.virustotal.com/gui/file/c76214919b0cf1ae910c0fd132a828dd)|Win64 EXE||2023-04-24 18:05:57|TEST_RUN_ANYWAY.exe|
+|[7cf57d7717f33bdbb4c9203908dd2c55](https://www.virustotal.com/gui/file/7cf57d7717f33bdbb4c9203908dd2c55)|Win64 EXE||2023-04-24 06:13:20|FPXSD.dll|
+|[3092faac49ebce54d7a68b0a9de9e53c](https://www.virustotal.com/gui/file/3092faac49ebce54d7a68b0a9de9e53c)|Win64 EXE||2023-04-23 09:08:54|FPXSD.dll|
+|[5c34bee69bac9955f2e6f5cf5c5f1415](https://www.virustotal.com/gui/file/5c34bee69bac9955f2e6f5cf5c5f1415)|Win64 EXE||2023-04-22 10:53:23|FORTYCLOTHING - reels video -THG.exe|
+|[a1c056346cbaeaedd9e6483adcbeb719](https://www.virustotal.com/gui/file/a1c056346cbaeaedd9e6483adcbeb719)|Win64 EXE||2023-04-22 03:14:46|Khiem_word_21.exe|
+|[2dfefa6531ef7c66ec2ae0e756c27097](https://www.virustotal.com/gui/file/2dfefa6531ef7c66ec2ae0e756c27097)|Win64 EXE||2023-04-20 17:40:09|79GOZD8O0Z6.dll|
+|[786f8366b3dcd3cd07547bdf2293632a](https://www.virustotal.com/gui/file/786f8366b3dcd3cd07547bdf2293632a)|Win64 EXE||2023-04-20 16:41:26|Salary & Benefits Director Performance Marketing - PRADA GROUP 2023.exe|
+|[bf4944749d1ba2257e92c065bdc17377](https://www.virustotal.com/gui/file/bf4944749d1ba2257e92c065bdc17377)|Win64 EXE||2023-04-20 03:51:57|New Product Campaign Total Budget GAP 2023.exe|
+|[ba3acdb35a3eb5566b57436bec6078ff](https://www.virustotal.com/gui/file/ba3acdb35a3eb5566b57436bec6078ff)|Win64 EXE||2023-04-19 18:40:31|GAP - Director Performance Marketing role & JD 2023.exe|
+|[efa2e38968e3f89ecbd13c30ddefb67a](https://www.virustotal.com/gui/file/efa2e38968e3f89ecbd13c30ddefb67a)|Win64 EXE||2023-04-19 10:56:35|SSDCC112.dll|
+|[9ca847f2ce44e29164b20195184073d8](https://www.virustotal.com/gui/file/9ca847f2ce44e29164b20195184073d8)|Win64 EXE||2023-04-19 08:58:08|ILL3P2RLRJD.dll|
+|[6b036fe7ebc9291b31c380f2b8fc9aa4](https://www.virustotal.com/gui/file/6b036fe7ebc9291b31c380f2b8fc9aa4)|Win64 EXE||2023-04-19 00:34:29|0UZUL3VMCAD.dll|
+|[321eb48b1663f9150888e9330ce953ed](https://www.virustotal.com/gui/file/321eb48b1663f9150888e9330ce953ed)|Win64 EXE||2023-04-19 00:34:29|385EKMFLJ2T.dll|
+|[e90fd127de773b8bb31dab3fa2e9f9c2](https://www.virustotal.com/gui/file/e90fd127de773b8bb31dab3fa2e9f9c2)|Win64 EXE||2023-04-19 00:34:29|LQLVYMPDI74.dll|
+|[40d185e63f47f451ec48d0d504519d9e](https://www.virustotal.com/gui/file/40d185e63f47f451ec48d0d504519d9e)|Win64 EXE||2023-04-19 00:34:28|OU1RQZ6EU6A.dll|
+|[22d0750ac203a33b738ec7892d2b9783](https://www.virustotal.com/gui/file/22d0750ac203a33b738ec7892d2b9783)|Win64 EXE||2023-04-19 00:34:28|XXRORXI4JF2.dll|
+|[e1f051b0e7c877e1c5eb03cce83d72d7](https://www.virustotal.com/gui/file/e1f051b0e7c877e1c5eb03cce83d72d7)|Win64 EXE||2023-04-19 00:34:28|MIUGGN2K1V5.dll|
+|[74aaec9fa64aee2980f10c0675af734c](https://www.virustotal.com/gui/file/74aaec9fa64aee2980f10c0675af734c)|Win64 EXE||2023-04-18 12:29:08|Facebook ads metrics -20.exe|
+|[0a506b8b64f9eb47138a31a09e0907a9](https://www.virustotal.com/gui/file/0a506b8b64f9eb47138a31a09e0907a9)|Win64 EXE||2023-04-14 00:17:23|AssemblySDC.dll|
+|[868b4071142f0c699d02f3389a67e7d5](https://www.virustotal.com/gui/file/868b4071142f0c699d02f3389a67e7d5)|Win64 EXE||2023-04-14 00:17:22|AssemblySDC.dll|
+|[4e9c4c44d42de6452759952d12489472](https://www.virustotal.com/gui/file/4e9c4c44d42de6452759952d12489472)|Win64 EXE||2023-04-10 13:24:11|PDF Performance Marketing Manager salary_111_02.exe|
+|[29c4c001f54828256e1ccde8da50db7f](https://www.virustotal.com/gui/file/29c4c001f54828256e1ccde8da50db7f)|Win64 EXE||2023-04-10 13:06:46|SSDD111.dll|
+|[63a68d45cc6b06749384e0d9b130be89](https://www.virustotal.com/gui/file/63a68d45cc6b06749384e0d9b130be89)|Win64 EXE||2023-04-10 11:06:46|C:\Users\user\AppData\Local\Temp\kdue5hax.flg\new market development project - oransi\New product introduction video 3.exe|
+|[ebc54238cf6f98b1200475bebb22b4fb](https://www.virustotal.com/gui/file/ebc54238cf6f98b1200475bebb22b4fb)|Win64 EXE||2023-04-10 09:26:11|SSDD111.dll|
+|[7c9ed9bb7d10af1d45b5ed872da97029](https://www.virustotal.com/gui/file/7c9ed9bb7d10af1d45b5ed872da97029)|Win64 EXE||2023-04-10 09:20:52|FI4OGWHGMCM.dll|
+|[f6ae198c8a3751ae2f549f1c6f6aaa75](https://www.virustotal.com/gui/file/f6ae198c8a3751ae2f549f1c6f6aaa75)|Win64 EXE||2023-04-10 09:20:52|EIVBUT432H4.dll|
+|[4e13e197004da8dc719e6cbd8d68d039](https://www.virustotal.com/gui/file/4e13e197004da8dc719e6cbd8d68d039)|Win64 EXE||2023-04-10 09:20:51|CDD8E6XF4YU.dll|
+|[a3c2c3fa56a55035f8007286235e8420](https://www.virustotal.com/gui/file/a3c2c3fa56a55035f8007286235e8420)|Win64 EXE||2023-04-10 09:20:51|NPI0XTLK8ER.dll|
+|[f0ca85037dc5b6e6cf5cb647698206be](https://www.virustotal.com/gui/file/f0ca85037dc5b6e6cf5cb647698206be)|Win64 EXE||2023-04-10 09:20:51|LO1C563TZB8.dll|
+|[fe772575d52d3fd2c5555d13a4ba2f82](https://www.virustotal.com/gui/file/fe772575d52d3fd2c5555d13a4ba2f82)|Win64 EXE||2023-04-10 07:41:32|facebook ad account inspection report 2023 and contract.exe|
+|[9efb76e2868040ce98aa7c319573aa87](https://www.virustotal.com/gui/file/9efb76e2868040ce98aa7c319573aa87)|Win64 EXE||2023-04-10 06:03:04|New product introduction video 1.exe|
+|[3e6e0d7cd1ef1c2515164a7751c7464a](https://www.virustotal.com/gui/file/3e6e0d7cd1ef1c2515164a7751c7464a)|Win64 EXE||2023-04-10 03:09:16|64AIGVZ75O8.dll|
+|[1e4bcd4c30a5952f4f53ace913f01904](https://www.virustotal.com/gui/file/1e4bcd4c30a5952f4f53ace913f01904)|Win64 EXE||2023-04-10 03:09:16|46Y6YFW1Q9T.dll|
+|[bf4f6937f310f48c174a711ad5e2f641](https://www.virustotal.com/gui/file/bf4f6937f310f48c174a711ad5e2f641)|Win64 EXE||2023-04-10 03:09:16|EPN6LA52RCA.dll|
+|[e8351cbd0b39538719a052e8f59b310c](https://www.virustotal.com/gui/file/e8351cbd0b39538719a052e8f59b310c)|Win64 EXE||2023-04-10 03:09:16|QA53LIF7OY3.dll|
+|[bffd78f94705011c5b010045052f24af](https://www.virustotal.com/gui/file/bffd78f94705011c5b010045052f24af)|Win64 EXE||2023-04-10 03:09:16|HP2EOGUF6HL.dll|
+|[2e11a5717285570191c61c16b28a4b1d](https://www.virustotal.com/gui/file/2e11a5717285570191c61c16b28a4b1d)|Win64 EXE||2023-04-10 03:09:16|N5GT73LUT4F.dll|
+|[668fad1c30bfc57a5b4fc7814b150021](https://www.virustotal.com/gui/file/668fad1c30bfc57a5b4fc7814b150021)|Win64 EXE||2023-04-09 14:02:26|SSDD111.dll|
+|[74d02a6c7c51f0e5ea95b126b61e1d96](https://www.virustotal.com/gui/file/74d02a6c7c51f0e5ea95b126b61e1d96)|Win64 EXE||2023-04-08 13:05:44|Tommy Hilfiger_Survey Questions.scr|
+|[e1f85255ff79461d5754991a905b2fa3](https://www.virustotal.com/gui/file/e1f85255ff79461d5754991a905b2fa3)|Win64 EXE||2023-04-08 12:56:43|Tommy Hilfiger_Marketing Budget Plan.scr|
+|[b6b76f8f507ea4586d34a302c76c476b](https://www.virustotal.com/gui/file/b6b76f8f507ea4586d34a302c76c476b)|Win64 EXE||2023-04-08 12:28:58|SJ5HHEGXRDH.dll|
+|[a33ed3e96a52b56f00d8c4f852206e9e](https://www.virustotal.com/gui/file/a33ed3e96a52b56f00d8c4f852206e9e)|Win64 EXE||2023-04-08 12:28:57|FXRE0Y63H0Q.dll|
+|[42d14db8a8eda003d4a8a6470db4dc81](https://www.virustotal.com/gui/file/42d14db8a8eda003d4a8a6470db4dc81)|Win64 EXE||2023-04-08 12:27:43|Product video 13 -  3.exe|
+|[79f9a3dacedc3ef0899ad8fa678caf59](https://www.virustotal.com/gui/file/79f9a3dacedc3ef0899ad8fa678caf59)|Win64 EXE||2023-04-08 12:27:38|Product video 13 - 1.exe|
+|[6aac51267f696a1b1ce09c81f2bf28c7](https://www.virustotal.com/gui/file/6aac51267f696a1b1ce09c81f2bf28c7)|Win64 EXE||2023-04-08 04:41:05|C1-CONTRACT WORK GD13..exe|
+|[93fe21a70eb101cf476ec299022f9741](https://www.virustotal.com/gui/file/93fe21a70eb101cf476ec299022f9741)|Win64 EXE||2023-04-08 01:32:01|Khiem4_excel_13.exe|
+|[d982028e34b5e271c64bcdc59947c12a](https://www.virustotal.com/gui/file/d982028e34b5e271c64bcdc59947c12a)|Win64 EXE||2023-04-07 15:28:27|Salary & Benefits Director Performance Marketing - Fendi 2023.exe|
+|[5187679eeae39997c0ce24ca9df7b64d](https://www.virustotal.com/gui/file/5187679eeae39997c0ce24ca9df7b64d)|Win64 EXE||2023-04-07 10:35:56|5Y2CLA3U6EW.dll|
+|[aec2560ebc91380abb2ae09b16882fe3](https://www.virustotal.com/gui/file/aec2560ebc91380abb2ae09b16882fe3)|Win64 EXE||2023-04-07 04:55:26|5BQ1ELBT326.dll|
+|[6385e9f48779bc136d8f742deae45d8c](https://www.virustotal.com/gui/file/6385e9f48779bc136d8f742deae45d8c)|Win64 EXE||2023-04-06 16:24:20|The role of Performance Marketing Manager salary_04P.exe|
+|[71f45765d243a74145693ea8addb880a](https://www.virustotal.com/gui/file/71f45765d243a74145693ea8addb880a)|Win64 EXE||2023-04-03 14:56:01|SSDD108.dll|
+|[f860a4a5a75ae109c16a489912be7eee](https://www.virustotal.com/gui/file/f860a4a5a75ae109c16a489912be7eee)|Win64 EXE||2023-04-03 14:34:09|SSDD108.dll|
+|[39f6f2c8ddeff1a5cde1e6358e38eefe](https://www.virustotal.com/gui/file/39f6f2c8ddeff1a5cde1e6358e38eefe)|Win64 EXE||2023-04-03 08:46:54|Roles and work requirements of the new project of Fendi.exe|
+|[a2e54474faef98a4f6d779a1f285391a](https://www.virustotal.com/gui/file/a2e54474faef98a4f6d779a1f285391a)|Win64 EXE||2023-04-02 13:44:07|Performance Marketing Manager salary_03P.exe|
+|[cbd8f477e66757dcdc8cda07530b30d3](https://www.virustotal.com/gui/file/cbd8f477e66757dcdc8cda07530b30d3)|Win64 EXE||2023-03-28 19:04:13|SupportedService106.dll|
+|[7f26e2eeccb01da3d4d6d1cbf9b9d77e](https://www.virustotal.com/gui/file/7f26e2eeccb01da3d4d6d1cbf9b9d77e)|Win64 EXE||2023-03-28 19:04:13|SupportedService106.dll|
+|[426d660e319f381a19a0bf4b61d0b396](https://www.virustotal.com/gui/file/426d660e319f381a19a0bf4b61d0b396)|Win64 EXE||2023-03-27 18:17:46|Perform_Market_Manager.dll|
+|[83ca231959e46cc49709f213d4331292](https://www.virustotal.com/gui/file/83ca231959e46cc49709f213d4331292)|Win64 EXE||2023-03-27 12:00:00|Performance_Marketing_Manager.dll|
+|[3662135249a87c2144e87d69eae7f766](https://www.virustotal.com/gui/file/3662135249a87c2144e87d69eae7f766)|Win64 EXE||2023-03-22 11:07:22|BONGDAPLuUS.dll|
+|[2b6dbe333b22ad267e4285d1511bf715](https://www.virustotal.com/gui/file/2b6dbe333b22ad267e4285d1511bf715)|Win64 EXE||2023-03-17 18:33:36|TINHTE.dll|
+|[855c19c77f3d5e4d515b92795a87ab97](https://www.virustotal.com/gui/file/855c19c77f3d5e4d515b92795a87ab97)|Win64 EXE||2023-03-17 11:50:23|BONGDAPLuUS.dll|
+|[7b1d2c4500bbabe22aece6713a359859](https://www.virustotal.com/gui/file/7b1d2c4500bbabe22aece6713a359859)|Win64 EXE||2023-03-03 02:29:39|ProductManager.dll|
+|[7b848cede97154ef3ec28ea3568835e7](https://www.virustotal.com/gui/file/7b848cede97154ef3ec28ea3568835e7)|Win64 EXE||2023-02-24 10:24:08|Reader.dll|
+|[2ab2ddc86ffc1641d9238cf71baf413b](https://www.virustotal.com/gui/file/2ab2ddc86ffc1641d9238cf71baf413b)|Win32 EXE||2022-11-15 17:01:26|ZEncryptReader.dll|
+|[b7ec9810b56f535d3f9569d620333d16](https://www.virustotal.com/gui/file/b7ec9810b56f535d3f9569d620333d16)|Win32 EXE||2022-11-12 07:20:21|ZEncryptReader.dll|
+|[1ba26abfa3afdae10922eafb8f38c5c0](https://www.virustotal.com/gui/file/1ba26abfa3afdae10922eafb8f38c5c0)|Win32 EXE||2022-11-11 05:56:45|ZEncryptReader.dll|
+|[7068ba56bf211892c525ae233280948c](https://www.virustotal.com/gui/file/7068ba56bf211892c525ae233280948c)|Win32 EXE||2022-11-02 15:56:46|ZEncryptReader.dll|
+|[12dfb0896abdd35b8237265c0c1574e4](https://www.virustotal.com/gui/file/12dfb0896abdd35b8237265c0c1574e4)|Win32 EXE||2022-07-20 12:54:48|DataExtractor.dll|

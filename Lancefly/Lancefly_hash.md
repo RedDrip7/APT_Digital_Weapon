@@ -14,3 +14,6 @@
 |[d9e908d874d0faf3a322e4887955c3c8](https://www.virustotal.com/gui/file/d9e908d874d0faf3a322e4887955c3c8)|Win32 EXE||2023-06-24 13:27:02|d9e908d874d0faf3a322e4887955c3c8.virus|
 |[dc0f7e1821a3b0cd37b3be3ca342ade5](https://www.virustotal.com/gui/file/dc0f7e1821a3b0cd37b3be3ca342ade5)|Win32 DLL||2023-06-05 16:29:47| |
 |[ed8eb0655aa1000678e2db8eee9b9924](https://www.virustotal.com/gui/file/ed8eb0655aa1000678e2db8eee9b9924)|Win32 DLL||2023-06-05 16:28:08|fe7a6954e18feddeeb6fcdaaa8ac9248c8185703c2505d7f249b03d8d8897104.exe|
+|[ed670c6c7abdfc57b3073a02dfb21dab](https://www.virustotal.com/gui/file/ed670c6c7abdfc57b3073a02dfb21dab)|unknown||2023-07-23 18:29:16| |
+|[ff04312e7bea9738b63cf08816da560e](https://www.virustotal.com/gui/file/ff04312e7bea9738b63cf08816da560e)|PGP Security Key||2023-07-21 16:37:36| |
+|[dc420ee6a15fe8c7cb59ec6f0d64c32e](https://www.virustotal.com/gui/file/dc420ee6a15fe8c7cb59ec6f0d64c32e)|PGP Security Key||2023-06-29 09:18:21|SiteAdv.pak|

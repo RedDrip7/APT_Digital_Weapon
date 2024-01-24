@@ -14,3 +14,5 @@
 |[91fb57a2a87ac72a5f65bc1123b02ef6](https://www.virustotal.com/gui/file/91fb57a2a87ac72a5f65bc1123b02ef6)|Win64 EXE||2023-09-22 09:10:13|dump.bin|
 |[6a3948a3602f11e58d8a9300d50984d6](https://www.virustotal.com/gui/file/6a3948a3602f11e58d8a9300d50984d6)|Win64 DLL||2023-09-18 05:23:10|3cf0408ce29f916beb1fc5767a028c0f8c7dd4c0311002e0827f7557c0c25ab4.exe|
 |[dd9146bf793ac34de3825bdabcd9f0f3](https://www.virustotal.com/gui/file/dd9146bf793ac34de3825bdabcd9f0f3)|ZIP||2023-09-18 04:52:28|VanBanGoc_2023.07.10. TT 03 FINAL.zip|
+|[058f0ceeaf23a1afebdcfa2c020a9dbf](https://www.virustotal.com/gui/file/058f0ceeaf23a1afebdcfa2c020a9dbf)|Win32 EXE||2023-09-08 20:38:35|C:\Users\bouss\AppData\Local\Temp\Rar$DIa19788.12996\Screenshot_2023_09_06_Qbao_Network.html .exe|
+|[8b8d48c05798c98a7c7f201c0fef86b9](https://www.virustotal.com/gui/file/8b8d48c05798c98a7c7f201c0fef86b9)|ZIP||2023-09-08 12:13:51|wallet_Screenshot_2023_09_06_Qbao_Network.zip|

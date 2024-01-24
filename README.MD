@@ -23,21 +23,27 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 
  
+
 |Groupname|Total|Update|data|  
 |:--|:--|:--|:--|  
-|APT-LY-1006|55|20|2023-10-31|  
-|Earth Lusca|46|15|2023-10-31|  
-|FaceDuck Group|1872|1824|2023-10-31|  
-|Grayling|9|9|2023-10-31|  
-|Hive0117|16|16|2023-10-31|  
-|Jacana|24|24|2023-10-31|  
-|Lancefly|14|7|2023-10-31|  
-|LAPSUS|86|1|2023-10-31|  
-|POLONIUM|6|5|2023-10-31|  
-|Redfly|2|2|2023-10-31|  
-|Saaiwc|14|5|2023-10-31|  
-|Sandman|2|2|2023-10-31|  
-|Storm-0324|3|3|2023-10-31|  
-|TA558|12|11|2023-10-31|  
-|ToddyCat|46|35|2023-10-31|  
-|WinterVivern|7|1|2023-10-31|  
+|Appin|129|129|2024-01-19|  
+|Contagious Interview|43|43|2024-01-19|  
+|FaceDuck Group|2276|404|2024-01-19|  
+|Grayling|11|2|2024-01-19|  
+|HamsaUpdate|9|9|2024-01-19|  
+|Hellhounds|21|21|2024-01-19|  
+|Homeland Justice|2|2|2024-01-19|  
+|Kasablanka|13|1|2024-01-19|  
+|Lancefly|17|3|2024-01-19|  
+|LockBit|55|55|2024-01-19|  
+|RusticWeb|12|12|2024-01-19|  
+|Saaiwc|16|2|2024-01-19|  
+|Scarred Manticore|8|8|2024-01-19|  
+|Sticky Werewolf|2|2|2024-01-19|  
+|Storm-0569|4|4|2024-01-19|  
+|Storm-0978|19|10|2024-01-19|  
+|Storm-1113|6|6|2024-01-19|  
+|UAC|15|15|2024-01-19|  
+|UAC-0050|38|38|2024-01-19|  
+|UAC-0099|23|23|2024-01-19|  
+|UNC2465|5|5|2024-01-19|  

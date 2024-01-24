@@ -12,3 +12,4 @@
 |[b5640c2c7299799e450eb8fef51a1b50](https://www.virustotal.com/gui/file/b5640c2c7299799e450eb8fef51a1b50)|RAR||2023-01-09 17:03:42|%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.rar|
 |[2422a5ff14ef25604cec27d7dd8365fb](https://www.virustotal.com/gui/file/2422a5ff14ef25604cec27d7dd8365fb)|Win64 EXE||2022-08-26 07:14:27| |
 |[b181b18db688a95b68ec3860f111a2ed](https://www.virustotal.com/gui/file/b181b18db688a95b68ec3860f111a2ed)|RAR||2022-07-16 15:46:44|%D0%94%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%9A%D0%A0.rar|
+|[f5a99795ff13f68c138b891f731224d7](https://www.virustotal.com/gui/file/f5a99795ff13f68c138b891f731224d7)|FPX||2023-09-12 13:49:59| |
