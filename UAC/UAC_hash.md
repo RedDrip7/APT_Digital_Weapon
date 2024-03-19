@@ -15,3 +15,4 @@
 |[0b3c248f579a8f5865972218e63c3b34](https://www.virustotal.com/gui/file/0b3c248f579a8f5865972218e63c3b34)|Win64 EXE||2023-12-27 23:38:02|drvsysx86.exe|
 |[9a526c3bc92f935e8edc16232dd02fbe](https://www.virustotal.com/gui/file/9a526c3bc92f935e8edc16232dd02fbe)|TXT||2023-12-27 18:17:33|C:\Users\<USER>\AppData\Roaming\lnk.vbs|
 |[7164008af682b5f3567d50700b4a1b8b](https://www.virustotal.com/gui/file/7164008af682b5f3567d50700b4a1b8b)|Win32 EXE||2023-12-27 18:15:28|NDP48-x86-x64-AllOS-ENU.exe|
+|[7ea755d78d25fb11cc82b4422b366ee6](https://www.virustotal.com/gui/file/7ea755d78d25fb11cc82b4422b366ee6)|TXT||2024-01-12 10:50:26|C:\Users\user\AppData\Local\Microsoft\Windows\INetCache\IE\R0IAZP7Z\5[1].hta|

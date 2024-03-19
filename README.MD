@@ -23,27 +23,3 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 
  
-
-|Groupname|Total|Update|data|  
-|:--|:--|:--|:--|  
-|Appin|129|129|2024-01-19|  
-|Contagious Interview|43|43|2024-01-19|  
-|FaceDuck Group|2276|404|2024-01-19|  
-|Grayling|11|2|2024-01-19|  
-|HamsaUpdate|9|9|2024-01-19|  
-|Hellhounds|21|21|2024-01-19|  
-|Homeland Justice|2|2|2024-01-19|  
-|Kasablanka|13|1|2024-01-19|  
-|Lancefly|17|3|2024-01-19|  
-|LockBit|55|55|2024-01-19|  
-|RusticWeb|12|12|2024-01-19|  
-|Saaiwc|16|2|2024-01-19|  
-|Scarred Manticore|8|8|2024-01-19|  
-|Sticky Werewolf|2|2|2024-01-19|  
-|Storm-0569|4|4|2024-01-19|  
-|Storm-0978|19|10|2024-01-19|  
-|Storm-1113|6|6|2024-01-19|  
-|UAC|15|15|2024-01-19|  
-|UAC-0050|38|38|2024-01-19|  
-|UAC-0099|23|23|2024-01-19|  
-|UNC2465|5|5|2024-01-19|  

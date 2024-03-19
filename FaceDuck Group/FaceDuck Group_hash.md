@@ -2276,3 +2276,25 @@
 |[1ba26abfa3afdae10922eafb8f38c5c0](https://www.virustotal.com/gui/file/1ba26abfa3afdae10922eafb8f38c5c0)|Win32 EXE||2022-11-11 05:56:45|ZEncryptReader.dll|
 |[7068ba56bf211892c525ae233280948c](https://www.virustotal.com/gui/file/7068ba56bf211892c525ae233280948c)|Win32 EXE||2022-11-02 15:56:46|ZEncryptReader.dll|
 |[12dfb0896abdd35b8237265c0c1574e4](https://www.virustotal.com/gui/file/12dfb0896abdd35b8237265c0c1574e4)|Win32 EXE||2022-07-20 12:54:48|DataExtractor.dll|
+|[5be7408b84fbd40c8e7930f4c28a585a](https://www.virustotal.com/gui/file/5be7408b84fbd40c8e7930f4c28a585a)|Win64 DLL||2024-01-08 09:24:43|5be7408b84fbd40c8e7930f4c28a585a.jpg|
+|[9022927382a5ca00d9625453c0914508](https://www.virustotal.com/gui/file/9022927382a5ca00d9625453c0914508)|TXT|DuckTail|2024-01-06 18:23:12|9022927382a5ca00d9625453c0914508.jpg|
+|[93642310aaaedff2d8dcb475e9ed20a7](https://www.virustotal.com/gui/file/93642310aaaedff2d8dcb475e9ed20a7)|TXT||2024-01-06 18:09:25|93642310aaaedff2d8dcb475e9ed20a7.jpg|
+|[eed42ef6b4a1b45a0406a7f26d4b820d](https://www.virustotal.com/gui/file/eed42ef6b4a1b45a0406a7f26d4b820d)|TXT||2024-01-06 18:03:07|eed42ef6b4a1b45a0406a7f26d4b820d.jpg|
+|[6d6fbf1c637358e06e6441bbc8bb7ccb](https://www.virustotal.com/gui/file/6d6fbf1c637358e06e6441bbc8bb7ccb)|TXT||2024-01-06 17:58:41|6d6fbf1c637358e06e6441bbc8bb7ccb.jpg|
+|[ef9c5b6a3928bfcabcfce1d54774039b](https://www.virustotal.com/gui/file/ef9c5b6a3928bfcabcfce1d54774039b)|Win64 DLL||2024-01-05 10:08:31|ef9c5b6a3928bfcabcfce1d54774039b.jpg|
+|[265a5e7db86ff92bd849bb5c5d958ff2](https://www.virustotal.com/gui/file/265a5e7db86ff92bd849bb5c5d958ff2)|Win64 DLL||2024-01-05 10:07:14|C:\Users\user\AppData\Local\Temp\n2cgd5vy.bcs\265a5e7db86ff92bd849bb5c5d958ff2|
+|[908d44f5173a81a0876a9c643562032f](https://www.virustotal.com/gui/file/908d44f5173a81a0876a9c643562032f)|Win64 DLL||2024-01-05 09:48:11|908d44f5173a81a0876a9c643562032f.jpg|
+|[1ade74bbf88c1a41a352682a8f2265f9](https://www.virustotal.com/gui/file/1ade74bbf88c1a41a352682a8f2265f9)|Win64 EXE||2023-12-22 18:34:35|RdpService.dll|
+|[a3614c796fad96bc4b7333396046693e](https://www.virustotal.com/gui/file/a3614c796fad96bc4b7333396046693e)|Win64 EXE||2023-12-22 18:34:34|SvcHost.dll|
+|[d4e1a9191216420ce7989cf6c3e203cd](https://www.virustotal.com/gui/file/d4e1a9191216420ce7989cf6c3e203cd)|TXT||2023-12-18 23:55:32|d4e1a9191216420ce7989cf6c3e203cd.jpg|
+|[5f8f8c05db68cca200c6379b825648b5](https://www.virustotal.com/gui/file/5f8f8c05db68cca200c6379b825648b5)|TXT|DuckTail|2023-12-18 05:32:13|5f8f8c05db68cca200c6379b825648b5.jpg|
+|[52a5dc40d2942d6776a15366797ac5a6](https://www.virustotal.com/gui/file/52a5dc40d2942d6776a15366797ac5a6)|Win64 EXE||2023-12-08 14:23:43|Enquiry.exe|
+|[6b482c1ddde49d085ebe35106deb3828](https://www.virustotal.com/gui/file/6b482c1ddde49d085ebe35106deb3828)|LNK||2023-11-09 14:30:40| |
+|[b3699dd63357364f6fa37f271764c15c](https://www.virustotal.com/gui/file/b3699dd63357364f6fa37f271764c15c)|LNK||2023-11-09 14:30:40| |
+|[d568643b070c40ec6a5ed7cb3c330266](https://www.virustotal.com/gui/file/d568643b070c40ec6a5ed7cb3c330266)|LNK||2023-11-09 14:30:40| |
+|[3fffc389ff635756ed57abfe732acf5c](https://www.virustotal.com/gui/file/3fffc389ff635756ed57abfe732acf5c)|Win64 EXE||2023-11-06 16:15:13|ASMOZSOFT.dll|
+|[729ff7ca99e67494e63c4c171da9cc33](https://www.virustotal.com/gui/file/729ff7ca99e67494e63c4c171da9cc33)|Win64 EXE||2023-11-06 16:15:13|ASMOZSOFT.dll|
+|[a42b11111f7bd9e5d764d3da91053ccd](https://www.virustotal.com/gui/file/a42b11111f7bd9e5d764d3da91053ccd)|ZIP||2023-11-06 16:13:40|Description_of_the_Levi's 2023_project.zip|
+|[15b14a907ba179c4803aa364d76b7ea8](https://www.virustotal.com/gui/file/15b14a907ba179c4803aa364d76b7ea8)|Win64 EXE||2023-11-06 09:57:22|ASMOZSOFT.dll|
+|[bad7bad041c5455f180a07f9ba5347fe](https://www.virustotal.com/gui/file/bad7bad041c5455f180a07f9ba5347fe)|Win64 EXE||2023-11-06 09:57:22|ASMOZSOFT.dll|
+|[02080aede8082a873e3a46303b15536b](https://www.virustotal.com/gui/file/02080aede8082a873e3a46303b15536b)|Win64 EXE||2023-11-01 12:08:01|AZMBUNDLESOFT.dll|
