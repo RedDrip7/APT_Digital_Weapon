@@ -2296,5 +2296,62 @@
 |[729ff7ca99e67494e63c4c171da9cc33](https://www.virustotal.com/gui/file/729ff7ca99e67494e63c4c171da9cc33)|Win64 EXE||2023-11-06 16:15:13|ASMOZSOFT.dll|
 |[a42b11111f7bd9e5d764d3da91053ccd](https://www.virustotal.com/gui/file/a42b11111f7bd9e5d764d3da91053ccd)|ZIP||2023-11-06 16:13:40|Description_of_the_Levi's 2023_project.zip|
 |[15b14a907ba179c4803aa364d76b7ea8](https://www.virustotal.com/gui/file/15b14a907ba179c4803aa364d76b7ea8)|Win64 EXE||2023-11-06 09:57:22|ASMOZSOFT.dll|
+|[6faa69741d8acae7bc9b6c19a8bafcc1](https://www.virustotal.com/gui/file/6faa69741d8acae7bc9b6c19a8bafcc1)|ZIP||2024-03-14 16:36:10|August-Smart-Lock-Google-Ads-Campaign-Budget-03-2024.zip|
+|[0640f58ce79f3d17ad722908b9290fd6](https://www.virustotal.com/gui/file/0640f58ce79f3d17ad722908b9290fd6)|LNK||2024-03-12 10:06:15|Milake DIY 90 Video.lnk|
+|[71dfab20bb3f7ad8941a080948cec90b](https://www.virustotal.com/gui/file/71dfab20bb3f7ad8941a080948cec90b)|LNK||2024-03-12 10:06:10|Milake DIY 130 Video.lnk|
+|[f9a731c02dc5be8dccff467670f3e97a](https://www.virustotal.com/gui/file/f9a731c02dc5be8dccff467670f3e97a)|LNK||2024-03-12 10:06:10|Milake DIY 130.lnk|
+|[d10081c804ef014a08b237d559e1023a](https://www.virustotal.com/gui/file/d10081c804ef014a08b237d559e1023a)|ZIP||2024-03-12 09:48:14|MylakProjectMarketingOnFacebook.zip|
+|[77bb85aa2b9af36f76d382f311dd17e7](https://www.virustotal.com/gui/file/77bb85aa2b9af36f76d382f311dd17e7)|LNK||2024-03-11 17:56:13|2 _ Project budget and candidate salary..lnk|
+|[ea21b2fe5b20e95ff7926c32f779535d](https://www.virustotal.com/gui/file/ea21b2fe5b20e95ff7926c32f779535d)|LNK||2024-03-11 17:56:13|1 _ Project information records and working contracts..lnk|
+|[9f0657d99c3a1c1107a90065e68cca6e](https://www.virustotal.com/gui/file/9f0657d99c3a1c1107a90065e68cca6e)|LNK||2024-03-11 17:56:13|3 _ Advertising marketing plan..lnk|
+|[6f15cea6f5c2c21d2caacfaca367d33d](https://www.virustotal.com/gui/file/6f15cea6f5c2c21d2caacfaca367d33d)|ZIP||2024-03-11 17:45:12|Taktical Digital Marketing Agency-Job Details-Salary-Marketing Budget 2.zip|
+|[444327bcaefd8095cc3cb5d40c5b45fb](https://www.virustotal.com/gui/file/444327bcaefd8095cc3cb5d40c5b45fb)|LNK||2024-03-08 15:52:45|Advertising strategy.lnk|
+|[d9efd0825181aaf8f6c9707de8fb059b](https://www.virustotal.com/gui/file/d9efd0825181aaf8f6c9707de8fb059b)|LNK||2024-03-08 15:52:45|Content advertising.lnk|
+|[a7360fad1cb742a3f06569a9a486f324](https://www.virustotal.com/gui/file/a7360fad1cb742a3f06569a9a486f324)|LNK||2024-03-08 15:52:45|Cuyana Contract.lnk|
+|[24a4afd78b38f7c51b3c78e003a912ba](https://www.virustotal.com/gui/file/24a4afd78b38f7c51b3c78e003a912ba)|LNK||2024-03-08 15:37:41|Cuyana_2024_ project/New model Cuyana/Khiem4_Cuyana simple.lnk|
+|[61086f0e79e13e0043c2db097547f49d](https://www.virustotal.com/gui/file/61086f0e79e13e0043c2db097547f49d)|LNK||2024-03-08 15:37:41|Cuyana_2024_ project/New model Cuyana/Khiem4_Cuyana summer.lnk|
+|[27e2e45519b4acb1f66b2fa5c291769f](https://www.virustotal.com/gui/file/27e2e45519b4acb1f66b2fa5c291769f)|LNK||2024-03-08 15:37:41|Cuyana_2024_ project/New model Cuyana/Khiem4_Cuyana elegant.lnk|
+|[574834dc575ed7cb865038b51d41a76b](https://www.virustotal.com/gui/file/574834dc575ed7cb865038b51d41a76b)|LNK||2024-03-08 15:37:41|Cuyana_2024_ project/Cuyana Cult-favorite.lnk|
+|[c35590427d70a5bceb802b0eca9ad4f2](https://www.virustotal.com/gui/file/c35590427d70a5bceb802b0eca9ad4f2)|LNK||2024-03-08 15:37:41|Cuyana_2024_ project/Handbags for travel.lnk|
+|[b969539010705478c6f811c021bb171b](https://www.virustotal.com/gui/file/b969539010705478c6f811c021bb171b)|LNK||2024-03-08 15:37:41|Cuyana_2024_ project/Double Loop Bag.lnk|
+|[050dc994da7c4117f59ef005f07e1fed](https://www.virustotal.com/gui/file/050dc994da7c4117f59ef005f07e1fed)|LNK||2024-03-08 15:37:41|Cuyana_2024_ project/New model Cuyana/Khiem4_Cuyana party.lnk|
+|[eb3fef956e7b8bb31c171d74696a5adb](https://www.virustotal.com/gui/file/eb3fef956e7b8bb31c171d74696a5adb)|LNK||2024-03-07 04:35:02|August-Smart-Lock-Google-Ads-Job-Details-and-Salary-03-2024/August Smart Lock + _ August Home 4.lnk|
+|[e1862c64f18740ea316cbdf8b8368bd8](https://www.virustotal.com/gui/file/e1862c64f18740ea316cbdf8b8368bd8)|LNK||2024-03-07 04:35:00|C:\Users\user\AppData\Local\Temp\wctlahtz.grl\August-Smart-Lock-Google-Ads-Campaign-Budget-03-2024\August Smart Lock + _ August Home 1.lnk|
+|[a038a4c729680c37772213eaf93bc89d](https://www.virustotal.com/gui/file/a038a4c729680c37772213eaf93bc89d)|LNK||2024-03-07 04:35:00|August Smart Lock + _ August Home 3.lnk|
+|[cef10e56fc1464d6a887be1d57915df1](https://www.virustotal.com/gui/file/cef10e56fc1464d6a887be1d57915df1)|ZIP||2024-03-07 04:20:47|August-Smart-Lock-Google-Ads-Job-Details-and-Salary-03-2024.zip|
+|[2b6442b5b0e3db602d4bef6788241c3b](https://www.virustotal.com/gui/file/2b6442b5b0e3db602d4bef6788241c3b)|LNK||2024-03-06 17:32:24|Taktical Digital Marketing Agency-Job Details-Salary-Marketing Budget/Taktical Digital Marketing Agency 2.lnk|
+|[acf3c1133ecc9cb4fa1284c486a54daa](https://www.virustotal.com/gui/file/acf3c1133ecc9cb4fa1284c486a54daa)|LNK||2024-03-06 17:32:24|Taktical Digital Marketing Agency-Job Details-Salary-Marketing Budget/3 _ Advertising marketing plan.lnk|
+|[188d635d7696346f98862791a1cf0488](https://www.virustotal.com/gui/file/188d635d7696346f98862791a1cf0488)|LNK||2024-03-06 17:32:24|Taktical Digital Marketing Agency-Job Details-Salary-Marketing Budget/Taktical Digital Marketing Agency 1.lnk|
+|[3476f619171d91c32eeb131d11907309](https://www.virustotal.com/gui/file/3476f619171d91c32eeb131d11907309)|LNK||2024-03-06 17:32:23|C:\Users\user\AppData\Local\Temp\23ohuq45.nt1\Taktical Digital Marketing Agency-Job Details-Salary-Marketing Budget\2 _ Project budget and candidate salary.lnk|
+|[e231d4872603fde835dd48e5d367b789](https://www.virustotal.com/gui/file/e231d4872603fde835dd48e5d367b789)|ZIP||2024-03-06 17:19:09|Taktical Digital Marketing Agency-Job Details-Salary-Marketing Budget.zip|
+|[2073b8dea19727163af6265a5b32a0cc](https://www.virustotal.com/gui/file/2073b8dea19727163af6265a5b32a0cc)|LNK||2024-03-06 06:32:54|Coach 2024 New Product project Budget.lnk|
+|[090679a0f2b4278e7640dd2bcc986677](https://www.virustotal.com/gui/file/090679a0f2b4278e7640dd2bcc986677)|LNK||2024-03-06 06:26:05|C:\Users\user\AppData\Local\Temp\xfgbh2oj.crm\Job Description Plan - Coach 2023\Roles & Responsibilities Coach 2024.lnk|
+|[fa67570f200961ff560bc9be3cb93e60](https://www.virustotal.com/gui/file/fa67570f200961ff560bc9be3cb93e60)|LNK||2024-03-05 11:33:57|Taktical Digital Marketing Agency-Job Details-Salary-Marketing Budget/1 _ Project information records and working contracts.lnk|
+|[bbb673b21a98aaf706ccb82536239477](https://www.virustotal.com/gui/file/bbb673b21a98aaf706ccb82536239477)|LNK||2024-02-29 00:54:00|Project for organic fashion/2.2024 Outfit Strests.lnk|
+|[6ac0abb1d6cb2d205085823c33374472](https://www.virustotal.com/gui/file/6ac0abb1d6cb2d205085823c33374472)|LNK||2024-02-29 00:54:00|Project for organic fashion/Fashion market in europe report.lnk|
+|[191d2d392dc736312894724c79531e5d](https://www.virustotal.com/gui/file/191d2d392dc736312894724c79531e5d)|LNK||2024-02-29 00:54:00|Project for organic fashion/Budget-Report - Video Document Organic Fashion Campaign/Statistics revenue fashion company.lnk|
+|[fff78daa953dfa12c92e476da22f1642](https://www.virustotal.com/gui/file/fff78daa953dfa12c92e476da22f1642)|LNK||2024-02-27 14:35:50|C:\Users\user\AppData\Local\Temp\oydi0ncq.g4x\Cuyana_2024_ project\Advertising strategy.lnk|
+|[2151fb29a76311c99247e5676df81cf1](https://www.virustotal.com/gui/file/2151fb29a76311c99247e5676df81cf1)|LNK||2024-02-27 14:35:50|C:\Users\user\AppData\Local\Temp\oydi0ncq.g4x\Cuyana_2024_ project\Cuyana Contract.lnk|
+|[de31ab46e5b26f4c9d3dc592aff9728a](https://www.virustotal.com/gui/file/de31ab46e5b26f4c9d3dc592aff9728a)|LNK||2024-02-27 14:23:26|Cuyana_2024_ project/Handbags for travel.lnk|
+|[82a3934b7319baef13c5da46c240af2b](https://www.virustotal.com/gui/file/82a3934b7319baef13c5da46c240af2b)|LNK||2024-02-27 14:23:26|Cuyana_2024_ project/Cuyana Cult-favorite.lnk|
+|[3ab0d663608d0fded925fd01c44e7c63](https://www.virustotal.com/gui/file/3ab0d663608d0fded925fd01c44e7c63)|LNK||2024-02-27 14:23:26|Cuyana_2024_ project/Double Loop Bag.lnk|
+|[2467da32fa038e633b1975e090a8aa22](https://www.virustotal.com/gui/file/2467da32fa038e633b1975e090a8aa22)|LNK||2024-01-31 12:06:20|United_Health_Logo.png.lnk|
+|[f604bc299678ee56982385cfcbf9d6c0](https://www.virustotal.com/gui/file/f604bc299678ee56982385cfcbf9d6c0)|Win64 EXE||2024-01-31 01:35:18|csrss.exe|
+|[cd48e1a4caceea0474973a75582f18ee](https://www.virustotal.com/gui/file/cd48e1a4caceea0474973a75582f18ee)|Win64 EXE|Generickdz|2024-01-31 01:23:35|/svchost_window.exe|
+|[24dca7c7b052bb688183d5e02b01f280](https://www.virustotal.com/gui/file/24dca7c7b052bb688183d5e02b01f280)|TXT|Valyria|2024-01-30 02:13:52|Chrome.hta|
+|[1a6655d07034b2757d2015774e8d86c9](https://www.virustotal.com/gui/file/1a6655d07034b2757d2015774e8d86c9)|TXT|Valyria|2024-01-30 02:12:01|svchost.hta|
+|[d70df7b7dec1aacfdb1bcfdf80fb69fc](https://www.virustotal.com/gui/file/d70df7b7dec1aacfdb1bcfdf80fb69fc)|Win64 EXE||2024-01-29 16:18:24|csrss.exe|
+|[5ada0debaaf0824e20d6f821ac875bd1](https://www.virustotal.com/gui/file/5ada0debaaf0824e20d6f821ac875bd1)|Win64 EXE||2024-01-29 13:54:30|svchost_window.exe|
+|[f941ffef9704232eab50f75eaf86a146](https://www.virustotal.com/gui/file/f941ffef9704232eab50f75eaf86a146)|LNK||2024-01-29 13:41:52|JD Digital Marketing recruitment documents.lnk|
+|[05a069c42500315e6678d671e89784d8](https://www.virustotal.com/gui/file/05a069c42500315e6678d671e89784d8)|ZIP||2024-01-29 13:41:18|JD job details at Stussy Inc.zip|
+|[e3ea1e182721cf4019624aa36d19e681](https://www.virustotal.com/gui/file/e3ea1e182721cf4019624aa36d19e681)|Win64 EXE||2024-01-27 03:54:43|f.exe|
+|[b8541b5f2d83e71b46f0708055315589](https://www.virustotal.com/gui/file/b8541b5f2d83e71b46f0708055315589)|ZIP||2024-01-25 18:56:46|Digital marketing recruitment materials 01-25.zip|
+|[fdfedce448001c771489fbf65c7ee425](https://www.virustotal.com/gui/file/fdfedce448001c771489fbf65c7ee425)|Win64 EXE||2024-01-25 18:49:40|dwm.exe|
+|[1c0c86f38c3f99966dce1d6abf378982](https://www.virustotal.com/gui/file/1c0c86f38c3f99966dce1d6abf378982)|ZIP||2024-01-25 18:06:26|Digital marketing recruitment materials 01-24.zip|
+|[991e2df73e6d5b1ff6d7506a62694826](https://www.virustotal.com/gui/file/991e2df73e6d5b1ff6d7506a62694826)|LNK||2024-01-25 14:35:01| |
+|[c9e4cd35f9e2bd5ed88124e347ba4217](https://www.virustotal.com/gui/file/c9e4cd35f9e2bd5ed88124e347ba4217)|ZIP||2024-01-23 18:46:09|Digital marketing recruitment materials 01-21.zip|
+|[8ad9de1d0c6ff5667c67f3218203587d](https://www.virustotal.com/gui/file/8ad9de1d0c6ff5667c67f3218203587d)|TXT|Valyria|2024-01-23 04:49:41|Microsoft.hta_|
+|[9881361fcea3bb077fa736f871679af0](https://www.virustotal.com/gui/file/9881361fcea3bb077fa736f871679af0)|TXT|Valyria|2024-01-23 04:48:30|Notepad.hta|
+|[9821f09fd83a54b9ece549759540de73](https://www.virustotal.com/gui/file/9821f09fd83a54b9ece549759540de73)|LNK||2024-01-22 16:17:22|C:\Users\user\AppData\Local\Temp\dfkqdmnt.tsj\Digital marketing recruitment materials 01-21\JD Digital Marketing recruitment documents.lnk|
 |[bad7bad041c5455f180a07f9ba5347fe](https://www.virustotal.com/gui/file/bad7bad041c5455f180a07f9ba5347fe)|Win64 EXE||2023-11-06 09:57:22|ASMOZSOFT.dll|
 |[02080aede8082a873e3a46303b15536b](https://www.virustotal.com/gui/file/02080aede8082a873e3a46303b15536b)|Win64 EXE||2023-11-01 12:08:01|AZMBUNDLESOFT.dll|

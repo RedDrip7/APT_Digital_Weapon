@@ -46,3 +46,16 @@
 |[e20930ea5e7bac3f6fa7e016c52fa54e](https://www.virustotal.com/gui/file/e20930ea5e7bac3f6fa7e016c52fa54e)|ELF shared library||2022-03-20 02:50:31|wtmpclean|
 |[d53bb85b5c6ec5a49ecc085c446a969c](https://www.virustotal.com/gui/file/d53bb85b5c6ec5a49ecc085c446a969c)|Win32 DLL||2022-02-24 04:32:12|c:\windows\system32\j0p8dyf6q.dll|
 |[f20d3ea7050ae83c1e0d278425242a38](https://www.virustotal.com/gui/file/f20d3ea7050ae83c1e0d278425242a38)|TXT||2020-12-15 14:28:00|国外牛逼大马.aspx|
+|[d9ef25b85633b5754cfafadda6a2a4b7](https://www.virustotal.com/gui/file/d9ef25b85633b5754cfafadda6a2a4b7)|CAB|CobaltStrike|2024-01-16 14:14:47|C:\Users\user\AppData\Roaming\DWlCNX.tmp|
+|[dee63329fa6efe64693d90a54585cff0](https://www.virustotal.com/gui/file/dee63329fa6efe64693d90a54585cff0)|TXT||2024-01-16 14:07:06|_params2.cat.js|
+|[5acef2454ed89c4ea4453b5110e88023](https://www.virustotal.com/gui/file/5acef2454ed89c4ea4453b5110e88023)|TXT||2024-01-16 14:06:58|_params.cat.js|
+|[6f7d85c196c277a6a619f6d94b8f69b9](https://www.virustotal.com/gui/file/6f7d85c196c277a6a619f6d94b8f69b9)|LNK||2024-01-12 07:09:24|China's gray zone warfare against Taiwan/China's_gray_zone_warfare_against_Taiwan.doc.lnk|
+|[b04d484d1e1d793b04af2a5fb88a8a57](https://www.virustotal.com/gui/file/b04d484d1e1d793b04af2a5fb88a8a57)|LNK||2024-01-12 07:09:24|China's gray zone warfare against Taiwan/China_paper.pdf.lnk|
+|[4ce61692705f938e7a41556dbf37872c](https://www.virustotal.com/gui/file/4ce61692705f938e7a41556dbf37872c)|CAB|CobaltStrike|2024-01-12 01:47:42|%APPDATA%\sfnlzw.tmp|
+|[83be472a5402d0b32e40cc6d761a8a37](https://www.virustotal.com/gui/file/83be472a5402d0b32e40cc6d761a8a37)|TXT||2024-01-12 01:38:19|_params.cat.js|
+|[8e2c17040ec78cbcdc07bb2cf9dd7e01](https://www.virustotal.com/gui/file/8e2c17040ec78cbcdc07bb2cf9dd7e01)|LNK||2024-01-12 01:35:32|China's_gray-zone_warfare_against_Taiwan.doc.lnk|
+|[bcd415bcb85fc866c30a35fcb0f6d975](https://www.virustotal.com/gui/file/bcd415bcb85fc866c30a35fcb0f6d975)|7ZIP||2024-01-12 01:35:12|China_s_gray-zone_warfare_against_Taiwan.7z|
+|[dc613a519e515ca817fdfb88f81fc9d7](https://www.virustotal.com/gui/file/dc613a519e515ca817fdfb88f81fc9d7)|LNK||2024-01-08 07:56:45|Sino-Africa_relations/Sino-Africa_relations.ppt.lnk|
+|[0d3b8181bbd38c07dd303c8883b9d75e](https://www.virustotal.com/gui/file/0d3b8181bbd38c07dd303c8883b9d75e)|Win32 EXE|CobaltStrike|2023-12-25 03:13:13|Vmware.exe|
+|[3950ef1ba3e2bdd359af27b58c70612e](https://www.virustotal.com/gui/file/3950ef1ba3e2bdd359af27b58c70612e)|CAB|CobaltStrike|2023-12-25 03:13:13|C:\Users\user\AppData\Roaming\vAwAgE.tmp|
+|[b8b382d36ccb1a9aaaace84c7a1db885](https://www.virustotal.com/gui/file/b8b382d36ccb1a9aaaace84c7a1db885)|TXT|horse|2023-12-25 03:05:46|Sino-Africa_relations/__MACOS/_params.cat.js|

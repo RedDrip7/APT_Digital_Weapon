@@ -7,3 +7,4 @@
 |[1498d93dfd4a4ccbdca70817ccf84d98](https://www.virustotal.com/gui/file/1498d93dfd4a4ccbdca70817ccf84d98)|XLS||2022-10-25 09:50:01|statistic.xls|
 |[5cbbb406f476ea6f3c4ecb0d4bde7325](https://www.virustotal.com/gui/file/5cbbb406f476ea6f3c4ecb0d4bde7325)|Win32 EXE||2022-05-30 11:43:37| |
 |[4115431725abf3ccba92535cbdeb7e5d](https://www.virustotal.com/gui/file/4115431725abf3ccba92535cbdeb7e5d)|TXT||2023-10-20 05:12:07|NEAS.05ae4c495c10835af57430ca2dfed387aad221ff0651bbe17fc75bbd1f96369ajs.js|
+|[acb9415b25b3b834ad9d44aa1e6b3c6c](https://www.virustotal.com/gui/file/acb9415b25b3b834ad9d44aa1e6b3c6c)|TXT|PhishingSite|2023-09-27 11:31:46|C:\Downloads\missed\ea22b3e9ecdfd06fae74483deb9ef0245aefdc72f99120ae6525c0eaf37de32e|

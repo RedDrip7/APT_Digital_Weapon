@@ -38,6 +38,7 @@
 |[7c05cfed156f152139a6b1f0d48b5cc1](https://www.virustotal.com/gui/file/7c05cfed156f152139a6b1f0d48b5cc1)|Win32 EXE||2023-12-21 06:38:00|SystemFolderWriteApp.exe|
 |[b1f8484ee01a7730938210ea6e851888](https://www.virustotal.com/gui/file/b1f8484ee01a7730938210ea6e851888)|Win32 EXE||2023-12-21 06:37:54|pftguecif.exe|
 |[8a0b5a0cb6bd130b35253f17701b18a5](https://www.virustotal.com/gui/file/8a0b5a0cb6bd130b35253f17701b18a5)|Win32 EXE||2023-11-20 16:02:37|C:\Users\<USER>\AppData\Local\Temp\36423\Productive|
+|[9567a898f2ecf952f8817787e6ef5701](https://www.virustotal.com/gui/file/9567a898f2ecf952f8817787e6ef5701)|Win32 EXE|Remcos|2024-01-09 05:54:49|freeformatter-decoded.exe|
 |[8158b43f745e0e7a519458b0150e1b61](https://www.virustotal.com/gui/file/8158b43f745e0e7a519458b0150e1b61)|TXT|Remcos|2023-12-21 15:37:09|payload_1.ps1|
 |[8bebea01d914a3c3a2d876417f7d1d54](https://www.virustotal.com/gui/file/8bebea01d914a3c3a2d876417f7d1d54)|TXT|Remcos|2023-12-21 12:44:46|payload_1.ps1|
 |[f71ef85824f906856cb3d2205058bdd2](https://www.virustotal.com/gui/file/f71ef85824f906856cb3d2205058bdd2)|TXT|Remcos|2023-12-21 10:19:19|payload_1.ps1|

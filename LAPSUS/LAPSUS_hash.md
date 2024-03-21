@@ -86,3 +86,4 @@
 |[d73b3d865405bc7f8bfbdf91635f6a05](https://www.virustotal.com/gui/file/d73b3d865405bc7f8bfbdf91635f6a05)|Win64 EXE||2022-08-25 12:05:22|exploit_64_exe|
 |[bbf47d9fc54dc4a6f681e1a219000b2b](https://www.virustotal.com/gui/file/bbf47d9fc54dc4a6f681e1a219000b2b)|Win32 EXE||2022-04-09 20:17:43|StartGame.exe|
 |[a2d12cbba7953c371797803149ab1cd3](https://www.virustotal.com/gui/file/a2d12cbba7953c371797803149ab1cd3)|Win32 EXE||2023-09-29 21:12:57|alohacrypt.exe|
+|[b339405d60e7219f6d2313c712a43b98](https://www.virustotal.com/gui/file/b339405d60e7219f6d2313c712a43b98)|Win32 EXE||2024-02-05 20:52:48|FL Studio 2024.exe|

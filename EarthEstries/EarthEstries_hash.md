@@ -9,3 +9,10 @@
 |[1579ec612e222d16ea4491041d78531c](https://www.virustotal.com/gui/file/1579ec612e222d16ea4491041d78531c)|Win64 DLL||2022-06-29 12:45:18|SbieDl2.dll|
 |[99fb505deddd2d8b191d30f0e0db6d1e](https://www.virustotal.com/gui/file/99fb505deddd2d8b191d30f0e0db6d1e)|Win64 DLL||2022-06-29 12:45:18|SbieDll.dll|
 |[f7366a26fcc403fa60c2c69c6255e85c](https://www.virustotal.com/gui/file/f7366a26fcc403fa60c2c69c6255e85c)|Win32 DLL||2022-04-11 07:31:05|K7UI.dll|
+|[388569e1a45a1f95df3e2bb32074940e](https://www.virustotal.com/gui/file/388569e1a45a1f95df3e2bb32074940e)|CAB||2023-08-30 13:15:12|2.cab|
+|[aeeb83db2212eed93faeb2c9c3c09d74](https://www.virustotal.com/gui/file/aeeb83db2212eed93faeb2c9c3c09d74)|CAB|Zbot|2023-08-30 13:08:59|1.cab|
+|[6f1a562875c75cee6a89e7c6d9933ff0](https://www.virustotal.com/gui/file/6f1a562875c75cee6a89e7c6d9933ff0)|ZIP|Kryptik|2023-04-12 03:09:58|OneDrive.zip|
+|[820418ab45be5cb8709258829d13257f](https://www.virustotal.com/gui/file/820418ab45be5cb8709258829d13257f)|ZIP|Kryptik|2023-03-23 03:01:18|OneDrive.zip|
+|[b434060e4e1e679f125ce0ec34931af1](https://www.virustotal.com/gui/file/b434060e4e1e679f125ce0ec34931af1)|ZIP||2023-03-23 02:36:13|NetLabs.zip|
+|[5f038785f17e4a825f469b4d730fb840](https://www.virustotal.com/gui/file/5f038785f17e4a825f469b4d730fb840)|Win64 DLL||2023-03-13 13:05:51|libvlc.dll|
+|[5506cd059deb405a0a5bea3aebf8f5c2](https://www.virustotal.com/gui/file/5506cd059deb405a0a5bea3aebf8f5c2)|ZIP|Kryptik|2022-03-07 04:46:15|OneDrive.zip|
