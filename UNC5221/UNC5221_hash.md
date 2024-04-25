@@ -9,3 +9,5 @@
 |[af474909e0fe9d97bb3f8f10e58e43bb](https://www.virustotal.com/gui/file/af474909e0fe9d97bb3f8f10e58e43bb)|Win64 EXE||2023-12-30 18:08:20|bc7c7280855c384e5a970a2895363bd5c8db9088977d129b180d3acb1ec9148a.exe|
 |[f8aa83a2487d7fc0f005ab34ec167af7](https://www.virustotal.com/gui/file/f8aa83a2487d7fc0f005ab34ec167af7)|ELF shared library|Pupy|2023-10-19 03:34:57|IVTQaisfgFxY6|
 |[20aaa556161f66a73747161cd7bbadd7](https://www.virustotal.com/gui/file/20aaa556161f66a73747161cd7bbadd7)|Win64 EXE||2023-07-18 12:59:01|C:\Users\user\AppData\Local\Temp\.software.qfxwzeojmofommiamwudascqyhmyfiym.__selfdelete__.exe|
+|[4f79c70cce4207d0ad57a339a9c7f43c](https://www.virustotal.com/gui/file/4f79c70cce4207d0ad57a339a9c7f43c)|ELF shared library|Pupy|2024-02-16 09:27:56|libdsproxy.so|
+|[e7d24813535f74187db31d4114f607a1](https://www.virustotal.com/gui/file/e7d24813535f74187db31d4114f607a1)|ELF shared library|Pupy|2024-02-16 09:26:33|libdsmeeting.so|

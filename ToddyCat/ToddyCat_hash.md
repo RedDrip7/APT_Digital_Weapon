@@ -46,3 +46,6 @@
 |[910ea9f6b7f6d06fc42d448b143a3634](https://www.virustotal.com/gui/file/910ea9f6b7f6d06fc42d448b143a3634)|Win32 EXE||2021-05-19 04:55:41|Министрге сунуштама.exe|
 |[b525b542db59b07f6486b0ef003374f7](https://www.virustotal.com/gui/file/b525b542db59b07f6486b0ef003374f7)|Win32 EXE||2021-03-12 09:05:28|a8a026d9bda80cc9bdd778a6ea8c88edcb2d657dc481952913bbdb5f2bfc11c9.bin|
 |[bebbeba37667453003d2372103c45bbf](https://www.virustotal.com/gui/file/bebbeba37667453003d2372103c45bbf)|Win32 EXE||2021-01-18 04:18:40|1ab42121bb45028a17a3438b65a3634adb7d673a4e1291efeabf227a4e016cfb.bin|
+|[34985fae5fa8e9ebaa872de8d0105005](https://www.virustotal.com/gui/file/34985fae5fa8e9ebaa872de8d0105005)|Win64 EXE||2023-09-27 01:01:58|ngrok.exe|
+|[4a79a8b1f6978862ecfa71b55066aadd](https://www.virustotal.com/gui/file/4a79a8b1f6978862ecfa71b55066aadd)|Win64 EXE||2023-08-14 23:45:04|frpc.exe|
+|[9dc7237ac63d552270c5ca27960168c3](https://www.virustotal.com/gui/file/9dc7237ac63d552270c5ca27960168c3)|Win64 EXE||2022-09-14 17:52:13|ngrok.exe|

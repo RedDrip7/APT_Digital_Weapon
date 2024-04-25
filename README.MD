@@ -22,22 +22,21 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 
 
- 
+
 |Groupname|Total|Update|data|  
 |:--|:--|:--|:--|  
-|Blackatom|2|2|2024-03-19|  
-|Earth Lusca|59|13|2024-03-19|  
-|EarthEstries|16|7|2024-03-19|  
-|FaceDuck Group|2355|79|2024-03-19|  
-|LAPSUS|87|1|2024-03-19|  
-|Mysterious Elephant|1|1|2024-03-19|  
-|NoName057|554|539|2024-03-19|  
-|RusticWeb|22|10|2024-03-19|  
-|Sticky Werewolf|4|2|2024-03-19|  
-|Storm-0133|1|1|2024-03-19|  
-|UAC|19|4|2024-03-19|  
-|UAC-0050|43|5|2024-03-19|  
-|UNC1549|33|33|2024-03-19|  
-|UNC5221|9|9|2024-03-19|  
-|Water Hydra|52|52|2024-03-19|  
-|WinterVivern|8|1|2024-03-19|  
+|APT-Q-27|134|35|2024-04-24|  
+|CoralRaider|7|7|2024-04-24|  
+|CoreWerewolf|5|5|2024-04-24|  
+|eXotic Visit|10|10|2024-04-24|  
+|FaceDuck Group|2422|67|2024-04-24|  
+|FlightNight|2|2|2024-04-24|  
+|Jacana|78|54|2024-04-24|  
+|NGC2180|2|2|2024-04-24|  
+|TA558|376|364|2024-04-24|  
+|ToddyCat|49|3|2024-04-24|  
+|UAC-0184|20|20|2024-04-24|  
+|UNC5174|1|1|2024-04-24|  
+|UNC5221|11|2|2024-04-24|  
+|UNC5266|6|6|2024-04-24|  
+|UTA0218|3|3|2024-04-24|  

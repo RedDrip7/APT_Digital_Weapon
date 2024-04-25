@@ -99,3 +99,38 @@
 |[e2260f74b83d4f9a917b4f86098f1f0d](https://www.virustotal.com/gui/file/e2260f74b83d4f9a917b4f86098f1f0d)|Win32 DLL||2022-03-25 08:54:44|dump_compress.bin|
 |[61cd367d5b9db25c19c38a0b639a570d](https://www.virustotal.com/gui/file/61cd367d5b9db25c19c38a0b639a570d)|Win32 DLL||2022-03-25 07:42:58|23d0000.dll|
 |[3ca223091770504ff2c170f601107f39](https://www.virustotal.com/gui/file/3ca223091770504ff2c170f601107f39)|Win32 DLL||2022-03-25 07:27:30|1d4ccdda1c3ee0770a0eaf3e401d816949d1abfa4e26c6e6bb1daf1bfab90124.bin|
+|[600950f12011e12176ce567ab12b1974](https://www.virustotal.com/gui/file/600950f12011e12176ce567ab12b1974)|Win32 EXE||2024-03-17 09:23:59| |
+|[75f36f335613f622aff1c0a3635ae4f7](https://www.virustotal.com/gui/file/75f36f335613f622aff1c0a3635ae4f7)|Win64 EXE|Dapato|2024-03-16 01:45:46|/home/petik/shadowserver/malware/2024-03-16_75f36f335613f622aff1c0a3635ae4f7_ryuk|
+|[2fa3c65cf7aadd3c1bda9bba4c6ccde3](https://www.virustotal.com/gui/file/2fa3c65cf7aadd3c1bda9bba4c6ccde3)|Win64 EXE||2024-03-16 00:48:12|kuaivpn.exe|
+|[52065256a56e88c1ce5081869daa23a1](https://www.virustotal.com/gui/file/52065256a56e88c1ce5081869daa23a1)|Win64 EXE||2024-03-15 02:40:53|Sample.EXE|
+|[94d05e7b1b18869de70047e08f2ca1e7](https://www.virustotal.com/gui/file/94d05e7b1b18869de70047e08f2ca1e7)|Win64 EXE|Dapato|2024-03-12 10:55:06|/home/petik/shadowserver/malware/2024-03-13_94d05e7b1b18869de70047e08f2ca1e7_ryuk|
+|[680c103c7af43f113897e5ab31b4cb3a](https://www.virustotal.com/gui/file/680c103c7af43f113897e5ab31b4cb3a)|Win64 EXE||2024-03-11 13:38:35|Sample.EXE|
+|[c55c69db1201e885277a5c9a93353ec6](https://www.virustotal.com/gui/file/c55c69db1201e885277a5c9a93353ec6)|Win64 EXE|Dapato|2024-02-26 18:52:27|kuaivpn.exe|
+|[8811c1aa95adb71003355486066621ea](https://www.virustotal.com/gui/file/8811c1aa95adb71003355486066621ea)|Win64 EXE||2024-02-05 16:42:14|C:\Users\user\AppData\Local\Temp\zvlyuk0d.21c\??????????7.7@x.exe|
+|[624d73bc484c2f069ad5f1c2828a54e7](https://www.virustotal.com/gui/file/624d73bc484c2f069ad5f1c2828a54e7)|Win64 EXE||2024-02-03 00:09:37|Sample.EXE|
+|[74339fbd7add92006add8ba0ffb56804](https://www.virustotal.com/gui/file/74339fbd7add92006add8ba0ffb56804)|Win64 EXE||2024-01-31 08:59:24|Sample.EXE|
+|[fd2aa6844258f6141892d31b25549913](https://www.virustotal.com/gui/file/fd2aa6844258f6141892d31b25549913)|Win64 EXE||2024-01-31 08:57:28|Sample.EXE|
+|[056074658020d5c6fe64d44a30cccaef](https://www.virustotal.com/gui/file/056074658020d5c6fe64d44a30cccaef)|Win64 EXE||2024-01-31 08:54:29|Sample.EXE|
+|[e5d58030d9a9b74cf3e3df403117bab7](https://www.virustotal.com/gui/file/e5d58030d9a9b74cf3e3df403117bab7)|Win64 EXE||2024-01-30 14:25:49|Sample.EXE|
+|[435fe6091322e24a05e931601f39937e](https://www.virustotal.com/gui/file/435fe6091322e24a05e931601f39937e)|Win64 EXE||2024-01-29 11:33:20|Sample.EXE|
+|[4ae73bbdfaa53381792d0c6048217070](https://www.virustotal.com/gui/file/4ae73bbdfaa53381792d0c6048217070)|Win64 EXE|Dapato|2024-01-28 16:01:26|/home/petik/shadowserver/malware/2024-01-29_4ae73bbdfaa53381792d0c6048217070_ryuk|
+|[a30f819871bf0bf795bf6c6edfdbd825](https://www.virustotal.com/gui/file/a30f819871bf0bf795bf6c6edfdbd825)|Win64 EXE||2024-01-26 17:31:01|Sample.EXE|
+|[17e2f8d76c750a6f70142bccf53f07d1](https://www.virustotal.com/gui/file/17e2f8d76c750a6f70142bccf53f07d1)|Win64 EXE||2024-01-25 02:20:50|Sample.EXE|
+|[2e9af5e5ee5b5f110e4d8cda47ff1337](https://www.virustotal.com/gui/file/2e9af5e5ee5b5f110e4d8cda47ff1337)|Win64 EXE||2024-01-24 18:05:03|Sample.EXE|
+|[73130bbf282c24fc56c510e96f29d7b7](https://www.virustotal.com/gui/file/73130bbf282c24fc56c510e96f29d7b7)|Win64 EXE||2024-01-24 18:03:52|Sample.EXE|
+|[f32f059ca6dc9f1df3e57770de47e0f3](https://www.virustotal.com/gui/file/f32f059ca6dc9f1df3e57770de47e0f3)|Win64 EXE||2024-01-24 17:59:39|Sample.EXE|
+|[327eb4e92f55a96a38d009d44c165c34](https://www.virustotal.com/gui/file/327eb4e92f55a96a38d009d44c165c34)|Win64 EXE||2024-01-23 06:49:51|Sample.EXE|
+|[b813b8eed22981b95bac807ef90e32f8](https://www.virustotal.com/gui/file/b813b8eed22981b95bac807ef90e32f8)|Win64 EXE||2024-01-22 17:48:40|Sample.EXE|
+|[ba42422f1ff87ea8ea5abae476320a2e](https://www.virustotal.com/gui/file/ba42422f1ff87ea8ea5abae476320a2e)|Win64 EXE||2024-01-20 17:49:00|Sample.EXE|
+|[f4436778a6cdb9c70757e5a8ea18e268](https://www.virustotal.com/gui/file/f4436778a6cdb9c70757e5a8ea18e268)|Win64 EXE||2024-01-20 17:48:16|Sample.EXE|
+|[c48fa83ef4df4f739be4bfa8cc680716](https://www.virustotal.com/gui/file/c48fa83ef4df4f739be4bfa8cc680716)|Win64 EXE||2024-01-19 18:55:23|Sample.EXE|
+|[d5c0bc8f49f610117fa1e7c8e375916d](https://www.virustotal.com/gui/file/d5c0bc8f49f610117fa1e7c8e375916d)|Win64 EXE||2024-01-18 05:34:24|Sample.EXE|
+|[607260303251ecd9916cd43caa7ca310](https://www.virustotal.com/gui/file/607260303251ecd9916cd43caa7ca310)|Win64 EXE||2024-01-17 12:42:30| |
+|[826c63b69bd8c980679d9e8f07e2a304](https://www.virustotal.com/gui/file/826c63b69bd8c980679d9e8f07e2a304)|Win64 EXE||2024-01-14 18:30:09|Sample.EXE|
+|[4323178d4d12324acd54ed3ed10b201b](https://www.virustotal.com/gui/file/4323178d4d12324acd54ed3ed10b201b)|Win64 EXE||2024-01-13 00:13:25|kuaivpn.exe|
+|[83867664211d1516c04dd04d533707c1](https://www.virustotal.com/gui/file/83867664211d1516c04dd04d533707c1)|Win64 EXE||2024-01-12 08:07:55|Sample.EXE|
+|[068dbd6205f9bdbe616df704259493b3](https://www.virustotal.com/gui/file/068dbd6205f9bdbe616df704259493b3)|Win64 EXE||2024-01-12 08:06:24|Sample.EXE|
+|[6df1ff10a64578a5a3d1918b248bdb0c](https://www.virustotal.com/gui/file/6df1ff10a64578a5a3d1918b248bdb0c)|Win64 EXE||2024-01-11 09:25:30|Sample.EXE|
+|[d9e9fbb27f0fc9dd2281954df5689de4](https://www.virustotal.com/gui/file/d9e9fbb27f0fc9dd2281954df5689de4)|Win64 EXE||2024-01-08 22:21:03|Sample.EXE|
+|[7845fd18d4f5a611985a177c42042a4b](https://www.virustotal.com/gui/file/7845fd18d4f5a611985a177c42042a4b)|Win64 EXE||2024-01-05 00:51:35|C:\Program Files\Kuaivpn\Kuaivpn\Kuai\tdata\emoji\kuaivpn.exe|
+|[fcadefabf90aa65ab171f089b757ca75](https://www.virustotal.com/gui/file/fcadefabf90aa65ab171f089b757ca75)|Win64 EXE||2024-01-03 07:20:30| |
