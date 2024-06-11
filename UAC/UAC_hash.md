@@ -19,3 +19,9 @@
 |[be7953da970075c28dd1ae0f9a3ec54e](https://www.virustotal.com/gui/file/be7953da970075c28dd1ae0f9a3ec54e)|Win32 EXE|Dapato|2024-02-03 20:24:33|img logger.exe|
 |[201c835ba96541cc725523584c272212](https://www.virustotal.com/gui/file/201c835ba96541cc725523584c272212)|Win32 EXE|Dapato|2024-01-30 14:18:46|/tmp/cache/extracted_files/d88aa0b82bf0e2cbd1430045e936f29fb5a0f159.bin|
 |[7ea755d78d25fb11cc82b4422b366ee6](https://www.virustotal.com/gui/file/7ea755d78d25fb11cc82b4422b366ee6)|TXT||2024-01-12 10:50:26|C:\Users\user\AppData\Local\Microsoft\Windows\INetCache\IE\R0IAZP7Z\5[1].hta|
+|[3bd344b53bd70e1e77f42bf40c22dfb1](https://www.virustotal.com/gui/file/3bd344b53bd70e1e77f42bf40c22dfb1)|Win32 EXE||2024-06-04 11:30:44|C:\WinSavesbrokerdhcpcommon\bridgeSurrogatewin.exe|
+|[94124f22d7aa29ab91d40d4f207e1887](https://www.virustotal.com/gui/file/94124f22d7aa29ab91d40d4f207e1887)|Win32 EXE|DCRat|2024-06-04 11:30:11|Plan_na_10.06.2024.pif|
+|[6903635dc38959f87bbc9aeee3f3555a](https://www.virustotal.com/gui/file/6903635dc38959f87bbc9aeee3f3555a)|Win32 EXE|DarkTortilla|2024-06-02 20:35:17|Plan10062024.exe|
+|[2e7ef5d68ad7e8df8d621f624127aa14](https://www.virustotal.com/gui/file/2e7ef5d68ad7e8df8d621f624127aa14)|Win32 EXE|DarkTortilla|2024-05-31 15:24:17|1.exe|
+|[47aa8d5d45c05c05be3941e43009a5ec](https://www.virustotal.com/gui/file/47aa8d5d45c05c05be3941e43009a5ec)|Win32 EXE|DCRat|2024-05-30 12:29:38|agentWinintoHostDhcp.exe|
+|[6e5a822f6c57d00caaa175b13c05f33d](https://www.virustotal.com/gui/file/6e5a822f6c57d00caaa175b13c05f33d)|Win32 EXE|DCRat|2024-05-30 12:26:34| |

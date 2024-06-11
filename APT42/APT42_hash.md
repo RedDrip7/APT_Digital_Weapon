@@ -6,3 +6,8 @@
 |[da7d37bfb899a0094995944d4c5e2f21](https://www.virustotal.com/gui/file/da7d37bfb899a0094995944d4c5e2f21)|Win32 EXE||2017-10-12 19:24:49|diag.exe|
 |[335849d8fb13a4a189ba92af9bdf5d1d](https://www.virustotal.com/gui/file/335849d8fb13a4a189ba92af9bdf5d1d)|Win32 EXE||2017-10-12 07:21:20|/|
 |[9dd30569aaf57d6115e1d181b78df6b5](https://www.virustotal.com/gui/file/9dd30569aaf57d6115e1d181b78df6b5)|Win32 DLL||2016-04-25 06:05:48|SilentUploader.dll|
+|[c3b9191f3a3c139ae886c0840709865e](https://www.virustotal.com/gui/file/c3b9191f3a3c139ae886c0840709865e)|TXT||2024-03-01 17:30:06|df32s.txt|
+|[081419a484bbf99f278ce636d445b9d8](https://www.virustotal.com/gui/file/081419a484bbf99f278ce636d445b9d8)|TXT||2024-03-01 17:29:16|unknown|
+|[d7bf138d1aa2b70d6204a2f3c3bc72a7](https://www.virustotal.com/gui/file/d7bf138d1aa2b70d6204a2f3c3bc72a7)|TXT||2024-03-01 15:16:21|a2.vbs|
+|[c23663ebdfbc340457201dbec7469386](https://www.virustotal.com/gui/file/c23663ebdfbc340457201dbec7469386)|unknown|Sagent|2024-01-16 15:24:52|down.vbs|
+|[dd2653a2543fa44eaeeff3ca82fe3513](https://www.virustotal.com/gui/file/dd2653a2543fa44eaeeff3ca82fe3513)|TXT||2023-06-30 07:56:57|localfile~|

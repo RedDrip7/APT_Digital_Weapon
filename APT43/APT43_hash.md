@@ -24,3 +24,5 @@
 |[1ffccf6cb3b74d68df2b899fd33127a5](https://www.virustotal.com/gui/file/1ffccf6cb3b74d68df2b899fd33127a5)|Win32 DLL||2019-10-09 02:03:55|da22d327124a0ee6a93cd07e85f9804fbc98eda87824ddcf7c8a63d349e87034.bin|
 |[b077ba5af1dfbd4ac523923eab56bcd4](https://www.virustotal.com/gui/file/b077ba5af1dfbd4ac523923eab56bcd4)|Win32 EXE||2018-07-06 09:01:53|4a08b78d410bc3d9b78dd63b146767f293dc3f3f6f8092352d2aa2f589e9c772.bin|
 |[20bc53deb7b1214580e9d9efeaa5e9d7](https://www.virustotal.com/gui/file/20bc53deb7b1214580e9d9efeaa5e9d7)|TXT||2018-07-02 03:39:50|ooo.ps1|
+|[c700195f61635b9a6fb1ee4359b91940](https://www.virustotal.com/gui/file/c700195f61635b9a6fb1ee4359b91940)|LNK||2024-05-03 08:10:27| |
+|[b9898e8e5b6494bcc219462c6be7c248](https://www.virustotal.com/gui/file/b9898e8e5b6494bcc219462c6be7c248)|GZIP|Agent Tesla|2023-11-01 02:01:58|r_enc.bin|
