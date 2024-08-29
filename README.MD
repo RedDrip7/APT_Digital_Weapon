@@ -25,22 +25,6 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 
 |Groupname|Total|Update|data|  
 |:--|:--|:--|:--|  
-|APT42|11|5|2024-06-11|  
-|APT43|26|2|2024-06-11|  
-|CoralRaider|39|32|2024-06-11|  
-|DuneQuixote|40|40|2024-06-11|  
-|FaceDuck Group|2423|1|2024-06-11|  
-|GuptiMiner|8|8|2024-06-11|  
-|Hellhounds|37|16|2024-06-11|  
-|LilacSquid|1|1|2024-06-11|  
-|Moonstone Sleet|8|8|2024-06-11|  
-|sapphire werewolf|2|2|2024-06-11|  
-|Sticky Werewolf|9|5|2024-06-11|  
-|Storm-1811|5|5|2024-06-11|  
-|UAC|25|6|2024-06-11|  
-|Unfading Sea Haze|10|10|2024-06-11|  
-|Groupname|Total|Update|data|  
-|:--|:--|:--|:--|  
 |Actor240524|3|3|2024-08-28|  
 |Appin|186|57|2024-08-28|  
 |APT-Q-27|135|1|2024-08-28|  
