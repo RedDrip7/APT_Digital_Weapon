@@ -33,3 +33,8 @@
 |[4e029394bb0ce6fdeedaf90487ea7434](https://www.virustotal.com/gui/file/4e029394bb0ce6fdeedaf90487ea7434)|FPX|Valyria|2022-03-23 11:05:31| |
 |[355707f02ca7900f12d58b72f80096ca](https://www.virustotal.com/gui/file/355707f02ca7900f12d58b72f80096ca)|DOCX|Valyria|2022-03-23 11:02:50|%D8%A7%D9%84%D9%88%D8%B6%D8%B9%20%D8%A7%D9%84%D8%B1%D8%A7%D9%87%D9%86%20%D9%88%D8%A7%D8%AA%D8%AC%D8%A7%D9%87%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84.ppam|
 |[41d9a5902ade7b0e9d7516ce5ba09312](https://www.virustotal.com/gui/file/41d9a5902ade7b0e9d7516ce5ba09312)|DOCX||2022-08-29 18:37:17|_____ _______.ppam|
+|[d079d3fb349cdbf10f1127485f97ab1d](https://www.virustotal.com/gui/file/d079d3fb349cdbf10f1127485f97ab1d)|TXT||2021-03-18 09:57:08| |
+|[761d1ac639a74110e7b21e817aff8f42](https://www.virustotal.com/gui/file/761d1ac639a74110e7b21e817aff8f42)|XLS||2021-02-24 13:20:33|c:\windows\system32\ly563xn9f.dll|
+|[2f30d9d5f084ec2ab048b79fe981b0ea](https://www.virustotal.com/gui/file/2f30d9d5f084ec2ab048b79fe981b0ea)|XLS||2021-02-24 12:56:16|c:\windows\system32\4kn6tdn20.dll|
+|[6966624485cb56c3fcede23683e008b0](https://www.virustotal.com/gui/file/6966624485cb56c3fcede23683e008b0)|TXT||2021-01-21 14:43:51|c:\programdata\winrm.vbs|
+|[aa0ee26727b0148fe76f234bafaec4b6](https://www.virustotal.com/gui/file/aa0ee26727b0148fe76f234bafaec4b6)|XLS|o97m|2021-01-21 13:59:16|c:\windows\system32\k0hsuc6vm.dll|

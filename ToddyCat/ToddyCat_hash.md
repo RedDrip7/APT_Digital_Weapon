@@ -49,3 +49,6 @@
 |[34985fae5fa8e9ebaa872de8d0105005](https://www.virustotal.com/gui/file/34985fae5fa8e9ebaa872de8d0105005)|Win64 EXE||2023-09-27 01:01:58|ngrok.exe|
 |[4a79a8b1f6978862ecfa71b55066aadd](https://www.virustotal.com/gui/file/4a79a8b1f6978862ecfa71b55066aadd)|Win64 EXE||2023-08-14 23:45:04|frpc.exe|
 |[9dc7237ac63d552270c5ca27960168c3](https://www.virustotal.com/gui/file/9dc7237ac63d552270c5ca27960168c3)|Win64 EXE||2022-09-14 17:52:13|ngrok.exe|
+|[5607a0e2bb87d6be828a5e2980116cfa](https://www.virustotal.com/gui/file/5607a0e2bb87d6be828a5e2980116cfa)|Win32 DLL||2023-04-06 01:30:51|DsNcDiag.dll|
+|[cd990165c9053b639f9fc966d79cf1ff](https://www.virustotal.com/gui/file/cd990165c9053b639f9fc966d79cf1ff)|Win64 DLL||2022-04-10 16:53:04| |
+|[08948d6c713deebff497c4cd89d02179](https://www.virustotal.com/gui/file/08948d6c713deebff497c4cd89d02179)|Win32 DLL|Shelma|2021-09-24 20:53:30|08948d6c713deebff497c4cd89d02179.virus|

@@ -61,3 +61,9 @@
 |[00dfd200c7f64abd665085688ba3494f](https://www.virustotal.com/gui/file/00dfd200c7f64abd665085688ba3494f)|Win32 DLL||2022-07-21 16:57:36|45hbkth5ope4jh08945ijnp54jh.dll|
 |[e8a3a4367ac7ac4b838d1bbb75b3b4b8](https://www.virustotal.com/gui/file/e8a3a4367ac7ac4b838d1bbb75b3b4b8)|Win32 EXE||2022-04-13 15:57:44|vbljnvbljldgojhenf.exe|
 |[36703e31039e026976a6762c4cbe14f7](https://www.virustotal.com/gui/file/36703e31039e026976a6762c4cbe14f7)|XLS||2022-04-12 14:49:03| |
+|[27f3c9add4d01b184bbb03483f1516f4](https://www.virustotal.com/gui/file/27f3c9add4d01b184bbb03483f1516f4)|Win32 DLL|Zbot|2024-07-24 09:27:24|Downloader.dll|
+|[da373593862fbfd99446ccc144ac0d9c](https://www.virustotal.com/gui/file/da373593862fbfd99446ccc144ac0d9c)|XLS|corona|2024-07-24 09:22:27|2024_Додаток_зарплата_.xls|
+|[6d75384f5baa5cc9a1131d0bb814810b](https://www.virustotal.com/gui/file/6d75384f5baa5cc9a1131d0bb814810b)|Win32 DLL|Zbot|2024-06-04 18:41:20|Downloader.dll|
+|[aa92861a365dc4676fc88ae6a65ddb10](https://www.virustotal.com/gui/file/aa92861a365dc4676fc88ae6a65ddb10)|PPT|Valyria|2024-06-04 16:20:13|підтримка ветеранів війни.ppt|
+|[0a5f9ac1e572d0e8edcd9aa26e0566d3](https://www.virustotal.com/gui/file/0a5f9ac1e572d0e8edcd9aa26e0566d3)|HTML||2024-02-19 12:52:17|SR-319.html|
+|[10fb1062c503be8a311a8e2916375e00](https://www.virustotal.com/gui/file/10fb1062c503be8a311a8e2916375e00)|RAR||2024-02-19 12:50:49|73915342.rar|

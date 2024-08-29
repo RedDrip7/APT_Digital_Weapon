@@ -43,3 +43,4 @@
 |[74545f8dc69a3849c1c3a0df7fc32078](https://www.virustotal.com/gui/file/74545f8dc69a3849c1c3a0df7fc32078)|Win64 DLL||2023-05-18 21:47:14|2d8a5b637a95de3b709780898b7c3957f93d72806e87302f50c40fe850471a44.exe|
 |[f4f4a60d544ab37307714cffb3cf8d42](https://www.virustotal.com/gui/file/f4f4a60d544ab37307714cffb3cf8d42)|Win64 DLL||2023-05-18 21:47:14|da6d9c837c7c2531f0dbb7ce92bfceba4a9979953b6d49ed0862551d4b465adc.exe|
 |[af21ce5afca1bc6e320ec729b51a3594](https://www.virustotal.com/gui/file/af21ce5afca1bc6e320ec729b51a3594)|ZIP||2023-05-18 21:46:06|african-economy-main.zip|
+|[f74e91024d15d044834934f9f05ab448](https://www.virustotal.com/gui/file/f74e91024d15d044834934f9f05ab448)|ZIP||2024-07-19 17:38:48|onlinestoreforhirog.zip|

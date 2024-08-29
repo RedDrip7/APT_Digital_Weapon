@@ -134,3 +134,4 @@
 |[d9e9fbb27f0fc9dd2281954df5689de4](https://www.virustotal.com/gui/file/d9e9fbb27f0fc9dd2281954df5689de4)|Win64 EXE||2024-01-08 22:21:03|Sample.EXE|
 |[7845fd18d4f5a611985a177c42042a4b](https://www.virustotal.com/gui/file/7845fd18d4f5a611985a177c42042a4b)|Win64 EXE||2024-01-05 00:51:35|C:\Program Files\Kuaivpn\Kuaivpn\Kuai\tdata\emoji\kuaivpn.exe|
 |[fcadefabf90aa65ab171f089b757ca75](https://www.virustotal.com/gui/file/fcadefabf90aa65ab171f089b757ca75)|Win64 EXE||2024-01-03 07:20:30| |
+|[1fa2ac3263edb094019830e8630090d6](https://www.virustotal.com/gui/file/1fa2ac3263edb094019830e8630090d6)|Win32 EXE|PlugX|2024-03-06 17:36:22| |

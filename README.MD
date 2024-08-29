@@ -39,3 +39,33 @@ If you find an error, please contact us at ti_support@qianxin.com and we’ll tr
 |Storm-1811|5|5|2024-06-11|  
 |UAC|25|6|2024-06-11|  
 |Unfading Sea Haze|10|10|2024-06-11|  
+|Groupname|Total|Update|data|  
+|:--|:--|:--|:--|  
+|Actor240524|3|3|2024-08-28|  
+|Appin|186|57|2024-08-28|  
+|APT-Q-27|135|1|2024-08-28|  
+|APT42|21|10|2024-08-28|  
+|ChamelGang|13|8|2024-08-28|  
+|CloudSorcerer|6|6|2024-08-28|  
+|Contagious Interview|44|1|2024-08-28|  
+|Cosmic Leopard|16|16|2024-08-28|  
+|DarkPeony|4|4|2024-08-28|  
+|Equation Group|469|15|2024-08-28|  
+|FaceDuck Group|2467|44|2024-08-28|  
+|Ghostwriter|19|8|2024-08-28|  
+|Guardzoo|21|21|2024-08-28|  
+|murenshark|16|7|2024-08-28|  
+|Mysterious Elephant|23|22|2024-08-28|  
+|POLONIUM|7|1|2024-08-28|  
+|Redfly|3|1|2024-08-28|  
+|Storm-1811|9|4|2024-08-28|  
+|TA558|398|22|2024-08-28|  
+|TAG-100|3|3|2024-08-28|  
+|ToddyCat|52|3|2024-08-28|  
+|UAC|59|34|2024-08-28|  
+|UAC-0184|39|19|2024-08-28|  
+|UAT-5394|20|20|2024-08-28|  
+|UNC1151|67|6|2024-08-28|  
+|UTA0137|9|9|2024-08-28|  
+|VasyGrek|29|29|2024-08-28|  
+|WIRTE|38|5|2024-08-28|  

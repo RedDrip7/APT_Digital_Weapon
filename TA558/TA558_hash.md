@@ -376,3 +376,25 @@
 |[a45e1ef5c425af7a59a60bdd9bfe9f2a](https://www.virustotal.com/gui/file/a45e1ef5c425af7a59a60bdd9bfe9f2a)|ISO|FormBook|2023-06-08 18:49:24|ORDEN 679564.IMG|
 |[e4ec7312b2b2c95598913e59602b8c65](https://www.virustotal.com/gui/file/e4ec7312b2b2c95598913e59602b8c65)|Win32 EXE|Agent Tesla|2023-06-07 18:46:32|anfhhhp.exe|
 |[ec431cf3c8700aca3431b8559ccf16ea](https://www.virustotal.com/gui/file/ec431cf3c8700aca3431b8559ccf16ea)|Win32 EXE|Agent Tesla|2023-06-07 11:34:27|FAfLZbV.exe|
+|[f5d3db32e3cd7ec97940b48dff3573cb](https://www.virustotal.com/gui/file/f5d3db32e3cd7ec97940b48dff3573cb)|TXT||2024-06-13 23:34:06|cdt.pdf|
+|[2375971c0d7c44619f749564606ea74c](https://www.virustotal.com/gui/file/2375971c0d7c44619f749564606ea74c)|TXT||2024-06-11 00:10:30|cdt.pdf|
+|[ed9e1252ee8436be6ed85450780ca662](https://www.virustotal.com/gui/file/ed9e1252ee8436be6ed85450780ca662)|HTML|Sagent|2024-06-11 00:10:16|cdt.html|
+|[51984323c32e750dc8da30e0ecd4cd48](https://www.virustotal.com/gui/file/51984323c32e750dc8da30e0ecd4cd48)|Win32 DLL||2024-05-29 19:02:27|datan4.bin|
+|[c90688783f910b2b4165e2263012e19b](https://www.virustotal.com/gui/file/c90688783f910b2b4165e2263012e19b)|TXT||2024-05-24 21:49:08|top.pdf|
+|[878a39b1a17ad10ed89c87508db353c0](https://www.virustotal.com/gui/file/878a39b1a17ad10ed89c87508db353c0)|TXT||2024-05-24 11:17:56|RoomingList Equipo Migeul y Chino Joseph Santiago js.js|
+|[fa8159d551c83cd7d529dcd3a7476961](https://www.virustotal.com/gui/file/fa8159d551c83cd7d529dcd3a7476961)|XLS|CVE-2017-0199|2024-05-24 10:15:42|swift56436.xls|
+|[0d0f500d82551e733eab0fb1060a49da](https://www.virustotal.com/gui/file/0d0f500d82551e733eab0fb1060a49da)|DOCX|sLoad|2024-05-23 09:36:07|Siparis detaylari.docx|
+|[8f82df8963d12e63c11d24991271c888](https://www.virustotal.com/gui/file/8f82df8963d12e63c11d24991271c888)|XLS|CVE-2017-0199|2024-05-22 07:38:29|ORDIN.xls|
+|[e1424a6dc9fa951366f2996cd537dd02](https://www.virustotal.com/gui/file/e1424a6dc9fa951366f2996cd537dd02)|XLS|o97m|2024-05-20 10:48:13|/tmp/eml_attach_for_scan/e1424a6dc9fa951366f2996cd537dd02.file|
+|[656b3681763db100b7ea580d97a16983](https://www.virustotal.com/gui/file/656b3681763db100b7ea580d97a16983)|DOCX|o97m|2024-03-11 09:26:29|lap7.docx|
+|[11f0c45a84392c11e8d276dc6cfb429a](https://www.virustotal.com/gui/file/11f0c45a84392c11e8d276dc6cfb429a)|DOCX|sLoad|2024-02-19 08:36:36|P.O.27000446.docx|
+|[ff3acc46bc2eaeccd03be2ff5fc3d0ec](https://www.virustotal.com/gui/file/ff3acc46bc2eaeccd03be2ff5fc3d0ec)|DOCX|sLoad|2024-02-07 07:33:45|Applicazione di pagamento.docx|
+|[368188588ec06a0096f2430a2f98001e](https://www.virustotal.com/gui/file/368188588ec06a0096f2430a2f98001e)|XLS|CVE-2017-0199|2024-02-06 06:20:01| |
+|[e035324087c878d26291105f711f1a2b](https://www.virustotal.com/gui/file/e035324087c878d26291105f711f1a2b)|DOCX|o97m|2024-02-05 11:56:37|MSKUJH662020SE.docx|
+|[1832d5dcd354aacfcf9a8e15b2b18311](https://www.virustotal.com/gui/file/1832d5dcd354aacfcf9a8e15b2b18311)|DOCX|sLoad|2024-02-02 07:19:10|/tmp/eml_attach_for_scan/1832d5dcd354aacfcf9a8e15b2b18311.file|
+|[4a677fc6b7305b4eace2b00ac978fb76](https://www.virustotal.com/gui/file/4a677fc6b7305b4eace2b00ac978fb76)|XLS|o97m|2024-02-01 06:54:00|swiftXEuro.xls|
+|[f78f79a9955725001e502d0946eb3d00](https://www.virustotal.com/gui/file/f78f79a9955725001e502d0946eb3d00)|DOCX|sLoad|2024-01-31 10:38:07|18b8e4782b590141ff10ecde5b76bd1e35d99890a517741ac71408a478a56a81.doc|
+|[1eb3ca66ec1151e2a58284ccf4e1d7c7](https://www.virustotal.com/gui/file/1eb3ca66ec1151e2a58284ccf4e1d7c7)|DOCX|sLoad|2024-01-26 08:06:33|/tmp/eml_attach_for_scan/1eb3ca66ec1151e2a58284ccf4e1d7c7.file|
+|[87eabdd9eaf85ac612cc32db307462a1](https://www.virustotal.com/gui/file/87eabdd9eaf85ac612cc32db307462a1)|XLS|CVE-2017-0199|2024-01-23 06:24:59|/tmp/eml_attach_for_scan/87eabdd9eaf85ac612cc32db307462a1.file|
+|[db896eece25221a79210eecac8d05822](https://www.virustotal.com/gui/file/db896eece25221a79210eecac8d05822)|XLS|CVE-2017-0199|2024-01-16 08:50:40|NEW ITEMS LIST 2024.xls|
+|[123ba210c4bf018520399cb6e5dd48d8](https://www.virustotal.com/gui/file/123ba210c4bf018520399cb6e5dd48d8)|ZIP|Nemucod|2024-01-09 09:42:41|Dekont.gz|
