@@ -133,3 +133,18 @@
 |[9decfca230031a04a7bb472d0ef16cc7](https://www.virustotal.com/gui/file/9decfca230031a04a7bb472d0ef16cc7)|Win32 DLL||2019-09-23 07:49:20|7f6984fa9d0bbc1bd6ab531f0a8c2f4beb15de30f2b20054d3980395d77665af.sample|
 |[6ab9d7a9f78f0b26864d07f91ed66ade](https://www.virustotal.com/gui/file/6ab9d7a9f78f0b26864d07f91ed66ade)|Win64 DLL||2019-08-17 05:17:37|ceb8093507911939a17c6c7b39475f5d4db70a9ed3b85ef34ff5e6372b20a73e.sample|
 |[9e212aff6394f7f4eb70df08ac774e4f](https://www.virustotal.com/gui/file/9e212aff6394f7f4eb70df08ac774e4f)|Win32 DLL||2019-08-16 13:09:32|dttcodexgigas.9012313316bc62186a935158fd9604cf0a595b0f|
+|[5bd8cad0e4f14e252056830d16abfbe5](https://www.virustotal.com/gui/file/5bd8cad0e4f14e252056830d16abfbe5)|LNK||2025-03-10 12:13:06|ECRM.hwp.lnk|
+|[a2785ec65622217be80174b887b1eb06](https://www.virustotal.com/gui/file/a2785ec65622217be80174b887b1eb06)|LNK||2025-02-28 09:10:58|2024년 귀속 연말정산 안내문_세한.docx.lnk|
+|[cae6a87fd9ab544e5ccceb38f35c201e](https://www.virustotal.com/gui/file/cae6a87fd9ab544e5ccceb38f35c201e)|ZIP||2025-02-28 09:03:15| |
+|[6467861415139a1ee35f2b036e57c494](https://www.virustotal.com/gui/file/6467861415139a1ee35f2b036e57c494)|LNK||2025-02-28 02:50:29|test.lnk|
+|[4c7a3f8c6b436d334a8d41ad27efec7e](https://www.virustotal.com/gui/file/4c7a3f8c6b436d334a8d41ad27efec7e)|LNK||2025-02-05 06:25:39|25be3f75c52413ab6fc9739f3551d99d77bd9d117dd65b6b075be72b2cca9c9d.lnk|
+|[e37c8f6aba686aab3d7ecedbd1d0ef43](https://www.virustotal.com/gui/file/e37c8f6aba686aab3d7ecedbd1d0ef43)|LNK||2025-01-23 10:35:56|C:\Users\user\AppData\Local\Temp\br335o2i.3fz\???????+?????????+????_FN2.hwp.lnk|
+|[62a7917d87341d09a7afabfbd679286b](https://www.virustotal.com/gui/file/62a7917d87341d09a7afabfbd679286b)|LNK||2025-01-21 05:38:53|개인정보 수집 이용 동의서 (대표자).docx.lnk|
+|[2eebb492567f5d4727c2812a151ead68](https://www.virustotal.com/gui/file/2eebb492567f5d4727c2812a151ead68)|LNK||2024-12-20 21:33:15|letter.lnk|
+|[7c55764c4fa3efc4791ea374393f1795](https://www.virustotal.com/gui/file/7c55764c4fa3efc4791ea374393f1795)|Win32 EXE||2022-07-27 08:19:15|757dfeacabf4c2f771147159d26117818354af14050e6ba42cc00f4a3d58e51f_sig_replaced|
+|[fe012b363dacf54b91444575203e9503](https://www.virustotal.com/gui/file/fe012b363dacf54b91444575203e9503)|Win32 DLL|Graftor|2020-10-09 00:35:02|fe012b363dacf54b91444575203e9503.virus|
+|[15f7ba54feee438253e5c102e4738f28](https://www.virustotal.com/gui/file/15f7ba54feee438253e5c102e4738f28)|Win32 DLL|Graftor|2020-07-28 08:41:51|comsyslib.dll|
+|[1e14ded758c5dd7b41fe20297935eeef](https://www.virustotal.com/gui/file/1e14ded758c5dd7b41fe20297935eeef)|Win32 EXE||2020-06-18 14:32:41|/Volumes/PromiseRAID_16/malware/2020/VirusShare_1e14ded758c5dd7b41fe20297935eeef|
+|[d700cfeddac3727eba2a297474d9adf4](https://www.virustotal.com/gui/file/d700cfeddac3727eba2a297474d9adf4)|Win32 DLL|Zenpak|2020-05-16 05:05:03|d700cfeddac3727eba2a297474d9adf4.virus|
+|[3c1085639bf9f028b96fc274fb5f242c](https://www.virustotal.com/gui/file/3c1085639bf9f028b96fc274fb5f242c)|Win64 DLL|Ursu|2019-09-23 07:39:29|dea2657bd76144c9e26ecc7a834519d08bf25919585380f7566275538db43b59.sample|
+|[2a3a4d6a217566cd39e9a4edf4178c5f](https://www.virustotal.com/gui/file/2a3a4d6a217566cd39e9a4edf4178c5f)|DOC|Valyria|2017-08-10 00:52:52|121.doc|

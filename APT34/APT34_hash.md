@@ -153,3 +153,5 @@
 |[ffc3fd7dd91f9a8033b0de2db261241a](https://www.virustotal.com/gui/file/ffc3fd7dd91f9a8033b0de2db261241a)|ACE|BetaBot|2020-10-13 05:35:51|NEW ORDER AND SPECIFICATION.ace|
 |[ffc3fd7dd91f9a8033b0de2db261241a](https://www.virustotal.com/gui/file/ffc3fd7dd91f9a8033b0de2db261241a)|ACE|BetaBot|2020-10-13 05:35:51|NEW ORDER AND SPECIFICATION.ace|
 |[ffc3fd7dd91f9a8033b0de2db261241a](https://www.virustotal.com/gui/file/ffc3fd7dd91f9a8033b0de2db261241a)|ACE|BetaBot|2020-10-13 05:35:51|NEW ORDER AND SPECIFICATION.ace|
+|[e7d52ef521b8cd0b405575c185d64033](https://www.virustotal.com/gui/file/e7d52ef521b8cd0b405575c185d64033)|Win32 EXE||2025-02-17 17:22:47|windowsObject.exe|
+|[b51810a876c6641f953479014fc35c8c](https://www.virustotal.com/gui/file/b51810a876c6641f953479014fc35c8c)|Win64 DLL||2022-05-11 15:31:30|iisresauth.dll|

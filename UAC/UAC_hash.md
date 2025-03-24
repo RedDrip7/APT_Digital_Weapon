@@ -59,3 +59,26 @@
 |[160b234c6cd4edd2c95125f8d1d4e641](https://www.virustotal.com/gui/file/160b234c6cd4edd2c95125f8d1d4e641)|Win64 EXE||2024-04-08 12:07:07|p-ssc.exe|
 |[df678ec9c97db5bcfe8e8f5acc7e1cae](https://www.virustotal.com/gui/file/df678ec9c97db5bcfe8e8f5acc7e1cae)|Win64 EXE||2024-03-28 12:31:36|shikuchi.exe|
 |[c0e499402acb6c302228b4a7923d5db6](https://www.virustotal.com/gui/file/c0e499402acb6c302228b4a7923d5db6)|Win64 EXE||2024-03-28 07:49:05|Attachment_Medical report.exe|
+|[315026b7efa87dbdc8bdea5f6e455e53](https://www.virustotal.com/gui/file/315026b7efa87dbdc8bdea5f6e455e53)|RAR|DCRat|2025-02-28 11:30:08| |
+|[2a2e8c8b4a92429b4d9ae8b6bbd53f53](https://www.virustotal.com/gui/file/2a2e8c8b4a92429b4d9ae8b6bbd53f53)|Win32 EXE|DCRat|2025-02-28 08:44:56|нарада/PDF-Office2025version46-v.exe|
+|[5af915f13e2bff2a8f9f4e4d4834dad2](https://www.virustotal.com/gui/file/5af915f13e2bff2a8f9f4e4d4834dad2)|Win32 EXE|DCRat|2025-02-24 08:48:10|DecofPDF.exe|
+|[30919bec432e51e272a96c418beb5a6e](https://www.virustotal.com/gui/file/30919bec432e51e272a96c418beb5a6e)|RAR||2025-02-24 08:47:08|Разпорядження__5_.rar|
+|[951e3234392b95e36796a532cbe8d2be](https://www.virustotal.com/gui/file/951e3234392b95e36796a532cbe8d2be)|Win32 EXE||2025-02-20 11:21:11|pdfDecod.exe|
+|[c3726a7d98508c3e945ea57a26bbd19f](https://www.virustotal.com/gui/file/c3726a7d98508c3e945ea57a26bbd19f)|Win32 EXE|DCRat|2025-02-20 09:20:36|DecodPDF.exe|
+|[17d4fe6d51d7500ac721aa0ff95f06d2](https://www.virustotal.com/gui/file/17d4fe6d51d7500ac721aa0ff95f06d2)|ZIP|DCRat|2025-02-20 09:20:17|Virus.zip|
+|[719b944612d6afc1c6978ed943483bf4](https://www.virustotal.com/gui/file/719b944612d6afc1c6978ed943483bf4)|Win32 EXE|DarkTortilla|2025-02-18 14:40:43|Fine Reader.exe|
+|[242774efc428275bc5557c153eaeb687](https://www.virustotal.com/gui/file/242774efc428275bc5557c153eaeb687)|ZIP|DarkTortilla|2025-02-18 14:40:26| |
+|[069746ac2e2220b75700004cc1f14fae](https://www.virustotal.com/gui/file/069746ac2e2220b75700004cc1f14fae)|Win32 EXE|DCRat|2025-02-18 09:04:15| |
+|[a1c5bbcec35a494aca94aeea964d7856](https://www.virustotal.com/gui/file/a1c5bbcec35a494aca94aeea964d7856)|Win32 EXE||2025-01-25 07:10:20|notUa.exe|
+|[8c6698614047d0ec5f36c936d6835d24](https://www.virustotal.com/gui/file/8c6698614047d0ec5f36c936d6835d24)|Win32 EXE||2024-11-07 02:24:01|7ZSfxMod|
+|[b55ab8d2cf01921aa70724b1faa5bac8](https://www.virustotal.com/gui/file/b55ab8d2cf01921aa70724b1faa5bac8)|Win32 EXE||2024-11-07 02:00:27|7ZSfxMod|
+|[0a38bdc3773fb48a3a9a6b8a163043d5](https://www.virustotal.com/gui/file/0a38bdc3773fb48a3a9a6b8a163043d5)|Win32 DLL|krypyik|2024-10-02 01:53:18|Aimtars.dll|
+|[5883b5f221a9cb9dcdb4d7be923d4d98](https://www.virustotal.com/gui/file/5883b5f221a9cb9dcdb4d7be923d4d98)|TXT||2024-09-23 15:48:27|Main.bat|
+|[80ad42b66b4fc841bfa4210e23a2e757](https://www.virustotal.com/gui/file/80ad42b66b4fc841bfa4210e23a2e757)|TXT||2024-09-23 15:48:27|rr.vbs|
+|[e4d2f6d160ed8e4a2abd024dc9385ae1](https://www.virustotal.com/gui/file/e4d2f6d160ed8e4a2abd024dc9385ae1)|TXT|Phish|2024-09-23 15:48:27|start.bat|
+|[bbb96f2781bc16813af398d4a1c5867a](https://www.virustotal.com/gui/file/bbb96f2781bc16813af398d4a1c5867a)|ZIP|Phish|2024-09-23 15:43:58|Front.png|
+|[ad1a6d8a4bc4f5e36eb789374be6f351](https://www.virustotal.com/gui/file/ad1a6d8a4bc4f5e36eb789374be6f351)|ZIP|DarkTortilla|2024-08-08 10:35:52|04f7db0a-6c56-47d1-9504-25af45f8a3a0.zip|
+|[490450f5d2f1cb617e02366bc389bb7b](https://www.virustotal.com/gui/file/490450f5d2f1cb617e02366bc389bb7b)|Win64 EXE||2024-05-25 10:10:20|/home/petik/shadowserver/malware/2024-05-25_490450f5d2f1cb617e02366bc389bb7b_ryuk_sliver|
+|[74f6bd1a80ebfeece1e65b441c2f46e2](https://www.virustotal.com/gui/file/74f6bd1a80ebfeece1e65b441c2f46e2)|Android|androidos|2022-11-16 18:41:56|delta_1.0.0.apk|
+|[cbad5b2ca73917006791882274f769e8](https://www.virustotal.com/gui/file/cbad5b2ca73917006791882274f769e8)|TXT||2016-08-15 10:32:06|D:\programas instalables\activar escritorio remoto y multisesion\activar escritorio remoto multisesion windows 7\RDPWrap-v1.6.1\install.bat|
+|[29ca1c35075247b035af75c11cab78f1](https://www.virustotal.com/gui/file/29ca1c35075247b035af75c11cab78f1)|TXT||2015-08-18 17:03:00|/home/farm/anteroom/353/f2d/353f2dc17a4e80564caa175f7170dbedc1b40f704444520ae671f78a5d1f2b6d|

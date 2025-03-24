@@ -427,3 +427,13 @@
 |[82e3981303bee2eff6d1af17ad51eb32](https://www.virustotal.com/gui/file/82e3981303bee2eff6d1af17ad51eb32)|RTF|EmoDldr|2021-04-05 11:15:37|Defence proposal 2021-2022.doc|
 |[94b5882f223a4ad4fdfbc52994a6f5cd](https://www.virustotal.com/gui/file/94b5882f223a4ad4fdfbc52994a6f5cd)|Android||2023-06-18 03:51:25|nsure.apk|
 |[ae650b714c0807c96b0a31053eef61d2](https://www.virustotal.com/gui/file/ae650b714c0807c96b0a31053eef61d2)|Android||2023-06-18 03:51:05|iKHfaa_base.apk|
+|[150bff0aaf52f2c30b7c1e9fd7b2a10a](https://www.virustotal.com/gui/file/150bff0aaf52f2c30b7c1e9fd7b2a10a)|Android|androidos|2024-12-04 08:55:07|Tanzeem_022023.apk|
+|[fa266808df6d436a9219485f24961d77](https://www.virustotal.com/gui/file/fa266808df6d436a9219485f24961d77)|Win32 EXE||2022-07-26 04:08:54|f67595d5176de241538c03be83d8d9a1_sig_replaced|
+|[7d6eb5f4117b548e03e82398d4d8ca4d](https://www.virustotal.com/gui/file/7d6eb5f4117b548e03e82398d4d8ca4d)|Win32 DLL|predator|2022-04-18 08:23:29|info.dll|
+|[757877569be796fb8027184bd98dc2a1](https://www.virustotal.com/gui/file/757877569be796fb8027184bd98dc2a1)|Win32 DLL||2021-08-31 06:54:37|/tree/img/print.pdf|
+|[23c42f4e61cda43e22b53922dd9ce0cd](https://www.virustotal.com/gui/file/23c42f4e61cda43e22b53922dd9ce0cd)|Win32 EXE||2021-03-29 11:19:27|v0.11_Build_1028%20eu_lite.exe|
+|[a8cd45ade9a4f878e6b9e22835fa88f6](https://www.virustotal.com/gui/file/a8cd45ade9a4f878e6b9e22835fa88f6)|Win32 EXE||2020-07-06 15:48:28|upl.exe|
+|[1712277ccd500d3d8bd1804a972bef3f](https://www.virustotal.com/gui/file/1712277ccd500d3d8bd1804a972bef3f)|Win32 DLL|predator|2020-06-29 12:35:48|1712277ccd500d3d8bd1804a972bef3f.virus|
+|[044305cb5ea27280a50398851cc85e7a](https://www.virustotal.com/gui/file/044305cb5ea27280a50398851cc85e7a)|Win32 EXE|Zbot|2020-06-26 16:57:41|044305cb5ea27280a50398851cc85e7a.virus|
+|[e7ea5e853bf24762f849a1edec3c09b3](https://www.virustotal.com/gui/file/e7ea5e853bf24762f849a1edec3c09b3)|Win32 DLL|predator|2020-06-24 19:04:05|%APPDATA%\cmagolo\mecru.dll|
+|[24c3355e080887dc987cd8adaf2b3475](https://www.virustotal.com/gui/file/24c3355e080887dc987cd8adaf2b3475)|Win32 DLL|Stantinko|2020-06-11 19:02:08|\Users\Petra\AppData\Roaming\logical\mentn.dll|

@@ -306,3 +306,8 @@
 |[9aa7902c381ac1f67f40fac266cc237e](https://www.virustotal.com/gui/file/9aa7902c381ac1f67f40fac266cc237e)|TXT||2020-09-16 15:24:06| |
 |[6b11fd5b4049afff28f342d7dd5f5f5a](https://www.virustotal.com/gui/file/6b11fd5b4049afff28f342d7dd5f5f5a)|TXT||2020-09-16 15:23:35| |
 |[bca495885a9f318c82ec68034618b889](https://www.virustotal.com/gui/file/bca495885a9f318c82ec68034618b889)|TXT||2020-01-29 16:27:41|q.aspx|
+|[c192db3db7a8ec917fa791effe5b0b12](https://www.virustotal.com/gui/file/c192db3db7a8ec917fa791effe5b0b12)|FPX||2025-01-08 08:31:36|Portal.msi|
+|[e72d0a7f3858f920197eca6c5a5ce01f](https://www.virustotal.com/gui/file/e72d0a7f3858f920197eca6c5a5ce01f)|FPX||2024-12-10 12:54:33|009ca6eeb6e35d3a4084ee10b0bc43f35a6865fe295ce1fc83f450dce41a2393.msi|
+|[4221ca1a9f9f6e0c9b9ddd58e2c2f863](https://www.virustotal.com/gui/file/4221ca1a9f9f6e0c9b9ddd58e2c2f863)|Win32 EXE||2024-12-02 15:04:44|NEWתכנית תירוש פיננסים.exe|
+|[5ff93c8410c0095b161d92b7cb9885b3](https://www.virustotal.com/gui/file/5ff93c8410c0095b161d92b7cb9885b3)|FPX||2024-12-01 10:42:11|International Webinar.msi|
+|[0220a7d4b82136a3c7973a627e4b5f50](https://www.virustotal.com/gui/file/0220a7d4b82136a3c7973a627e4b5f50)|FPX||2024-11-27 15:59:50|5c13e6.msi|

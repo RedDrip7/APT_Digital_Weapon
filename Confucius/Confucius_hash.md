@@ -167,3 +167,4 @@
 |[d22c62db5eee2f18aeb969a2389a0ab6](https://www.virustotal.com/gui/file/d22c62db5eee2f18aeb969a2389a0ab6)|Win64 EXE|Wacatac|2020-03-30 20:14:43|WindowsUpdateAssistance.exe|
 |[386d4846a79aef927d317326f6f699a2](https://www.virustotal.com/gui/file/386d4846a79aef927d317326f6f699a2)|Win64 EXE||2020-03-30 08:34:50|certificate_generation.exe|
 |[cba58c1e1e2472ae89ab067d3e345c8f](https://www.virustotal.com/gui/file/cba58c1e1e2472ae89ab067d3e345c8f)|Win64 EXE||2019-05-22 08:56:39|Invoice_Generation.exe|
+|[3aa187a45810c87862ea405869850114](https://www.virustotal.com/gui/file/3aa187a45810c87862ea405869850114)|Win32 EXE|MSILPerseus|2022-06-02 09:27:23|crashreporter.exe|

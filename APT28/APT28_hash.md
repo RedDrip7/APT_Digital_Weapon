@@ -747,3 +747,7 @@
 |[453525777e095d888039d9313284219d](https://www.virustotal.com/gui/file/453525777e095d888039d9313284219d)|ZIP||2020-08-19 18:19:14| |
 |[636a4249104acaaf6d76d7409dc3cb2d](https://www.virustotal.com/gui/file/636a4249104acaaf6d76d7409dc3cb2d)|PLIST|sednit|2016-09-27 01:53:44|1f22e8f489abff004a3c47210a9642798e1c53efc9d6f333a1072af4b11d71ef.xml|
 |[368c912ea5463ead2ad4d35e4d3db640](https://www.virustotal.com/gui/file/368c912ea5463ead2ad4d35e4d3db640)|sh script|sednit|2016-09-27 01:51:33|.dat.nosync0420.xDZlxC.1056.dr|
+|[690fe881d288167fde157c6fb834c3ef](https://www.virustotal.com/gui/file/690fe881d288167fde157c6fb834c3ef)|TXT||2024-07-23 08:25:38| |
+|[ff4ed4650fd0e188a952b05d82eee86f](https://www.virustotal.com/gui/file/ff4ed4650fd0e188a952b05d82eee86f)|Win32 EXE|Strictor|2021-03-04 23:11:08|eae62bb4110bcd00e9d1bcaba9000defcda3d1ab832fa2634d928559d066cb15.exe|
+|[134f7bc3e986da38720967747504e578](https://www.virustotal.com/gui/file/134f7bc3e986da38720967747504e578)|Win32 EXE||2017-11-07 14:21:03|1059-2a92da36965c1367b8150950c37c7254af2f6eba|
+|[ccab60d3b6aa5fa0c23a5ae59eabcf54](https://www.virustotal.com/gui/file/ccab60d3b6aa5fa0c23a5ae59eabcf54)|Win32 DLL|wdcr|2012-09-21 21:37:41|NetIds.dll|

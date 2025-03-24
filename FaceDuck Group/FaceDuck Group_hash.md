@@ -2467,3 +2467,16 @@
 |[e5fef782a5d622795e52e47b62e8b02d](https://www.virustotal.com/gui/file/e5fef782a5d622795e52e47b62e8b02d)|LNK||2024-06-10 18:34:11|Meeting Partnership Form (.docx).lnk|
 |[f124ac4a6b8fe73b5e544c5fb1ef3921](https://www.virustotal.com/gui/file/f124ac4a6b8fe73b5e544c5fb1ef3921)|LNK||2024-06-10 18:34:11|Job Description_KLookAsia (.pdf).lnk|
 |[cecae8974d90a06ad1fc726795cbe7d6](https://www.virustotal.com/gui/file/cecae8974d90a06ad1fc726795cbe7d6)|LNK||2024-06-08 18:22:58|C:\Users\user\AppData\Local\Temp\p35fzzxr.jaz\Videos + Instructions\Videos + Instructions\Instructions.pdf.lnk|
+|[56e0593440cb4e9afd0f5f29de25e2cf](https://www.virustotal.com/gui/file/56e0593440cb4e9afd0f5f29de25e2cf)|ZIP||2025-01-05 16:47:56|JD recruitment details (449).zip|
+|[cb2cf13c8f370bb44987d747893ae9ab](https://www.virustotal.com/gui/file/cb2cf13c8f370bb44987d747893ae9ab)|ZIP||2024-12-21 09:35:43|Noisiv (663).zip|
+|[68b1cd0ce53af0014460064549d805c9](https://www.virustotal.com/gui/file/68b1cd0ce53af0014460064549d805c9)|ZIP||2024-12-21 06:55:23|Comprehensive_Job_Description_Senior_Advertising_Specialist (652).zip|
+|[accf861d98db7747948594d7cb690b75](https://www.virustotal.com/gui/file/accf861d98db7747948594d7cb690b75)|ZIP||2024-12-19 17:47:28|Job Description Director of Performance Marketing - New Look (995) (1).zip|
+|[5f7daac3a55e97cc8f33c25888164fc8](https://www.virustotal.com/gui/file/5f7daac3a55e97cc8f33c25888164fc8)|7ZIP||2024-12-19 13:50:12|JD Storytailors Group (192)_2.7z|
+|[6c28ee9da90d10710faecafc3bae173b](https://www.virustotal.com/gui/file/6c28ee9da90d10710faecafc3bae173b)|LNK||2024-12-19 13:11:10|Comprehensive details on benefits and policies for senior employees during their tenure with the Company.lnk|
+|[f18867738a1c4a2825cec7b3419b36ec](https://www.virustotal.com/gui/file/f18867738a1c4a2825cec7b3419b36ec)|LNK||2024-12-19 08:08:23|Detailed information on policy benefits and commission levels for employees after probationary period Storytailors.lnk|
+|[8429d99d69cef1ed44171df67db61f21](https://www.virustotal.com/gui/file/8429d99d69cef1ed44171df67db61f21)|RAR||2024-12-17 07:28:12|Recruitment Detailed (543).rar|
+|[f9fc77a2adafa2bd1ac45cd03f3b9b2a](https://www.virustotal.com/gui/file/f9fc77a2adafa2bd1ac45cd03f3b9b2a)|ZIP||2024-12-15 10:35:32|[UHG]-Meeting-&-Preview (212).zip|
+|[46d294587ec9d0a5e439979058ab111d](https://www.virustotal.com/gui/file/46d294587ec9d0a5e439979058ab111d)|LNK||2024-11-29 19:38:49|Job Description Director Performance Marketing  - Roles & Responsibilities at New Look 2024.lnk|
+|[92e56449663209c089b2fa281cedde56](https://www.virustotal.com/gui/file/92e56449663209c089b2fa281cedde56)|ZIP||2024-11-29 14:59:00|Development contract details (264).zip|
+|[4ef5f98b3133219e87b3cb2e6f9730a8](https://www.virustotal.com/gui/file/4ef5f98b3133219e87b3cb2e6f9730a8)|ZIP||2024-11-28 21:35:56|SMB_Neuron_JobInfo (897).zip|
+|[ab6cd3e8ce6d68ffab000d203eb53b35](https://www.virustotal.com/gui/file/ab6cd3e8ce6d68ffab000d203eb53b35)|RAR||2024-11-26 13:57:55|Advertising Specialist - Job Description (730).rar|

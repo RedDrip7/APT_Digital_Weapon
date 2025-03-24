@@ -434,3 +434,7 @@
 |[a0e681a0637988baea55b50cfff5c3ad](https://www.virustotal.com/gui/file/a0e681a0637988baea55b50cfff5c3ad)|Win32 EXE||2019-05-09 09:21:03|The most important items of the truce between the new Gaza and Israel.com|
 |[7833c0f413c1611f7281ac303bcef4b3](https://www.virustotal.com/gui/file/7833c0f413c1611f7281ac303bcef4b3)|Win32 EXE|Delf|2021-02-25 17:04:39|c9d7b5d06cd8ab1a01bf0c5bf41ef2a388e41b4c66b1728494f86ed255a95d48.exe|
 |[ed11daeb1f49f9dc73c3ff72c92416b4](https://www.virustotal.com/gui/file/ed11daeb1f49f9dc73c3ff72c92416b4)|Android||2021-11-19 19:27:29|c:\windows\system32\1oiudblzo.dll|
+|[5acccf64aacbbaee3ccbb64d718bc311](https://www.virustotal.com/gui/file/5acccf64aacbbaee3ccbb64d718bc311)|Win32 EXE||2022-11-23 18:44:28| |
+|[800c0b04b5d68c2d88701fb4f2ca8e4e](https://www.virustotal.com/gui/file/800c0b04b5d68c2d88701fb4f2ca8e4e)|Win32 EXE|Zbot|2022-11-23 04:03:47| |
+|[e0353bfd93f2f3618fc8e165ca50e50c](https://www.virustotal.com/gui/file/e0353bfd93f2f3618fc8e165ca50e50c)|Win32 EXE|Graftor|2022-07-26 05:32:30|%ALLUSERSPROFILE%\syncdownoptzhostproc.exe|
+|[ec6373d4fa0f3b2066aea5c50e365136](https://www.virustotal.com/gui/file/ec6373d4fa0f3b2066aea5c50e365136)|Win32 EXE|Graftor|2022-07-26 04:56:35|4e77963ba7f70d6777a77c158fab61024f384877d78282d31ba7bbac06724b68_sig_replaced|

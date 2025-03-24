@@ -1199,3 +1199,24 @@
 |[66d232059f84eb6db5e2dc50ee7b0cd6](https://www.virustotal.com/gui/file/66d232059f84eb6db5e2dc50ee7b0cd6)|Win32 EXE|Skeeyah|2017-11-08 07:51:29|4104a871e03f312446ef2fb041077167a9c6679f48d48825cbc1584e4fa792cd.bin|
 |[9ad421244b28db9cb4a6857edd297ef5](https://www.virustotal.com/gui/file/9ad421244b28db9cb4a6857edd297ef5)|HTML||2014-11-03 20:06:01|nina_hartley_sex|
 |[ce21cbdd9b894e6af794813eb3fdaf60](https://www.virustotal.com/gui/file/ce21cbdd9b894e6af794813eb3fdaf60)|PNG||2010-07-08 01:30:50|19-11-2020CST05:31:04_2379796.png|
+|[f845db5e443ee349f88970c9affb4ede](https://www.virustotal.com/gui/file/f845db5e443ee349f88970c9affb4ede)|Win32 EXE|Zbot|2025-01-24 12:09:09|C:\Users\Public\Winver.exe (copy)|
+|[867c6a20033eaf9e325dbcc1aec5d392](https://www.virustotal.com/gui/file/867c6a20033eaf9e325dbcc1aec5d392)|LNK||2025-01-24 12:06:56|Innovation_Team.pdf.lnk|
+|[446fee24759b2800c4ee7851930f07aa](https://www.virustotal.com/gui/file/446fee24759b2800c4ee7851930f07aa)|Win32 EXE||2025-01-21 10:07:57|jhdfer3s_jh3de (1).exe|
+|[fc62dedd6633b91858bbfad5c89a93a9](https://www.virustotal.com/gui/file/fc62dedd6633b91858bbfad5c89a93a9)|Win64 DLL||2025-01-15 13:45:16|C:\Users\user\AppData\Local\sppc.dll|
+|[fa5f4b269b42cbfd69d22d4a21272ece](https://www.virustotal.com/gui/file/fa5f4b269b42cbfd69d22d4a21272ece)|LNK||2025-01-15 13:43:00|DH-Report76.pdf.lnk|
+|[5187008a141d777d6268769cf008437d](https://www.virustotal.com/gui/file/5187008a141d777d6268769cf008437d)|LNK||2025-01-10 02:07:10|国家重点研发计划重点专项项目实施工作方案/国家重点研发计划重点专项项目实施工作方案.pdf.lnk|
+|[875075e72e1cf41f59082c19709304db](https://www.virustotal.com/gui/file/875075e72e1cf41f59082c19709304db)|RAR||2025-01-06 05:34:10|__attach_version1.0_#00000000/__substg1.0_37010102|
+|[c5760951e159106a5616ca909e8641a7](https://www.virustotal.com/gui/file/c5760951e159106a5616ca909e8641a7)|FPX||2025-01-06 05:34:07|Fraudulent Transaction of 5000 BDT.msg|
+|[109ff3fb0cefd81e8073175171cb3b4b](https://www.virustotal.com/gui/file/109ff3fb0cefd81e8073175171cb3b4b)|Win64 DLL||2025-01-02 15:55:02|sspicli.dll|
+|[ba41697fe45e852558ec38e3989d8137](https://www.virustotal.com/gui/file/ba41697fe45e852558ec38e3989d8137)|LNK||2025-01-02 12:25:45|Transactions_of_5000_BDT/Transaction_of_7350_BDT.pdf.lnk|
+|[47423bdd1fb7596e9be59581eb8fdfea](https://www.virustotal.com/gui/file/47423bdd1fb7596e9be59581eb8fdfea)|LNK||2024-12-23 02:17:12|这是什么？|
+|[c962ce49e099368ce066004dc6411172](https://www.virustotal.com/gui/file/c962ce49e099368ce066004dc6411172)|LNK||2024-12-19 06:52:43|Virtual_Event_Cloud_and_5G_LIVE.pdf.lnk|
+|[1fdc0eb15af0f989e5cc7ab9fc8e14ec](https://www.virustotal.com/gui/file/1fdc0eb15af0f989e5cc7ab9fc8e14ec)|LNK||2024-12-18 11:20:33|C:\Users\user\AppData\Local\Microsoft\Windows\INetCache\IE\F2EF8UYV\Scam_Transaction_of_7350_BDT.pdf[1].lnk|
+|[2efc8f51c54cf1a0b679543739893bef](https://www.virustotal.com/gui/file/2efc8f51c54cf1a0b679543739893bef)|Win32 DLL||2024-12-10 07:15:53|fdjjdJFKK_ndjJSN81mdKF_mdj9999hsjDSKjf_kdJHG|
+|[012798406032112c19b252f84d7aff60](https://www.virustotal.com/gui/file/012798406032112c19b252f84d7aff60)|LNK||2024-12-09 10:27:20|CyberNet2025.lnk|
+|[2ef841540e1947c332bd0f9637d7ce6d](https://www.virustotal.com/gui/file/2ef841540e1947c332bd0f9637d7ce6d)|Win32 DLL||2024-11-21 05:23:02|jdkshf|
+|[6c757f207d2148294b71430ac59b2eb5](https://www.virustotal.com/gui/file/6c757f207d2148294b71430ac59b2eb5)|Win32 EXE|AsyncRAT|2024-11-21 02:59:05|payload|
+|[6ab9485193a6f059fa0759e0f4ad1d2c](https://www.virustotal.com/gui/file/6ab9485193a6f059fa0759e0f4ad1d2c)|unknown||2024-11-21 02:58:59|ketsuwshe.bin|
+|[98fee9d5e8bd1cae41dde318c4bc4454](https://www.virustotal.com/gui/file/98fee9d5e8bd1cae41dde318c4bc4454)|Win64 DLL||2024-11-21 02:31:45|python310.dll6d6263715dd13f8db5e9d0122502db4c.virus|
+|[c77a0f13a5d9862f35a9361c39a56713](https://www.virustotal.com/gui/file/c77a0f13a5d9862f35a9361c39a56713)|Win32 DLL||2024-11-21 02:27:39|wer.dll|
+|[e3bdeb0e9f76dcda3ffa12af392dfade](https://www.virustotal.com/gui/file/e3bdeb0e9f76dcda3ffa12af392dfade)|Win32 EXE||2024-10-16 07:01:40|jyftdrst|

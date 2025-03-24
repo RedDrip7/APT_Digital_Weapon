@@ -547,3 +547,5 @@
 |[d71f644e8b71ac64d0cf7117d5fb5326](https://www.virustotal.com/gui/file/d71f644e8b71ac64d0cf7117d5fb5326)|TXT||2021-12-30 07:33:36|78.html|
 |[329343dda1c1c9fbbc16b606dc2c5cc0](https://www.virustotal.com/gui/file/329343dda1c1c9fbbc16b606dc2c5cc0)|TXT||2021-12-13 06:48:20| |
 |[ad27e09917b51e8436da8e72b0c515eb](https://www.virustotal.com/gui/file/ad27e09917b51e8436da8e72b0c515eb)|TXT||2021-04-21 02:53:23|AA16.ps1.Txt|
+|[a1765503f1405b24b77a16071e6ea6f6](https://www.virustotal.com/gui/file/a1765503f1405b24b77a16071e6ea6f6)|TXT||2025-03-12 19:25:15|obfuscated_backdoor.py|
+|[d2410703e93be61a652b92efcf42789d](https://www.virustotal.com/gui/file/d2410703e93be61a652b92efcf42789d)|TXT||2025-03-12 19:19:04|backdoor.py|

@@ -432,3 +432,17 @@
 |[0674e34d0b01e1c71e4666da1f3b589f](https://www.virustotal.com/gui/file/0674e34d0b01e1c71e4666da1f3b589f)|TXT|Nemucod|2020-08-24 08:57:02|b641687696b66e6e820618acc4765162298ba3e9106df4ef44b2218086ce8040.bin|
 |[98ce8c41188fcc1a92d0a23569c3765c](https://www.virustotal.com/gui/file/98ce8c41188fcc1a92d0a23569c3765c)|7ZIP|Turla|2020-08-20 09:25:07|IronPython-2.7.7z|
 |[d672139849f9855bfb703fcaec020a2f](https://www.virustotal.com/gui/file/d672139849f9855bfb703fcaec020a2f)|TXT|Turla|2020-06-10 07:36:50|profile.py|
+|[b55b4cdc84d098bdafa89ed67eba57b4](https://www.virustotal.com/gui/file/b55b4cdc84d098bdafa89ed67eba57b4)|Win32 EXE||2024-12-11 12:15:06| |
+|[d317ee086ebeccf5e01e002ca6b0ead9](https://www.virustotal.com/gui/file/d317ee086ebeccf5e01e002ca6b0ead9)|Win32 EXE|Amadey|2024-12-11 12:14:59|dfdc0318f3dc5ba3f960b1f338b638cd9645856d2a2af8aa33ea0f9979a9ca4c.exe|
+|[123cdee8a31e52577191351fae7b53ef](https://www.virustotal.com/gui/file/123cdee8a31e52577191351fae7b53ef)|TXT|Amadey|2024-12-11 12:14:50| |
+|[585e5001264ae80501e9fcdeeef41ef4](https://www.virustotal.com/gui/file/585e5001264ae80501e9fcdeeef41ef4)|Win64 EXE||2024-12-06 17:09:39|Anydesk|
+|[528813e78a16bb293a189e175e29d801](https://www.virustotal.com/gui/file/528813e78a16bb293a189e175e29d801)|Win64 EXE||2024-12-06 17:09:22|hubstock|
+|[6350b5fe30b2b998efab5f64dff00d0a](https://www.virustotal.com/gui/file/6350b5fe30b2b998efab5f64dff00d0a)|Win64 DLL||2024-12-06 17:08:50|MpSvcS.dll|
+|[cd33aec04e4cff8396d335ccf9195e5a](https://www.virustotal.com/gui/file/cd33aec04e4cff8396d335ccf9195e5a)|Win32 EXE||2024-12-06 17:08:26|mfpmpe.exe|
+|[aea14ae61027677b1802ddc0d4bf142f](https://www.virustotal.com/gui/file/aea14ae61027677b1802ddc0d4bf142f)|Win64 DLL||2024-12-06 17:08:08|winhttpsvc.dll|
+|[5ed82009e794baeaf9fe0aa34782d6c5](https://www.virustotal.com/gui/file/5ed82009e794baeaf9fe0aa34782d6c5)|Win32 EXE|Doina|2024-12-06 17:07:30|REGSVR32|
+|[d567c598c73f9ea5430364269cdd17fd](https://www.virustotal.com/gui/file/d567c598c73f9ea5430364269cdd17fd)|Win64 DLL||2024-12-06 17:07:03|DUser|
+|[db04aa6e158c5d52c20fc855f5285905](https://www.virustotal.com/gui/file/db04aa6e158c5d52c20fc855f5285905)|Win32 EXE||2024-05-08 13:00:27|C:\Users\user\AppData\Local\Temp\431a343abc\Dctooux.exe|
+|[ce4a1572a1c6c4aa5e5731d44f3a1db0](https://www.virustotal.com/gui/file/ce4a1572a1c6c4aa5e5731d44f3a1db0)|Win64 DLL|Turla|2020-11-26 00:41:44|ce4a1572a1c6c4aa5e5731d44f3a1db0.virobj|
+|[15cc14b87da73661d0abc9f5aaa34350](https://www.virustotal.com/gui/file/15cc14b87da73661d0abc9f5aaa34350)|Win64 DLL|Turla|2020-11-26 00:25:04| |
+|[19743d8e8590b5f644d452a9ddd77435](https://www.virustotal.com/gui/file/19743d8e8590b5f644d452a9ddd77435)|Win64 DLL|Turla|2020-11-25 23:58:40| |

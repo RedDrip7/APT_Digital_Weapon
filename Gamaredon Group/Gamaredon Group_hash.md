@@ -520,3 +520,30 @@
 |[1c8dff4e1a476bcd4619eccce204482c](https://www.virustotal.com/gui/file/1c8dff4e1a476bcd4619eccce204482c)|LNK||2022-05-18 00:52:21|K-on!.lnk|
 |[7b6f37d6d4d79895dd0db44a60a85a02](https://www.virustotal.com/gui/file/7b6f37d6d4d79895dd0db44a60a85a02)|Win32 EXE||2022-03-03 10:44:40|7ZSfxMod|
 |[138be57ff943bda1dfb8db1c9eb62615](https://www.virustotal.com/gui/file/138be57ff943bda1dfb8db1c9eb62615)|Win32 EXE||2022-03-03 10:38:23|7ZSfxMod|
+|[eb2167a57bb578e03f2a670b49d307c8](https://www.virustotal.com/gui/file/eb2167a57bb578e03f2a670b49d307c8)|ZIP|EmoDldr|2025-02-12 13:07:39|06-11273-25_12.02.2025.rar|
+|[70a4235b82919949c185adb7b28baff3](https://www.virustotal.com/gui/file/70a4235b82919949c185adb7b28baff3)|HTML|EmoDldr|2025-02-12 10:26:37|0cebe68cbe06a390acee24c33155bb1d9910d4edcb660d0d235ce2a4e3c643c5.hta|
+|[feb74f1c848935a9c16222c4dac89166](https://www.virustotal.com/gui/file/feb74f1c848935a9c16222c4dac89166)|TXT||2024-12-03 11:56:59| |
+|[eefaa00e3658dc16aabc187734d7f3b4](https://www.virustotal.com/gui/file/eefaa00e3658dc16aabc187734d7f3b4)|LNK||2024-12-02 15:41:47|56-27_11875_02.12.2024/Щодо зловживання владою або службовим становищем 56-27_11875_02.12.2024.lnk|
+|[17d1358b0eb4fb579d59a025c0c461a1](https://www.virustotal.com/gui/file/17d1358b0eb4fb579d59a025c0c461a1)|HTML||2024-12-02 15:34:35|56-27_11875_02.12.2024.XHTML|
+|[b65cff94e6a7427bb9c86dc1d609c1a9](https://www.virustotal.com/gui/file/b65cff94e6a7427bb9c86dc1d609c1a9)|Android||2024-10-31 12:20:50| |
+|[81f19b4ea9441ec3e2337d2f87dab7d5](https://www.virustotal.com/gui/file/81f19b4ea9441ec3e2337d2f87dab7d5)|Android|androidos|2024-09-01 17:49:32|res/J6.apk|
+|[638f5be73cbc145acc6d1d06cb7a4912](https://www.virustotal.com/gui/file/638f5be73cbc145acc6d1d06cb7a4912)|Android||2024-09-01 17:48:30|Photogallery.apk|
+|[0462e976e7f65093796e32cfb4a00f53](https://www.virustotal.com/gui/file/0462e976e7f65093796e32cfb4a00f53)|Android||2024-08-23 08:42:33|res/J6.apk|
+|[cb4f1cd8b202005a04f6879d8425cbcc](https://www.virustotal.com/gui/file/cb4f1cd8b202005a04f6879d8425cbcc)|Android|androidos|2024-05-24 05:40:50|asd.apk|
+|[d0f5afdb2041339ad753985c1b51a50f](https://www.virustotal.com/gui/file/d0f5afdb2041339ad753985c1b51a50f)|Android|androidos|2024-04-16 23:17:14| |
+|[c1ec7ad8f28233ef9ee8fcba4302a326](https://www.virustotal.com/gui/file/c1ec7ad8f28233ef9ee8fcba4302a326)|Android||2024-03-02 09:37:03|Telegram Secure.apk|
+|[1f7694001c39598f2137f1340a5bd73c](https://www.virustotal.com/gui/file/1f7694001c39598f2137f1340a5bd73c)|Android|androidos|2024-01-13 07:45:23| |
+|[b137e56cb905dc06a8ac56dc37737053](https://www.virustotal.com/gui/file/b137e56cb905dc06a8ac56dc37737053)|Android||2024-01-13 07:38:39| |
+|[b704fbfe30a307473b485655dc79f45b](https://www.virustotal.com/gui/file/b704fbfe30a307473b485655dc79f45b)|Android|monitor|2023-11-30 12:10:57|tg-plus.apk|
+|[50d4ab35dba6028725d69e50d23ce7d1](https://www.virustotal.com/gui/file/50d4ab35dba6028725d69e50d23ce7d1)|Android|monitor|2023-04-06 05:46:11|Telegram Security.apk|
+|[e3a25a0110dec7365a0ebd20eaa1cfa3](https://www.virustotal.com/gui/file/e3a25a0110dec7365a0ebd20eaa1cfa3)|Android|monitor|2023-02-07 13:30:11| |
+|[dd57d06b84ad2653d0d705e25bc1b24f](https://www.virustotal.com/gui/file/dd57d06b84ad2653d0d705e25bc1b24f)|Android||2022-12-11 16:17:59|Battery-Guru-1.9.31.apk|
+|[d8526a969291d9e5352024d30da07d6f](https://www.virustotal.com/gui/file/d8526a969291d9e5352024d30da07d6f)|Android|monitor|2022-10-26 12:39:32|Telegram Secure.apk|
+|[2637e74ae38e24eeebafc546434cc962](https://www.virustotal.com/gui/file/2637e74ae38e24eeebafc546434cc962)|Android||2022-10-05 13:11:02|Фотоальбом.apk|
+|[efecef3ce7179fe4c5a6ebd648a897ca](https://www.virustotal.com/gui/file/efecef3ce7179fe4c5a6ebd648a897ca)|Android||2022-09-21 21:54:48|Battery-Guru-1.9.31.apk|
+|[4c8c6a45bbc98d6e6b95446b4209e734](https://www.virustotal.com/gui/file/4c8c6a45bbc98d6e6b95446b4209e734)|TXT|Starter|2022-09-05 17:31:56|C:\Users\user\AppData\Local\Temp\7ZipSfx.000\tron.cmd|
+|[e6d0e080c6da64e7c17383612f2a0f58](https://www.virustotal.com/gui/file/e6d0e080c6da64e7c17383612f2a0f58)|TXT||2022-09-04 08:52:43|fnpr.cmd|
+|[bcd86af63180930d4e09b6ad62961d75](https://www.virustotal.com/gui/file/bcd86af63180930d4e09b6ad62961d75)|TXT||2022-08-11 19:49:43|C:\Users\user\AppData\Local\Temp\vnc\cop\win.cmd|
+|[ff8421dbdd63156a96b43c293becf45e](https://www.virustotal.com/gui/file/ff8421dbdd63156a96b43c293becf45e)|Android|androidos|2022-02-01 06:22:11|/app/downloads/My photos.zip|
+|[e99ba2d4784687ea3dddbe13b5fd6b78](https://www.virustotal.com/gui/file/e99ba2d4784687ea3dddbe13b5fd6b78)|Android|androidos|2022-01-31 16:23:59|/app/downloads/Личный.apk|
+|[83c4d4fad2bbc3385e84ed4ae9767cdb](https://www.virustotal.com/gui/file/83c4d4fad2bbc3385e84ed4ae9767cdb)|Win32 EXE||2014-06-18 20:12:13|83c4d4fad2bbc3385e84ed4ae9767cdb.vir|

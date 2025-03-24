@@ -16,3 +16,5 @@
 |[b434060e4e1e679f125ce0ec34931af1](https://www.virustotal.com/gui/file/b434060e4e1e679f125ce0ec34931af1)|ZIP||2023-03-23 02:36:13|NetLabs.zip|
 |[5f038785f17e4a825f469b4d730fb840](https://www.virustotal.com/gui/file/5f038785f17e4a825f469b4d730fb840)|Win64 DLL||2023-03-13 13:05:51|libvlc.dll|
 |[5506cd059deb405a0a5bea3aebf8f5c2](https://www.virustotal.com/gui/file/5506cd059deb405a0a5bea3aebf8f5c2)|ZIP|Kryptik|2022-03-07 04:46:15|OneDrive.zip|
+|[9ab585db719e1cd3a18ff6447ac3e38b](https://www.virustotal.com/gui/file/9ab585db719e1cd3a18ff6447ac3e38b)|ELF executable||2024-08-03 06:57:23|Ubun_ntp|
+|[7394229455151a9cd036383027a1536b](https://www.virustotal.com/gui/file/7394229455151a9cd036383027a1536b)|Win64 EXE||2020-09-14 02:03:42|/data/modqi/samples/all/87305aa7147f71557272ba75b65c11deeba94d35d9dc6d6f7a87075e3de78bec|

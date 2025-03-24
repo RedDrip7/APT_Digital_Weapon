@@ -23,3 +23,9 @@
 |[7c9d13cbdc0dd1a6efd3a3b17ad9d022](https://www.virustotal.com/gui/file/7c9d13cbdc0dd1a6efd3a3b17ad9d022)|ZIP||2023-09-06 08:26:57|481-5412-09.rar|
 |[28ad6cb8e64a5fbba779c0b5a58c3148](https://www.virustotal.com/gui/file/28ad6cb8e64a5fbba779c0b5a58c3148)|TXT||2023-08-04 12:37:24|Libraries.vbs|
 |[b705e5332cc50b9619d2d71dccf04f88](https://www.virustotal.com/gui/file/b705e5332cc50b9619d2d71dccf04f88)|DOCX||2023-08-04 12:37:24|Return.docx|
+|[b1db24ddf30dd22f39a0dd754544db34](https://www.virustotal.com/gui/file/b1db24ddf30dd22f39a0dd754544db34)|TXT||2024-12-28 00:30:25|payload_1.vbs|
+|[92cbb147159f3a6225a3580046591d37](https://www.virustotal.com/gui/file/92cbb147159f3a6225a3580046591d37)|ZIP||2024-12-12 09:07:59| |
+|[f73ab22c63de6bbc08a8ddc1edf11270](https://www.virustotal.com/gui/file/f73ab22c63de6bbc08a8ddc1edf11270)|Win32 EXE||2024-11-21 08:47:28|316-1759-24.rar|
+|[34c68108eb2e381112ae0dfaba0c80c3](https://www.virustotal.com/gui/file/34c68108eb2e381112ae0dfaba0c80c3)|HTML|sLoad|2024-11-14 09:13:32|316-1759-24.hta|
+|[e55118b29430970476d743c3993a143e](https://www.virustotal.com/gui/file/e55118b29430970476d743c3993a143e)|Win32 EXE||2024-11-14 09:09:36|316-1759-24.rar|
+|[b21d0df863af16c39348238409e8bd9d](https://www.virustotal.com/gui/file/b21d0df863af16c39348238409e8bd9d)|ZIP|sLoad|2024-11-14 09:09:16|316-1759-24.rar|

@@ -127,3 +127,37 @@
 |[eade8e280b5c372989a520e49b4a1aab](https://www.virustotal.com/gui/file/eade8e280b5c372989a520e49b4a1aab)|Win32 EXE|dynamer|2016-08-18 13:55:43| |
 |[710caf14c1417fe866ce084864c11b04](https://www.virustotal.com/gui/file/710caf14c1417fe866ce084864c11b04)|Win32 EXE|Wacatac|2016-08-17 18:51:17|file000_rr.exe|
 |[985797eb1a75f297359bf52aa7c27715](https://www.virustotal.com/gui/file/985797eb1a75f297359bf52aa7c27715)|TXT||2019-06-19 19:56:18|rr28x5ZY.txt|
+|[e9de35d757bed503c56f38cd96eeeb48](https://www.virustotal.com/gui/file/e9de35d757bed503c56f38cd96eeeb48)|Win32 EXE||2023-08-27 18:49:55| |
+|[bbba68c261ba84199ee24c73632c79ff](https://www.virustotal.com/gui/file/bbba68c261ba84199ee24c73632c79ff)|Win32 EXE||2023-08-26 17:54:28| |
+|[e3cd7162c5b332a6f89d2df5106daa02](https://www.virustotal.com/gui/file/e3cd7162c5b332a6f89d2df5106daa02)|Win32 EXE||2023-08-11 08:01:39|84414381|
+|[d3d15b2920adcadbb529a3c9f9ae4193](https://www.virustotal.com/gui/file/d3d15b2920adcadbb529a3c9f9ae4193)|Win32 EXE||2022-07-26 10:30:38|163077221|
+|[0b04eac4cf97ad257cd40782bffc215a](https://www.virustotal.com/gui/file/0b04eac4cf97ad257cd40782bffc215a)|Win32 EXE||2022-07-26 07:54:46|163077221|
+|[64ea276bb3bf0042196d781a4c14a9f9](https://www.virustotal.com/gui/file/64ea276bb3bf0042196d781a4c14a9f9)|Win32 EXE||2022-07-26 07:03:08|163077221|
+|[9313d10f5763ad2ed6d02521d5514552](https://www.virustotal.com/gui/file/9313d10f5763ad2ed6d02521d5514552)|Win32 EXE||2022-07-26 03:34:02|163077221|
+|[5f74b2571072cf1fd31c82deecd6b4f5](https://www.virustotal.com/gui/file/5f74b2571072cf1fd31c82deecd6b4f5)|Win32 EXE||2022-07-26 03:26:30|163077221|
+|[d2a89d42019015933c49ae615a55c527](https://www.virustotal.com/gui/file/d2a89d42019015933c49ae615a55c527)|Win32 EXE||2021-04-11 21:32:49|84414381|
+|[cbe1a7d5000e368257f82c7d282149cf](https://www.virustotal.com/gui/file/cbe1a7d5000e368257f82c7d282149cf)|Win32 EXE||2021-04-06 08:44:20|84414381|
+|[4df1046d8e00830f768fdf0379e029a2](https://www.virustotal.com/gui/file/4df1046d8e00830f768fdf0379e029a2)|Win32 EXE||2021-04-06 08:34:54|84414381|
+|[fac2da539256a6a432af1fed6a18a467](https://www.virustotal.com/gui/file/fac2da539256a6a432af1fed6a18a467)|Win32 EXE||2021-04-06 07:51:18|84414381|
+|[b3e616ffeb1b333ceac7f8a835337055](https://www.virustotal.com/gui/file/b3e616ffeb1b333ceac7f8a835337055)|Win32 EXE||2021-04-06 07:38:53|84414381|
+|[daaadaa1683f0c31d2f72cb9f743a084](https://www.virustotal.com/gui/file/daaadaa1683f0c31d2f72cb9f743a084)|Win32 EXE||2021-04-04 12:51:22|84414381|
+|[49ac2bae632aa33967c989f6187a6ab2](https://www.virustotal.com/gui/file/49ac2bae632aa33967c989f6187a6ab2)|Win32 EXE|Shelma|2020-10-19 18:04:44|dttcodexgigas.7148d11a19320b5b2f391b8bb589ecd479abf606|
+|[7d410a1890c411b326c1a02953a70b6b](https://www.virustotal.com/gui/file/7d410a1890c411b326c1a02953a70b6b)|Win32 EXE|DarkKomet|2020-09-06 20:24:24| |
+|[3ecb42a45853434d5cd731709ba2c581](https://www.virustotal.com/gui/file/3ecb42a45853434d5cd731709ba2c581)|Win32 EXE|DarkKomet|2019-11-03 05:49:04|C:\Users\<USER>\AppData\Local\Temp\bd891.tmp|
+|[2faa9e46ce9ee8cb75b5ed79db1eabea](https://www.virustotal.com/gui/file/2faa9e46ce9ee8cb75b5ed79db1eabea)|Win32 EXE||2018-03-25 18:35:06|final.exe|
+|[681c8ca31e47fca0bd4210b15137d545](https://www.virustotal.com/gui/file/681c8ca31e47fca0bd4210b15137d545)|Win32 DLL||2018-03-05 23:06:47|681c8ca31e47fca0bd4210b15137d545|
+|[7d8e7b7100ab78a1cc389d3ffce45b4d](https://www.virustotal.com/gui/file/7d8e7b7100ab78a1cc389d3ffce45b4d)|Win32 DLL|Shelma|2017-09-21 12:56:47|wtf3.dll|
+|[9e895ed2564433a97e158765f1320ccc](https://www.virustotal.com/gui/file/9e895ed2564433a97e158765f1320ccc)|Win32 DLL||2017-02-22 09:27:32|dll_x86_connect_norandhash.dll|
+|[82f9c629aea290a207639699e5d9157f](https://www.virustotal.com/gui/file/82f9c629aea290a207639699e5d9157f)|Win32 DLL||2017-02-05 23:17:22|82f9c629aea290a207639699e5d9157f.virus|
+|[32ac2f451efc7bc82a61255d81f76993](https://www.virustotal.com/gui/file/32ac2f451efc7bc82a61255d81f76993)|Win32 EXE||2017-01-13 19:01:54|riokay_troyan.exe|
+|[c8773a7bb69b6e0410603890dece2d39](https://www.virustotal.com/gui/file/c8773a7bb69b6e0410603890dece2d39)|Win32 DLL||2016-12-15 07:23:32|test.dll|
+|[8d1ae4eba8f3e76580c7aab82da68aee](https://www.virustotal.com/gui/file/8d1ae4eba8f3e76580c7aab82da68aee)|Win32 EXE||2016-09-16 19:12:54|Wextract|
+|[2d74df536e48bc394ca4601d703f895d](https://www.virustotal.com/gui/file/2d74df536e48bc394ca4601d703f895d)|Win64 EXE|Shelma|2016-08-29 09:46:38|install_test.exe|
+|[0180a8d21f021994d8d35b50e087220d](https://www.virustotal.com/gui/file/0180a8d21f021994d8d35b50e087220d)|Win32 DLL||2016-08-26 21:23:33|0180a8d21f021994d8d35b50e087220d.virus|
+|[2e77aff95ed9ca1cac82daf4780b23f9](https://www.virustotal.com/gui/file/2e77aff95ed9ca1cac82daf4780b23f9)|Win32 EXE||2016-08-01 21:54:57|realdeal_ep1.exe|
+|[f6fe890c51433d7d3b192d2f6107f09f](https://www.virustotal.com/gui/file/f6fe890c51433d7d3b192d2f6107f09f)|Win32 DLL||2015-12-02 21:21:46|pupyx86.dll|
+|[b1685175dd2088392355e18c4b88bcc2](https://www.virustotal.com/gui/file/b1685175dd2088392355e18c4b88bcc2)|Win64 EXE|Shelma|2015-12-02 21:21:45|pupyx64.exe|
+|[1be607ff911c6870eabe8daa80037678](https://www.virustotal.com/gui/file/1be607ff911c6870eabe8daa80037678)|Win64 DLL||2015-12-02 21:21:45|pupyx64.dll|
+|[96ead5be5d783312c9a7638eada90cd0](https://www.virustotal.com/gui/file/96ead5be5d783312c9a7638eada90cd0)|Win32 EXE||2015-09-23 22:39:36|pupyx86.exe|
+|[dcda997b5f757dbfdb0f4b1bd5204a78](https://www.virustotal.com/gui/file/dcda997b5f757dbfdb0f4b1bd5204a78)|Win64 EXE||2015-09-23 03:17:11|pupyx64.exe|
+|[37f52a2a2c7100c9e138e53bb60b5739](https://www.virustotal.com/gui/file/37f52a2a2c7100c9e138e53bb60b5739)|Win64 EXE||2015-09-23 00:56:37|runme.exe|

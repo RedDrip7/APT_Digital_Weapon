@@ -444,3 +444,14 @@
 |[4a2b8954695b32322508e844ff7e74f5](https://www.virustotal.com/gui/file/4a2b8954695b32322508e844ff7e74f5)|Win32 EXE|WellMess|2018-04-11 09:01:41|conhost.exe|
 |[05b5cf94f07fee666eb086c91182ad25](https://www.virustotal.com/gui/file/05b5cf94f07fee666eb086c91182ad25)|PPSX||2015-04-06 08:49:54|athirappalli.pps|
 |[3b07dd54568a2058bb30db6d9a0915dc](https://www.virustotal.com/gui/file/3b07dd54568a2058bb30db6d9a0915dc)|ELF executable|WellMess|2020-05-13 04:02:41|ls_patched_2|
+|[7d1919aee1a8f0c5b5ba9128de7620cf](https://www.virustotal.com/gui/file/7d1919aee1a8f0c5b5ba9128de7620cf)|TXT||2024-11-13 10:39:24|AWS Secure Data Exchange - Compliance Check.rdp|
+|[f2d9cd2f7655df13ca09136ee42d3d9e](https://www.virustotal.com/gui/file/f2d9cd2f7655df13ca09136ee42d3d9e)|Win64 EXE|WellMess|2022-11-24 03:04:50| |
+|[8139cfab1d31ad7d56990903f040e4b6](https://www.virustotal.com/gui/file/8139cfab1d31ad7d56990903f040e4b6)|Win64 EXE|WellMess|2022-09-08 16:36:46| |
+|[56008ff4e60b857078151a82468ba88a](https://www.virustotal.com/gui/file/56008ff4e60b857078151a82468ba88a)|Win64 EXE|WellMess|2022-09-07 10:53:18| |
+|[5c54a4f299fadbb9077171b3955b0a80](https://www.virustotal.com/gui/file/5c54a4f299fadbb9077171b3955b0a80)|Win64 EXE|WellMess|2022-07-27 09:12:42|4c8671411da91eb5967f408c2a6ff6baf25ff7c40c65ff45ee33b352a711bf9c_sig_replaced|
+|[bba21e51698306b59a391fa551d95c22](https://www.virustotal.com/gui/file/bba21e51698306b59a391fa551d95c22)|Win64 EXE|WellMess|2022-03-22 04:01:22|bba21e51698306b59a391fa551d95c22.virus|
+|[d58963e86e542c5a607f6d2d1dc13f85](https://www.virustotal.com/gui/file/d58963e86e542c5a607f6d2d1dc13f85)|Win64 EXE|Ryuk|2021-09-29 04:07:03| |
+|[66b933a074f97f548582789a55c54258](https://www.virustotal.com/gui/file/66b933a074f97f548582789a55c54258)|Win64 EXE|WellMess|2021-04-16 10:45:41|mschkdsk.exe1|
+|[53dc4ed7d67a80a1719721ef49434727](https://www.virustotal.com/gui/file/53dc4ed7d67a80a1719721ef49434727)|Win32 EXE|WellMess|2021-03-31 04:34:51|paddedMalware/FilteredMalwarePadded/VirusShare_f759a9dc4c563fd56e9f543c985525fe|
+|[f1fde39260e8383d66831358387bd1d2](https://www.virustotal.com/gui/file/f1fde39260e8383d66831358387bd1d2)|ELF executable|WellMess|2020-08-28 15:00:10|07f9076bf3499974883f4344fdaf51b2261b20d992b069378c4d16f4bfc93af6_unpacked|
+|[372e80e5ddeed901410ff856bfdae69b](https://www.virustotal.com/gui/file/372e80e5ddeed901410ff856bfdae69b)|Win32 DLL||2020-08-11 08:48:55|x643.System.Activities.Core.Presentation.dll|

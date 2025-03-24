@@ -31,3 +31,12 @@
 |[ee59e06d7edcef48ebfac168ce2db8a6](https://www.virustotal.com/gui/file/ee59e06d7edcef48ebfac168ce2db8a6)|FPX||2020-10-08 16:19:55|kgcons.msi|
 |[cac7bed64b23b0e14156aea1d518b36f](https://www.virustotal.com/gui/file/cac7bed64b23b0e14156aea1d518b36f)|XLS||2020-10-08 10:28:17|Question_2.xls|
 |[ddc9961ac57563ab27599e9128a52883](https://www.virustotal.com/gui/file/ddc9961ac57563ab27599e9128a52883)|TXT||2020-08-07 04:34:58|C:\Users\user\AppData\Local\Temp\sxn3sr0p.ele\malware-samples-master\2020-08-DivineLeverage\msi-ahk|
+|[5540887322a811f20a799dc538d37851](https://www.virustotal.com/gui/file/5540887322a811f20a799dc538d37851)|Win32 DLL||2025-02-02 01:54:24|svhost.dll|
+|[37c476607c827f7be0dded81ef9d7a88](https://www.virustotal.com/gui/file/37c476607c827f7be0dded81ef9d7a88)|Win32 DLL||2025-02-01 01:50:19|svhost.dll|
+|[f9ac5106a6952a3ae314cdbc7161f91d](https://www.virustotal.com/gui/file/f9ac5106a6952a3ae314cdbc7161f91d)|Win32 DLL||2025-01-22 17:20:25|Dwnldr.dll|
+|[299ab262423eb104fe0054c33052afee](https://www.virustotal.com/gui/file/299ab262423eb104fe0054c33052afee)|XLSX||2025-01-22 17:15:32|C:\Users\user\AppData\Roaming\Microsoft\temp.xlsx|
+|[bb991dafdd848f8b335a301fc965f467](https://www.virustotal.com/gui/file/bb991dafdd848f8b335a301fc965f467)|XLS|EmoDldr|2025-01-22 17:11:12| |
+|[2961fae8eb492830f1c7c5dfdd927128](https://www.virustotal.com/gui/file/2961fae8eb492830f1c7c5dfdd927128)|Win32 DLL||2024-12-26 14:52:58|Dwnldr.dll|
+|[2a9e7045c3173241310424ea54303db7](https://www.virustotal.com/gui/file/2a9e7045c3173241310424ea54303db7)|XLS||2024-12-26 14:46:02|Донесення 5 реч - зразок.xls|
+|[28d29cfa53fd09badefc90527ff96eef](https://www.virustotal.com/gui/file/28d29cfa53fd09badefc90527ff96eef)|Win32 DLL||2024-12-16 22:24:19|Dwnldr.dll|
+|[9594b0aaff838029a8569ab3ef0d6b81](https://www.virustotal.com/gui/file/9594b0aaff838029a8569ab3ef0d6b81)|XLS|corona|2024-12-16 22:17:17|Zrazok.xls|

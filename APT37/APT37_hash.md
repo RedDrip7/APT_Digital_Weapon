@@ -146,3 +146,12 @@
 |[f5cae9fcc8bad42b3dddb71ce68dbd92](https://www.virustotal.com/gui/file/f5cae9fcc8bad42b3dddb71ce68dbd92)|JPEG||2017-05-23 13:37:51|f5cae9fcc8bad42b3dddb71ce68dbd92.virus|
 |[f7a63c88deedc11b8601ce5ace962bbe](https://www.virustotal.com/gui/file/f7a63c88deedc11b8601ce5ace962bbe)|Win32 DLL||2023-03-16 01:29:43|MFCDLL|
 |[f6292a25ab8a391cb6cbcc13f8959f95](https://www.virustotal.com/gui/file/f6292a25ab8a391cb6cbcc13f8959f95)|Win32 DLL||2023-02-19 05:42:49|f6292a25ab8a391cb6cbcc13f8959f95.virus|
+|[05c7d37411bd128dca9a2795a8fb7425](https://www.virustotal.com/gui/file/05c7d37411bd128dca9a2795a8fb7425)|LNK||2025-03-03 21:25:54|/scratch/zoo/2025/03/03/05c7d37411bd128dca9a2795a8fb7425|
+|[37392aa19d394bb36afeb7c615af2952](https://www.virustotal.com/gui/file/37392aa19d394bb36afeb7c615af2952)|LNK||2025-03-03 21:25:28|/scratch/zoo/2025/03/03/37392aa19d394bb36afeb7c615af2952|
+|[03b22e4cc944de00feda7120ebea572c](https://www.virustotal.com/gui/file/03b22e4cc944de00feda7120ebea572c)|Android||2025-02-07 16:19:06|kospy-samples/b0c0f38551a119d0b633c1b65e61b493574ed7083e3e003c83aa19dff7a0524b.apk|
+|[bc4bcc29f12d40952c679e45a3df6a16](https://www.virustotal.com/gui/file/bc4bcc29f12d40952c679e45a3df6a16)|Android||2025-02-07 16:18:47|kospy-samples/0374615eeca4eaa4a9d97c0de82b7e36b0c60cd40332b61c86fa0b29f7712115.apk|
+|[aae7595fbb6534c389652da871b9fd17](https://www.virustotal.com/gui/file/aae7595fbb6534c389652da871b9fd17)|Win32 EXE|Doina|2024-12-28 05:48:59|rokrat|
+|[ed825fe83c096ca29754c6b4e7e98384](https://www.virustotal.com/gui/file/ed825fe83c096ca29754c6b4e7e98384)|TXT||2024-12-06 00:26:42|C:\Users\user\AppData\Local\Temp\oppo.dat|
+|[2fa8f5f95577db335e649d5361c845b0](https://www.virustotal.com/gui/file/2fa8f5f95577db335e649d5361c845b0)|LNK||2024-12-06 00:20:50|김국성강의자료.lnk|
+|[48be43c4ed4d921a3d83f7c7082f0102](https://www.virustotal.com/gui/file/48be43c4ed4d921a3d83f7c7082f0102)|TXT||2024-12-02 04:57:15|elephant.dat|
+|[936888d84b33f152d39ec539f5ce71aa](https://www.virustotal.com/gui/file/936888d84b33f152d39ec539f5ce71aa)|ZIP||2024-11-04 14:47:20|양식.zip|

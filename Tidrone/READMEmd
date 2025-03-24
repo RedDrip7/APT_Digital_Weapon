@@ -1,0 +1,10 @@
+**NAME:**
+Tidrone
+
+
+**Description**:
+The earliest attack activities of this APT group can be traced back to 2024. The source is unknown, and the attack activities mainly target Taiwan’s military industry, drone targets, etc. It deploys CXCLNT and CLNTEND malicious codes through the ERP system
+
+
+**References**:
+https://www.trendmicro.com/en_us/research/24/i/tidrone-targets-military-and-satellite-industries-in-taiwan.html
